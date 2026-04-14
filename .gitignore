@@ -1,0 +1,17 @@
+.env
+.claude/
+.codex
+
+__pycache__/
+*.py[cod]
+
+cache/
+models/
+
+results/snapshots/
+results/*.png
+results/*.jpg
+results/*.jpeg
+results/*.html
+
+foursquare_NYC/
