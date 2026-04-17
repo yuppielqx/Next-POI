@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2526",
+  "ranked_loc_ids": [
+    4895,
+    2820,
+    2818,
+    3762,
+    3354,
+    2978,
+    565,
+    2088,
+    1235,
+    3013
+  ],
+  "explanations": {
+    "4895": "It is the strongest time-matched repeat stop in the Midtown cluster and fits the user’s common noon-to-2pm pattern after a morning Actors' Equity check-in.",
+    "2820": "The user is already there, and same-location continuation is very plausible only a few hours after the last check-in.",
+    "2818": "This is a frequent habitual stop nearby and matches the user’s repeated gym-plus-follow-up pattern in Midtown.",
+    "3762": "A nearby theater with solid noon-to-2pm history, aligning with the user’s theater-centered Midtown routine.",
+    "3354": "This close performing arts venue fits the user’s arts/workout cluster and is only a short move east in Midtown.",
+    "2978": "It is extremely close to the current location and consistent with the user’s theater-heavy behavior, though less historically anchored than the top options.",
+    "565": "A nearby theater hub that fits the user’s Midtown entertainment pattern and could follow an Actors' Equity stop.",
+    "2088": "Very close by in the same Times Square area, making it a plausible short eastward continuation.",
+    "1235": "A common nearby Midtown anchor that could fit an errand, meeting, or transition stop in the same cluster.",
+    "3013": "A nearby casual venue in the theater district that could plausibly serve as a midday break or meet-up spot."
+  },
+  "fallback": false
+}

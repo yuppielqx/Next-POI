@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1619",
+  "ranked_loc_ids": [
+    788,
+    790,
+    603,
+    43,
+    390,
+    4032,
+    4104,
+    626,
+    362,
+    114
+  ],
+  "explanations": {
+    "788": "A cocktail bar in SoHo matches the user’s strong evening nightlife preference and the current downtown outing context.",
+    "790": "Very close to the last known SoHo location and consistent with the user’s nearby downtown evening wandering.",
+    "603": "This is the user’s dominant repeated nighttime venue, making a return plausible despite the Brooklyn distance.",
+    "43": "A prior SoHo visit and immediate proximity make this a reasonable nearby stop on a Friday evening.",
+    "390": "Similar users and the time prior favor a SoHo dining/nightlife destination close to the current location.",
+    "4032": "A known past venue within the user’s downtown corridor, fitting a late-evening social move in Lower Manhattan.",
+    "4104": "The user has event-space behavior in Manhattan, and this remains within a plausible southwesterly trip.",
+    "626": "A Manhattan entertainment option that fits evening activity, though it is less aligned than SoHo nightlife.",
+    "362": "Recurrent historical visits make it possible, but the time and context favor nightlife over convention attendance.",
+    "114": "A transit move is possible during a south-westward trip, but it is less likely than a nightlife stop."
+  },
+  "fallback": false
+}

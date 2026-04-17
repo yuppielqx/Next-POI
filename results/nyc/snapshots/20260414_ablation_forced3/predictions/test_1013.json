@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1013",
+  "ranked_loc_ids": [
+    4183,
+    663,
+    927,
+    134,
+    769,
+    3817,
+    1263,
+    4188,
+    4185,
+    4184
+  ],
+  "explanations": {
+    "4183": "It is the strongest historical Thursday morning anchor, with repeated 6–8am visits and the best match to the user’s commuter routine.",
+    "663": "This is the clearest routine destination in the profile and a likely morning school-bound stop after an overnight return.",
+    "927": "The user heavily relies on western Queens transit nodes, and this station fits the morning commute corridor.",
+    "134": "This major transfer hub aligns with the user’s transit-heavy movement between Queens and Manhattan.",
+    "769": "Queensboro Plaza is a recurring connector in the user’s western Queens commuting pattern.",
+    "3817": "The user often moves along the Midtown East/Upper East Side subway spine, making this a plausible next station.",
+    "1263": "This is another likely Manhattan transit point for a commuter moving north-west from 77th St.",
+    "4188": "Convenience stops near Long Island City fit the user’s practical, school-day travel behavior.",
+    "4185": "Staying near the last known area is possible briefly, though the morning commute pattern makes this less likely than transit toward Queens.",
+    "4184": "A routine grocery/convenience-style stop is plausible for a structured weekday traveler, but it is weaker than the transit and school anchors."
+  },
+  "fallback": false
+}

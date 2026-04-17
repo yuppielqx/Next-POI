@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_503",
+  "ranked_loc_ids": [
+    482,
+    2797,
+    4067,
+    3714,
+    493,
+    2789,
+    568,
+    1049,
+    3718,
+    3715
+  ],
+  "explanations": {
+    "482": "Strongest time-conditioned match for a Sunday late-morning food stop, and it is the closest previously visited venue in the user’s usual Manhattan corridor.",
+    "2797": "It is the current location and the most natural immediate next step if the user lingers for a late-morning meal after a night out.",
+    "4067": "A near-identical nearby food option that fits the user’s lower Manhattan movement and a casual Sunday brunch/lunch pattern.",
+    "3714": "This nearby restaurant matches the target-time shift toward daytime dining better than nightlife venues.",
+    "493": "A previously visited restaurant in the same local corridor, making it a plausible repeat food stop after the user’s southward drift.",
+    "2789": "It is the user’s strongest habitual repeat venue overall, though the morning time makes a return less likely than food-focused options.",
+    "568": "The user has a history of occasional daytime leisure stops, and this fits the non-nightlife Sunday prior.",
+    "1049": "Extremely close to the last location and consistent with the user’s nightlife habits, but the morning timing lowers its probability.",
+    "3718": "A nearby bar that matches the social profile and geographic drift, though it is less time-appropriate than restaurants.",
+    "3715": "A nearby nightlife spot that fits the user’s late-night preference, but it is weakest against the strong morning temporal prior."
+  },
+  "fallback": false
+}

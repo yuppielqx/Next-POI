@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_897",
+  "ranked_loc_ids": [
+    1592,
+    1602,
+    1284,
+    1552,
+    1560,
+    2844,
+    1565,
+    997,
+    1252
+  ],
+  "explanations": {
+    "1592": "It is the current anchor location and the closest continuation of the user’s midday Manhattan business/retail trajectory.",
+    "1602": "The user has already visited this nearby office-related stop today, so a quick return remains plausible.",
+    "1284": "Very close to the last known point and a natural nearby errand stop in Midtown.",
+    "1552": "Similar users at this hour often shift to a casual café stop, and it is directly adjacent.",
+    "1560": "A nearby restaurant fits the evening-time transition from office/retail activity to food.",
+    "2844": "A close dining option that matches the likely short-range Manhattan move.",
+    "1565": "Another nearby quick meal choice consistent with movement south-west.",
+    "997": "The user’s history includes road/transit-heavy movement, making a transit-oriented relocation possible.",
+    "1252": "A historically relevant transit/bridge-related location, but much less likely than nearby Midtown options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_231",
+  "ranked_loc_ids": [
+    1584,
+    1484,
+    917,
+    1403,
+    1553,
+    1567,
+    590,
+    1579,
+    605
+  ],
+  "explanations": {
+    "1584": "The user has a very strong morning routine at this exact Equinox location, and the target time strongly favors a return to a familiar gym.",
+    "1484": "Another highly recurrent Equinox option in the nearby Midtown/Flatiron corridor, matching the user’s dominant fitness pattern and morning-slot behavior.",
+    "917": "The user frequently pairs workouts with morning coffee, and this nearby Starbucks fits the routine-driven post-gym or pre-work stop pattern.",
+    "1403": "This 23rd Street Starbucks aligns closely with the user’s Flatiron/23rd Street activity cluster and common morning coffee transitions.",
+    "1553": "The user’s profile shows repeated gym visits in the morning window, making another nearby fitness stop a plausible next check-in.",
+    "1567": "This is a classic morning follow-up location for the user’s workout-and-coffee loop in Midtown East/NoMad.",
+    "590": "The exact 9 E 19th St Equinox is one of the strongest same-time-slot matches from history and fits the return-to-frequent-place pattern.",
+    "1579": "This Flatiron-area sandwich spot is consistent with a mid-morning food stop after a gym visit and is close to the user’s regular corridor.",
+    "605": "Although less likely in the morning, the short-distance neighborhood match and the user’s occasional nightlife/social pattern keep it in the mix."
+  },
+  "fallback": false
+}

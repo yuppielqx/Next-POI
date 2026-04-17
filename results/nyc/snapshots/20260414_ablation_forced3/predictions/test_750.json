@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_750",
+  "ranked_loc_ids": [
+    3556,
+    3557,
+    3558,
+    3561,
+    668,
+    1471,
+    366,
+    3567,
+    3566
+  ],
+  "explanations": {
+    "3556": "The user’s strongest recurring pattern is a weekday return to their Midtown coworking space, and this is the most likely next stop after a nearby lunch.",
+    "3557": "This is a dominant lunchtime venue in their history, and the 14:35 afternoon prior still fits a quick post-lunch return in Midtown.",
+    "3558": "Another frequent Midtown food stop tied to their routine, making it a plausible nearby continuation after lunch.",
+    "3561": "They have repeated noon-time visits here, and it matches the user’s fast-casual lunch corridor very well.",
+    "668": "Chipotle appears multiple times in their workday lunch pattern and is geographically aligned with their Midtown routine.",
+    "1471": "The user is already here at the last timestamp, so a lingering return or continued stay is possible despite the lack of prior visits.",
+    "366": "The user has visited this event venue before and it remains in their broader Manhattan activity range, though it is less likely on a Saturday afternoon.",
+    "3567": "This is a plausible nearby leisure stop given the afternoon timing and their occasional recreational excursions in Manhattan.",
+    "3566": "Theater visits fit their occasional entertainment outings, and the Theater District is still within their broader Midtown pattern."
+  },
+  "fallback": false
+}

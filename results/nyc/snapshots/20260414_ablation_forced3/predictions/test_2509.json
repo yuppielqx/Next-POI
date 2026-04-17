@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2509",
+  "ranked_loc_ids": [
+    137,
+    1092,
+    3951,
+    918,
+    1653,
+    1619,
+    5208,
+    962,
+    4674,
+    116
+  ],
+  "explanations": {
+    "137": "It is the user’s dominant weekday anchor and they were last seen there this morning, making a midday return or continued stay most likely.",
+    "1092": "It is immediately adjacent to Location 137 in the Penn Station/Midtown corridor and fits a transit-adjacent workday movement.",
+    "3951": "The user’s routine is heavily commute-oriented, so a nearby subway hub is a plausible midday touchpoint.",
+    "918": "A quick coffee stop near Penn Station fits a typical workday break around 12:59 p.m.",
+    "1653": "This nearby café matches a lunch-time errand pattern in the user’s Midtown work area.",
+    "1619": "A Penn Station diner is a reasonable midday meal destination for a commuter staying in the area.",
+    "5208": "A close lunch option in the same Midtown cluster is consistent with a workday meal break.",
+    "962": "A nearby lunch spot near Penn Station is plausible for a midday food stop.",
+    "4674": "Fast food near the user’s current location could easily serve as a quick lunch destination.",
+    "116": "Although less likely at midday, it is the other major endpoint in the user’s repetitive commuting pattern."
+  },
+  "fallback": false
+}

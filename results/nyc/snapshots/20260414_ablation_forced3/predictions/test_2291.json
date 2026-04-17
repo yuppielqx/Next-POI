@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2291",
+  "ranked_loc_ids": [
+    3161,
+    422,
+    5589,
+    1025,
+    2496,
+    476,
+    212,
+    3173,
+    5557,
+    1116
+  ],
+  "explanations": {
+    "3161": "It is immediately adjacent to the last location and matches the user's late-night nightlife pattern in Williamsburg/Greenpoint.",
+    "422": "A nearby lounge fits the user's repeated evening social stops and the short continuation after dinner.",
+    "5589": "This is a strong late-night nightclub option in the same Brooklyn corridor, consistent with the Saturday night prior.",
+    "1025": "A nearby dive bar aligns with the user's nightlife behavior and likely post-pizzeria stop.",
+    "2496": "Very close and historically frequent, though less likely this late at night than a bar.",
+    "476": "Proximity and past use make it plausible, but the time strongly favors an indoor nightlife venue.",
+    "212": "Right by the last stop and a plausible casual follow-on nearby, though less aligned than cocktail/bar options.",
+    "3173": "A nightlife venue that fits the user's style, but it requires a larger move than the Brooklyn options.",
+    "5557": "Another nightlife spot favored by the profile, yet it is farther from the current Williamsburg cluster.",
+    "1116": "A known evening venue for the user, but the Manhattan jump is less likely than staying in Williamsburg/Greenpoint."
+  },
+  "fallback": false
+}

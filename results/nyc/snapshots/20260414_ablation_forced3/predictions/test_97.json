@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_97",
+  "ranked_loc_ids": [
+    751,
+    757,
+    28,
+    754,
+    92,
+    758,
+    761,
+    762,
+    760,
+    87
+  ],
+  "explanations": {
+    "751": "It is the user’s strongest recurring anchor and the most likely Sunday morning return point in their Upper West Side routine.",
+    "757": "It is the last known location and sits exactly in the user’s tight neighborhood loop of library and errand stops.",
+    "28": "The user has a repeated morning pattern there, making a nearby Sunday-morning transition very plausible.",
+    "754": "This matches the user’s Sunday outdoor tendency and fits the northwest movement from Riverside Library.",
+    "92": "Grocery runs are a common part of this user’s pattern, and it is close enough for a short neighborhood trip.",
+    "758": "The user frequently stays in the Riverside corridor, and this is a natural next leisure stop nearby.",
+    "761": "A nearby riverside café aligns with the user’s routine of combining park and food-related visits.",
+    "762": "This is another close Upper West Side grocery stop that fits their errand-oriented daytime behavior.",
+    "760": "It is very close to the current area and could follow a morning library stop as a quick food visit.",
+    "87": "This nearby home store is less central than the top choices but still fits the user’s practical neighborhood movement."
+  },
+  "fallback": false
+}

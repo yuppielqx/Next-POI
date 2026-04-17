@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_135",
+  "ranked_loc_ids": [
+    1043,
+    994,
+    486,
+    1015,
+    996,
+    1023,
+    67,
+    716,
+    1049,
+    993
+  ],
+  "explanations": {
+    "1043": "It is immediately adjacent to the last known location and fits the southwest drift while keeping the user in the same SoHo/NoHo area.",
+    "994": "A nearby food stop is plausible after the noon event-space visit, especially given the user’s strong leisure and dining pattern.",
+    "486": "This is a repeated afternoon social venue for the user and matches the Lower East Side time-and-neighborhood prior well.",
+    "1015": "The user has multiple afternoon visits here, and it remains a very plausible nearby stop in the LES/NoHo corridor.",
+    "996": "A casual East Village diner fits a Sunday afternoon transition from event space to food/drink.",
+    "1023": "This nearby restaurant aligns with the suggested afternoon-to-evening outing and the user’s social dining behavior.",
+    "67": "A common midday-to-afternoon public-space choice that fits the south-west movement trend.",
+    "716": "A practical nearby grocery stop is possible around this time, especially for an in-between Sunday errand.",
+    "1049": "The user’s nightlife-heavy profile makes a music venue plausible, though it is less likely than the closer LES repeats.",
+    "993": "A Brooklyn bar is consistent with the user’s nightlife habits, but the distance and afternoon timing make it less likely than Manhattan options."
+  },
+  "fallback": false
+}

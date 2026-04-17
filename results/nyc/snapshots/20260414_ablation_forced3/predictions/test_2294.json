@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2294",
+  "ranked_loc_ids": [
+    4510,
+    345,
+    491,
+    3175,
+    3164,
+    1812,
+    338,
+    207,
+    244,
+    1600
+  ],
+  "explanations": {
+    "4510": "The strong Monday morning anchor in the user’s history makes a return to their Brooklyn medical routine the most likely jump.",
+    "345": "It is the closest plausible prior Manhattan stop and aligns with the user’s recent westward movement pattern.",
+    "491": "As a nearby upscale lunch-oriented restaurant, it fits a Monday daytime transition after a Sunday evening out.",
+    "3175": "This immediately adjacent steakhouse is a highly plausible continuation of the current Manhattan cluster.",
+    "3164": "The user was just here last night, so a brief revisit remains possible despite the weekday reset trend.",
+    "1812": "A nearby daytime dining option that matches the user’s food-driven Manhattan behavior.",
+    "338": "The user has visited before and it fits their recurring Flatiron food circuit.",
+    "207": "This nearby food option matches the user’s frequent casual dining and daytime movement pattern.",
+    "244": "A convenient midday food stop consistent with the user’s Manhattan lunch behavior.",
+    "1600": "The user’s repeated preference for Mexican restaurants keeps this as a reasonable alternative if they stay in Manhattan."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_923",
+  "ranked_loc_ids": [
+    1895,
+    1030,
+    3983,
+    3982,
+    1911,
+    3981,
+    2495,
+    1937,
+    217,
+    3980
+  ],
+  "explanations": {
+    "1895": "The target time of 04:29 on Saturday matches this user’s strongest habitual late-night food stop, with repeated 3–5 a.m. Saturday visits.",
+    "1030": "This is another core nightlife anchor in the user’s history and a frequent Saturday destination, making it the main alternative to M Noodle Shop.",
+    "3983": "A recurring Brooklyn bar in the same nightlife corridor, it fits the user’s bar-hopping pattern after a late evening out.",
+    "3982": "The user has visited this venue before and it aligns well with the late-night Williamsburg bar circuit.",
+    "1911": "As a nightclub in Brooklyn, it matches the user’s nightlife-oriented behavior and the overnight timing.",
+    "3981": "This music venue fits the user’s entertainment-heavy nighttime routine and nearby Brooklyn geography.",
+    "2495": "Another nightlife spot in North Brooklyn, it is plausible for a post-midnight continuation of the outing.",
+    "1937": "The user sometimes mixes nightlife with arts venues, so this nearby Brooklyn stop is a reasonable lower-probability option.",
+    "217": "Late-night food behavior makes a pizza stop possible after the nightclub, though it is less historically dominant than M Noodle Shop.",
+    "3980": "This has some Saturday history, but its café category makes it less likely than the bars and late-night food venues."
+  },
+  "fallback": false
+}

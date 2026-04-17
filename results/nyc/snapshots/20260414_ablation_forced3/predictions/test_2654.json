@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2654",
+  "ranked_loc_ids": [
+    5746,
+    2330,
+    949,
+    1275,
+    1526,
+    585,
+    3873,
+    1831,
+    1528,
+    4626
+  ],
+  "explanations": {
+    "5746": "This is one of the user’s strongest repeat venues and fits the Sunday afternoon café pattern in Chelsea.",
+    "2330": "A highly frequented nearby restaurant that matches the user’s lunch-to-dinner downtown dining rhythm.",
+    "949": "Very close to the last known area and strongly aligned with the user’s café-heavy Chelsea/Meatpacking behavior.",
+    "1275": "A plausible afternoon coffee stop within the user’s downtown Manhattan comfort zone.",
+    "1526": "It is adjacent to the last location, so a short continuation within the same dining cluster is likely.",
+    "585": "Right next to the current spot and consistent with a same-neighborhood restaurant hop.",
+    "3873": "A nearby coffee option that fits the user’s habitual café visits after a restaurant stop.",
+    "1831": "The user often mixes social outings with cultural stops, and this nearby arts venue fits that pattern.",
+    "1528": "Late afternoon into evening could plausibly transition to nightlife, especially on a Sunday.",
+    "4626": "Another nearby downtown restaurant that fits the user’s varied but compact neighborhood-hopping style."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_726",
+  "ranked_loc_ids": [
+    236,
+    3507,
+    567,
+    142,
+    1078,
+    1806,
+    4388,
+    546,
+    28,
+    274
+  ],
+  "explanations": {
+    "236": "It matches the strong Sunday morning religious routine, with two prior Sunday visits and the target time falling exactly in that pattern.",
+    "3507": "This is a major weekday anchor with multiple visits, and the morning timing fits the user’s established work schedule.",
+    "567": "The user has repeated Midtown retail behavior, and Herald Square fits their established daytime Manhattan errand pattern.",
+    "142": "The northwest movement and Lincoln Square proximity make this a plausible transit step after the last known location.",
+    "1078": "Similar users and the nearby Lincoln Square context suggest a short morning coffee stop is plausible.",
+    "1806": "A nearby sandwich place that fits the user’s daytime errand/food pattern and could follow the cinema area.",
+    "4388": "As a nearby transit node, it is a likely connector if the user is moving away from Lincoln Square.",
+    "546": "A nearby grocery stop is consistent with a Sunday morning errand before or after church.",
+    "28": "It is exactly at the last known area, though the overnight timing makes an immediate return less likely.",
+    "274": "This matches the user’s Midtown leisure pattern, but it is less likely than the church and transit-related options."
+  },
+  "fallback": false
+}

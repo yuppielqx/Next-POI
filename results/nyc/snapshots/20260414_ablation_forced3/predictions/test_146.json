@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_146",
+  "ranked_loc_ids": [
+    1144,
+    443,
+    732,
+    1147,
+    1157,
+    108,
+    1154,
+    1153,
+    731,
+    1163
+  ],
+  "explanations": {
+    "1144": "This is the strongest habitual anchor in the user’s history and is also the last known location, making a same-day return most likely.",
+    "443": "The user repeatedly visits this corridor in the evening, and the target time matches their 6–8pm entertainment pattern.",
+    "732": "A frequent diner stop that fits the user’s food-oriented evening mobility and Hudson County routine.",
+    "1147": "A recurring nightlife venue in Hoboken that matches the user’s late-day bar pattern.",
+    "1157": "The user has strong evening affinity for bars, and this Hoboken sports-bar stop fits the nightlife cluster.",
+    "108": "A PATH station is plausible for routine cross-river movement between the user’s anchored areas and evening destinations.",
+    "1154": "Journal Square PATH Station fits the commuter-like, transit-linked movement style seen in the user’s history.",
+    "1153": "Another Hoboken bar consistent with the user’s social evening outings and corridor-based habits.",
+    "731": "This burger-and-bar spot matches the user’s recurring casual dining and nightlife preferences.",
+    "1163": "A diner in the same general North Bergen/Hoboken corridor, fitting the user’s routine food-oriented evening travel."
+  },
+  "fallback": false
+}

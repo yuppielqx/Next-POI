@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2013",
+  "ranked_loc_ids": [
+    3793,
+    519,
+    5329,
+    1212,
+    1832,
+    1271,
+    1283,
+    568,
+    4935,
+    1193
+  ],
+  "explanations": {
+    "3793": "The user’s strongest anchor is Bally, and the immediate prior check-in was there only two hours earlier during a daytime routine.",
+    "519": "It is extremely close to the last location and fits the user’s recurring morning retail pattern in Herald Square.",
+    "5329": "A nearby practical café stop is plausible after a gym visit, matching the user’s midday errand-and-food behavior.",
+    "1212": "This is another very nearby clothing retailer in the same Midtown South shopping corridor the user frequents.",
+    "1832": "Close by and consistent with the user’s Manhattan shopping/errand itinerary around 32nd–38th Street.",
+    "1271": "A nearby department store that fits the user’s shopping-heavy movement style in the Herald Square area.",
+    "1283": "A practical errand stop in the same corridor, consistent with the user’s daytime, task-oriented pattern.",
+    "568": "An entertainment stop near the current area is possible, though less likely than errands or shopping.",
+    "4935": "A daytime café visit is plausible given the user’s practical food-stop behavior and the nearby Midtown location.",
+    "1193": "A familiar user-history retail destination that could follow a gym stop, though it is farther than the closest Herald Square options."
+  },
+  "fallback": false
+}

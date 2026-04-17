@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_829",
+  "ranked_loc_ids": [
+    3720,
+    3719,
+    110,
+    3723,
+    137,
+    116,
+    3416,
+    3725,
+    2599,
+    664
+  ],
+  "explanations": {
+    "3720": "The user’s strongest weekday morning pattern is a repeated return to this office around the 8 AM commute window.",
+    "3719": "Their core routine often begins with an early-morning rail departure from Floral Park into Manhattan.",
+    "110": "This nearby transit stop fits a continued Midtown commute pattern after a gym stop.",
+    "3723": "A frequent nearby breakfast/lunch stop in the user’s established Midtown corridor.",
+    "137": "Penn Station is a plausible transit link for a commuter moving through Manhattan in the morning.",
+    "116": "Jamaica is a common transfer point in the user’s commute chain from Queens to Midtown.",
+    "3416": "A nearby deli/bodega fits the user’s short, routine meal-stop behavior near work.",
+    "3725": "The user has recent gym activity and tends to stay within the same Midtown area.",
+    "2599": "A nearby coffee stop is plausible for a routine weekday morning before or after the office.",
+    "664": "Another close Midtown breakfast option that matches the user’s commuter pattern."
+  },
+  "fallback": false
+}

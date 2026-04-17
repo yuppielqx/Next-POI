@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_702",
+  "ranked_loc_ids": [
+    2217,
+    3443,
+    2302,
+    213,
+    1598,
+    2084,
+    356,
+    1600,
+    1170,
+    3250
+  ],
+  "explanations": {
+    "2217": "The user has a very strong Friday-evening history at this exact workplace, and the last known location was also VaynerMedia HQ earlier the same day.",
+    "3443": "This is a frequent nearby transit node for the user and fits a plausible Friday evening commute or departure from the office area.",
+    "2302": "A nearby after-work BBQ spot in the user’s core Flatiron/Midtown East cluster, matching the Friday social pattern.",
+    "213": "The user has visited this nearby bar before, and Friday evening is a strong time for an after-work drink.",
+    "1598": "This sports bar is close to the workplace and aligns with the user’s occasional Friday nightlife behavior.",
+    "2084": "A nearby bar within the same Manhattan cluster, making it a plausible post-work stop.",
+    "356": "This nearby food venue fits a short walk for dinner near the office and matches the compact movement pattern.",
+    "1600": "A very close nearby restaurant that suits an evening meal after work in the same area.",
+    "1170": "This nearby American restaurant is consistent with a Friday evening dinner choice around the work corridor.",
+    "3250": "A nearby lounge with nightlife appeal, plausible for a Friday evening outing while staying in the same area."
+  },
+  "fallback": false
+}

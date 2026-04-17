@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_855",
+  "ranked_loc_ids": [
+    274,
+    955,
+    1380,
+    59,
+    53,
+    3686,
+    1098,
+    75,
+    626,
+    1613
+  ],
+  "explanations": {
+    "274": "The user is already at Bryant Park and the target time is only four minutes later, making it the most likely immediate next stay.",
+    "955": "This is an adjacent Bryant Park-area leisure spot that fits a short nearby move without leaving Midtown.",
+    "1380": "It is extremely close to the last location and matches a quick morning food stop in the Bryant Park cluster.",
+    "59": "A nearby northwestern move toward a major commercial hub is plausible given the movement trend and morning urban activity.",
+    "53": "Penn Station is a realistic next transit-oriented stop for a commuter-like morning transition from Bryant Park.",
+    "3686": "The user frequently uses subway stations and this nearby station fits a short morning transit move.",
+    "1098": "A café stop near Midtown aligns well with the user’s coffee-and-transit pattern around late morning and early morning.",
+    "75": "This nearby retail destination fits the Midtown commercial pattern and the user’s occasional shopping behavior.",
+    "626": "A theater is less likely at 08:25, but the user’s entertainment-heavy profile keeps it in the broader set of possibilities.",
+    "1613": "A bookstore is consistent with the time-conditioned preference for nearby morning retail/café-type venues around Bryant Park."
+  },
+  "fallback": false
+}

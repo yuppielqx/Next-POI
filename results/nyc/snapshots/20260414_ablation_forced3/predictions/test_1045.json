@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1045",
+  "ranked_loc_ids": [
+    563,
+    2608,
+    2236,
+    577,
+    1474,
+    248,
+    1844,
+    4243,
+    3830,
+    4247
+  ],
+  "explanations": {
+    "563": "The user’s strongest Upper West Side anchor and the morning Thanksgiving timing make a nearby grocery run the best fit.",
+    "2608": "A morning coffee stop on Amsterdam Avenue closely matches the user’s established neighborhood routine.",
+    "2236": "This is another nearby Upper West Side food stop that fits a casual morning errand pattern.",
+    "577": "A pharmacy run is plausible in the same residential corridor, especially after an overnight reset.",
+    "1474": "It is very close geographically and on-brand for the user, though the morning time makes a bar less likely.",
+    "248": "The user sometimes makes daytime neighborhood moves, and this nearby outdoor option fits a pre-holiday morning.",
+    "1844": "A casual nearby dining destination is consistent with the user’s Upper West Side base behavior.",
+    "4243": "The user favors nightlife venues, but the morning prior makes this only a secondary possibility.",
+    "3830": "A repeated nightlife anchor for the user, though far less likely in the morning than a neighborhood errand.",
+    "4247": "The current overnight location could persist briefly, but it is less consistent with the user’s usual next-move pattern."
+  },
+  "fallback": false
+}

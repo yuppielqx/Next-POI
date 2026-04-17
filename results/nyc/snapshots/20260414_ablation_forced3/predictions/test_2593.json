@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2593",
+  "ranked_loc_ids": [
+    2514,
+    4955,
+    5128,
+    2728,
+    2308,
+    27,
+    2029,
+    2435,
+    2492,
+    4245
+  ],
+  "explanations": {
+    "2514": "It is the closest nearby bar to the last known location and fits the user’s strong Sunday-evening pattern of continuing to another nightlife spot in the West Village/Chelsea corridor.",
+    "4955": "This is another very nearby downtown nightlife option, and the user often favors short hops between familiar social venues in the evening.",
+    "5128": "A close Greenwich Village restaurant/bar choice that matches the after-work, pre-late-night dining-and-drinks pattern.",
+    "2728": "The short distance and Sunday evening timing make a nearby entertainment venue plausible as a continuation of the outing.",
+    "2308": "A same-location revisit is possible because the user frequently stays clustered around a small set of downtown venues during evening outings.",
+    "27": "It fits the user’s bar-heavy profile and has a strong history of 6–8 p.m. visits, making it a natural next stop after dinner/drinks.",
+    "2029": "Although less likely at this hour, it is one of the user’s strongest anchors and remains geographically close enough to be a plausible move.",
+    "2435": "This nearby restaurant fits the dinner-hour context and the user’s tendency to move through Chelsea/West Village food spots.",
+    "2492": "Another nearby Meatpacking District restaurant that could follow the current westward movement trend.",
+    "4245": "A nearby nightlife venue that aligns with the user’s evening activity pattern and Manhattan clustering."
+  },
+  "fallback": false
+}

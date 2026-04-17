@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2609",
+  "ranked_loc_ids": [
+    5721,
+    252,
+    67,
+    879,
+    41,
+    728,
+    2499,
+    3033,
+    97
+  ],
+  "explanations": {
+    "5721": "This is the user's dominant weekday morning anchor with the strongest Friday and 8 a.m. recurrence, making a return here by far the most likely next stop.",
+    "252": "A nearby coffee stop that fits the morning routine and the eastward movement pattern, especially if the user grabs coffee before settling in.",
+    "67": "A frequent nearby destination that could follow a work arrival for a short break or errand in the Union Square area.",
+    "879": "A nearby open public space that matches the user's central Manhattan clustering and occasional short neighborhood detours.",
+    "41": "Another close coffee option that fits a morning workday pattern in the Flatiron/Union Square corridor.",
+    "728": "A recurring errand-like stop in the same area that can appear during daytime routines, though less likely this early.",
+    "2499": "A nearby professional venue in the same corridor that is consistent with the user's work-centered movement.",
+    "3033": "A close local restaurant that fits a short neighborhood chain, though it is less aligned with the strong morning workplace anchor.",
+    "97": "Very close to the last location and part of the user's nightlife/social pattern, but far less likely than morning-oriented destinations."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1855",
+  "ranked_loc_ids": [
+    1235,
+    59,
+    97,
+    1776,
+    560,
+    4893,
+    362,
+    4815,
+    5255,
+    1146
+  ],
+  "explanations": {
+    "1235": "This is the strongest frequent return venue in the user’s Midtown routine and fits the 14:00 time slot and nearby-corridor movement pattern.",
+    "59": "It is highly recurrent at noon-to-2pm and very likely as the next Midtown stop after Lillie’s.",
+    "97": "The user often makes short compact bursts, so a brief continued stay or immediate return at the same venue is plausible.",
+    "1776": "It is a top historical destination for the user at this time of day, though it is a bit farther from the last location.",
+    "560": "It is close to the current Midtown cluster and fits a quick lunch-time stop in the same corridor.",
+    "4893": "This is a plausible nearby business-hotel follow-up within the user’s frequent Midtown afternoon pattern.",
+    "362": "It matches the user’s event-space tendency, but it is less directly tied to the immediate Union Square-to-Midtown sequence.",
+    "4815": "The user visits this frequently at lunch hours, but the distance from the last stop makes it less likely next.",
+    "5255": "It fits the user’s noon-to-2pm bank pattern, yet it is more of a secondary uptown routine than the main current trajectory.",
+    "1146": "The racetrack category appears in the history, but it is much less central than the Midtown lunch-and-lounge venues."
+  },
+  "fallback": false
+}

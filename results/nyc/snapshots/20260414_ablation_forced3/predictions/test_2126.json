@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2126",
+  "ranked_loc_ids": [
+    5033,
+    1990,
+    206,
+    969,
+    1296,
+    1916,
+    3326,
+    1278,
+    67,
+    648
+  ],
+  "explanations": {
+    "5033": "A nearby food stop fits the very short next move after Starbucks and the user’s habit of quick utilitarian errands in this corridor.",
+    "1990": "The user may linger or re-enter the same café during this compact afternoon shopping sequence, especially at zero distance.",
+    "206": "A sandwich place is a plausible nearby lunch/snack continuation and matches the user’s frequent food-and-errand pattern.",
+    "969": "Another café right next door is consistent with a short, local beverage stop around the Broadway/NoHo fringe.",
+    "1296": "Transit access is a strong option if the user is shifting to the next block or preparing to leave the area.",
+    "1916": "A nearby Urban Outfitters fits the user’s proven retail preference and similar-user retail-to-retail movement.",
+    "3326": "This adjacent shop aligns with the current shopping corridor and the user’s tendency toward compact retail browsing.",
+    "1278": "A close-by specialty store is feasible for a short errand while staying in the same neighborhood.",
+    "67": "The user sometimes moves to nearby public spaces, and Union Square is a reasonable short south-west drift.",
+    "648": "A quick casual meal stop remains plausible, but it is less likely than the closer Broadway-adjacent options."
+  },
+  "fallback": false
+}

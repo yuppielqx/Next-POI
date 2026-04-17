@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1606",
+  "ranked_loc_ids": [
+    558,
+    274,
+    4129,
+    4428,
+    3010,
+    59,
+    733,
+    64,
+    1263,
+    3055
+  ],
+  "explanations": {
+    "558": "It best matches the strong Midtown daytime prior and is a common nearby public-space stop after a Manhattan meal outing.",
+    "274": "This is a repeated user destination in Midtown and fits a weekday afternoon transition within the same central corridor.",
+    "4129": "The user frequently pairs food stops with practical Midtown errands, making a pharmacy visit very plausible here.",
+    "4428": "It is the closest matching nearby American restaurant and the user just came from a food stop, so a continued meal chain is likely.",
+    "3010": "This known BBQ spot aligns with the user’s food-heavy pattern and is still close enough to fit a Midtown outing sequence.",
+    "59": "The user has a history of central Manhattan leisure movement, and Times Square remains a plausible nearby daytime destination.",
+    "733": "A coffee stop fits the afternoon timing and the user’s habit of compact Midtown outing chains.",
+    "64": "The user’s Midtown shopping behavior makes a nearby retail stop credible, especially during an afternoon excursion.",
+    "1263": "A transit connection is plausible given the user’s movement across Manhattan and the current northeast trend.",
+    "3055": "A nearby clothing store fits the Midtown commercial corridor, though it is less likely than food or plaza destinations."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1561",
+  "ranked_loc_ids": [
+    4962,
+    4961,
+    52,
+    2868,
+    2134,
+    4477,
+    67,
+    1216,
+    390,
+    1116
+  ],
+  "explanations": {
+    "4962": "This is the strongest historical anchor, and the late-morning Tuesday timing matches the user’s repeated weekday return-to-work pattern.",
+    "4961": "The user often commutes from Fordham in the morning, so a Bronx transit stop remains a plausible next move if they are heading back home or reconnecting with that routine.",
+    "52": "The user frequently chains morning coffee or transitional stops around Union Square, making this a strong nearby daytime follow-up.",
+    "2868": "A common lunchtime-style destination in Midtown, fitting the user’s weekday movement from downtown/SoHo toward work-area dining.",
+    "2134": "Another likely short daytime stop for coffee or a transition between errands, especially given the morning time slot and urban mobility pattern.",
+    "4477": "The user has a history of casual dining stops, and this fits a late-morning meal break in the Union Square/Flatiron area.",
+    "67": "This is a recurring waypoint for the user and is close to the current downtown position, making it a plausible transitional stop.",
+    "1216": "A nearby professional-office destination aligns with the user’s weekday Manhattan routine and the strong morning temporal prior.",
+    "390": "Close to the last known location and consistent with a downtown daytime chain of coffee-to-food movement, though less aligned than work-related stops.",
+    "1116": "The user’s nightlife tendencies make this plausible later in the day, but it is less likely at 11:55 than the commuting and daytime options above."
+  },
+  "fallback": false
+}

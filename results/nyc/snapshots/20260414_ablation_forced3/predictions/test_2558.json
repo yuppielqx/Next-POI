@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2558",
+  "ranked_loc_ids": [
+    1776,
+    5578,
+    5704,
+    1176,
+    806,
+    2170,
+    3390,
+    79,
+    1349,
+    2843
+  ],
+  "explanations": {
+    "1776": "This is the strongest Monday morning work anchor in the user’s Lower Manhattan routine and fits the 10:19 time slot immediately after the Starbucks stop.",
+    "5578": "A nearby recurring coffee/work stop that commonly follows the Murray/Church Starbucks within the same morning circuit.",
+    "5704": "The user has a consistent after-work gym habit, but it is less likely than an office check-in at this morning time.",
+    "1176": "The user is already here, and repeated morning check-ins make a brief stay or return possible.",
+    "806": "Very close to the current location and plausible for a quick errand in the same Lower Manhattan area.",
+    "2170": "Another nearby coffee option that matches the user’s strong coffee-driven weekday pattern.",
+    "3390": "A realistic commuter transition point if the user is moving through the downtown core.",
+    "79": "A nearby dining option in the same area, though less aligned with a weekday morning routine.",
+    "1349": "Close enough spatially to be possible, but nightlife behavior is less likely at this time.",
+    "2843": "A nearby fitness venue that fits the user’s exercise pattern, though morning timing makes it secondary."
+  },
+  "fallback": false
+}

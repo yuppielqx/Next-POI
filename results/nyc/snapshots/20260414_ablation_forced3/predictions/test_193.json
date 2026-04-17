@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_193",
+  "ranked_loc_ids": [
+    1379,
+    1381,
+    1382,
+    1394,
+    145,
+    1387,
+    1386,
+    1391,
+    112,
+    563
+  ],
+  "explanations": {
+    "1379": "This is the user's strongest historical anchor, extremely close to the last CVS location, and the weekday afternoon timing fits a routine return or transfer.",
+    "1381": "It is the current last known location and the user has a strong local errand pattern around this exact spot.",
+    "1382": "Very close to the last location and consistent with the user's clustered Upper East Side errand behavior.",
+    "1394": "A nearby 96th Street stop that fits a short local chain after CVS and aligns with the user's frequent transit-adjacent routines.",
+    "145": "Another plausible nearby subway move within the same commute corridor, though less central than the 96th St anchor.",
+    "1387": "A nearby Upper East Side café/coffee stop that matches the user's occasional food-and-errand chaining.",
+    "1386": "A nearby grocery option that fits the user's tendency toward practical neighborhood stops.",
+    "1391": "Central Park - Turtle Pond is a plausible local leisure detour within the user's Upper East Side radius.",
+    "112": "Another 96th Street transit option, but historically weaker than the 6 train station.",
+    "563": "It matches the user's grocery pattern but is farther away and less aligned with the immediate post-CVS local movement."
+  },
+  "fallback": false
+}

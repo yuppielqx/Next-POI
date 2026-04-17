@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_14",
+  "ranked_loc_ids": [
+    145,
+    112,
+    740,
+    1612,
+    3820,
+    120,
+    129,
+    88,
+    59,
+    114
+  ],
+  "explanations": {
+    "145": "The user has just been there, and their strongest pattern is short-range repetition within the same transit corridor late at night.",
+    "112": "It is the nearest plausible subway move northward in Manhattan and fits the observed corridor-style transit behavior.",
+    "740": "Very close to the last location and a common short transition for a transit-oriented user in the late evening.",
+    "1612": "Also adjacent to the last station, making it a likely quick errand stop before continuing travel.",
+    "3820": "The nearby GameStop-like POI is within walking distance and could be a brief retail detour off the subway route.",
+    "120": "This is one of the user’s frequent anchor stations and fits their tendency to revisit major subway nodes.",
+    "129": "A familiar Upper Manhattan transit stop that aligns with the user’s northward/Manhattan corridor usage.",
+    "88": "A major transportation hub in Manhattan that matches the user’s transit-heavy profile and evening mobility.",
+    "59": "Another central transit-linked Manhattan destination that can occur in late-evening movement chains.",
+    "114": "Strong historical use makes it a viable next hub, though it requires a less likely larger jump than the closer Manhattan options."
+  },
+  "fallback": false
+}

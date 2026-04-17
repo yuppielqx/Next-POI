@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1718",
+  "ranked_loc_ids": [
+    3935,
+    4149,
+    1611,
+    1083,
+    5125,
+    3145,
+    1405,
+    45,
+    5123,
+    4852
+  ],
+  "explanations": {
+    "3935": "It is a very plausible nearby Upper East Side coffee stop after the cinema, matching the user's repeated Starbucks habit and eastward movement.",
+    "4149": "This is the user's strongest habitual anchor and a likely return-to-base destination for an evening coffee stop.",
+    "1611": "It is one of the user's most frequent lunch venues and is extremely close to the last location, making it a strong practical follow-up.",
+    "1083": "The user has a prior transition pattern to this nearby fast-casual spot, and it fits a casual post-cinema food stop.",
+    "5125": "A nearby Upper East Side Starbucks is highly compatible with the user's coffee-centered routine and current area.",
+    "3145": "This is another nearby Upper East Side Starbucks option, consistent with the user's repeated coffee-shop behavior.",
+    "1405": "It is very close to the cinema and fits a daytime-to-evening leisure errand pattern seen in similar users.",
+    "45": "Another Manhattan Starbucks option that matches the user's dominant category preference, though it is less directly tied to their core anchor.",
+    "5123": "This nearby casual food venue fits the user's occasional bakery/café behavior and could follow an evening outing.",
+    "4852": "The user has some nightlife tendency, and this nearby bar is a plausible evening destination after the movie."
+  },
+  "fallback": false
+}

@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1945",
+  "ranked_loc_ids": [
+    2044,
+    3424,
+    2049,
+    519,
+    965,
+    3127,
+    5329,
+    511,
+    144
+  ],
+  "explanations": {
+    "2044": "The user was just there four minutes ago, and the strongest short-horizon pattern is to remain at the same coffee stop during the commute.",
+    "3424": "A nearby practical errand stop right by Herald Square fits the user’s transit-and-routine behavior and requires almost no deviation.",
+    "2049": "A close-by breakfast/lunch option in the same corridor matches the user’s common food-stop pattern after coffee or transit.",
+    "519": "The user has occasional retail behavior around Herald Square, making this a plausible brief follow-up stop.",
+    "965": "Another nearby café is consistent with the user’s coffee-oriented morning behavior, though less likely than staying at Starbucks.",
+    "3127": "Penn Station-area retail is a reasonable nearby errand destination within the user’s Manhattan cluster.",
+    "5329": "This breakfast-oriented café fits the time of day and the user’s history of practical morning food stops.",
+    "511": "A bagel shop is a strong commuter-breakfast candidate, but it is a bit less aligned with the immediate location than closer options.",
+    "144": "Another transit-adjacent stop near the 34th Street corridor is plausible if the user continues moving through the station network."
+  },
+  "fallback": false
+}

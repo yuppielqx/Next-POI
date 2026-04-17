@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2095",
+  "ranked_loc_ids": [
+    1914,
+    5449,
+    4235,
+    2974,
+    88,
+    2128,
+    428,
+    5437,
+    876,
+    2529
+  ],
+  "explanations": {
+    "1914": "This is the strongest habitual breakfast stop in the user’s Monday morning Midtown corridor and is slightly more likely than a new venue after Hot And Crusty.",
+    "5449": "The user is already at this exact location and the last three check-ins suggest they may simply remain there or re-check in.",
+    "4235": "It is a very nearby, frequently used 6–8 a.m. convenience stop in the same West 42nd Street cluster.",
+    "2974": "This pharmacy is extremely close and repeatedly appears in the user’s morning routine around the same micro-area.",
+    "88": "The user’s commute pattern centers on this transit hub, making it a plausible immediate next move.",
+    "2128": "It is close to the current location and has some transition history in the same Port Authority area.",
+    "428": "The user often transitions to Hoboken in the morning, but the current stay-in-place pattern makes this less likely immediately.",
+    "5437": "This nearby café fits the same breakfast/coffee behavior and is within the user’s usual Manhattan corridor.",
+    "876": "Another nearby morning café in the same neighborhood, though with weaker history than the top options.",
+    "2529": "Very close and café-like, but with no prior history, making it a lower-probability adjacent stop."
+  },
+  "fallback": false
+}

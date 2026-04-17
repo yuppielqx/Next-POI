@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2378",
+  "ranked_loc_ids": [
+    3299,
+    2035,
+    2448,
+    2034,
+    4693,
+    3297,
+    11,
+    192,
+    3730
+  ],
+  "explanations": {
+    "3299": "The user’s strongest recurring late-night anchor is this pub, and the current trip plus westward movement makes a return most likely.",
+    "2035": "It is very close, fits the user’s nightlife-heavy West Village pattern, and is a common nearby social stop.",
+    "2448": "This nearby cocktail bar matches the late-night drinking rhythm and is a plausible westward continuation from Bayard’s.",
+    "2034": "A nearby nightlife spot in the same cluster, making it a natural next bar-hopping destination.",
+    "4693": "Another close West Village bar that fits the user’s pub-oriented nighttime behavior.",
+    "3297": "This nearby bar aligns with the user’s social nightlife pattern and is an easy short move west.",
+    "11": "A nearby diner can fit a late-night food stop after drinking, though it is less central to the user’s history.",
+    "192": "The user sometimes makes short downtown public-space stops, and it remains within their habitual area.",
+    "3730": "A return to dinner-related dining is possible, but the time and prior Bayard’s stop make it less likely than nightlife options."
+  },
+  "fallback": false
+}

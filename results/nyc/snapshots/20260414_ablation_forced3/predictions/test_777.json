@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_777",
+  "ranked_loc_ids": [
+    16,
+    188,
+    3637,
+    233,
+    2693,
+    1238,
+    3107,
+    1260,
+    59,
+    613
+  ],
+  "explanations": {
+    "16": "Strong historical preference for Central Park in the noon-to-afternoon window makes it the best return-to-frequent-place choice.",
+    "188": "This fits the user’s recurring exercise-oriented Central Park ecosystem and same-daytime recreational pattern.",
+    "3637": "The user repeatedly visits dog-park and outdoor recreation spots, and this stays within their core uptown corridor.",
+    "233": "A Central Park-adjacent park entry point matches their park-looping behavior and northern Manhattan movement.",
+    "2693": "A coffee stop in the Upper East Side fits a midday reset before or after outdoor activity.",
+    "1238": "The user often anchors in this neighborhood, making a nearby residential-commercial stop plausible.",
+    "3107": "A practical errand location in the Upper East Side corridor is consistent with their mixed leisure and utility pattern.",
+    "1260": "Union Square station is an extremely close transition option from the last known point, especially for a move to another Manhattan area.",
+    "59": "The user has visited Times Square in the same midday slot before, so a Midtown stop remains possible.",
+    "613": "Harlem is a recurring northern destination for the user and fits the observed north-westward movement trend."
+  },
+  "fallback": false
+}

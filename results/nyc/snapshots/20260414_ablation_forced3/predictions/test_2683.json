@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2683",
+  "ranked_loc_ids": [
+    5762,
+    3565,
+    4470,
+    58,
+    1064,
+    1446,
+    1026,
+    3901,
+    5763,
+    2083
+  ],
+  "explanations": {
+    "5762": "The user repeatedly returns to this Midtown East anchor after late-night outings, and the target time strongly favors a return to a familiar base.",
+    "3565": "This is a frequent user location and remains within the broader Midtown East routine zone, making it a plausible post-outing stop.",
+    "4470": "The user has a clear nightlife pattern and has visited this dive bar before, so another late-night bar visit is likely.",
+    "58": "Grand Central is part of the user’s recurring Midtown cluster and fits a nearby transit-oriented move after a westward night out.",
+    "1064": "A Midtown bar that matches the user’s bar-heavy late-night behavior and is close to the established anchor area.",
+    "1446": "This is another Midtown East drinking/dining spot that aligns well with the user’s usual social-night pattern.",
+    "1026": "A nearby Midtown Mexican restaurant that fits a late-night food or drink stop before heading home.",
+    "3901": "A reasonable Midtown dining option for a late-night Manhattan continuation, though less likely than bars or the home base.",
+    "5763": "The user has visited nightlife venues in this corridor before, and it fits the south-westward Manhattan movement trend.",
+    "2083": "Since this was the last known location, a short continued stay or immediate nearby return is possible even if less likely than a move to a frequent base."
+  },
+  "fallback": false
+}

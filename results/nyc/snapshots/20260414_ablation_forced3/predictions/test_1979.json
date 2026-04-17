@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1979",
+  "ranked_loc_ids": [
+    557,
+    131,
+    997,
+    4379,
+    5356,
+    176,
+    5357,
+    4976,
+    3871,
+    58
+  ],
+  "explanations": {
+    "557": "The user’s strongest recurring morning transition is from Location 131 toward the Lincoln Tunnel, matching the 06:46 commute pattern and southwest movement.",
+    "131": "This is the last known hub and has the highest repeat frequency in the early-morning commute window, so a brief revisit is very plausible.",
+    "997": "It is a nearby transportation artery consistent with short-range movement from the current location and commuter routing behavior.",
+    "4379": "The Roosevelt Island Tram is extremely close and another transit node, making it a plausible minor shift in the commuter corridor.",
+    "5356": "This nearby transit-related location fits the user’s habitual hub-to-hub movement without requiring a large detour.",
+    "176": "The user frequently uses major cross-river transportation hubs, and this bridge is a known part of their broader corridor.",
+    "5357": "Gas station stops are part of the user’s observed pattern, especially in the morning commute sequence after cross-river travel.",
+    "4976": "Another gas-station stop in the same New Jersey commuter corridor, consistent with the user’s habitual route.",
+    "3871": "This bus-station hub aligns with the user’s transport-focused mobility and the Fort Lee/bridge corridor.",
+    "58": "Similar users at this morning time often appear at commuter rail/transit hubs, and Grand Central is a plausible but less likely detour."
+  },
+  "fallback": false
+}

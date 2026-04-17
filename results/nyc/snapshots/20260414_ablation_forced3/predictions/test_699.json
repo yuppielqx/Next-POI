@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_699",
+  "ranked_loc_ids": [
+    1394,
+    3416,
+    3417,
+    3406,
+    3407,
+    3415,
+    3408,
+    3413,
+    66,
+    2044
+  ],
+  "explanations": {
+    "1394": "Strongest morning coffee routine match, with the user repeatedly visiting Starbucks in the 9–11am slot and likely returning to a familiar Midtown East stop.",
+    "3416": "This deli/bodega is heavily tied to the user’s Tuesday morning pattern and fits a quick breakfast or snack stop near their core corridor.",
+    "3417": "A highly consistent Tuesday morning bagel venue that matches the user’s breakfast-first behavior before moving on to daytime destinations.",
+    "3406": "Another frequent morning bagel stop in the same Midtown East/Murray Hill cluster, making it a strong next-check-in candidate.",
+    "3407": "The user often visits this café in the morning, and it aligns well with a coffee/breakfast revisit after the last Starbucks check-in.",
+    "3415": "A routine deli option in the user’s usual area, likely serving as a fast breakfast or lunch stop during a weekday morning outing.",
+    "3408": "This office-like Midtown destination fits the user’s commute/workday rhythm following a morning coffee stop.",
+    "3413": "A recurring institutional destination in the user’s morning pattern, consistent with a weekday routine in central Manhattan.",
+    "66": "The user has frequent morning check-ins here, and it remains a plausible nearby Midtown stop after coffee.",
+    "2044": "A Starbucks variant that matches the user’s coffee habit, though it is less historically aligned than the primary Starbucks location."
+  },
+  "fallback": false
+}

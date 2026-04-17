@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_404",
+  "ranked_loc_ids": [
+    2396,
+    733,
+    2398,
+    2401,
+    3795,
+    1214,
+    2402,
+    965,
+    617,
+    1092
+  ],
+  "explanations": {
+    "2396": "This is the user’s strongest repeated weekday anchor in Midtown East and best matches a return to their routine base.",
+    "733": "A nearby Midtown East coffee stop fits the user’s morning-oriented, structured daytime pattern.",
+    "2398": "The user has a history of targeted medical visits, and this Manhattan medical facility is consistent with that behavior.",
+    "2401": "Another prior medical destination that fits the user’s practical, appointment-driven travel style.",
+    "3795": "A coworking space in Midtown Manhattan is plausible for an afternoon weekday movement.",
+    "1214": "Similar users at this time were near transit hubs, and this station fits a commuter-style Manhattan move.",
+    "2402": "The last known location may still be relevant as a short-range continuation if the user remains in the same area.",
+    "965": "Late-afternoon coffee is consistent with the user’s occasional food-and-café stops in Manhattan.",
+    "617": "A nearby Midtown restaurant is plausible for a quick routine stop near the user’s current area.",
+    "1092": "Similar-user behavior around this time suggests central Manhattan event/transit activity, making this a lower-probability but possible destination."
+  },
+  "fallback": false
+}

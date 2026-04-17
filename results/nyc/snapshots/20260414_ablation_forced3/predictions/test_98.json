@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_98",
+  "ranked_loc_ids": [
+    751,
+    757,
+    28,
+    92,
+    754,
+    758,
+    761,
+    762,
+    760,
+    2280
+  ],
+  "explanations": {
+    "751": "This is the user’s strongest habitual anchor and is very close to the last point, making a quick return on the Upper West Side most likely.",
+    "757": "The user often makes afternoon/evening library stops in the same corridor, and this fits their routine-driven neighborhood pattern.",
+    "28": "A nearby Lincoln Square leisure stop is consistent with their cinema-oriented behavior and compact west-side movement.",
+    "92": "Grocery follow-ups are common in this user’s history, and this is a plausible post-Whole Foods continuation along Broadway.",
+    "754": "Their profile shows repeated park use in the Riverside corridor, especially as an evening leisure destination.",
+    "758": "A scenic west-side park visit matches both their spatial habits and the current south-west movement trend.",
+    "761": "This is another Riverside-adjacent routine stop that fits the user’s preference for nearby leisure and food-related places.",
+    "762": "The user has a clear grocery/gourmet shopping pattern, and this is a natural Upper West Side errand destination.",
+    "760": "A nearby restaurant is possible after the Whole Foods stop, though it is less central to their historical pattern than parks or stores.",
+    "2280": "A short continuation within the same neighborhood is plausible, but it is less specific than the user’s usual repeated anchors."
+  },
+  "fallback": false
+}

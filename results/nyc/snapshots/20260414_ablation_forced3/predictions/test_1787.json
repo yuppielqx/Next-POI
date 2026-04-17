@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1787",
+  "ranked_loc_ids": [
+    4876,
+    4381,
+    5177,
+    125,
+    4441,
+    1500,
+    1678,
+    4732,
+    3682,
+    3969
+  ],
+  "explanations": {
+    "4876": "This is the strongest historical anchor with the highest visit count and the clearest Thursday daytime pattern matching the 13:05 target.",
+    "4381": "A nearby Brooklyn transit hub fits a school-commute chain and is a plausible stop before or after campus.",
+    "5177": "The user frequently visits this bank in the same Brooklyn Heights corridor during late morning and midday hours.",
+    "125": "Jay St-MetroTech is a major Brooklyn station aligned with the user's recurring downtown Brooklyn transit route.",
+    "4441": "A nearby Brooklyn Heights errand spot that matches the daytime, school-adjacent mobility pattern.",
+    "1500": "La Bagel Delight on Court St is a small, routine-friendly food stop close to the campus corridor.",
+    "1678": "The current location is in Lower Manhattan, making a short move to Fulton Street station highly plausible.",
+    "4732": "This nearby deli/bodega is a realistic quick stop given the user's transit-oriented movement and proximity.",
+    "3682": "The user was last here and could linger or make another short nearby visit before returning to Brooklyn.",
+    "3969": "A nearby lunch option in Brooklyn Heights fits the midday timing, though it is less central than the school and transit anchors."
+  },
+  "fallback": false
+}

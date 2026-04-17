@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1528",
+  "ranked_loc_ids": [
+    4916,
+    4919,
+    4917,
+    4913,
+    4922,
+    1148,
+    88,
+    557,
+    5084,
+    5590
+  ],
+  "explanations": {
+    "4916": "The trajectory is moving northwest out of Midtown toward Rutherford, and this is the most likely habitual end-point of the commute.",
+    "4919": "Early-morning timing strongly matches this frequent breakfast stop near the user’s home area after an inbound commute.",
+    "4917": "A regular commuter could next pass through or arrive at this nearby transit hub on the way home.",
+    "4913": "This is the current route corridor and may still be part of the continued northbound commute before reaching home.",
+    "4922": "It is very close to the current location in Clifton, making it a plausible quick stop while transitioning off the route.",
+    "1148": "Nearby and consistent with an early-morning or post-commute pause, though less likely than home-oriented destinations.",
+    "88": "A highly frequent hub in the user’s pattern, but the current movement direction makes a return to Midtown less likely.",
+    "557": "Another core commuting node in the user’s routine, but it is more likely to have already been traversed than revisited next.",
+    "5084": "Proximity makes it possible as a morning coffee stop, but it has no prior visit history for this user.",
+    "5590": "Very close to the last location, yet it is a new spot and less supported by the user’s established routine."
+  },
+  "fallback": false
+}

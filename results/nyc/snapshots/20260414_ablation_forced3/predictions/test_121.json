@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_121",
+  "ranked_loc_ids": [
+    910,
+    918,
+    137,
+    3951,
+    917,
+    1619,
+    2195,
+    325,
+    1264,
+    4629
+  ],
+  "explanations": {
+    "910": "The user’s strongest pattern is a repeated weekday morning arrival at CNBC Headquarters around 8 a.m., making it the most likely next stop.",
+    "918": "This is the current location and a plausible brief lingering point before the commute continues.",
+    "137": "It is extremely close to the last known point and represents a nearby Penn Station/transport hub that fits the southwest movement trend.",
+    "3951": "A nearby transit option that matches a commuter moving through Penn Station in the morning.",
+    "917": "A coffee stop is consistent with the user’s morning routine and nearby Midtown behavior.",
+    "1619": "A typical Penn Station morning diner stop, though less aligned than coffee or office movement.",
+    "2195": "Very close to the last location and could be a quick errand or food stop in the Penn Station area.",
+    "325": "A nearby Midtown travel/hotel location that is plausible given the user’s movement corridor.",
+    "1264": "A common quick-stop errand location near Penn Station, though not strongly indicated by history.",
+    "4629": "A nearby dining option that fits the area but is less likely than commute-related destinations."
+  },
+  "fallback": false
+}

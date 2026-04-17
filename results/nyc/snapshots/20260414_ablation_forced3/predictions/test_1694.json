@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1694",
+  "ranked_loc_ids": [
+    3122,
+    3023,
+    2967,
+    647,
+    2442,
+    78,
+    3490,
+    289,
+    5095,
+    5097
+  ],
+  "explanations": {
+    "3122": "The last known check-in was here only 54 minutes earlier, and short-horizon predictions strongly favor staying at or near the current venue.",
+    "3023": "This is the user’s strongest recurring anchor and a common afternoon/evening destination, making it the likeliest nearby alternative if they move.",
+    "2967": "It is extremely close to the current location and fits the user’s frequent coffee-stop behavior around the afternoon.",
+    "647": "A nearby food/coffee-type stop that matches the user’s midday errand pattern and is just a short move from the last check-in.",
+    "2442": "This adjacent restaurant is a plausible immediate dining continuation given the current Chelsea/Flatiron dining context.",
+    "78": "A nearby shopping and dining hub that fits the user’s flexible afternoon leisure pattern and modest movement radius.",
+    "3490": "A nightlife-leaning venue that aligns with the user’s later-day social tendencies, though it is less immediate than nearby food stops.",
+    "289": "A habitual coffee location for this user, but it would require a more substantial move back downtown.",
+    "5095": "The user repeatedly pairs Canal Street coffee and grooming stops, but this Chinatown destination is less likely on such a short horizon.",
+    "5097": "Another strong habitual salon stop in the user’s Chinatown cluster, but it is less temporally and spatially immediate than the nearby options."
+  },
+  "fallback": false
+}

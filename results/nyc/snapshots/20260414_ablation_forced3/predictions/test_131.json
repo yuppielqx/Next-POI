@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_131",
+  "ranked_loc_ids": [
+    588,
+    977,
+    988,
+    60,
+    986,
+    985,
+    981,
+    3010,
+    956,
+    1724
+  ],
+  "explanations": {
+    "588": "Monday morning and the user’s strongest recurring routine both point to a return to this regular Chelsea/Flatiron workout anchor.",
+    "977": "It is very close to the last known point and fits the user’s fitness-oriented morning pattern as another nearby wellness stop.",
+    "988": "A nearby breakfast spot that matches the Monday morning timing and the user’s tendency to mix workouts with food stops.",
+    "60": "A convenient morning coffee stop near the current location, consistent with similar users and the user’s daytime routine.",
+    "986": "This café aligns with the user’s morning behavior and Manhattan coffee-break pattern, though it is farther than the nearest options.",
+    "985": "A breakfast/café choice that fits the time of day and the user’s history of Manhattan food visits.",
+    "981": "A plausible morning coffee destination based on the user’s café pattern, despite being less central to the current area.",
+    "3010": "Extremely close to the current position, but less consistent with the morning routine than gym or coffee options.",
+    "956": "A nearby sit-down restaurant that could follow a morning transition, but it is less likely than more routine-focused stops.",
+    "1724": "Very close and time-appropriate for the morning, but it is a weaker behavioral match than the user’s preferred gym or café destinations."
+  },
+  "fallback": false
+}

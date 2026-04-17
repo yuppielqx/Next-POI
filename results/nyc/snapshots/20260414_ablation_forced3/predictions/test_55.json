@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_55",
+  "ranked_loc_ids": [
+    430,
+    440,
+    429,
+    439,
+    443,
+    437,
+    428,
+    448,
+    431,
+    441
+  ],
+  "explanations": {
+    "430": "The user’s strongest anchor is the real estate office, and the next check-in is only 22 minutes later, making an immediate return or persistence there most likely.",
+    "440": "This is the closest habitual convenience stop to the office and fits the user’s repeated workday pattern of pairing Robert DeRuggiero with coffee.",
+    "429": "The user frequently combines the office with nearby errand stops, and Walgreens is a recurring short-radius destination in the same corridor.",
+    "439": "The user often moves within the Weehawken–Union City base area, and this nearby location matches the north-east continuation trend.",
+    "443": "A short move deeper into Union City is plausible given the corridor-based routine and the evening time slot.",
+    "437": "Evening food stops are consistent with the user’s post-6 PM behavior, and this Hoboken diner is a plausible nearby continuation.",
+    "428": "Coffee-shop visits are common in this user’s pattern, and this is a reasonable local follow-up after the office.",
+    "448": "Grocery errands are part of the user’s mixed work-and-errand routine, and this Hoboken store is within the broader preferred area.",
+    "431": "The user has weekend evening cinema behavior, so a movie stop is possible even though it is less likely than nearby errands.",
+    "441": "The user has shown occasional regional retail trips, but this is a less likely jump than a nearby neighborhood stop."
+  },
+  "fallback": false
+}

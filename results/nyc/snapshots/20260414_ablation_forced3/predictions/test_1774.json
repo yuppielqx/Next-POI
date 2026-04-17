@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1774",
+  "ranked_loc_ids": [
+    5170,
+    332,
+    235,
+    4971,
+    4997,
+    137,
+    62,
+    696,
+    1252,
+    63
+  ],
+  "explanations": {
+    "5170": "This is the strongest match to the user’s dominant weekday office commute pattern and the most likely midday return point.",
+    "332": "It is close to the primary office area and fits a short midday movement in the Flatiron/Union Square corridor.",
+    "235": "Another office-type location in Manhattan that aligns with a workday travel pattern, though it is less central than the main anchor.",
+    "4971": "A nearby office destination in Lower Manhattan that matches the user’s business-centered movement style.",
+    "4997": "This Financial District office building is plausible given the user’s repeated Manhattan workday routing.",
+    "137": "Similar users often transition through Penn Station around this time, making it a reasonable commuter-related possibility.",
+    "62": "The Brooklyn-Battery Tunnel is consistent with the user’s recurring infrastructure-focused travel across boroughs.",
+    "696": "The user frequently uses major tunnel infrastructure, so this remains a credible commute-related alternative.",
+    "1252": "The user is already here and has a strong transition history, so a short continuation or revisit is possible.",
+    "63": "This is a major recurring corridor in the user’s history, but it is less likely than an office return at the target time."
+  },
+  "fallback": false
+}

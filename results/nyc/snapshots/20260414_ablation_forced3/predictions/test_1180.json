@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1180",
+  "ranked_loc_ids": [
+    2672,
+    3297,
+    3989,
+    27,
+    4478,
+    2520,
+    3234,
+    590,
+    986,
+    1633
+  ],
+  "explanations": {
+    "2672": "Strong evening match for this user’s recurring nearby nightlife pattern and explicitly noted historical 19:33 behavior.",
+    "3297": "Another previously visited bar in the same lower Manhattan evening cluster, fitting a post-work social stop.",
+    "3989": "The user strongly anchors on Barry’s and an evening workout is plausible after an office day.",
+    "27": "A nearby whisky bar that matches the user’s occasional nighttime socializing and stays within the same corridor.",
+    "4478": "A nearby American restaurant fits the similar-user evening restaurant pattern and the user’s work-to-dinner transition.",
+    "2520": "A sports bar in the neighborhood is consistent with a Tuesday evening outing after leaving work.",
+    "3234": "A repeat nightlife venue in the user’s historical set, making it a credible return-to-frequent-place option.",
+    "590": "A gym visit remains plausible given the user’s fitness-first routine and same-day office-to-exercise rhythm.",
+    "986": "A nearby coffee stop is less likely at night but still fits the user’s established café pattern in the area.",
+    "1633": "Staying at the office is possible given the immediate prior location, though it is less likely than an evening transition."
+  },
+  "fallback": false
+}

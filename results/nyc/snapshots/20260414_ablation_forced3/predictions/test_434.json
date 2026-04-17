@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_434",
+  "ranked_loc_ids": [
+    2552,
+    1468,
+    810,
+    2551,
+    2198,
+    1495,
+    769,
+    2250,
+    3046,
+    1466
+  ],
+  "explanations": {
+    "2552": "It is the user's strongest weekday anchor and the current morning sequence has already placed them there, making a return or continued stay the most likely outcome.",
+    "1468": "Friday evening timing and the user's occasional social pattern make this nearby Astoria nightlife spot a plausible next stop.",
+    "810": "This is a close western Queens food option with prior repeat visits and fits an evening meal transition.",
+    "2551": "Despite being more typical in the morning, it is one of the user's most frequent venues and remains a strong habitual possibility.",
+    "2198": "Similar-user patterns point to this nearby Astoria diner as a common evening destination after work or school hours.",
+    "1495": "Another nearby coffee stop in the same neighborhood, though less established in the user's history than their main breakfast venue.",
+    "769": "Evening commuting patterns and similar-user transitions make this a realistic connector location in Queens.",
+    "2250": "A nearby burger joint could plausibly serve as a casual Friday-night food stop, though it has limited history evidence.",
+    "3046": "Similar-user movement suggests nearby errand behavior in Long Island City, but it is a weaker fit than the core routine places.",
+    "1466": "This nearby restaurant is consistent with a Friday evening outing, but there is little direct evidence tying the user to it."
+  },
+  "fallback": false
+}

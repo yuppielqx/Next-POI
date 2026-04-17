@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1161",
+  "ranked_loc_ids": [
+    1641,
+    68,
+    36,
+    4433,
+    4404,
+    4432,
+    2515,
+    2172,
+    4435
+  ],
+  "explanations": {
+    "1641": "This is the strongest habitual transit hub for the user and fits the evening return pattern from Midtown back toward southeast Brooklyn.",
+    "68": "The user has a frequent evening residential anchor here, making it a very plausible next stop after a Midtown subway station.",
+    "36": "A core Canarsie corridor station that matches the user’s repeated eastbound commute-back behavior.",
+    "4433": "Another heavily used L-line stop in the user’s southeast Brooklyn pattern, consistent with a homebound transit sequence.",
+    "4404": "It is the current Manhattan-area cluster’s most relevant non-transit stop and has strong weekday repeat behavior.",
+    "4432": "Very close to the last known Midtown location and historically visited on Wednesdays, though less likely in the evening.",
+    "2515": "A nearby food stop that fits an evening Manhattan pattern, but it is less consistent with the user’s dominant return-home trajectory.",
+    "2172": "A plausible Midtown transfer point if the user is continuing eastbound movement before heading back to Brooklyn.",
+    "4435": "A recurrent southeast Brooklyn dining option that could appear later in the night, though it is less likely than transit or residential stops."
+  },
+  "fallback": false
+}

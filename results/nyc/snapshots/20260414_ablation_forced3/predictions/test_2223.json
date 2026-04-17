@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2223",
+  "ranked_loc_ids": [
+    1312,
+    112,
+    1744,
+    1103,
+    162,
+    5527,
+    2306,
+    2119,
+    2579,
+    5528
+  ],
+  "explanations": {
+    "1312": "The user was last seen here and their pattern strongly favors returning to routine coffee stops on weekday afternoons.",
+    "112": "A nearby transit hub fits the user's transit-centered mobility and is a natural next move after a cafe stop on the Upper West Side.",
+    "1744": "Another immediate coffee option nearby, matching the user's recurring daytime food-and-caffeine behavior.",
+    "1103": "A close café aligns with the user's preference for casual daytime food and drink stops in this neighborhood.",
+    "162": "Grocery shopping is plausible for a weekday afternoon and this is a nearby routine destination.",
+    "5527": "The user's history shows heavy transit use, and this nearby bus stop fits a likely local movement pattern.",
+    "2306": "A nearby restaurant is plausible given the user's occasional food outings and afternoon timing.",
+    "2119": "The user's movement sometimes includes destination-oriented stops, and a gym visit is a reasonable neighborhood option.",
+    "2579": "Short-range neighborhood movement is likely if the user is simply transitioning between nearby errands or stops.",
+    "5528": "A nearby fitness venue is possible, though less likely than transit or coffee-related options."
+  },
+  "fallback": false
+}

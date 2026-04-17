@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1163",
+  "ranked_loc_ids": [
+    509,
+    507,
+    4447,
+    4446,
+    477,
+    4448,
+    4449,
+    1978,
+    4450,
+    1309
+  ],
+  "explanations": {
+    "509": "The user is already at this exact Columbia landmark and often chains nearby campus stops in short intervals.",
+    "507": "This is a frequent adjacent campus landmark and a very plausible immediate follow-up from Low Library.",
+    "4447": "The user has a strong pattern of moving along this same campus corridor between closely spaced check-ins.",
+    "4446": "A common Columbia academic stop within the same tight campus cluster and consistent with the user’s history.",
+    "477": "The broader campus is a natural next check-in given the user’s strong Columbia anchoring and same-area movement.",
+    "4448": "Another nearby Columbia academic building that fits the user’s daytime campus traversal pattern.",
+    "4449": "The user frequently pairs campus movement with coffee stops, and this is close enough to fit the current walk.",
+    "1978": "A nearby campus coffee shop that matches the user’s academic-day routine and local movement.",
+    "4450": "The user often visits this nearby outdoor spot from campus, especially in daytime and afternoon windows.",
+    "1309": "This is a recurring nearby landmark in the user’s Columbia-area orbit and is a plausible short excursion."
+  },
+  "fallback": false
+}

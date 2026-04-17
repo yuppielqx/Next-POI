@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_624",
+  "ranked_loc_ids": [
+    796,
+    181,
+    2527,
+    1562,
+    2604,
+    1730,
+    1583,
+    3217,
+    248,
+    759
+  ],
+  "explanations": {
+    "796": "The user is still at a nearby Equinox in the morning, and the strongest prior is a midday return to a frequent fitness node rather than a major relocation.",
+    "181": "This is the user’s most repeated Midtown gym cluster destination and fits the noon fitness/workday pattern extremely well.",
+    "2527": "Another highly probable gym return, especially given the user’s strong exercise routine and prior visits to this Equinox location.",
+    "1562": "A nearby Midtown gym that matches the midday workout pattern and the user’s fitness-heavy mobility profile.",
+    "2604": "A Midtown hotel stop is plausible after a morning gym session, especially within the Rockefeller Center/Plaza District corridor.",
+    "1730": "The user often chains fitness with nearby retail or food in Midtown, making Saks/5th Avenue a reasonable follow-up.",
+    "1583": "A lunch stop near the Midtown gym cluster is consistent with the user’s noon activity window and post-workout behavior.",
+    "3217": "A nearby lunch restaurant fits the user’s midday pattern and common gym-to-food chaining behavior.",
+    "248": "The user occasionally mixes fitness with park activity, and Central Park is close enough to fit a north-east move.",
+    "759": "The movement trend toward the north-east and the user’s fitness orientation make this nearby running-related office a low-probability but plausible stop."
+  },
+  "fallback": false
+}

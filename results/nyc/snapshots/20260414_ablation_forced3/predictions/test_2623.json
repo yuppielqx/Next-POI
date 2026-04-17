@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2623",
+  "ranked_loc_ids": [
+    3711,
+    2911,
+    4230,
+    4084,
+    899,
+    1519,
+    3246,
+    4255,
+    3544,
+    4469
+  ],
+  "explanations": {
+    "3711": "It is essentially at the last known location and fits the strong late-night bar-hopping pattern in the East Village/Lower East Side.",
+    "2911": "A very close nightlife spot that matches the user’s ongoing Sunday night bar sequence and nearby movement.",
+    "4230": "Another nearby bar in the same nightlife corridor, making it a plausible continuation after Welcome to the Johnsons.",
+    "4084": "This Bowery nightlife venue is close enough to fit a nearby change of bar while staying in the same late-night area.",
+    "899": "A nearby bar that fits the user’s weekend nightlife habits and south-westward drift.",
+    "1519": "Late-night food is consistent with the user profile, especially after hours in Lower Manhattan.",
+    "3246": "A nearby pub that aligns with the user’s bar-heavy overnight pattern on weekends.",
+    "4255": "This lounge is close and matches the user’s social nightlife behavior, though it is slightly less direct than the closest bars.",
+    "3544": "A nearby hookah/nightlife spot that fits the same East Village late-night ecosystem.",
+    "4469": "A nearby dessert stop is possible after nightlife, but it is less likely than the surrounding bars and pubs."
+  },
+  "fallback": false
+}

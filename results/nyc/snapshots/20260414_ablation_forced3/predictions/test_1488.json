@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1488",
+  "ranked_loc_ids": [
+    4783,
+    47,
+    2016,
+    4871,
+    950,
+    289,
+    4574,
+    952,
+    2097,
+    3490
+  ],
+  "explanations": {
+    "4783": "The target time is an early Thursday morning that matches the user's routine weekday anchor, and this is the most favored fixed destination in the time-conditioned prior.",
+    "47": "Macy's is the user's strongest recurring destination overall, so it remains the main Midtown alternative if they shift into their typical daytime shopping pattern.",
+    "2016": "Similar users at this time often move through metro stations, and the user has a Brooklyn transit pattern that can precede morning routine destinations.",
+    "4871": "The user has repeated gym visits in Brooklyn, and early morning is a plausible time for a workout-related stop on a weekday.",
+    "950": "This is the current nearby dessert-shop area, so a short continuation is possible even though a morning reset makes it less likely than routine anchors.",
+    "289": "A morning coffee stop fits the time window and the user’s commute-like behavior, especially after a late-night outing.",
+    "4574": "It is immediately adjacent to the last known location, making it a feasible nearby move if the user stays in the East Village area.",
+    "952": "Another very close nearby restaurant that could be visited if the user remains in the same neighborhood for breakfast or an early meal.",
+    "2097": "Although nightlife is less likely in the morning, the user has occasional social patterns and this remains within the broader area of their prior evening route.",
+    "3490": "This is a repeat nightlife venue for the user, but the early-morning target time makes it a low-probability continuation."
+  },
+  "fallback": false
+}

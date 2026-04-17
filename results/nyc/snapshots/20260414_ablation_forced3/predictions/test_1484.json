@@ -1,0 +1,24 @@
+{
+  "traj_id": "test_1484",
+  "ranked_loc_ids": [
+    1438,
+    1110,
+    2973,
+    4866,
+    1270,
+    3695,
+    252,
+    332
+  ],
+  "explanations": {
+    "1438": "The user’s strongest pattern is a Wednesday early-afternoon return to this gym, which fits the 13:28 timing and the routine fitness-centered behavior.",
+    "1110": "This grocery stop is a frequent midday companion activity in the same Chelsea/Flatiron area and is very close to the last location.",
+    "2973": "Another nearby grocery option with midday history, making it a plausible efficiency-driven errand after leaving Chelsea Court.",
+    "4866": "The user was last here and it is the most immediate continuation point if they are still at home or briefly returning.",
+    "1270": "A nearby food/errand stop in the same neighborhood, matching the user’s compact movement style around midday.",
+    "3695": "A close coffee stop that fits a midday transition between home, errands, and the gym.",
+    "252": "A nearby lunch-time café option that aligns with the afternoon timing and central Manhattan routine.",
+    "332": "A plausible nearby errand destination in the Chelsea/Union Square corridor, though less likely than the gym or grocery stores."
+  },
+  "fallback": false
+}

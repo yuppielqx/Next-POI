@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1379",
+  "ranked_loc_ids": [
+    1036,
+    1778,
+    629,
+    1341,
+    4245,
+    720,
+    20,
+    1578,
+    980,
+    3681
+  ],
+  "explanations": {
+    "1036": "Strongest historical anchor in the user’s late-night East Village nightlife pattern and the best match for a Friday 23:48 outing.",
+    "1778": "Repeated late-evening bar visits make this nearby Lower Manhattan nightlife spot a strong alternative.",
+    "629": "Frequent 9–11 p.m. visits and the user’s Brooklyn nightlife tendency keep this a plausible return.",
+    "1341": "As the Studio at Webster Hall, it closely matches the user’s music-venue preference and anchor area.",
+    "4245": "A nightlife-oriented music venue that fits the user’s event-driven late-night behavior.",
+    "720": "A late-night lounge in Manhattan that matches the user’s social, after-dark mobility pattern.",
+    "20": "A bar/restaurant in the downtown nightlife corridor that is consistent with post-evening social outings.",
+    "1578": "Burger-and-drinks behavior is compatible with the user’s club-night food stop pattern.",
+    "980": "A one-off entertainment venue in the same general Manhattan zone, possible for a Friday evening plan.",
+    "3681": "A prior one-time food stop in the target corridor that could fit a pre-nightlife dinner."
+  },
+  "fallback": false
+}

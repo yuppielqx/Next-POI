@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1298",
+  "ranked_loc_ids": [
+    4649,
+    4648,
+    1527,
+    1204,
+    1522,
+    1538,
+    1709,
+    4650,
+    67,
+    911
+  ],
+  "explanations": {
+    "4649": "The user is already there at the target time, and their history shows repeated Sunday morning checks in this exact plaza.",
+    "4648": "It is extremely close to McCarthy Square and is one of the user’s strongest repeat destinations in the Village.",
+    "1527": "This nearby West Village nightlife spot fits the user’s social pattern and frequent clustered movement around Christopher Street.",
+    "1204": "A close-by bar that matches the user’s nightlife-oriented behavior and southwest Village movement trend.",
+    "1522": "If the user leaves the plaza, a nearby subway hub is a plausible next step for moving through downtown Manhattan.",
+    "1538": "Another nearby transit option that fits the user’s compact neighborhood travel pattern.",
+    "1709": "A short errand stop is plausible in this area, especially given the user’s mix of social and practical outings.",
+    "4650": "A nearby brunch-style diner could attract a Sunday morning continuation from the plaza.",
+    "67": "It is a reasonable nearby outdoor destination if the user continues roaming south-east from the current spot.",
+    "911": "A morning fitness-related visit is possible given the user’s history and the time-conditioned similarity from comparable users."
+  },
+  "fallback": false
+}

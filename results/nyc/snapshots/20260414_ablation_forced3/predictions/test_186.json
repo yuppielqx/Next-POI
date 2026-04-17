@@ -1,0 +1,22 @@
+{
+  "traj_id": "test_186",
+  "ranked_loc_ids": [
+    1350,
+    75,
+    1352,
+    1351,
+    1354,
+    1353,
+    220
+  ],
+  "explanations": {
+    "1350": "Sunday afternoon and the user’s Manhattan pattern make a central Midtown landmark a strong next stop, especially after the prior movement trend southeast.",
+    "75": "The user has a prior visit here and similar users around this time often make Midtown retail/lunch-linked stops.",
+    "1352": "It fits the user’s Manhattan nightlife-and-food chain, though the afternoon timing makes it less likely than a daytime Midtown stop.",
+    "1351": "This is a strong repeat dining match from history, but it is slightly less aligned than a central Midtown errand or lunch stop.",
+    "1354": "A Midtown West cultural venue is plausible for a Sunday afternoon and matches the user’s varied leisure behavior.",
+    "1353": "The user has history here and likes nightlife venues, but the target time is daytime rather than late night.",
+    "220": "A bakery/lunch-oriented stop fits the Sunday afternoon prior, though it is in Brooklyn rather than Manhattan."
+  },
+  "fallback": false
+}

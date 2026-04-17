@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_571",
+  "ranked_loc_ids": [
+    75,
+    558,
+    2529,
+    88,
+    3045,
+    519,
+    1976,
+    1396,
+    1034,
+    1194
+  ],
+  "explanations": {
+    "75": "It matches the user’s repeated Saturday shopping pattern and is a very plausible nearby Midtown return stop after Zara and ramen.",
+    "558": "It is very close, central Midtown, and fits the user’s daytime-to-evening commercial wandering in the same corridor.",
+    "2529": "The user has prior visits to Dean & DeLuca and it fits an evening snack/coffee stop in Midtown.",
+    "88": "The user frequently uses transit-linked Midtown hubs, and this is a natural nearby move in the westward corridor.",
+    "3045": "The user strongly favors Koreatown-area food stops, making a return to this familiar district likely on Saturday evening.",
+    "519": "Herald Square retail is a strong behavioral match for this user’s clothing-shopping pattern and nearby Midtown movement.",
+    "1976": "The user’s profile favors casual food stops, and this Koreatown café/restaurant option fits the evening dining sequence.",
+    "1396": "A quick café stop aligns with the user’s errand-oriented, short-trip behavior in Midtown.",
+    "1034": "Pizza is a recurring category for this user, and this is a plausible dinner continuation after ramen.",
+    "1194": "Zara is a strong historical match, though it is somewhat farther than the top Midtown options and less likely than a closer return stop."
+  },
+  "fallback": false
+}

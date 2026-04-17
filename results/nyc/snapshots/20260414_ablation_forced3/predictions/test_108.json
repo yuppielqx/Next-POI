@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_108",
+  "ranked_loc_ids": [
+    826,
+    827,
+    830,
+    598,
+    127,
+    825,
+    839,
+    834,
+    833,
+    844
+  ],
+  "explanations": {
+    "826": "It is the exact last known spot and the user strongly favors repeating nearby transportation-corridor movements.",
+    "827": "This road is heavily visited by the user and is a very short continuation from the Clearview corridor.",
+    "830": "The user frequently transitions toward bridge/toll-plaza infrastructure, and this fits the northwest corridor trend.",
+    "598": "A close bridge-adjacent move is highly plausible given the user's transportation-focused pattern.",
+    "127": "Another nearby crossing that matches the user’s bridge-oriented mobility and likely late-night transit.",
+    "825": "The user has a prior habit of stopping here before corridor travel, making it a plausible return or nearby revisit.",
+    "839": "This fits the user’s small pre-trip food-stop behavior and sits within the same Queens travel zone.",
+    "834": "A fuel/food stop aligns with the user's practical commute style and nearby corridor movement.",
+    "833": "The user often moves along linked parkways, and this is a natural continuation from the current route.",
+    "844": "A bridge toll node is consistent with the user’s repeated infrastructure check-ins, though slightly less likely than the closer options."
+  },
+  "fallback": false
+}

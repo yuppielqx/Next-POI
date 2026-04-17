@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_147",
+  "ranked_loc_ids": [
+    732,
+    1147,
+    1157,
+    731,
+    1153,
+    108,
+    1159,
+    1155,
+    104,
+    1163
+  ],
+  "explanations": {
+    "732": "It is the closest frequent diner option and fits the user's repeated late-evening dining pattern near the current Hoboken nightlife stop.",
+    "1147": "The user has multiple evening visits here, so a short same-night return to the current bar is highly plausible.",
+    "1157": "This nearby sports bar matches the user's nightlife profile and is a common kind of follow-on stop after a bar.",
+    "731": "Very close to the last location and aligned with the user's bar/food routine, making it a strong nearby nightlife alternative.",
+    "1153": "A Hoboken bar that fits the user's social drinking pattern and is a likely next hop within the same corridor.",
+    "108": "The Hoboken PATH Station is nearby and consistent with the user's frequent transit-oriented movement between nightlife stops.",
+    "1159": "The waterfront walk is a plausible short nearby move in Hoboken, especially after an evening bar visit.",
+    "1155": "The south-east movement trend and prior history make a nearby Jersey City-area continuation reasonable.",
+    "104": "This Jersey City destination is within the user's broader corridor and can fit a late-evening errand or entertainment shift.",
+    "1163": "A diner-style option in the same regional pattern, though less likely than the Hoboken bar and diner choices nearby."
+  },
+  "fallback": false
+}

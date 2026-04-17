@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_730",
+  "ranked_loc_ids": [
+    3510,
+    1536,
+    133,
+    3512,
+    3513,
+    3088,
+    3515,
+    3517,
+    786,
+    3511
+  ],
+  "explanations": {
+    "3510": "It is the user’s strongest anchor and the last known location, making a same-place midday continuation the most likely outcome.",
+    "1536": "This nearby transit hub fits the user’s commuter-like routine and could plausibly be the next short hop from home.",
+    "133": "It is extremely close to the last location and matches the user’s strong train-station preference.",
+    "3512": "A nearby everyday errand stop is consistent with the user’s tight neighborhood movement and midday timing.",
+    "3513": "A local pharmacy visit fits the user’s routine, short-range travel pattern, and residential-area context.",
+    "3088": "This nearby retail stop is another plausible convenience-oriented movement from the home base.",
+    "3515": "Food stops are part of the user’s repeating midday chain, and this is a recurring destination in their history.",
+    "3517": "This deli/bodega matches the user’s common lunch-hour behavior and prior Lower Manhattan food-stop pattern.",
+    "786": "The user frequently visits this park in the same midday window, making it a plausible nearby outing.",
+    "3511": "This train-station-style location aligns with the user’s dominant transit behavior and cluster-based mobility."
+  },
+  "fallback": false
+}

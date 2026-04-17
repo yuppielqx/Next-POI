@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_476",
+  "ranked_loc_ids": [
+    2708,
+    2718,
+    2707,
+    2709,
+    2706,
+    4490,
+    2630,
+    2956,
+    1720,
+    1721
+  ],
+  "explanations": {
+    "2708": "It is the user’s dominant anchor point, last known location, and the strongest match for a brief morning return at 07:08.",
+    "2718": "This is the main workplace-like alternative and a frequent morning destination within the same tight corridor.",
+    "2707": "It is part of the same routine cluster and could be a short nearby stop after leaving the anchor area.",
+    "2709": "The user frequently visits this nearby dining spot, making it a plausible morning or commute-adjacent stop.",
+    "2706": "This is another regular restaurant in the user’s core area and fits the same localized movement pattern.",
+    "4490": "Similar users often make early convenience-store stops around this time, and it is very close to the last location.",
+    "2630": "A nearby errand-style destination that fits a routine morning stop in the immediate neighborhood.",
+    "2956": "Similar-user behavior and proximity make this a reasonable low-probability nearby visit.",
+    "1720": "A nearby commercial destination that could be reached if the user shifts from the office cluster to errands or food.",
+    "1721": "A plausible nearby breakfast option, though less consistent with the user’s historical routine than the top candidates."
+  },
+  "fallback": false
+}

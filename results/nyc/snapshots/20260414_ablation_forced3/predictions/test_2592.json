@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2592",
+  "ranked_loc_ids": [
+    2029,
+    3593,
+    2408,
+    137,
+    274,
+    3744,
+    2522,
+    3875,
+    3
+  ],
+  "explanations": {
+    "2029": "Monday morning at 10:01 strongly matches the user’s dominant weekday office anchor and highest same-time historical pattern.",
+    "3593": "The user has a recurring gym-then-office routine, and Monday mornings still make a fitness stop plausible before work.",
+    "2408": "Similar users at this time often move to office/commercial destinations, and this is a nearby weekday-work location.",
+    "137": "Penn Station is a plausible morning transit stop after a Sunday outing, especially for a commuter moving into Midtown/Chelsea.",
+    "274": "A nearby Midtown morning destination that fits a weekday urban routine and the similar-user commercial pattern.",
+    "3744": "The user frequents bar-adjacent venues, but the Monday morning timing makes this much less likely than work or gym.",
+    "2522": "This is close to the current area and matches the user’s nightlife/gastropub preference, though not the morning time prior.",
+    "3875": "A nearby restaurant in the same corridor, possible for a morning stop but weaker than office/gym behavior.",
+    "3": "It is the current location and nearby, but the Monday morning prior and user’s work routine make a stay here unlikely."
+  },
+  "fallback": false
+}

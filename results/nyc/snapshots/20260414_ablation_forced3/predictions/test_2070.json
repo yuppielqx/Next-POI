@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2070",
+  "ranked_loc_ids": [
+    5426,
+    137,
+    4607,
+    988,
+    3127,
+    3996,
+    4653,
+    362,
+    3508
+  ],
+  "explanations": {
+    "5426": "This is the user’s dominant Midtown West anchor, has the strongest historical recurrence, and the current trip shows no area change from the last check-in.",
+    "137": "A secondary core Manhattan anchor near Penn Station that fits the user’s Midtown-centered routine and short-distance movement pattern.",
+    "4607": "It is extremely close to the last location and matches the user’s practical Midtown errand behavior.",
+    "988": "Very nearby in Hell’s Kitchen and consistent with the user’s recurring Midtown West daytime-to-evening movement.",
+    "3127": "Close to the Penn Station corridor and plausible for a routine retail stop in the user’s core area.",
+    "3996": "A nearby café that fits the user’s known coffee and flexible evening-errand patterns.",
+    "4653": "Very close to the current anchor and aligned with the user’s Midtown West neighborhood activity.",
+    "362": "Nearby in the same west Midtown zone, making it a reasonable local next stop.",
+    "3508": "A plausible transit move within Manhattan for a user who often shifts around Midtown and downtown."
+  },
+  "fallback": false
+}

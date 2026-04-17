@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1621",
+  "ranked_loc_ids": [
+    145,
+    5027,
+    747,
+    740,
+    5000,
+    3811,
+    1612,
+    3617,
+    3820,
+    3320
+  ],
+  "explanations": {
+    "145": "This is the user's strongest routine anchor and the most likely morning transit stop after a weekend reset.",
+    "5027": "The user frequently pairs this with the 86th St station, especially in the morning commute window.",
+    "747": "A common nearby coffee stop in the same Upper East Side routine and strongly plausible for an 08:16 visit.",
+    "740": "This fits the user's repeated coffee-and-transit pattern along Lexington Ave near their core corridor.",
+    "5000": "A nearby Upper East Side café-like stop that matches the user's habitual morning movement sequence.",
+    "3811": "Close to the user's usual corridor and plausible as a quick morning grab-and-go stop.",
+    "1612": "The last known location is a pharmacy on the same block, so a brief return or nearby continuation remains possible.",
+    "3617": "This is another nearby retail stop in the same East 86th St shopping strip, though less frequent than the top choices.",
+    "3820": "The forced nearby GameStop on 86th St is geographically very close and could be visited during a short errand loop.",
+    "3320": "The user has a transit-heavy pattern, but this Bronx station is much less likely than the Upper East Side routine."
+  },
+  "fallback": false
+}

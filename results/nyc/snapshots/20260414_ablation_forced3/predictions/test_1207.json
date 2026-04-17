@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1207",
+  "ranked_loc_ids": [
+    2845,
+    2809,
+    4519,
+    2450,
+    4522,
+    4523,
+    4518,
+    1295,
+    3182,
+    372
+  ],
+  "explanations": {
+    "2845": "This is the strongest repeat venue in the user’s history and fits their 6–8 p.m. wellness pattern in the same lower Manhattan corridor.",
+    "2809": "A frequent grocery/errand stop near the user’s core area, consistent with the post-grocery routine and nearby movement south.",
+    "4519": "A nearby casual dinner option in the Flatiron/Union Square area that matches the early-evening food-errand transition.",
+    "2450": "A recurring East Village casual food stop that fits the user’s neighborhood-leisure pattern after shopping.",
+    "4522": "A plausible early-evening beer garden choice given the time and the user’s occasional nightlife behavior.",
+    "4523": "Close to the current area and consistent with a low-key evening drink stop after a grocery run.",
+    "4518": "A fitness stop aligns with the wellness-centered profile and nearby lower Manhattan geography.",
+    "1295": "A nightlife venue in the user’s habitual zone, supported by their history of late-day entertainment visits.",
+    "3182": "A nearby casual food option in the East Village/West Village orbit that matches the user’s snack-and-social pattern.",
+    "372": "A bar that fits the evening slot and occasional nightlife tendency, though it is less central than wellness or grocery options."
+  },
+  "fallback": false
+}

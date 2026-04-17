@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_217",
+  "ranked_loc_ids": [
+    185,
+    186,
+    1510,
+    1507,
+    1508,
+    377,
+    184,
+    145,
+    1509,
+    1220
+  ],
+  "explanations": {
+    "185": "Monday morning strongly matches the user’s recurring wellness routine and this is one of their two repeated yoga anchors.",
+    "186": "Another known yoga studio fits the same morning wellness pattern, with a slight neighborhood shift still consistent with the user’s history.",
+    "1510": "This theater-related venue aligns with the user’s strong arts-and-culture behavior, and morning Manhattan trips are plausible for a planned event or studio visit.",
+    "1507": "The user’s most-visited theater is a major historical anchor, so a return is highly plausible even though the time of day is a bit earlier than typical theater activity.",
+    "1508": "As another performing arts venue in Manhattan, it fits the user’s culture-oriented profile and could be part of a planned daytime outing.",
+    "377": "The user has previously visited this park on a holiday, and a Monday morning outdoor leisure stop is credible given their discretionary travel style.",
+    "184": "This is another yoga option in Manhattan that matches the wellness pattern, though it is a less frequent anchor than Midtown.",
+    "145": "The user has some mobility across Manhattan, and a subway stop near the Upper West Side could be a transit waypoint before a wellness or culture destination.",
+    "1509": "This Manhattan neighborhood is within the user’s broader range, but it is less directly supported by the time-of-day and wellness preference.",
+    "1220": "The user has visited Brooklyn before, but this is less consistent with the strong Monday morning Manhattan wellness prior."
+  },
+  "fallback": false
+}

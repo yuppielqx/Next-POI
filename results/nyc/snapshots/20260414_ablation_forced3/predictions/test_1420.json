@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1420",
+  "ranked_loc_ids": [
+    4799,
+    3394,
+    2646,
+    5655,
+    925,
+    924,
+    5610,
+    5724,
+    3805
+  ],
+  "explanations": {
+    "4799": "This is the strongest habitual morning stop, with the highest visit count and the best match to the 06:51 Wednesday breakfast routine.",
+    "3394": "After coffee, the user often shifts into a commute pattern, and this nearby transit hub matches the morning movement trend.",
+    "2646": "A very close transport option that aligns with a weekday morning departure from the Kew Gardens/Forest Hills area.",
+    "5655": "The user’s south-east movement and commuter profile make this nearby bus stop a plausible next step after breakfast.",
+    "925": "A frequent weekday anchor in the user’s history, especially compatible with a work-related morning routine.",
+    "924": "A quick convenience stop is plausible in the same local corridor, though it is less consistent than Dunkin’ Donuts.",
+    "5610": "This nearby breakfast option fits the early-morning food pattern, but it lacks the user’s strong prior history at this exact spot.",
+    "5724": "Another transit-accessible morning destination that matches the user’s commute-oriented movement style.",
+    "3805": "A coffee shop is directionally consistent with the morning ritual, but it is less likely than the user’s dominant Dunkin’ Donuts habit."
+  },
+  "fallback": false
+}

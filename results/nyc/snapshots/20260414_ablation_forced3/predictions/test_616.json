@@ -1,0 +1,24 @@
+{
+  "traj_id": "test_616",
+  "ranked_loc_ids": [
+    3196,
+    3187,
+    3107,
+    3178,
+    3180,
+    1360,
+    558,
+    3177
+  ],
+  "explanations": {
+    "3196": "Evening social outings are a known pattern for this user, and it matches the Monday 20:05 timing with their recurring nightlife habits.",
+    "3187": "A nearby bar fits the evening prior and the user’s habit of short Midtown social trips after work hours.",
+    "3107": "The user often combines evening errands with routine Midtown stops, making this a plausible post-work destination.",
+    "3178": "Pharmacy runs frequently cluster with the user’s grocery and Midtown routine, especially in familiar evening windows.",
+    "3180": "Despite the evening hour being less typical than late morning, the gym is the user’s strongest anchor overall.",
+    "1360": "A nearby coffee stop is consistent with compact Midtown movement and a short transition from NBCUniversal.",
+    "558": "The user is already adjacent to this area, and it fits a likely nearby Midtown transition at 20:05.",
+    "3177": "A nearby dive bar aligns with the user’s evening social pattern and the southeast movement trend."
+  },
+  "fallback": false
+}

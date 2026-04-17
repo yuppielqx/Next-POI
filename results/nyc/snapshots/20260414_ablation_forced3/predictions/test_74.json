@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_74",
+  "ranked_loc_ids": [
+    601,
+    600,
+    599,
+    2664,
+    5650,
+    4535,
+    2729,
+    4536,
+    3728,
+    4616
+  ],
+  "explanations": {
+    "601": "The user’s strongest late-night return destination is their recurring home anchor, and the 4:27 a.m. timing strongly favors a short trip back there after the bar.",
+    "600": "It is part of the same core Bronx cluster and has a strong 3–5 a.m. history, making it a plausible post-bar food stop before heading home.",
+    "599": "The user is already there at the last check-in, and a lingering or brief return to the same nightlife spot remains possible even at this hour.",
+    "2664": "This nearby Bronx bar fits the local nighttime social circuit and is close enough to be a feasible short move from the current bar.",
+    "5650": "A late-night food run is consistent with the user’s pattern of weaving meals into nightlife, and it sits within the nearby cluster.",
+    "4535": "A nearby practical stop in the same area could happen during an early-morning return trip, though it is less behaviorally favored than food or home.",
+    "2729": "A nearby grocery stop is possible if the user is returning through the neighborhood, but it is less likely than their usual bar/residence loop.",
+    "4536": "Another nearby utilitarian destination that could be visited on the way home, but it does not match the user’s dominant social pattern.",
+    "3728": "This nearby institutional location is close, but there is little evidence it fits the user’s late-night routine.",
+    "4616": "Although nearby, a gym visit at 4:27 a.m. is far less consistent with the user’s nocturnal bar-to-home movement pattern."
+  },
+  "fallback": false
+}

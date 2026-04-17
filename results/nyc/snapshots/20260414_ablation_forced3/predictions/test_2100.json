@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2100",
+  "ranked_loc_ids": [
+    1931,
+    1932,
+    3220,
+    2059,
+    3734,
+    1935,
+    5161,
+    5558,
+    785,
+    4418
+  ],
+  "explanations": {
+    "1931": "This is a very close nightlife venue in the same Brooklyn social corridor, matching the user’s evening bar pattern and the southwest movement trend.",
+    "1932": "A nearby pub fits the user’s strong preference for evening drinking spots and is consistent with a short hop from The Gate.",
+    "3220": "This nearby bar is a plausible next social stop given the user’s bar-heavy history and the current late-afternoon-to-evening window.",
+    "2059": "A close-by nightlife spot that matches the user’s tendency to chain evening outings around bars and pubs.",
+    "3734": "A historically visited bar that fits the user’s profile, though it is a bit farther than the closest Brooklyn options.",
+    "1935": "The user has visited this nightlife spot before, and its pub category aligns well with their evening leisure behavior.",
+    "5161": "A nearby Mexican restaurant is a strong dining option for the 18:22 time prior, especially after an afternoon bar stop.",
+    "5558": "Another nearby Mexican restaurant that suits a casual early-evening food stop in the same area.",
+    "785": "This close burrito place is a reasonable food-driven next move given the user’s social dining pattern.",
+    "4418": "A historically used downtown Manhattan bar remains plausible, but the strong nearby Brooklyn nightlife cluster makes it less likely than closer options."
+  },
+  "fallback": false
+}

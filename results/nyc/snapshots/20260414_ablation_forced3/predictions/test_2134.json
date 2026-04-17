@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2134",
+  "ranked_loc_ids": [
+    192,
+    2228,
+    390,
+    359,
+    1011,
+    1707,
+    946,
+    59,
+    4356,
+    1552
+  ],
+  "explanations": {
+    "192": "It matches the user’s downtown Manhattan leisure pattern and is the strongest nearby public destination after a midday-to-evening outing.",
+    "2228": "A dessert stop fits the user’s food-and-stroll behavior, and it is a plausible evening continuation in Manhattan.",
+    "390": "This is a nearby SoHo dining option that aligns with the user’s leisure-oriented, food-anchored movement.",
+    "359": "Tribeca is a natural downtown leisure area, and the user often moves between nearby Manhattan neighborhoods.",
+    "1011": "A return to a related food venue is plausible given the user’s burger stop and evening dining continuation.",
+    "1707": "The cupcake shop matches the user’s dessert/retail habits and nearby SoHo-West Village movement.",
+    "946": "The user has a strong retail browsing profile, making a Midtown-style shopping revisit possible later in the evening.",
+    "59": "It fits the user’s known Manhattan entertainment/shopping pattern, though it is less proximate than the downtown options.",
+    "4356": "Rockefeller Center retail is consistent with the user’s Midtown shopping behavior and evening strolling tendency.",
+    "1552": "A coffee stop is consistent with the user’s profile, but it is a weaker fit than the surrounding dining and park options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_370",
+  "ranked_loc_ids": [
+    229,
+    2231,
+    2229,
+    612,
+    2233,
+    1726,
+    65,
+    1918,
+    3286,
+    519
+  ],
+  "explanations": {
+    "229": "A frequent Friday destination in the Newark transit corridor, matching the user’s strong tendency to return to transportation hubs.",
+    "2231": "Another highly repeated Friday transit anchor that fits the user’s commuter-style southbound movement after leaving the mall area.",
+    "2229": "The user has a Friday repeat pattern at this Bloomfield fast-food stop, making it a plausible quick dinner stop on the way south.",
+    "612": "This repeated Friday Manhattan retail stop is possible, though it is less consistent with the current southbound Newark-bound trajectory.",
+    "2233": "A practical errand stop in the Newark/Bloomfield corridor that fits the user’s habitual short consumer visits.",
+    "1726": "The user has visited this Manhattan retail anchor before, but it is less likely than the transit-centered Newark options.",
+    "65": "A familiar quick-stop café that matches the user’s errand-and-coffee pattern, though it is not the best fit for the current southbound trend.",
+    "1918": "Staying within Garden State Plaza after Jamba Juice is possible, especially for an evening meal, but it is less supported than a return trip.",
+    "3286": "A nearby entertainment continuation from the mall is plausible, but the user’s history favors transit hubs and quick stops more than movies.",
+    "519": "A Manhattan shopping continuation is conceivable, but it conflicts more with the present movement toward the Newark corridor."
+  },
+  "fallback": false
+}

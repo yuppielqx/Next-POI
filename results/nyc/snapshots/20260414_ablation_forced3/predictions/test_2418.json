@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2418",
+  "ranked_loc_ids": [
+    1196,
+    289,
+    1072,
+    59,
+    47,
+    3489,
+    275,
+    3972,
+    1035,
+    5651
+  ],
+  "explanations": {
+    "1196": "The user’s strongest midday pattern and repeated Lower Manhattan routine make Chinatown the most likely return destination.",
+    "289": "This matches the user’s frequent coffee-stop behavior in the Canal Street/Chinatown corridor around noon.",
+    "1072": "SoHo is a closely linked Lower Manhattan destination that fits the user’s recurring midday shopping-and-walking pattern.",
+    "59": "Times Square is one of the user’s most visited noon-time locations and remains a plausible entertainment stop.",
+    "47": "Macy’s aligns with the user’s recent Manhattan shopping movement and fits a midday retail outing.",
+    "3489": "This nearby Manhattan restaurant is consistent with the user’s lunch-hour food-oriented behavior.",
+    "275": "The user has shown interest in entertainment near Union Square, making a movie stop plausible.",
+    "3972": "The user was just here earlier in the trip, so a nearby return is possible despite being less typical for the noon prior.",
+    "1035": "Similar users point toward Atlantic Terminal, and the user also has a Brooklyn habit, though it is less likely than Lower Manhattan.",
+    "5651": "This is a strong historical favorite for the user, but its Brooklyn distance makes it less likely than closer Lower Manhattan options."
+  },
+  "fallback": false
+}

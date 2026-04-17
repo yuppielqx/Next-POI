@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2350",
+  "ranked_loc_ids": [
+    5609,
+    1133,
+    2894,
+    3854,
+    4304,
+    1618,
+    5611,
+    19,
+    12,
+    3334
+  ],
+  "explanations": {
+    "5609": "This is the user’s strongest recurring evening anchor and fits the westward move back toward Upper Manhattan social time.",
+    "1133": "Also a frequent Upper West Side anchor, though less likely than the pub at this evening hour.",
+    "2894": "It is the current nearby bar and could be the immediate next stop if the user stays in Midtown nightlife.",
+    "3854": "Right next to the last location and consistent with a short westward nightlife transition.",
+    "4304": "Very close by, but a fitness stop is less consistent with the user’s strong 19:25 evening social pattern.",
+    "1618": "A familiar Upper West Side food spot that matches a return toward home-area routines.",
+    "5611": "A repeat hospital venue, but it is less aligned with the evening leisure pattern than food or drink.",
+    "19": "A nearby dessert stop that could follow bar time, though it is a weaker fit than dinner or pub options.",
+    "12": "A known Upper East Side restaurant, but it is farther from the westward trend and last location.",
+    "3334": "A plausible dinner destination, yet it is less likely than the user’s core Upper West Side nightlife venues."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_952",
+  "ranked_loc_ids": [
+    4046,
+    4069,
+    2203,
+    9,
+    4048,
+    1015,
+    1110,
+    303,
+    109,
+    2557
+  ],
+  "explanations": {
+    "4046": "Monday 10:23 strongly matches the user’s dominant weekday office routine and is by far their most frequent same-time destination.",
+    "4069": "It is another Lower Manhattan office that fits the commuter pattern and is a plausible work-related alternative.",
+    "2203": "The user often pairs weekday routines with gym visits, and Monday mornings can include a fitness stop before or after work.",
+    "9": "A morning café stop near the office corridor fits the user’s typical 10am check-in behavior.",
+    "4048": "This coffee stop aligns with the user’s repeated morning-slot pattern and nearby Manhattan movement.",
+    "1015": "The user has a recurring habit of wine-shop visits in the same corridor, making this a plausible errand-based stop.",
+    "1110": "Trader Joe’s is consistent with the user’s grocery-and-errand pattern, though less likely than work destinations at this hour.",
+    "303": "A quick food or drink stop in Lower Manhattan fits the user’s practical weekday mobility.",
+    "109": "The last known location was here, so a continued transit-related move remains possible despite the morning office prior.",
+    "2557": "A pharmacy errand is consistent with the user’s utilitarian stop pattern and can occur in the morning corridor."
+  },
+  "fallback": false
+}

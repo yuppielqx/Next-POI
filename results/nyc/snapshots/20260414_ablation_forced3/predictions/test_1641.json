@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1641",
+  "ranked_loc_ids": [
+    2506,
+    3186,
+    256,
+    1568,
+    3921,
+    3047,
+    2081,
+    4969,
+    2424,
+    271
+  ],
+  "explanations": {
+    "2506": "As a nearby lounge in the same downtown Manhattan nightlife corridor, it best fits the user’s evening social pattern and short post-hotel move.",
+    "3186": "The user has a history of late-night rooftop/social check-ins, and this is a strong Manhattan evening venue match.",
+    "256": "A repeated wine bar anchor for this user, making it a very plausible next social stop despite being a bit farther away.",
+    "1568": "Another wine-bar-style evening venue consistent with the user’s nighttime dining and drinking pattern.",
+    "3921": "Very close to the last location and in the same downtown corridor, so a short nearby restaurant move is likely.",
+    "3047": "A nearby restaurant option that fits a quick evening food transition without requiring a major trip.",
+    "2081": "The user was already at a tapas restaurant earlier, so a continuation to another late-night dining venue is plausible.",
+    "4969": "A similar downtown dinner choice that matches the user’s social, after-hours mobility profile.",
+    "2424": "Staying at or returning to the current hotel is possible given the immediate time gap and zero-distance transition history.",
+    "271": "Strong historical usage makes it possible, but the late Sunday nightlife timing makes this far less likely than a nearby Manhattan venue."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_708",
+  "ranked_loc_ids": [
+    1705,
+    359,
+    2792,
+    177,
+    3362,
+    1767,
+    192,
+    940,
+    2377,
+    1403
+  ],
+  "explanations": {
+    "1705": "It is the current location and a nearby nightlife lounge, making it the most likely immediate next stop on a Wednesday night.",
+    "359": "It is a close Tribeca event-space option and fits the user’s downtown nightlife movement pattern.",
+    "2792": "The user has a strong nightlife history, and this is a familiar nearby speakeasy-style venue in lower Manhattan.",
+    "177": "This matches the user’s known West Village bar pattern and the late-evening social context.",
+    "3362": "A nightlife venue in the Meatpacking/West Village orbit that fits the user’s evening leisure behavior.",
+    "1767": "The user has prior evening social stops at lounge venues, and this is a plausible repeat in downtown Manhattan.",
+    "192": "The user often moves through the Village area, and the south-east trend keeps this in play as a nearby destination.",
+    "940": "A known evening entertainment stop that aligns with the target-time nightlife prior.",
+    "2377": "This is a realistic late-night lounge choice for a user who frequents stylish downtown hospitality venues.",
+    "1403": "The user has repeated coffee-shop behavior, though this is less likely than the nightlife options at 22:29."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_660",
+  "ranked_loc_ids": [
+    557,
+    3864,
+    3742,
+    970,
+    53,
+    631,
+    59,
+    142,
+    362,
+    366
+  ],
+  "explanations": {
+    "557": "The user’s last known check-in was here one minute ago, making continued presence or immediate movement through the tunnel the most likely next step.",
+    "3864": "This nearby Weehawken waterfront park is close to the tunnel and could be reached during an ongoing southwest-bound transition.",
+    "3742": "A nearby transit node fits the user’s strong transportation pattern and the current west Midtown corridor context.",
+    "970": "This adjacent ferry terminal is another plausible nearby stop in the same transit-heavy area.",
+    "53": "Times Square/42nd Street is a common next hub from Port Authority and matches the user’s frequent transit chaining.",
+    "631": "The user has Saturday history here, and it is a nearby familiar destination in the Times Square area.",
+    "59": "A short move from the Lincoln Tunnel corridor into the nearby entertainment district is consistent with the user’s pattern.",
+    "142": "This nearby major hub is a plausible continuation point for a west-side Manhattan transit sequence.",
+    "362": "The user has prior interest in this immediate area, and it is close enough to be a feasible next stop.",
+    "366": "This nearby venue is a reasonable though less likely continuation within the same west Midtown zone."
+  },
+  "fallback": false
+}

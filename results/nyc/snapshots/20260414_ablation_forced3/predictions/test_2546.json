@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2546",
+  "ranked_loc_ids": [
+    59,
+    1069,
+    3256,
+    626,
+    631,
+    1151,
+    3261,
+    274,
+    2347,
+    2049
+  ],
+  "explanations": {
+    "59": "The user’s strongest evening pattern is Midtown leisure activity, and this is the best fit for a Wednesday night near their usual entertainment corridor.",
+    "1069": "A nearby Times Square bar matches the user’s repeated post-work social behavior and the 20:16 dinner/drinks time slot.",
+    "3256": "This Times Square burger spot fits the user’s frequent Midtown evening dining pattern and is highly consistent with nearby movement from work.",
+    "626": "The user often favors movie-theater destinations in the Theater District, making a cinema stop very plausible after the martial arts location.",
+    "631": "Another strong Theater District multiplex match, especially given the user’s history of evening entertainment outings.",
+    "1151": "This nearby Midtown entertainment venue aligns with the user’s nightlife/after-work leisure pattern and dense commercial area preference.",
+    "3261": "A Midtown casual dinner stop is plausible at this hour, especially given the user’s tendency to visit restaurant venues after work.",
+    "274": "This is a reasonable Midtown stop en route to evening activity, though it is less directly aligned than restaurants or theaters.",
+    "2347": "The user’s major work anchor makes a return possible, but the evening time and last-known location make it less likely than leisure options.",
+    "2049": "A quick Midtown food stop is possible, but it is a weaker fit than the user’s more common Times Square bars, restaurants, and theaters."
+  },
+  "fallback": false
+}

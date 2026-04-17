@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_780",
+  "ranked_loc_ids": [
+    3642,
+    3641,
+    3644,
+    3646,
+    3643,
+    3645,
+    3393,
+    3802,
+    2902,
+    3647
+  ],
+  "explanations": {
+    "3642": "The user repeatedly chains this exact nearby spot with Met Food Supermarket and other home-block venues, making it the strongest immediate continuation.",
+    "3641": "It is one of the user's most visited anchors in the same cluster and is a very plausible minute-apart follow-up after a supermarket stop.",
+    "3644": "This Chinese restaurant is another core habitual destination in the user's tight local loop and fits the breakfast/morning routine.",
+    "3646": "As a likely residential base in the same micro-area, the user often returns here after short errands.",
+    "3643": "The user is already here at the last timestamp, so an immediate stay or repeat check-in is highly likely.",
+    "3645": "A nearby post office in the same neighborhood could fit a quick errand during a tightly clustered morning trip.",
+    "3393": "The nearby subway station is a plausible transit-related stop given the user's localized movement pattern and north-west trend.",
+    "3802": "A nearby fast-food option with no prior history, but still close enough to be a possible local food stop.",
+    "2902": "Another nearby food venue that could serve as a short local diversion, though it is less consistent with the user's history.",
+    "3647": "This is a rare but known deviation in the user's history, so it remains a low-probability fallback."
+  },
+  "fallback": false
+}

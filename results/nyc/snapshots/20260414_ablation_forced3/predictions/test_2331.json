@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2331",
+  "ranked_loc_ids": [
+    1019,
+    422,
+    2032,
+    193,
+    3987,
+    2387,
+    5062,
+    2521,
+    5604,
+    22
+  ],
+  "explanations": {
+    "1019": "A nearby nightlife spot fits the 01:05 late-night timing and the user’s tendency to continue social outings after dinner.",
+    "422": "This is the strongest historical match for a late-night lounge stop and aligns with the user’s nightlife pattern.",
+    "2032": "A bar-like venue is a plausible next move for a night outing, especially given the late hour and nearby social context.",
+    "193": "Late-night pizza is highly consistent with the user’s food-and-nightlife chaining behavior in Brooklyn.",
+    "3987": "Another nearby pizza option that matches the user’s frequent casual late-night food preferences.",
+    "2387": "A recurrent pizza destination in north Brooklyn fits the user’s established neighborhood habits.",
+    "5062": "This repeated sandwich/pizza spot is a plausible late-night food return for this user.",
+    "2521": "Remaining at or returning to the current winebar area is possible given the very short distance and late-night continuation.",
+    "5604": "A nearby movie theater could follow a dinner-to-entertainment chain, though it is less likely at 01:05.",
+    "22": "A Williamsburg flea market is unlikely at this hour, but it stays within the user’s Brooklyn movement orbit."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_92",
+  "ranked_loc_ids": [
+    717,
+    721,
+    5679,
+    25,
+    220,
+    3308,
+    2480,
+    1100,
+    75,
+    716
+  ],
+  "explanations": {
+    "717": "It is the strongest frequent daytime anchor in the user’s Brooklyn routine and matches the afternoon coffee/errand pattern.",
+    "721": "A nearby breakfast/brunch-style option that fits the Sunday afternoon food stop tendency and the northward movement.",
+    "5679": "A close Brooklyn coffee shop that aligns with the user’s cafe-heavy behavior and could substitute for a frequent coffee stop.",
+    "25": "A nearby quick-food option that fits the post-bar transition toward casual eating in the same neighborhood.",
+    "220": "A practical daytime bakery stop consistent with the user’s occasional early/food errand behavior.",
+    "3308": "A nearby lunch-friendly restaurant that matches the similar-user midday dining pattern.",
+    "2480": "A general restaurant choice in the immediate area, plausible for a Sunday afternoon meal.",
+    "1100": "A nearby popular casual food destination that fits a social lunch/dinner transition better than nightlife.",
+    "75": "Highly recurrent in the user’s history, but the Midtown location is less aligned with the current Brooklyn afternoon context.",
+    "716": "A known errand destination for this user, though it is less likely than a cafe or lunch stop at this time."
+  },
+  "fallback": false
+}

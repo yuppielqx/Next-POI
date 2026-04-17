@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_623",
+  "ranked_loc_ids": [
+    2527,
+    181,
+    2890,
+    1772,
+    248,
+    1562,
+    1583,
+    3217,
+    2604
+  ],
+  "explanations": {
+    "2527": "The strong Tuesday morning fitness pattern and repeated 6–8 AM visits make this the best match for the next stop.",
+    "181": "It is a core recurring gym node very close to the last location, fitting an early workout in Midtown.",
+    "2890": "It is immediately adjacent to the hotel and fits a likely early-morning gym visit before the day begins.",
+    "1772": "The hotel-area proximity makes it a plausible quick morning food stop after the late-night stay.",
+    "248": "The user has Tuesday history here and it could fit an early outdoor fitness or walk pattern.",
+    "1562": "Another nearby Midtown gym that matches the user’s gym-heavy behavior, though less strongly than Equinox.",
+    "1583": "A close Midtown food option that could follow a workout or serve as a quick morning meal.",
+    "3217": "This nearby restaurant is feasible given the user’s gym-then-food chaining behavior, but is less fitness-aligned.",
+    "2604": "A nearby hotel is possible as a short spatial move, but it is less consistent with the user’s typical activity pattern."
+  },
+  "fallback": false
+}

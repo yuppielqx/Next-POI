@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_566",
+  "ranked_loc_ids": [
+    1106,
+    1542,
+    1048,
+    725,
+    1555,
+    23,
+    2208,
+    3029,
+    3026,
+    2685
+  ],
+  "explanations": {
+    "1106": "Strong history of repeat visits to this Williamsburg bar and it fits the user’s nightlife-heavy pattern.",
+    "1542": "It is the current location and a plausible brief stay before moving to another nearby evening venue.",
+    "1048": "One of the user’s most frequent recurring bars, matching the neighborhood and return-to-familiar-place pattern.",
+    "725": "A repeated nightlife/taco stop in the same Brooklyn corridor that fits the user’s evening bar-hopping behavior.",
+    "1555": "A nearby Williamsburg social venue that aligns with the user’s preference for drinking spots and local movement.",
+    "23": "A similar neighborhood beer-focused destination that matches the user’s bar-and-biergarten preferences.",
+    "2208": "A common pre-evening food stop in the same area, plausible before the night ramp-up.",
+    "3029": "A nearby café that fits the user’s occasional daytime-to-evening transition pattern.",
+    "3026": "A historically visited afternoon shopping stop, but less likely than nightlife venues at this time.",
+    "2685": "A nearby deli/bodega that could serve as a quick stop, though it is less consistent with the user’s main nightlife trajectory."
+  },
+  "fallback": false
+}

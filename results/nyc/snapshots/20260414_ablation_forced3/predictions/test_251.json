@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_251",
+  "ranked_loc_ids": [
+    1681,
+    1688,
+    1687,
+    329,
+    879,
+    878,
+    348,
+    244,
+    207,
+    5749
+  ],
+  "explanations": {
+    "1681": "This is the user’s strongest habitual 7:45 AM stop and fits the classic coffee-after-arrival pattern in their Flatiron morning routine.",
+    "1688": "A frequent weekday office destination near the user’s current path, consistent with an eastward move toward work.",
+    "1687": "This is another core office anchor in the same micro-area and matches the user’s Madison Square commute pattern.",
+    "329": "The user is already in this location’s immediate area, so a brief lingering or return check-in is highly plausible.",
+    "879": "A common recurring waypoint in the user’s morning sequence and still very close by.",
+    "878": "This fits the user’s repeated Flatiron District routine and is a natural continuation of the current cluster.",
+    "348": "A nearby coffee option with strong transition history, making it a plausible alternate breakfast stop.",
+    "244": "Close to the current position and a known nearby food destination, though less aligned with the user’s coffee-heavy routine.",
+    "207": "A nearby food truck option in the same area, but with weaker evidence than the established coffee venues.",
+    "5749": "A very nearby food stop that could serve as an alternate quick breakfast purchase, though it lacks the user’s strong historical preference."
+  },
+  "fallback": false
+}

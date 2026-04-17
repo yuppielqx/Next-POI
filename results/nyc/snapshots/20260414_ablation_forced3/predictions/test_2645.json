@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2645",
+  "ranked_loc_ids": [
+    58,
+    4321,
+    1438,
+    3240,
+    70,
+    2002,
+    232,
+    1748,
+    3254,
+    4538
+  ],
+  "explanations": {
+    "58": "This is the user’s dominant weekday morning destination and the most likely next stop after the current commute segment.",
+    "4321": "The user is currently at this station at the target time, so they may still be there or just beginning transit.",
+    "1438": "The user sometimes makes routine fitness-related stops in Midtown near their work area.",
+    "3240": "It is a familiar Grand Central-area amenity and fits the user’s clustered Midtown pattern.",
+    "70": "It is another Grand Central-area Manhattan point of interest with some contextual relevance.",
+    "2002": "The user has occasional downtown excursions, though this is less consistent with the morning commute.",
+    "232": "A past nightlife stop, but the weekday morning timing makes it unlikely.",
+    "1748": "Nearby to the current Bronx-area corridor, though less aligned with the commuter pattern than the station.",
+    "3254": "A nearby transit option that could plausibly appear during a northward movement.",
+    "4538": "Very close to the last location, but it is more of a route than a destination."
+  },
+  "fallback": false
+}

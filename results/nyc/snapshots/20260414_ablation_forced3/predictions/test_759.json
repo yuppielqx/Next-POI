@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_759",
+  "ranked_loc_ids": [
+    307,
+    4063,
+    4713,
+    4389,
+    308,
+    5341,
+    2976,
+    2363,
+    5607,
+    5099
+  ],
+  "explanations": {
+    "307": "The user’s strongest recurring venue is the most likely next stop, and it fits the immediate return-to-last-location pattern in Chinatown.",
+    "4063": "A nearby Chinatown bakery is a natural short-hop continuation after Lung Moon Bakery, matching the user’s food-focused movement.",
+    "4713": "Another very close Chinatown food option fits the user’s tendency to chain casual dining stops in the same area.",
+    "4389": "This is an adjacent Chinatown Chinese restaurant and aligns closely with the user’s bakery/Chinese-food circuit.",
+    "308": "A nearby Asian restaurant in Chinatown is a strong same-neighborhood dinner/snack follow-up.",
+    "5341": "This Chinese restaurant is extremely close and consistent with the user’s recurring Chinatown food pattern.",
+    "2976": "A nearby popular Asian restaurant offers the same type of casual food visit the user often makes in the afternoon.",
+    "2363": "Another Chinatown Chinese restaurant is plausible given the user’s strong preference for Chinese food venues.",
+    "5607": "This nearby Asian restaurant fits the Chinatown cluster and the user’s broad appetite for casual urban dining.",
+    "5099": "A close food venue remains plausible as a short afternoon stop, though it is less directly aligned than the Chinese options."
+  },
+  "fallback": false
+}

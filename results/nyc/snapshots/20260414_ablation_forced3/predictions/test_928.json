@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_928",
+  "ranked_loc_ids": [
+    2938,
+    3557,
+    3996,
+    3604,
+    3995,
+    2510,
+    2339,
+    2519,
+    1613,
+    792
+  ],
+  "explanations": {
+    "2938": "This is the strongest noon-to-afternoon repeat venue in the user’s history and fits the Monday lunch/dessert routine in the nearby West Village corridor.",
+    "3557": "A very plausible weekday afternoon lunch stop, especially given the user’s office-worker pattern and prior noon–2pm visits.",
+    "3996": "It is the current location and a highly consistent café choice, making a nearby return or extended stay possible.",
+    "3604": "Another frequent café in the user’s routine, and the afternoon timing still supports a bakery/café visit in the same general area.",
+    "3995": "The user often shifts from morning coffee to a sweet afternoon stop, and this cupcake shop matches that pattern well.",
+    "2510": "A familiar Monday coffee venue that aligns with the user’s repeated weekday coffee behavior.",
+    "2339": "A nearby coffee shop in the user’s favored corridor, making it a reasonable continuation of the café-centered day.",
+    "2519": "A West Village dining option that fits the user’s clustered neighborhood movement and midday-to-afternoon social rhythm.",
+    "1613": "The user frequently combines afternoon wandering with bookstore stops, so a literary detour is plausible here.",
+    "792": "A bookstore-café hybrid that matches the user’s pattern of mixing coffee with browsing in Lower Manhattan."
+  },
+  "fallback": false
+}

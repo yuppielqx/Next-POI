@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_500",
+  "ranked_loc_ids": [
+    2778,
+    2777,
+    2779,
+    1099,
+    1946,
+    476,
+    22,
+    379,
+    2776,
+    2347
+  ],
+  "explanations": {
+    "2778": "The strongest evening pattern in this user’s history is a return to their Williamsburg residential anchor after Midtown work hours.",
+    "2777": "A recurring Williamsburg nightlife stop, and evening timing makes a cocktail bar highly plausible.",
+    "2779": "The user often clusters Williamsburg errands and grocery visits, which fit a post-work return home.",
+    "1099": "A familiar Williamsburg food venue that could follow a commute back to North Brooklyn for dinner.",
+    "1946": "Another Williamsburg bar option that matches the user’s evening social pattern.",
+    "476": "Evening leisure in Williamsburg is consistent with the user’s clustered North Brooklyn outings.",
+    "22": "Brooklyn Flea Williamsburg is a known Williamsburg destination, though it is less likely at this specific evening time.",
+    "379": "East River State Park fits the user’s Williamsburg area pattern but is more of a daytime leisure choice.",
+    "2776": "The office is a strong routine anchor, but the evening prior makes a return there less likely than heading home.",
+    "2347": "Very nearby to the office and possible as a short work-related transition, but still unlikely compared with Brooklyn-bound options."
+  },
+  "fallback": false
+}

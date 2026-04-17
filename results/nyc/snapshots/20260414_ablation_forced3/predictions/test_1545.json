@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1545",
+  "ranked_loc_ids": [
+    3479,
+    5276,
+    2516,
+    1953,
+    5266,
+    1105,
+    4098,
+    2,
+    1631,
+    337
+  ],
+  "explanations": {
+    "3479": "It is immediately adjacent to the last known location at University Pl and fits a likely late-evening coffee/meetup transition.",
+    "5276": "A neighboring Asian restaurant right by Ramen Takumi makes it a natural next stop for a nearby dinner continuation.",
+    "2516": "The user’s south-west movement and late-night downtown pattern favor another close-by dining venue in the same East Village orbit.",
+    "1953": "A very close food stop that matches the user’s history of quick nearby post-dinner errands and meals.",
+    "5266": "Pop Pub is a nearby casual food/social spot consistent with the user’s evening clustering and similar-user nightlife transitions.",
+    "1105": "An adjacent dessert stop is plausible after dinner, especially for a user with compact downtown evening movements.",
+    "4098": "Late-night social activity and the East Village setting make bowling and casual entertainment a reasonable nearby choice.",
+    "2": "A nearby upscale dinner venue remains possible given the strong evening dining prior and local movement trend.",
+    "1631": "A close-by tea room is a plausible short errand or meetup stop, though less likely than food or bar options.",
+    "337": "Similar-user behavior at this hour includes restaurant transitions, making this nearby New American option a lower-probability but viable choice."
+  },
+  "fallback": false
+}

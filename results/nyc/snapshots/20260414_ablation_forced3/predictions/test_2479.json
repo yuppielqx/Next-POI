@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2479",
+  "ranked_loc_ids": [
+    2722,
+    1475,
+    1245,
+    2360,
+    5676,
+    1242,
+    1237,
+    607,
+    231,
+    214
+  ],
+  "explanations": {
+    "2722": "The user’s strongest pattern is repeated morning returns to this exact hotel, and it is also the last known location with immediate continuity.",
+    "1475": "This is the other major anchor in the user’s hotel-centric Midtown routine and has strong morning and Monday support.",
+    "1245": "It is another hotel in the same Times Square corridor, making it a plausible nearby lodging transition.",
+    "2360": "The user has visited this hotel before, and it fits their pattern of occasional Midtown hotel switches.",
+    "5676": "It is a prior hotel in the user’s history, though much farther away and less consistent with the immediate Midtown trend.",
+    "1242": "A nearby Midtown hotel that matches the user’s lodging-heavy behavior, though with no direct history.",
+    "1237": "Morning hotel guests often make a nearby coffee stop, and this is extremely close to the current location.",
+    "607": "This is another very close morning-friendly coffee option within the same hotel-and-commute corridor.",
+    "231": "It sits directly at the current hotel address area, making it a plausible nearby food stop despite limited user evidence for dining.",
+    "214": "It is a nearby Midtown food option and the user has at least one prior visit, but hotels remain far more likely."
+  },
+  "fallback": false
+}

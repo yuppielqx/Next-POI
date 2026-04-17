@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1611",
+  "ranked_loc_ids": [
+    88,
+    557,
+    3013,
+    2711,
+    3900,
+    581,
+    1034,
+    1562,
+    5019,
+    1793
+  ],
+  "explanations": {
+    "88": "The user’s strongest weekday evening pattern centers on Port Authority, and after a 21:06 dinner stop nearby, a return to this transit hub is the most consistent next move.",
+    "557": "Their commute signature heavily favors the Lincoln Tunnel in the evening, making it a very likely outbound or transitional check-in right after dinner.",
+    "3013": "This is a recurring Midtown West social stop for the user, and late evening makes it a plausible follow-up to dinner in the same corridor.",
+    "2711": "Since it is the last known location, the user may remain there briefly or recheck nearby activity before moving on.",
+    "3900": "A nearby Midtown food stop fits the user’s habitual lunch/dinner corridor and is close to their established Times Square pattern.",
+    "581": "The user frequently uses Midtown casual dining spots, and this BBQ place matches their after-work dining behavior.",
+    "1034": "Pizza is a repeated theme in the user’s history, and this Midtown venue aligns with their evening food routine.",
+    "1562": "The user checked in at a gym earlier the same day, so an evening gym-related return remains plausible.",
+    "5019": "The profile includes suburban errand behavior, and a grocery stop in the broader New Jersey pattern is possible after leaving dinner.",
+    "1793": "Evening dining in Paramus fits the user’s New Jersey-side mobility and mall/restaurant errand pattern."
+  },
+  "fallback": false
+}

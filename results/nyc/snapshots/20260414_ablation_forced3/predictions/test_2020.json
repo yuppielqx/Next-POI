@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2020",
+  "ranked_loc_ids": [
+    4559,
+    132,
+    5395,
+    300,
+    2011,
+    1035,
+    2014,
+    1231,
+    1935,
+    59
+  ],
+  "explanations": {
+    "4559": "This is the strongest historical match, with the user repeatedly checking into Applebee's late at night and the target time aligning with their peak overnight pattern.",
+    "132": "The user has multiple late-night visits here and it sits in the same Flatbush Junction cluster as their most frequent anchor.",
+    "5395": "The user’s behavior is tightly centered on the Junction area, making the nearby anchor point a plausible return.",
+    "300": "This is another nearby retail stop in the same Brooklyn cluster and fits the user’s localized, routine movement style.",
+    "2011": "The user is currently here, so a short continuation or lingering stay is possible despite the weaker history.",
+    "1035": "The next move could be a nearby transit/shopping stop as the user shifts within the immediate Atlantic/Flatbush area.",
+    "2014": "The user may transition through this major nearby hub if they continue moving southeast.",
+    "1231": "This prominent nearby venue fits the late-night leisure context and is close to the current location.",
+    "1935": "The user has a nightlife-oriented pattern, so a nearby bar is a reasonable but less likely late-night option.",
+    "59": "A Manhattan nightlife trip is possible based on past behavior, but it is much less likely than returning to the Brooklyn home cluster."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1500",
+  "ranked_loc_ids": [
+    1146,
+    4889,
+    4888,
+    1335,
+    1652,
+    4694,
+    4828,
+    328,
+    2607,
+    600
+  ],
+  "explanations": {
+    "1146": "It is the user's dominant recurring racetrack destination and the strongest match for the 06:13 morning commuter-style return.",
+    "4889": "The user frequently makes early convenience stops here, and it fits the habitual morning circuit between nearby support locations and the racetrack.",
+    "4888": "The user just visited this gas station at 05:44, and a brief repeat or nearby follow-up stop in the same corridor is plausible.",
+    "1335": "It is a known occasional stop in the same Yonkers area, though far less consistent than the racetrack or deli.",
+    "1652": "A train station is plausible for an early weekday-style commute pattern, even though this user’s history is much more racetrack-centered.",
+    "4694": "Another commuter rail station in the nearby corridor, but with no personal history and weaker evidence than the top transit option.",
+    "4828": "This fits the early-morning commuter theme, but it is less aligned with the user's repeated Yonkers-centered routine.",
+    "328": "A quick morning food stop is possible, but it appears only as a nearby option without supporting history.",
+    "2607": "Early-morning coffee behavior could fit the time window, yet there is no direct history and it is not part of the core pattern.",
+    "600": "Another nearby deli/bodega option, but it is less historically reinforced than Dunwoodie Dairy and Deli."
+  },
+  "fallback": false
+}

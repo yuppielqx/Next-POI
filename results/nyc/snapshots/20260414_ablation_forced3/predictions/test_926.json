@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_926",
+  "ranked_loc_ids": [
+    2377,
+    505,
+    2033,
+    2591,
+    3991,
+    5704,
+    3993,
+    3994,
+    3238,
+    1054
+  ],
+  "explanations": {
+    "2377": "The user’s strongest evening pattern favors familiar post-work nightlife, and this is a known Manhattan evening venue that fits a Wednesday night unwind.",
+    "505": "A wine bar in Midtown West matches the user’s evening-oriented social behavior and the secondary possibility of moving north for drinks.",
+    "2033": "The user has prior visits here around evening hours, making it a plausible cultural stop after a morning workout.",
+    "2591": "It is an immediate nearby bar in Tribeca, aligning with the user’s habitual post-gym evening leisure in Lower Manhattan.",
+    "3991": "This bar fits the user’s recurring pattern of low-key evening dining and drinking, though it is in Brooklyn and slightly less likely.",
+    "5704": "Fitness is a dominant category for the user, and a same-day second workout remains plausible given the routine-driven profile.",
+    "3993": "A nearby downtown bar is consistent with a short south-west movement trend and an evening social check-in.",
+    "3994": "The user frequently returns to this office anchor, and an evening work-related stop in Lower Manhattan remains possible.",
+    "3238": "A repeat gym visit is strongly plausible given the user’s fitness habit, though a second same-day check-in is less likely than a bar.",
+    "1054": "A restaurant near Midtown West matches the post-work dining pattern, but it is farther from the last location than the top choices."
+  },
+  "fallback": false
+}

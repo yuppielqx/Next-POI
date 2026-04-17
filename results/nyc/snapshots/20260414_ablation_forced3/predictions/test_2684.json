@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2684",
+  "ranked_loc_ids": [
+    5762,
+    3565,
+    4470,
+    58,
+    1026,
+    1446,
+    5652,
+    3753,
+    3592,
+    3505
+  ],
+  "explanations": {
+    "5762": "This is the user’s dominant anchor and the strongest late-night return destination, especially given the recent check-in there and the 00:41 timing.",
+    "3565": "It is extremely close to Woodstock Tower and sits within the user’s core Midtown East routine area.",
+    "4470": "A recurring nearby dive bar fits the user’s nightlife pattern and is plausible after a short late-night outing.",
+    "58": "Grand Central is another frequent nearby Midtown East stop and matches a compact movement pattern around the anchor.",
+    "1026": "It is close to the user’s base and aligns with their dining history, making it a reasonable nearby continuation.",
+    "1446": "This nearby bar fits the user’s social nightlife preferences and is within easy reach of the last location.",
+    "5652": "A nearby CVS-type stop is plausible for a late-night routine errand in the immediate Midtown East area.",
+    "3753": "As a nearby bar, it matches the late-night behavioral profile, though it lacks direct history.",
+    "3592": "A close Midtown East coffee stop is possible if the user is winding down or making a quick nearby stop.",
+    "3505": "This nearby restaurant is feasible as a late-night dining option, but it is less consistent than the top-ranked recurring places."
+  },
+  "fallback": false
+}

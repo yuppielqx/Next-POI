@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2154",
+  "ranked_loc_ids": [
+    5495,
+    1494,
+    2547,
+    2251,
+    5380,
+    5496,
+    1480,
+    4885,
+    1458,
+    4198
+  ],
+  "explanations": {
+    "5495": "It is extremely close, frequently visited in the morning slot, and fits a likely neighborhood errand after the Rite Aid stop.",
+    "1494": "This is a very strong habitual Astoria stop with multiple 9–11 a.m. visits and is near the current location.",
+    "2547": "The user was just there earlier, and a short return is plausible given the same-area movement trend.",
+    "2251": "This is the dominant transit anchor in the user’s history and is only a short walk away.",
+    "5380": "A nearby utilitarian stop that matches the user’s practical weekday errand pattern.",
+    "5496": "It is a frequent neighborhood errand location for this user and sits within the same Astoria cluster.",
+    "1480": "A common nearby food stop that could follow a morning pharmacy visit.",
+    "4885": "A repeated late-morning grocery destination, though slightly farther than the closest neighborhood options.",
+    "1458": "The user’s morning-oriented routine makes a nearby coffee stop plausible.",
+    "4198": "It is a nearby grocery option that fits the user’s utilitarian movement style, though with less direct history than the top choices."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2535",
+  "ranked_loc_ids": [
+    3502,
+    652,
+    4360,
+    510,
+    4276,
+    641,
+    4511,
+    3231,
+    359,
+    88
+  ],
+  "explanations": {
+    "3502": "The user is still in Lower Manhattan near the ferry corridor, and this government/transit-adjacent building is an immediate nearby move from the last known point.",
+    "652": "The strongest transit prior keeps them at or returning to the ferry terminal area during this morning segment.",
+    "4360": "This is the last known nearby point and likely represents a continued stay within the same ferry-related cluster.",
+    "510": "It is extremely close to the current location and fits a southbound Lower Manhattan continuation.",
+    "4276": "A quick coffee stop near the ferry area is plausible for an early-morning transfer.",
+    "641": "The user has a history of leisure stops, and this nearby waterfront park fits the downtown movement corridor.",
+    "4511": "A Manhattan coffee stop is consistent with a morning transit break, though farther away than downtown options.",
+    "3231": "This is a nearby Tribeca destination that matches a short south-to-north downtown wander.",
+    "359": "Tribeca is still a plausible nearby continuation from Lower Manhattan transit activity.",
+    "88": "The user has prior hub-based travel patterns, but this is less likely than immediate downtown transfer options."
+  },
+  "fallback": false
+}

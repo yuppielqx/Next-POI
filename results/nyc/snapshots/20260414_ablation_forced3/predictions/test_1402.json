@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1402",
+  "ranked_loc_ids": [
+    684,
+    538,
+    933,
+    3007,
+    4217,
+    237,
+    3185,
+    88,
+    3104,
+    3496
+  ],
+  "explanations": {
+    "684": "It is essentially adjacent to the last stop, and the user has a strong evening entertainment pattern in Midtown.",
+    "538": "A same-area indoor continuation fits the short time gap and nearby movement trend.",
+    "933": "Extremely close to Rockefeller Center, making it a plausible quick browse stop in the complex.",
+    "3007": "A natural immediate follow-up for a brief night-time pause without leaving the area.",
+    "4217": "Nearby theater activity aligns with the user’s arts-and-entertainment evening habits.",
+    "237": "This is the strongest historical repeat venue, though it is a slightly less immediate fit from Rockefeller Center.",
+    "3185": "A nearby Midtown dining option that matches the user’s food-and-evening chaining behavior.",
+    "88": "Close enough to be reachable, but less consistent with the user’s leisure-oriented pattern.",
+    "3104": "A plausible Midtown dinner stop in the user’s favored Koreatown corridor.",
+    "3496": "Fits the late-night food-and-social pattern, though it is a bit less favored than the closest options."
+  },
+  "fallback": false
+}

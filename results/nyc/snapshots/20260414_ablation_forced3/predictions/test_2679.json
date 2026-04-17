@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2679",
+  "ranked_loc_ids": [
+    2889,
+    1820,
+    1110,
+    3989,
+    3430,
+    1521,
+    1104,
+    3218,
+    1351,
+    4663
+  ],
+  "explanations": {
+    "2889": "The user is highly routine and strongly anchored to this gym, and the Tuesday morning prior fits their most common fitness pattern.",
+    "1820": "A nearby breakfast stop that matches the user’s morning routine and is a common post-gym or pre-work choice in the same corridor.",
+    "1110": "The user frequently uses this grocery store, and the current trip already ended there, making a practical repeat or immediate errand plausible.",
+    "3989": "Similar users around this time often head to workout venues, and this is a very close fitness alternative in the same neighborhood.",
+    "3430": "Another gym option supported by similar-user transitions, with the morning time slot favoring fitness-related movement.",
+    "1521": "A breakfast bakery close to the user’s core area that fits a structured weekday morning routine after exercise.",
+    "1104": "A breakfast spot in the user’s broader downtown/NoHo corridor, consistent with a morning meal after gym activity.",
+    "3218": "A nearby stop in the Flatiron area that could follow an errand or workout, though it is less routine than the top food and fitness options.",
+    "1351": "The user has shown some interest in dining, and this nearby BBQ spot fits the corridor even if it is less likely at morning time.",
+    "4663": "It is extremely close to the last location and could be a convenient short move, but it is not as strongly supported by the user’s routine."
+  },
+  "fallback": false
+}

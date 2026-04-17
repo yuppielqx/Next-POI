@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_114",
+  "ranked_loc_ids": [
+    882,
+    883,
+    881,
+    880,
+    5448,
+    4803,
+    3614,
+    932,
+    5445,
+    3590
+  ],
+  "explanations": {
+    "882": "This is the user’s dominant recurring anchor and the strongest morning-time destination, making it the most likely next stop.",
+    "883": "The user has a clear gym routine and was just at this gym during the same morning window the day before.",
+    "881": "This is another highly consistent morning fitness destination that fits the user’s weekday exercise pattern.",
+    "880": "A nearby morning coffee/quick-stop option that could plausibly follow a routine Queens commute or errand.",
+    "5448": "Morning-oriented users often stop for coffee, and this nearby Queens café matches the 9 a.m. timing.",
+    "4803": "A practical nearby errand destination that fits a routine weekday morning pattern.",
+    "3614": "Convenient local stop in the user’s Queens core, plausible for a quick morning visit.",
+    "932": "A nearby breakfast-friendly option that aligns with the strong morning temporal prior.",
+    "5445": "A local Queens food stop within the user’s habitual area, though less likely than fitness or anchor locations.",
+    "3590": "Another nearby dining option in the same Queens cluster, but lower priority than routine anchors."
+  },
+  "fallback": false
+}

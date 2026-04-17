@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1630",
+  "ranked_loc_ids": [
+    5036,
+    5035,
+    1990,
+    5033,
+    2137,
+    2421,
+    1812,
+    3783,
+    349,
+    788
+  ],
+  "explanations": {
+    "5036": "The strongest same-time signal points to a return to this nearby fitness center, and the user was just at a fitness location last stop.",
+    "5035": "This is the best historical evening gym match, especially given the user’s repeated 6–8pm fitness pattern and weekday routine.",
+    "1990": "A very frequent habitual stop in the same downtown corridor, plausible for a post-gym coffee or transition.",
+    "5033": "The user often returns to this nearby pizza anchor, and it fits a casual evening meal after fitness.",
+    "2137": "A top repeat venue overall, though it is farther away than the downtown options.",
+    "2421": "A repeated café visit in the immediate neighborhood, making it a plausible low-commitment follow-up.",
+    "1812": "A recurring New American dining spot that fits the user’s evening routine and Manhattan movement pattern.",
+    "3783": "Extremely close to the last location and consistent with the user’s café-heavy behavior, though lacking prior history.",
+    "349": "A known evening leisure option that aligns with the user’s occasional entertainment outings.",
+    "788": "A nightlife-oriented stop that could follow an evening gym session, but it is less supported than the stronger routine places."
+  },
+  "fallback": false
+}

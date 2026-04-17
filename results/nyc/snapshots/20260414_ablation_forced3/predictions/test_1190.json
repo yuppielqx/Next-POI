@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1190",
+  "ranked_loc_ids": [
+    927,
+    692,
+    4497,
+    1660,
+    5641,
+    3601,
+    1671,
+    800,
+    3614,
+    660
+  ],
+  "explanations": {
+    "927": "This is the user’s strongest recurring weekday anchor and is only steps from the last known location, making it the most likely immediate next stop.",
+    "692": "The user is already in Woodside and often remains within this neighborhood cluster during commute windows.",
+    "4497": "A nearby western Queens area that fits the user’s tight local travel radius and routine movement pattern.",
+    "1660": "The LIRR Woodside Station is essentially adjacent and could plausibly be reached during a transit-oriented evening transition.",
+    "5641": "A very close food stop by the station that matches the user’s occasional meal/snack behavior near transit.",
+    "3601": "Nearby and reachable on foot, though less aligned with the user’s mainly commute-focused history than transit or quick food.",
+    "1671": "Another 7-line station in the same corridor, plausible if the user is continuing along the rail line.",
+    "800": "A local dining option in the Woodside area that fits a short errand or meal stop.",
+    "3614": "A convenient neighborhood stop consistent with brief routine purchases in a commuter setting.",
+    "660": "A nearby coffee stop that matches the user’s occasional cafe pattern, though less likely at this evening time."
+  },
+  "fallback": false
+}

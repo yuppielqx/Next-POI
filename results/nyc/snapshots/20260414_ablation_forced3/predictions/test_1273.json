@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1273",
+  "ranked_loc_ids": [
+    2491,
+    908,
+    221,
+    3988,
+    22,
+    2295,
+    4624,
+    1755,
+    25
+  ],
+  "explanations": {
+    "2491": "The user is already at this coffee shop, making a short same-area continuation highly plausible.",
+    "908": "It is immediately nearby and matches the user’s frequent social, low-friction neighborhood transitions.",
+    "221": "A nearby casual restaurant fits the midday food-seeking behavior and northeast movement trend.",
+    "3988": "The user has a nightlife-heavy profile and this close venue fits their tendency to chain local outings.",
+    "22": "Smorgasburg-style food aligns with the Sunday afternoon timing and nearby exploratory food pattern.",
+    "2295": "A nearby casual food stop is consistent with their lunch-oriented, clustered mobility style.",
+    "4624": "Repeated history at San Loco makes a burrito stop plausible, though this specific branch is less immediate.",
+    "1755": "A nearby cocktail bar is possible given the user’s leisure-focused profile, but it is a bit less time-typical.",
+    "25": "This close casual food option fits the user’s late-day snacking habits, though it is less directly supported than the top choices."
+  },
+  "fallback": false
+}

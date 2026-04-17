@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2677",
+  "ranked_loc_ids": [
+    2889,
+    1110,
+    1820,
+    887,
+    1260,
+    1521,
+    2337,
+    26,
+    154,
+    1104
+  ],
+  "explanations": {
+    "2889": "This is the user’s strongest habitual destination, especially for Tuesday morning visits in the Flatiron/NoMad corridor.",
+    "1110": "A frequent morning grocery stop that fits the user’s structured daytime routine and nearby movement pattern.",
+    "1820": "A recurring breakfast spot that matches the 10:37 morning prior and the user’s established breakfast-after-gym behavior.",
+    "887": "It is directly adjacent to the last known Union Square location, making it a very plausible short next hop during the morning.",
+    "1260": "The nearby Union Square subway station fits a brief east/north movement and a possible transit-linked transition.",
+    "1521": "A close bakery/breakfast option that aligns with the user’s morning food pattern in the same neighborhood.",
+    "2337": "Very near the current area and consistent with the user’s occasional daytime dining in the Flatiron/NoMad zone.",
+    "26": "A nearby American lunch option that matches the user’s food preferences and daytime timing.",
+    "154": "The user has visited this home-store category before, and it remains a plausible errands stop within a broader south-of-Midtown routine.",
+    "1104": "A breakfast spot in the nearby downtown/NoMad orbit, less likely than the top morning staples but still consistent with prior behavior."
+  },
+  "fallback": false
+}

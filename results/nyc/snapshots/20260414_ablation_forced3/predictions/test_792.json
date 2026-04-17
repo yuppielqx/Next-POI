@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_792",
+  "ranked_loc_ids": [
+    3653,
+    3652,
+    1445,
+    1069,
+    1442,
+    3013,
+    2794,
+    583,
+    548,
+    814
+  ],
+  "explanations": {
+    "3653": "This is the strongest historical match with heavy Monday-night and midnight-to-2am repeat visitation, and it is extremely close to the current Times Square location.",
+    "3652": "The user visits this Midtown spot very frequently, including on Mondays, and it fits the expected post-dinner nightlife transition.",
+    "1445": "This bar is a recurring late-night venue in the same entertainment corridor and aligns well with the user's nightlife-heavy pattern.",
+    "1069": "The user has already visited this bar in the current trip, making a return or continued stay plausible in the same clustered nightlife zone.",
+    "1442": "The user is currently here, and a short stay before moving to nearby nightlife is consistent with their dining-to-bar sequence.",
+    "3013": "It is a very nearby pub in the same Times Square bar corridor, making it a natural late-night follow-up destination.",
+    "2794": "This nearby bar fits the user’s after-dark entertainment pattern and is close enough to support a short move northeast.",
+    "583": "A Midtown bar with a strong nightlife profile, it matches the user's typical late-evening venue choices.",
+    "548": "This lounge is within the user's favored Midtown nightlife footprint and is a plausible next stop for a late-night outing.",
+    "814": "This nearby gay bar fits the user's bar-centric nightlife behavior and remains within the same compact entertainment district."
+  },
+  "fallback": false
+}

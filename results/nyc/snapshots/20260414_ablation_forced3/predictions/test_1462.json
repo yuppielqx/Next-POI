@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1462",
+  "ranked_loc_ids": [
+    4834,
+    4838,
+    4839,
+    4837,
+    1994,
+    4836,
+    4446,
+    4840,
+    477,
+    4449
+  ],
+  "explanations": {
+    "4834": "This is the strongest historical evening commute destination and best matches the user’s regular northbound/southbound corridor movement.",
+    "4838": "It is a frequent weekday stop near the user’s Columbia-area routine and is close enough to be a likely post-campus visit.",
+    "4839": "The user was just here and often remains within Columbia-related locations around this time.",
+    "4837": "This Bronx destination fits the commute corridor and the user’s history of occasional Bronx-side food stops.",
+    "1994": "A nearby casual dining option that aligns with the user’s midday/evening campus-area patterns.",
+    "4836": "A plausible nearby meal stop for a commuter leaving the Columbia area.",
+    "4446": "Another Columbia campus building that fits short intra-campus movement after Knox Hall.",
+    "4840": "Very close to the last location and consistent with routine restaurant visits in Morningside Heights.",
+    "477": "A broad nearby academic destination that matches the user’s strong campus anchor.",
+    "4449": "A nearby coffee shop that could plausibly be visited during a short transition on campus."
+  },
+  "fallback": false
+}

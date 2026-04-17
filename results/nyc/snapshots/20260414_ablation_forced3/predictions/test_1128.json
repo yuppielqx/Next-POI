@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1128",
+  "ranked_loc_ids": [
+    2653,
+    4382,
+    4380,
+    4385,
+    114,
+    4381,
+    125,
+    1666,
+    3399,
+    4384
+  ],
+  "explanations": {
+    "2653": "This is the user’s strongest habitual anchor and the best match for a Tuesday evening return to the Upper Manhattan transit corridor.",
+    "4382": "A very frequent weekday stop in the same 145th Street orbit, making it a natural follow-up to transit.",
+    "4380": "Grocery errands are part of the user’s tight neighborhood routine, and this nearby Upper Manhattan store fits the usual evening pattern.",
+    "4385": "Laundry is one of the user’s recurring neighborhood tasks and often clusters with other 145th Street-area stops.",
+    "114": "The user is currently here, so a continued transit move or transfer is still plausible.",
+    "4381": "As another Brooklyn transit hub, it is a reasonable next step if the user remains in a subway transfer flow.",
+    "125": "This nearby Brooklyn train station fits the user’s strong transit behavior and Tuesday travel rhythm.",
+    "1666": "A transit location matches the user’s subway-heavy profile, though it is less consistent with the Upper Manhattan routine.",
+    "3399": "A practical errand stop near the current Brooklyn area, but less central than the transit options.",
+    "4384": "This is within the user’s habitual 145th Street neighborhood, but it is a weaker match than the core subway, food, and grocery anchors."
+  },
+  "fallback": false
+}

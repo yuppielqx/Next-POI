@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2034",
+  "ranked_loc_ids": [
+    971,
+    3742,
+    970,
+    5410,
+    58,
+    2086,
+    3996,
+    4607,
+    2074
+  ],
+  "explanations": {
+    "971": "It is the strongest commute anchor in the user’s history and is explicitly favored by the time-conditioned prior for Friday evening.",
+    "3742": "The user is already at this exact ferry terminal, and their repeated weekday ferry routine makes a return here highly plausible.",
+    "970": "It is another nearby ferry-terminal option that fits the user’s waterfront transit pattern and evening commute corridor.",
+    "5410": "The user often pairs ferry travel with a Midtown coffee/breakfast stop, so this remains a meaningful routine-related option.",
+    "58": "Grand Central Terminal is a practical commuter hub and matches the user’s transit-heavy, workday-oriented movement style.",
+    "2086": "This nearby Midtown West food stop is plausible as a brief utilitarian stop within the user’s narrow Manhattan corridor.",
+    "3996": "A nearby café fits the user’s pattern of small practical stops around commute times, though it is less supported than the core transit locations.",
+    "4607": "A pharmacy is a realistic weekday errand stop in the same area, but it is not strongly indicated by the user’s repeated ferry pattern.",
+    "2074": "This nearby waterfront location is consistent with the user’s west-side corridor movement, though it is more of a secondary fit than the transit hubs."
+  },
+  "fallback": false
+}

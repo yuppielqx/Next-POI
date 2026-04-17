@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_168",
+  "ranked_loc_ids": [
+    1168,
+    46,
+    114,
+    1249,
+    1241,
+    59,
+    1235,
+    1255,
+    1253,
+    1257
+  ],
+  "explanations": {
+    "1168": "It is the user's current location, a top historical revisit point, and the strongest fit for a late-night return within the Bronx 6-line corridor.",
+    "46": "The user repeatedly uses transit hubs on Sunday midnight hours, and this Brooklyn station is one of their most frequent overnight-relevant nodes.",
+    "114": "This bridge station is a recurring transfer point in the user's transit pattern and fits a move toward a major rail connector.",
+    "1249": "The user heavily revisits this Midtown subway stop, making it a plausible next transit check-in after a Bronx-origin movement.",
+    "1241": "As a subway station with some history of visits, it matches the user's infrastructure-focused behavior even if it is less central than the Bronx and Brooklyn nodes.",
+    "59": "This high-frequency Manhattan anchor appears often in the user's history and is consistent with transit-linked movement through Midtown.",
+    "1235": "The user commonly passes through the Times Square/Theater District area, so this nearby landmark remains a plausible stop.",
+    "1255": "The user has used major subway nodes in Manhattan before, and this downtown station fits a route through core transit infrastructure.",
+    "1253": "It is very close to the last location and could be a brief overnight stop, though it is much less consistent with the user's transit-only profile.",
+    "1257": "It is also nearby in the Bronx, but the user's history favors transit hubs over destination venues, making this a weaker backup choice."
+  },
+  "fallback": false
+}

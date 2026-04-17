@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2480",
+  "ranked_loc_ids": [
+    1475,
+    2722,
+    2360,
+    1245,
+    5676,
+    214,
+    1444,
+    5720,
+    3805,
+    4212
+  ],
+  "explanations": {
+    "1475": "It is the last known location, matches the user’s strongest hotel-centric pattern, and is the most likely immediate return at this short time gap.",
+    "2722": "This is the user’s other main anchor hotel and a highly repeated Midtown stay pattern makes a return there plausible.",
+    "2360": "It is a nearby Midtown hotel in the user’s historic set of stays, fitting the strong preference for hotel revisits.",
+    "1245": "The user has visited this Times Square-area hotel before, and it remains a reasonable alternative within the same hospitality corridor.",
+    "5676": "It is a known repeat hotel in the user’s history, though its Queens location makes it less likely than Midtown options.",
+    "214": "Similar-user signals suggest evening food stops are possible, but this user’s own history is overwhelmingly hotel-focused.",
+    "1444": "A nearby Japanese restaurant could fit an evening meal detour, though the user rarely deviates from hotels.",
+    "5720": "This close Midtown café is a plausible short evening stop, especially if the user is moving within the hotel corridor.",
+    "3805": "Coffee-chain behavior appears in the history, but this specific Queens location is far from the current Midtown context.",
+    "4212": "A nearby Starbucks-like stop is possible, but non-hotel venues remain much weaker than returning to a hotel."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1192",
+  "ranked_loc_ids": [
+    4503,
+    2095,
+    320,
+    4152,
+    1569,
+    58,
+    70,
+    1850,
+    543,
+    998
+  ],
+  "explanations": {
+    "4503": "This is the strongest morning café anchor in the user’s history and fits the 09:48 weekday routine near East Midtown.",
+    "2095": "The user just checked in here and it is one of their most frequent Midtown anchors, making a short return very plausible.",
+    "320": "Strong weekday morning history and a close match to the East Midtown commute pattern, so this is a likely office-area move.",
+    "4152": "A Starbucks in the same Lexington Ave corridor, and the user’s morning coffee behavior makes this a natural next stop.",
+    "1569": "Another morning coffee option in the user’s core Midtown zone, consistent with similar-user patterns at this time.",
+    "58": "Grand Central Terminal is a commuter hub near the user’s core route and fits a morning transition in East Midtown.",
+    "70": "The Grand Central Post Office is nearby and aligned with the user’s clustered weekday Midtown movement.",
+    "1850": "The user has retail patterns in Midtown, and this nearby shopping stop is geographically and behaviorally plausible.",
+    "543": "This Rockefeller Center retail location matches the user’s Midtown shopping tendency and core area.",
+    "998": "Although already visited, the user has a repeated gym habit and could return again after the early-morning check-in."
+  },
+  "fallback": false
+}

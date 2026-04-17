@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_729",
+  "ranked_loc_ids": [
+    3510,
+    133,
+    3512,
+    3511,
+    3513,
+    3088,
+    3528,
+    2294,
+    1031,
+    1536
+  ],
+  "explanations": {
+    "3510": "The strongest prior is a short morning return to the user’s main residence, which is only minutes away and heavily dominates their history.",
+    "133": "It is extremely close to the last location and fits a routine commuter move toward a nearby subway stop.",
+    "3512": "A nearby grocery stop is plausible for a Sunday morning errand and matches the user’s tight Brooklyn activity cluster.",
+    "3511": "This train station is one of the user’s core transit anchors and is a common short-hop destination from the home base.",
+    "3513": "A pharmacy run is consistent with the user’s local, utilitarian neighborhood pattern and close distance.",
+    "3088": "Another nearby pharmacy option that fits a brief morning outing without leaving the Brooklyn cluster.",
+    "3528": "The user frequently favors transit nodes, and this nearby station aligns with a routine mobility chain.",
+    "2294": "The user has visited this local recreational spot before, and it is close enough for a short Sunday morning trip.",
+    "1031": "A nearby bagel shop fits the morning time prior and the user’s recurring food-stop behavior.",
+    "1536": "This is a plausible transit move within the user’s habitual Brooklyn corridor, though slightly farther than the top nearby options."
+  },
+  "fallback": false
+}

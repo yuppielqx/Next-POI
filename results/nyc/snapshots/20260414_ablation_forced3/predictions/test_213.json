@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_213",
+  "ranked_loc_ids": [
+    1235,
+    1462,
+    1442,
+    59,
+    1167,
+    288,
+    1430,
+    1428,
+    1443,
+    274
+  ],
+  "explanations": {
+    "1235": "The next check-in is one minute later and the strongest prior is that the user remains at or immediately beside the last known Times Square location.",
+    "1462": "It is essentially co-located with the Marriott Marquis/Times Square cluster and the user already checked in there at the same moment.",
+    "1442": "Friday evening and the user’s history favor nearby dining in Times Square, making this a likely immediate move.",
+    "59": "The user is still in the same theater-district area, so a generic Times Square check-in is a plausible next step.",
+    "1167": "This nearby retail stop fits the immediate Times Square wandering pattern after a hotel/store check-in.",
+    "288": "A very common Friday evening venue in the user’s history, though slightly farther than the closest Times Square options.",
+    "1430": "Strong Midtown East weekday pattern and close proximity make this a plausible return if heading east from Times Square.",
+    "1428": "Another familiar Midtown bar the user revisits often around evening hours.",
+    "1443": "The user favors Irish pubs in the evening, and this nearby Midtown option matches that behavior.",
+    "274": "A nearby Midtown destination that fits a short northward transition from the current area."
+  },
+  "fallback": false
+}

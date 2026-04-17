@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2245",
+  "ranked_loc_ids": [
+    590,
+    1930,
+    3096,
+    3460,
+    958,
+    4074,
+    1578,
+    3218,
+    3536,
+    192
+  ],
+  "explanations": {
+    "590": "It is the strongest recurrent evening anchor in the user’s history and is essentially adjacent to the last stop, fitting a short eastward continuation.",
+    "1930": "Another frequent gym anchor for this user in the same downtown corridor, making a workout follow-up highly plausible.",
+    "3096": "The user repeatedly returns to ITP and it fits their Greenwich Village/NoHo routine later in the day.",
+    "3460": "A known evening-friendly restaurant in the user’s orbit, and the time aligns well with a dinner or late snack stop.",
+    "958": "The user often visits bars in the evening, and this nearby pub matches their nightlife pattern.",
+    "4074": "A close Manhattan restaurant option that fits a post-work dinner transition from the current location.",
+    "1578": "The user’s profile supports evening dining and social stops in Meatpacking, a familiar area for them.",
+    "3218": "Extremely close to the last location and consistent with the user’s evening bar-going behavior.",
+    "3536": "A plausible nearby café stop for a quick evening coffee or meeting, given the user’s café-heavy pattern.",
+    "192": "A nearby Greenwich Village destination that fits the user’s downtown mobility and evening stroll pattern."
+  },
+  "fallback": false
+}

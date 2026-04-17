@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_267",
+  "ranked_loc_ids": [
+    1789,
+    863,
+    1792,
+    3772,
+    4494,
+    4145,
+    5685,
+    4493,
+    1149,
+    1788
+  ],
+  "explanations": {
+    "1789": "It is the last known location, matches the user’s established repeat-visit pattern, and is the strongest return-to-frequent-place candidate.",
+    "863": "It is extremely close to Staples and fits the user’s recurring casual dining and late-day outing pattern in Clifton.",
+    "1792": "It is right next to the current cluster on Kingsland Rd and fits a typical Sunday afternoon errand chain.",
+    "3772": "It is adjacent to the last location and aligns with a likely retail stop in the same shopping corridor.",
+    "4494": "It is very nearby and matches the user’s frequent restaurant-oriented transitions around Clifton.",
+    "4145": "This nearby restaurant fits the same immediate retail/meal zone and could be a short follow-up stop.",
+    "5685": "It is within the same Clifton strip and is consistent with an afternoon food visit after errands.",
+    "4493": "It is close to Staples and fits the user’s localized suburban shopping behavior.",
+    "1149": "It is a nearby general retail option that matches the user’s errand-driven mobility style.",
+    "1788": "Home is a plausible later-day destination for this user, but the immediate post-Staples pattern makes it less likely than nearby errands or food."
+  },
+  "fallback": false
+}

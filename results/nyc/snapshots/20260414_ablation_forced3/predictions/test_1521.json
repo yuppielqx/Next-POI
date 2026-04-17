@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1521",
+  "ranked_loc_ids": [
+    4916,
+    4917,
+    4919,
+    4913,
+    88,
+    557,
+    4915,
+    3285,
+    817,
+    3282
+  ],
+  "explanations": {
+    "4916": "The user’s repeated early-morning return pattern and the current northwest commute trajectory make home the most likely immediate next stop.",
+    "4917": "A plausible commuter-transfer point on the way back into the Rutherford area, especially given the user’s transit-heavy routine.",
+    "4919": "Early morning timing strongly fits this breakfast stop, which appears frequently in the user’s 6–8 AM pattern.",
+    "4913": "The user is already at this repeated route point, so a brief continuation or re-check-in here is highly possible.",
+    "88": "A core hub in the user’s regular cross-Hudson loop, though less likely now that they’re heading back toward New Jersey.",
+    "557": "Another highly recurrent transit node in the commute chain, but the current direction suggests moving away from Manhattan rather than back toward it.",
+    "4915": "This bus line fits the established morning commute sequence and could be the next transit step after Route 3.",
+    "3285": "Weekend-morning nightlife carryover is possible given the user’s social pattern, though it is less likely than commuter destinations.",
+    "817": "A recurring leisure venue in the user’s history, but the current time and direction favor commuting over nightlife.",
+    "3282": "Similar-user transitions make this a weak regional possibility, but it is less consistent with the user’s Rutherford-centered routine."
+  },
+  "fallback": false
+}

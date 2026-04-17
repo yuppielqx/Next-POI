@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2634",
+  "ranked_loc_ids": [
+    718,
+    1100,
+    4654,
+    5603,
+    190,
+    720,
+    4532,
+    1965,
+    3754,
+    4680
+  ],
+  "explanations": {
+    "718": "It is the closest clear nightlife option near the last stop and fits a Saturday late-night bar-hopping pattern in Williamsburg.",
+    "1100": "Very nearby and consistent with a late-evening food-and-drink continuation after Roebling Tea Room.",
+    "4654": "Close to the current Brooklyn nightlife cluster and plausible for a casual nightcap or late dinner.",
+    "5603": "Another nearby Williamsburg dining spot that could follow a bar visit at this hour.",
+    "190": "A likely revisit because it is the last known location and still matches the same nightlife flow.",
+    "720": "Fits the user’s broader lounge/nightlife behavior, though it requires a bigger move into Manhattan.",
+    "4532": "A nightlife venue that matches the evening profile and is more plausible than non-nightlife anchors.",
+    "1965": "A Lower East Side nightlife/dining option that aligns with the south-east movement trend.",
+    "3754": "A late-night restaurant possibility, but less likely than bars and lounges for this time.",
+    "4680": "Nearby and convenient, but it is less consistent with the user’s late Saturday nightlife pattern."
+  },
+  "fallback": false
+}

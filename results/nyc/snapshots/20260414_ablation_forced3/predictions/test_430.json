@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_430",
+  "ranked_loc_ids": [
+    2533,
+    2534,
+    2542,
+    2532,
+    576,
+    2536,
+    2546,
+    2548,
+    383,
+    3977
+  ],
+  "explanations": {
+    "2533": "It is the user's strongest recurring Midtown East coffee anchor and the time prior strongly favors a return to this exact weekday midday stop.",
+    "2534": "It is immediately adjacent to the last known coffee shop and fits the user's Midtown East workday corridor pattern.",
+    "2542": "This is another very frequent breakfast/coffee venue in the same block-level cluster around 3rd Ave.",
+    "2532": "The user often visits this nearby lunchtime sandwich spot in the noon-to-2pm window.",
+    "576": "It is a nearby office-area retail stop the user has visited before, consistent with a short errand after coffee.",
+    "2536": "This nearby Midtown East lunch/errand option matches the user's corridor-based daytime movement.",
+    "2546": "The user has a history of nearby midday pharmacy/errand visits, making this a plausible next stop.",
+    "2548": "It is a close food option in the same area and the user has checked in there before.",
+    "383": "A nearby retail destination that fits the user's occasional office-area shopping pattern.",
+    "3977": "It is the closest nearby unseen location and could plausibly be an office-area building visit after the coffee stop."
+  },
+  "fallback": false
+}

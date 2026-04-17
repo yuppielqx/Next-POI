@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1417",
+  "ranked_loc_ids": [
+    1230,
+    925,
+    924,
+    4799,
+    932,
+    704,
+    123,
+    4798,
+    1229,
+    1228
+  ],
+  "explanations": {
+    "1230": "Saturday evening strongly favors a leisure stop, and this is one of the user’s repeated weekend destinations nearby.",
+    "925": "The user often returns here in the 6–8pm window, making it a strong familiar evening anchor in central Queens.",
+    "924": "Convenience-store stops fit the user’s late-day pattern and this location has repeated evening visits.",
+    "4799": "Although more morning-oriented, this is a habitual brand for the user and a plausible quick stop before evening plans.",
+    "932": "The user was just here at 12:40 and a return to a known diner remains plausible for Saturday evening.",
+    "704": "Similar users frequently transition here around this time, and it is very close to the current area.",
+    "123": "Evening shopping activity is possible, especially on a Saturday and near the current location.",
+    "4798": "A casual dinner venue in the same Glendale/Queens cluster fits the user’s dining-and-leisure pattern.",
+    "1229": "Another nearby casual dining option that matches a weekend evening meal pattern.",
+    "1228": "A nearby retail/leisure destination that could follow the user’s north-west movement trend."
+  },
+  "fallback": false
+}

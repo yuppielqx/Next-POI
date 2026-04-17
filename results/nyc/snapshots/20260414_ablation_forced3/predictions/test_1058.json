@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1058",
+  "ranked_loc_ids": [
+    4259,
+    3664,
+    823,
+    743,
+    2743,
+    4513,
+    478,
+    5640,
+    557
+  ],
+  "explanations": {
+    "4259": "This is the strongest historical anchor with the highest revisit count and fits the user’s highly routine, utilitarian Secaucus pattern.",
+    "3664": "It is the other core recurring waypoint in the user’s early-morning commute-like routine and is closely paired with UPS.",
+    "823": "Walmart is a frequent secondary stop in this user’s Secaucus cluster and matches their practical shopping behavior.",
+    "743": "The user is currently here, so a short continuation of the night out is plausible despite it being outside their usual routine.",
+    "2743": "A nearby late-night pharmacy stop is plausible in Times Square, especially after visiting nightlife venues.",
+    "4513": "Fast-food stops are common around midnight and fit the current Midtown context better than leisure venues.",
+    "478": "A 24-hour or late-open coffee stop is a reasonable nearby utilitarian choice after being in the Times Square area.",
+    "5640": "This nearby deli/bodega fits a practical late-night impulse stop in Midtown Manhattan.",
+    "557": "Given the user’s south-east movement trend and New Jersey-oriented travel history, a transit move back toward NJ is possible."
+  },
+  "fallback": false
+}

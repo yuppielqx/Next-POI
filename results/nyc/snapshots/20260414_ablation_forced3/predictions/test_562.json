@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_562",
+  "ranked_loc_ids": [
+    3006,
+    1198,
+    696,
+    557,
+    59,
+    3007,
+    75,
+    1318,
+    3010,
+    1983
+  ],
+  "explanations": {
+    "3006": "This is the strongest habitual anchor in the user’s history and fits the common Friday mid-afternoon return pattern after Manhattan outings.",
+    "1198": "A likely transit step if the user is heading back toward Jersey City from Manhattan around this time.",
+    "696": "The user frequently uses cross-Hudson routes, and a south-east movement trend supports a return crossing.",
+    "557": "Another recurring connector for Jersey City/Manhattan travel, though slightly less aligned than Holland Tunnel here.",
+    "59": "The user often visits Midtown entertainment areas, and it remains a plausible Manhattan stop from the current Park location.",
+    "3007": "Close to the last known area and consistent with a midday food stop in Midtown.",
+    "75": "Nearby and plausible for a short, habitual Midtown errand while staying in the same general zone.",
+    "1318": "A frequent-style Manhattan destination in the user’s pattern, especially for casual leisure or shopping.",
+    "3010": "Fits the user’s lunch-to-afternoon food/leisure rhythm and is near the current Manhattan cluster.",
+    "1983": "A nightlife-oriented Manhattan stop that matches the user’s strong social/leisure tendencies, though less likely than the anchor return."
+  },
+  "fallback": false
+}

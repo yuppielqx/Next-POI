@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_202",
+  "ranked_loc_ids": [
+    1415,
+    1417,
+    1408,
+    1416,
+    1410,
+    845,
+    1412,
+    1413,
+    5014,
+    852
+  ],
+  "explanations": {
+    "1415": "It is immediately adjacent to the last known stop and matches the user’s strongest repetitive Bayside shopping-center routine.",
+    "1417": "This is a highly frequented nearby anchor in the same Bay Terrace/Bayside cluster and fits a late-evening retail or coffee stop.",
+    "1408": "Another regular Bay Terrace storefront very close to the last location, consistent with the user’s compact errand pattern.",
+    "1416": "The user was just here, and the current trajectory suggests they may remain in or quickly return to the same familiar food stop.",
+    "1410": "A nearby coffee option in the same corridor, and the user’s history strongly favors coffee-shop revisits.",
+    "845": "This is a familiar convenience stop for the user and fits the late-night, local, food-oriented pattern.",
+    "1412": "The user’s most habitual coffee anchor is strong overall, though it is less likely than closer Bayside options at this moment.",
+    "1413": "A repeated user-history location in the nearby area, making it a plausible continuation of the current local movement.",
+    "5014": "It is very close to the current area and could attract a late-night food visit, though it is less evidenced in the user’s history.",
+    "852": "A nearby food venue in the Bell Blvd corridor that fits the user’s daytime/early-night errand-and-snack behavior."
+  },
+  "fallback": false
+}

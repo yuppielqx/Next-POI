@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_918",
+  "ranked_loc_ids": [
+    3972,
+    2160,
+    2810,
+    2083,
+    154,
+    968,
+    1993,
+    1879,
+    14,
+    2082
+  ],
+  "explanations": {
+    "3972": "The user’s strongest recurring pattern is a weekday early-morning return to this gym, and the target time matches that habit exactly.",
+    "2160": "It is the last known location and a nearby breakfast spot, so a short continuation of the morning trip is plausible.",
+    "2810": "This is very close to the last location and fits the user’s neighborhood dining behavior, though it is less routine than the gym.",
+    "2083": "The user has a history of nearby social dining, and this gastropub matches their evening outing style despite the morning timing.",
+    "154": "The user has visited before and it sits within their broader downtown Manhattan range, making it a possible errand stop.",
+    "968": "A nearby nightlife spot consistent with the user’s occasional social flexibility, but timing makes it less likely.",
+    "1993": "This aligns with the user’s downtown dining radius and prior history, though it is farther and less temporally fitting.",
+    "1879": "A very nearby restaurant with no prior history, so it is possible as a spontaneous food stop but not the strongest fit.",
+    "14": "This nearby diner could attract a morning or casual meal visit, though there is no history linking the user to it.",
+    "2082": "A nearby bar within the user’s radius, but it conflicts with the strong early-morning routine and fitness-centered pattern."
+  },
+  "fallback": false
+}

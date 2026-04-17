@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_207",
+  "ranked_loc_ids": [
+    1423,
+    436,
+    1426,
+    4167,
+    4612,
+    3143,
+    5299,
+    1422,
+    1425,
+    1427
+  ],
+  "explanations": {
+    "1423": "The user’s strongest routine anchor is their weekday office, and the last known location was there this morning, making a return the most likely next move.",
+    "436": "It is extremely close to NYK Line and matches the user’s repeated workday pattern of staying within the same Secaucus corridor.",
+    "1426": "A nearby lunch-or-after-work restaurant fits the user’s occasional post-office dining transitions and the evening time prior.",
+    "4167": "Similar users and the user’s recent mall/movie activity make a nearby movie theater plausible for an evening outing.",
+    "4612": "A familiar nearby dinner option in the same commercial zone is consistent with an after-work meal stop.",
+    "3143": "Another close-by restaurant in the same office-adjacent area fits a routine evening errand or dinner pattern.",
+    "5299": "The user has some dining diversity, and a buffet restaurant near the work anchor is plausible after office hours.",
+    "1422": "Their history shows recurring visits to QuickChek, and a convenience stop could follow a workday commute.",
+    "1425": "The user sometimes goes to the gym after work, so an 18:45 visit remains possible despite the larger distance.",
+    "1427": "Recent mall-and-movie behavior plus similar-user patterns keep another entertainment stop on the list, though it is less likely than nearby corridor options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1603",
+  "ranked_loc_ids": [
+    4749,
+    5008,
+    5007,
+    5010,
+    5011,
+    1792,
+    5006,
+    1149,
+    2232,
+    3774
+  ],
+  "explanations": {
+    "4749": "The early Sunday morning timing and the user’s strongest recurring routine make this the most likely grocery return stop.",
+    "5008": "This is a highly plausible Sunday breakfast run, matching the user’s frequent 6–8 AM bakery visits.",
+    "5007": "Similar users at this exact time often stop here, and it fits the user’s habitual early-morning coffee pattern.",
+    "5010": "A nearby convenience stop that aligns with the user’s quick errand-and-beverage routine in the morning window.",
+    "5011": "The user has repeated early-morning laundromat behavior, making this a strong practical errand candidate.",
+    "1792": "A grocery destination near the user’s usual corridor that fits the Sunday provisioning pattern.",
+    "5006": "A routine pharmacy errand is consistent with the user’s localized, necessity-driven mobility.",
+    "1149": "The user was just there the prior evening, so a brief return within the same retail area remains possible.",
+    "2232": "This nearby retail stop is plausible given the user’s localized shopping circuit, though less routine than the top choices.",
+    "3774": "Morning coffee behavior makes this a reasonable fallback despite lacking direct history."
+  },
+  "fallback": false
+}

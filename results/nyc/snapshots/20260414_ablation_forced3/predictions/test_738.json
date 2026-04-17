@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_738",
+  "ranked_loc_ids": [
+    3515,
+    3509,
+    3521,
+    1030,
+    3093,
+    1031,
+    1522,
+    786,
+    3523,
+    3514
+  ],
+  "explanations": {
+    "3515": "This is the last known location and the strongest immediate return-to-last candidate at 20:26, matching the user’s evening food-stop pattern.",
+    "3509": "The user repeatedly anchors around this station and may head there right after dinner for a routine downtown transit move.",
+    "3521": "It is extremely close to the last location and heavily matches the user’s frequent 6–8 p.m. bakery transitions.",
+    "1030": "This nearby nightlife spot fits a short post-dinner neighborhood shift within the same Brooklyn corridor.",
+    "3093": "It is adjacent to San Marco and a plausible next food venue given the user’s tight local movement pattern.",
+    "1031": "The user has a strong nearby bagel-shop pattern, and this stop is essentially next door to the current location.",
+    "1522": "A common commuter station in the user’s history that fits an evening transit chain after a meal.",
+    "786": "A recurring downtown anchor for this user, though less likely than food or transit at this exact time.",
+    "3523": "A nearby convenience stop that could follow a local dinner outing in Brooklyn.",
+    "3514": "A frequently visited downtown node that remains plausible as part of the user’s routine Lower Manhattan circuit."
+  },
+  "fallback": false
+}

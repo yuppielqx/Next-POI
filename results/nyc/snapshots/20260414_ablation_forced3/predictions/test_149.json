@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_149",
+  "ranked_loc_ids": [
+    1144,
+    229,
+    732,
+    1062,
+    1154,
+    108,
+    443,
+    1155,
+    100,
+    731
+  ],
+  "explanations": {
+    "1144": "This is the user’s strongest recurring morning anchor with 29 visits and heavy 9–11am repetition, making it the most likely weekday return.",
+    "229": "The user has a commute-oriented transit pattern, and a morning move after a hotel stay could plausibly head to a nearby transport hub.",
+    "732": "A familiar breakfast/diner stop fits the 10:08 morning slot and the user’s repeated casual dining behavior.",
+    "1062": "Another routine-friendly breakfast option in the Hudson County corridor aligns with the user’s food-oriented morning movement.",
+    "1154": "Journal Square PATH Station matches the commuter pattern and could serve as a morning transit anchor in Jersey City.",
+    "108": "Hoboken PATH Station is consistent with the user’s cross-river mobility and frequent transit-linked movement.",
+    "443": "The user often clusters in Hudson County, and this nearby familiar area is plausible during a routine morning trip.",
+    "1155": "This nearby Jersey City destination fits the user’s repeated local-area travel pattern and southwest movement trend.",
+    "100": "Liberty State Park is within the user’s broader Jersey City corridor, though less tied to the morning routine than the top anchors.",
+    "731": "The user likes casual dining venues, and this Hoboken spot is a plausible but less likely morning stop."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1898",
+  "ranked_loc_ids": [
+    4456,
+    523,
+    1214,
+    144,
+    3340,
+    47,
+    519,
+    1271,
+    88,
+    274
+  ],
+  "explanations": {
+    "4456": "This is the strongest morning anchor in the user's history, with heavy 6–8 AM repetition and an explicit match to the 07:44 Tuesday time slot.",
+    "523": "A highly plausible alternate breakfast stop in the same Midtown commute corridor, and the early-morning pattern fits well.",
+    "1214": "The user ended last night here and regularly uses transit hubs in their workday rhythm, making an immediate return possible.",
+    "144": "This nearby Herald Square subway hub fits the user's commute-oriented morning movement and is very close to the last location.",
+    "3340": "The user often chains quick retail stops around Herald Square, and this store is adjacent to the current corridor.",
+    "47": "A frequent Midtown shopping destination in the user’s history, likely to be visited during a morning errand sequence.",
+    "519": "This is another repeatedly visited Herald Square retail stop that matches the user's compact shopping pattern.",
+    "1271": "The user has repeated early-morning visits here before, and it sits squarely in the same Midtown shopping zone.",
+    "88": "A common transit-node destination for this commuter-style user, especially around morning travel windows.",
+    "274": "It is within the broader Midtown corridor and aligns with the user’s frequent Bryant Park/Midtown edge movement, though it is less likely than the cafe and transit options."
+  },
+  "fallback": false
+}

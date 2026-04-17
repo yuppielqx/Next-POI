@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1812",
+  "ranked_loc_ids": [
+    3439,
+    67,
+    2996,
+    5210,
+    2018,
+    29,
+    4207,
+    2810,
+    1651,
+    301
+  ],
+  "explanations": {
+    "3439": "It is extremely close to Alamo \"The Cube,\" aligns with the northeast movement, and is one of the user’s recurring evening hangout spots.",
+    "67": "A short hop northeast from Astor Place, matching the time gap and the user’s repeated pattern of returning to Union Square-area social stops.",
+    "2996": "This nearby St. Mark’s Japanese restaurant fits the user’s nightlife/dinner profile and sits directly in the favored East Village corridor.",
+    "5210": "Another very close St. Mark’s dining option that matches the user’s tendency to move from one East Village venue to another in the evening.",
+    "2018": "A nearby Japanese nightlife/dining spot that fits the user’s late-day social pattern and East Village clustering.",
+    "29": "This ultra-close bar fits the user’s evening-oriented, socially active profile and the short-hop movement after Astor Place.",
+    "4207": "A nearby East Village snack place that matches the user’s repeated evening food-and-social circuit.",
+    "2810": "A close St. Marks Pl. restaurant that is consistent with a short transition toward a familiar dinner stop.",
+    "1651": "It is nearby in the Union Square corridor and appears in the user’s history as a repeated stop in this area.",
+    "301": "This is another plausible nearby Union Square destination for a short northeast move, though less nightlife-typed than the top options."
+  },
+  "fallback": false
+}

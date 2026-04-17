@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2317",
+  "ranked_loc_ids": [
+    5180,
+    5517,
+    4639,
+    2634,
+    2470,
+    1664,
+    1199,
+    1665,
+    106,
+    5599
+  ],
+  "explanations": {
+    "5180": "This is the user’s dominant Bayonne anchor and the strongest return-to-frequent-place candidate after the last known transit check-in.",
+    "5517": "It is a nearby Bayonne transit hub, and the user often moves between local light rail stops in this corridor.",
+    "4639": "Another Bayonne light rail stop that fits the user’s transit-oriented pattern and short-distance movement.",
+    "2634": "A nearby Bayonne grocery stop that matches the user’s occasional practical errand behavior.",
+    "2470": "This Bayonne park is close to the last location and fits the user’s limited but recurring park visits.",
+    "1664": "The user frequently uses Hudson waterfront transit hubs, making this a plausible next commute step.",
+    "1199": "A regular Jersey City transit anchor in the user’s commute chain between Bayonne and Manhattan/Brooklyn.",
+    "1665": "This Jersey City transit hub aligns with the user’s repeated cross-Hudson travel and midday movement pattern.",
+    "106": "The user often extends commutes into Lower Manhattan, and this is a core destination in that corridor.",
+    "5599": "The user has substantial history at this Brooklyn academic building, so it remains a plausible daytime destination."
+  },
+  "fallback": false
+}

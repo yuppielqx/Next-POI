@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2229",
+  "ranked_loc_ids": [
+    2507,
+    3752,
+    1678,
+    5552,
+    3324,
+    5553,
+    5554,
+    2281,
+    1269,
+    1265
+  ],
+  "explanations": {
+    "2507": "This is the strongest evening anchor in the user’s Financial District routine and has the highest same-time Wednesday history.",
+    "3752": "The user repeatedly pairs this office building with Starbucks and often returns to this Lower Manhattan work cluster.",
+    "1678": "A key transit node in the same commute corridor and a frequent evening destination for this user.",
+    "5552": "Although the user just left here, it is the home-side transit anchor and can be revisited during commute transitions.",
+    "3324": "This Bronx transit hub is tightly linked to the user’s home base and is a common transfer point.",
+    "5553": "The user has occasional Brooklyn deviations, and this location has some weekday evening support.",
+    "5554": "It sits near the Financial District cluster and matches the user’s frequent support-stop behavior.",
+    "2281": "A Lower Manhattan stop consistent with the user’s narrow, work-oriented movement pattern.",
+    "1269": "Zuccotti Park is adjacent to the user’s usual Financial District destinations and could be part of the same cluster.",
+    "1265": "This is another nearby Financial District food stop that fits the user’s coffee-and-commute habits."
+  },
+  "fallback": false
+}

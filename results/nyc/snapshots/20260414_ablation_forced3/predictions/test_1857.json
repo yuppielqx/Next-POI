@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1857",
+  "ranked_loc_ids": [
+    1235,
+    59,
+    1776,
+    560,
+    4893,
+    362,
+    5255,
+    4815,
+    4519,
+    3053
+  ],
+  "explanations": {
+    "1235": "This is the strongest next-step match because the user repeatedly follows Lillie's at 13:30 with Marriott Marquis around 14:00 in the same Midtown lunch routine.",
+    "59": "A highly frequent Midtown anchor that fits the Times Square–Lillie's–Marriott corridor and could easily be revisited after a short lunch stop.",
+    "1776": "One of the user's most visited noon-to-2pm destinations, making it a plausible routine business stop after the current Midtown sequence.",
+    "560": "It is nearby in Midtown and fits the user's compact lunch-trip style, though it is less central than the top routine venues.",
+    "4893": "A Midtown meeting/hotel venue that matches the user's business-hour mobility pattern and similar venue type usage.",
+    "362": "A nearby event-space option that aligns with the user's event-oriented profile, though it is less tightly linked to the immediate sequence.",
+    "5255": "The user has a strong midday pattern at bank locations, so a bank visit is plausible even if this one is farther away.",
+    "4815": "Another frequent bank destination in the user's history, but the distance from the current Midtown cluster makes it less likely next.",
+    "4519": "A very close Union Square lunch option that could be chosen during a short midday food stop, though it lacks personal history.",
+    "3053": "A nearby lunch-appropriate restaurant consistent with the user's midday dining behavior, but less supported than the core frequent venues."
+  },
+  "fallback": false
+}

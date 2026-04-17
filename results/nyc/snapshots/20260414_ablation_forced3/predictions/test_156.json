@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_156",
+  "ranked_loc_ids": [
+    1221,
+    1217,
+    1220,
+    841,
+    618,
+    1224,
+    1219,
+    1226,
+    1223,
+    1233
+  ],
+  "explanations": {
+    "1221": "It is a highly frequent Williamsburg transit node and fits the strong westward movement from the last known location at the target evening time.",
+    "1217": "Another core Williamsburg Bridge bus terminal with heavy 3–5 PM history, making it a very likely transfer stop after being in Williamsburg.",
+    "1220": "The user is already there, and similar transit-linked trips often remain in the same neighborhood before a transfer.",
+    "841": "Similar users frequently transition via the Williamsburg Bridge location, and this nearby node matches the current Brooklyn movement pattern.",
+    "618": "A nearby Brooklyn subway station that fits the user’s transit-oriented behavior and the westward corridor around Williamsburg.",
+    "1224": "This is a major recurring station in the user’s usual corridor, making a return transfer plausible later in the evening.",
+    "1219": "The user’s strongest historical anchor in Queens, and the time prior favors a return to a familiar depot or transfer point.",
+    "1226": "A repeated Queens transit hub with some evening presence, plausible if the user pivots back from Brooklyn toward their usual corridor.",
+    "1223": "Fresh Pond Road (M) is part of the user’s habitual Queens transit chain and aligns with the depot-and-subway transfer pattern.",
+    "1233": "A prior stop in the current trip and a transit-adjacent location that could be revisited during an evening transfer sequence."
+  },
+  "fallback": false
+}

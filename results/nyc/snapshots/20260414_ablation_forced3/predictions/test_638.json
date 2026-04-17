@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_638",
+  "ranked_loc_ids": [
+    3264,
+    1999,
+    3262,
+    3263,
+    778,
+    1545,
+    192,
+    1530,
+    3258,
+    2525
+  ],
+  "explanations": {
+    "3264": "It is the user’s last known location and has the strongest time-specific repeat pattern in the same afternoon slot.",
+    "1999": "This is the user’s main downtown anchor and a very plausible short hop from the current SoHo/NoHo area.",
+    "3262": "The user often chains functional errands near Broadway/Lafayette, and this pharmacy is extremely close to the last location.",
+    "3263": "It is nearby and fits the user’s repeated quick-stop, convenience-oriented downtown movement pattern.",
+    "778": "A nearby casual stop that fits a short afternoon errand within the same compact cluster.",
+    "1545": "The westward movement and transit-heavy profile make a neighboring subway connection plausible.",
+    "192": "The user has a known weekend pattern involving this park, and it is still close enough for an afternoon detour.",
+    "1530": "Another nearby subway station that matches the user’s routine transit chaining in downtown Manhattan.",
+    "3258": "This nearby restaurant fits the user’s occasional short-distance food stop behavior in the same area.",
+    "2525": "A close grocery-style stop that aligns with the user’s practical, errand-based downtown pattern."
+  },
+  "fallback": false
+}

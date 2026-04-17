@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1331",
+  "ranked_loc_ids": [
+    2984,
+    97,
+    4519,
+    4476,
+    4679,
+    301,
+    4676,
+    4207,
+    1123,
+    1983
+  ],
+  "explanations": {
+    "2984": "It is the strongest repeat late-night food destination in the user’s history and fits the Saturday just-after-midnight post-night-out pattern.",
+    "97": "It is immediately adjacent to the last known location and matches a late-night socializing or drinks stop near Union Square.",
+    "4519": "It is also next door to the user’s current area and is a plausible late-evening restaurant choice.",
+    "4476": "It is very close by in downtown Manhattan and could fit a quick nearby dinner or drinks stop.",
+    "4679": "It is close to the last check-in and aligns with the user’s tendency toward Italian dining and neighborhood continuity.",
+    "301": "It is nearby and could serve as a convenient late-night food stop within the same area.",
+    "4676": "It is a historically relevant East Village bar for this user and fits the nightlife-heavy profile.",
+    "4207": "It is a nearby East Village snack place that fits a post-bar late-night bite.",
+    "1123": "It is within the user’s preferred downtown nightlife zone and is consistent with a Saturday night outing.",
+    "1983": "It is a plausible Manhattan nightlife venue, though it is less tightly anchored to the user’s current East Village corridor."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2568",
+  "ranked_loc_ids": [
+    1678,
+    2507,
+    3636,
+    5452,
+    2281,
+    4739,
+    5514,
+    4808,
+    3703,
+    67
+  ],
+  "explanations": {
+    "1678": "The user’s strongest anchor is this hub, and the 24-minute gap makes staying at or returning to the station most likely.",
+    "2507": "This is a very close downtown coffee stop that fits the user’s routine pattern of pairing Fulton Street transit with nearby errands.",
+    "3636": "Another nearby coffee option in the Financial District, consistent with their transit-plus-coffee behavior in Lower Manhattan.",
+    "5452": "Extremely close to Fulton Street and a plausible quick evening food stop after subway activity.",
+    "2281": "A familiar downtown errand destination that matches the user’s routine financial-district movements.",
+    "4739": "A nearby fast-casual meal stop within the same downtown cluster, plausible for an evening transition.",
+    "5514": "This breakfast/food spot is very close to Fulton and could serve as a quick nearby meal destination.",
+    "4808": "A nearby café that fits the user’s coffee-and-transit pattern in Lower Manhattan.",
+    "3703": "A close food option near the Financial District, reasonable for an evening move from the station.",
+    "67": "The user visits Union Square repeatedly, but it is farther away than the immediate Fulton-area options."
+  },
+  "fallback": false
+}

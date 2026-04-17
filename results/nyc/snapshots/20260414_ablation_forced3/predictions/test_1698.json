@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1698",
+  "ranked_loc_ids": [
+    3023,
+    289,
+    3122,
+    5095,
+    5097,
+    4662,
+    1196,
+    5099,
+    4063,
+    3493
+  ],
+  "explanations": {
+    "3023": "This is the strongest recurrent venue in the user’s history and fits a midday return to a favored food/nightlife spot in lower Manhattan.",
+    "289": "The user repeatedly uses this Canal Street coffee stop, and midday is a natural time for a quick return there.",
+    "3122": "The user is currently there and often stays within the same area, so another immediate return remains plausible.",
+    "5095": "The user has a clear pattern of Canal Street-area grooming visits, especially paired with nearby coffee stops around midday.",
+    "5097": "Another tightly linked Chinatown salon in the user’s habitual corridor, consistent with a clustered errand sequence.",
+    "4662": "The Canal Street cluster is one of the user’s most frequent zones, making a short nearby move highly likely.",
+    "1196": "The user’s history is heavily centered in Chinatown, and midday errands often keep them within this neighborhood.",
+    "5099": "A familiar lower Manhattan food stop that matches the user’s repeat dining behavior.",
+    "4063": "Midday bakery/food activity fits the user’s afternoon-oriented routine and Chinatown pattern.",
+    "3493": "A nearby Chinatown Asian restaurant that matches the user’s dining-heavy, lower Manhattan movement style."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_536",
+  "ranked_loc_ids": [
+    2910,
+    1567,
+    2913,
+    55,
+    207,
+    1681,
+    2912,
+    1586,
+    1598,
+    1334
+  ],
+  "explanations": {
+    "2910": "This is the user’s dominant weekday morning anchor and the strongest match for a Tuesday 9:53 AM return to the office area.",
+    "1567": "It is extremely close to the last location and fits a typical morning coffee stop before settling into the workday.",
+    "2913": "A nearby café in the same corridor, making it a plausible breakfast or grab-and-go alternative.",
+    "55": "This frequent lunch spot is nearby and consistent with the user’s Flatiron routine, though the time is earlier than usual for lunch.",
+    "207": "Another nearby food option in the same neighborhood, though less likely than the more office-oriented places.",
+    "1681": "It is adjacent to the last known location and could serve as a quick morning caffeine stop, despite no history.",
+    "2912": "The user visits this bar repeatedly and it is in the same local cluster, but the morning timing makes it less likely.",
+    "1586": "A familiar bar in the user’s nightlife pattern, though its social category is a poor fit for this hour.",
+    "1598": "Another commonly visited bar near the corridor, but it is still unlikely this early on a Tuesday.",
+    "1334": "A known pub in the user’s repertoire, included as a lower-probability nightlife fallback."
+  },
+  "fallback": false
+}

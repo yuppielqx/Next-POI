@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2359",
+  "ranked_loc_ids": [
+    2353,
+    577,
+    3876,
+    570,
+    3906,
+    3563,
+    569,
+    1682,
+    5616,
+    5619
+  ],
+  "explanations": {
+    "2353": "The evening prior and profile both point most strongly to a return to the user’s home-anchor neighborhood after daytime Upper West Side errands.",
+    "577": "This is one of the user’s most frequent Monday evening transition spots and is extremely close to the last location.",
+    "3876": "Monday evening plus the user’s occasional nightlife pattern makes this nearby bar a plausible post-errand stop.",
+    "570": "The user has just been there repeatedly today, so a short continued stay in the same corridor remains likely.",
+    "3906": "A nearby coffee stop fits the user’s daytime-oriented, errand-heavy movement style even into early evening.",
+    "3563": "A nearby food stop is consistent with the user’s practical dining pattern and could follow the repeated sandwich visits.",
+    "569": "This close-by Italian option matches the user’s food-oriented routine and is a reasonable upper-West-Side dinner choice.",
+    "1682": "Gray’s Papaya is a nearby quick-food venue that fits the user’s frequent casual meal behavior.",
+    "5616": "The user does visit bars occasionally in the evening, though this is less likely than a closer Manhattan return.",
+    "5619": "Fort Lee is a strong historical anchor, but a cross-river jump is less likely than an Upper Manhattan evening stay."
+  },
+  "fallback": false
+}

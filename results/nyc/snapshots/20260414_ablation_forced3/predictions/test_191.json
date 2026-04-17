@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_191",
+  "ranked_loc_ids": [
+    1365,
+    1368,
+    1358,
+    1366,
+    410,
+    1374,
+    1290,
+    1369,
+    1359,
+    558
+  ],
+  "explanations": {
+    "1365": "A late-morning Saturday errand at a familiar Brooklyn grocery store fits the user’s neighborhood routine and the eastward move from Court Street.",
+    "1368": "It is extremely close to the last stop and matches the user’s repeated practical neighborhood check-ins.",
+    "1358": "The user often pairs errands with brief park visits in Carroll Gardens/Park Slope, especially on weekends.",
+    "1366": "The last known location is a strong repeat candidate because the user frequently chains nearby food stops in the same local cluster.",
+    "410": "This nearby new café fits the morning neighborhood pattern and is a plausible casual breakfast/coffee stop.",
+    "1374": "A weekend shopping run is consistent with the user’s errand-heavy profile, though it is less immediate than the closer Brooklyn options.",
+    "1290": "The user has some Brooklyn movement variety, and a late-morning Saturday gym stop is plausible though not strongly supported.",
+    "1369": "Recreational Brooklyn behavior is part of the profile, making this a reasonable but less direct next destination.",
+    "1359": "The user visits this place often, but it is in Manhattan and would require a larger jump than the local Brooklyn options.",
+    "558": "Midtown Manhattan is in the user’s broader pattern, but it is much less likely than a return to the Carroll Gardens area."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_869",
+  "ranked_loc_ids": [
+    1346,
+    271,
+    131,
+    1088,
+    38,
+    3807,
+    3803,
+    3806,
+    135,
+    127
+  ],
+  "explanations": {
+    "1346": "This is the user’s dominant airport-terminal anchor and best matches the repeated JFK-centered return pattern at the target afternoon time.",
+    "271": "JFK is the core area of this user’s mobility, and the last Starbucks stop in Howard Beach strongly suggests a return toward the airport corridor.",
+    "131": "A major transportation hub in the Queens/JFK orbit, consistent with the user’s transfer-heavy movement style and similar-user transit behavior.",
+    "1088": "Another JFK terminal that fits the user’s airport-centered routine and is close enough to be a plausible next hop from Howard Beach.",
+    "38": "The user was just here, and this recurring anchor could plausibly be revisited before continuing airport-bound travel.",
+    "3807": "The Rockaway Blvd/N Conduit Ave Burger King lies along the south-east travel corridor toward JFK and matches the user’s practical stop pattern.",
+    "3803": "A familiar fast-food stop in the JFK/Jamaica area that fits the user’s short-trip, transit-adjacent habits.",
+    "3806": "This nearby South Ozone Park pharmacy is within the user’s concentrated activity zone and is a plausible convenience stop.",
+    "135": "LaGuardia is a weaker but still relevant airport option given the user’s airport-oriented profile and broader transport mobility.",
+    "127": "A bridge/hub category location that matches the user’s occasional use of major regional connectors, though it is less likely than JFK-area anchors."
+  },
+  "fallback": false
+}

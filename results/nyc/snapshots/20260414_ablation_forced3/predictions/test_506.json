@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_506",
+  "ranked_loc_ids": [
+    2812,
+    2811,
+    2815,
+    633,
+    2642,
+    1028,
+    474,
+    2649,
+    71,
+    271
+  ],
+  "explanations": {
+    "2812": "This is the user’s strongest recurring anchor and best matches their afternoon-heavy pattern and eastward Brooklyn movement.",
+    "2811": "It is the current last known location with zero distance and the user has a prior classroom visit here.",
+    "2815": "The user has visited this Brooklyn shopping mall before and it fits an afternoon errand-style outing in the same corridor.",
+    "633": "It is very close to the current position and matches the user’s leisure-oriented Brooklyn patterns.",
+    "2642": "As a nearby transit node, it is a plausible next stop given the eastward movement trend.",
+    "1028": "The user started the morning here, making a return to this nearby café possible in the same local area.",
+    "474": "A practical nearby grocery stop fits the user’s mixed errands profile and outer-borough movement.",
+    "2649": "This nearby station could be used for continued travel within Brooklyn and Queens.",
+    "71": "The user has a leisure/outdoors tendency, and this is a plausible afternoon destination in the broader Brooklyn-Queens coastal area.",
+    "271": "JFK appears in the user’s history and remains a viable but less likely transportation-related destination."
+  },
+  "fallback": false
+}

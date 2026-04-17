@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_351",
+  "ranked_loc_ids": [
+    88,
+    2143,
+    53,
+    1510,
+    137,
+    2144,
+    2154,
+    106,
+    2150,
+    67
+  ],
+  "explanations": {
+    "88": "This best matches the user’s strongest weekday morning commute pattern and is the most likely inbound transit hub at this hour.",
+    "2143": "It is the user’s most repeated morning Manhattan destination and commonly follows Port Authority in their history.",
+    "53": "It is the closest transit hub to the last known Midtown location and fits a short continuation through Times Square.",
+    "1510": "This nearby theater location is a plausible immediate next stop given the user’s current Midtown movement.",
+    "137": "Penn Station is a major nearby commuter node and fits the user’s transit-heavy travel style.",
+    "2144": "The user has a recurring pattern around the Greenwich Village/NoHo corridor, making this a reasonable morning transit follow-up.",
+    "2154": "This deli near 8th Street aligns with the user’s historical movement toward the Village after transit stops.",
+    "106": "The user frequently uses regional transit hubs, and this Lower Manhattan station fits a commute-oriented chain.",
+    "2150": "Their broader metro travel pattern includes New Jersey rail and airport-linked movement, though it is less likely than Manhattan commute nodes.",
+    "67": "This is one of the user’s occasional lower-Manhattan destinations and remains plausible within the morning downtown corridor."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_762",
+  "ranked_loc_ids": [
+    3589,
+    960,
+    1277,
+    3586,
+    1637,
+    3588,
+    11,
+    2308,
+    2035,
+    4924
+  ],
+  "explanations": {
+    "3589": "The target time is an evening slot that matches this user’s strongest recurring gym pattern, and it is extremely close to the last location.",
+    "960": "Pier 40 is the user’s main anchor and a very plausible nearby return even in the evening.",
+    "1277": "This fits the user’s repeated West Village dining routine and the evening prior favors a familiar meal stop.",
+    "3586": "The user has a strong sushi pattern in this corridor, making another nearby repeat visit likely.",
+    "1637": "The user has just been here, so a short repeat or lingering stop remains possible.",
+    "3588": "This is a habitual nearby food spot in the same local circuit, though less likely at dinner time.",
+    "11": "A nearby West Village diner/bar option that fits an evening outing without leaving the neighborhood.",
+    "2308": "This is a plausible familiar restaurant/bar choice in lower Manhattan for an evening transition.",
+    "2035": "A known nightlife spot in the broader West Village area, consistent with evening movement patterns.",
+    "4924": "A nearby bar and entertainment venue that could fit the evening prior, though it is less aligned with the user’s usual routine."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_61",
+  "ranked_loc_ids": [
+    491,
+    497,
+    345,
+    495,
+    496,
+    504,
+    511,
+    487,
+    484,
+    488
+  ],
+  "explanations": {
+    "491": "It is the closest strong historical match in the same West Chelsea corridor, and the user often shifts from nearby arts venues to a late-night meal.",
+    "497": "Extremely close to Pier 59 Studios and fits the user’s late-night lounge pattern in Meatpacking/West Chelsea.",
+    "345": "The High Line is just a short walk away and matches the user’s tendency to make rapid nearby check-ins while moving through West Chelsea.",
+    "495": "A nearby hotel bar that fits the late-night social/drink-oriented prior and the current Meatpacking-area context.",
+    "496": "This nearby lounge is consistent with the user’s nightlife-heavy behavior and the short time gap after the last check-in.",
+    "504": "A plausible late-night restaurant choice in the broader west-side dining corridor, especially given the user’s food-driven patterns.",
+    "511": "A nearby food stop that fits the user’s strong food-seeking behavior, even at odd hours.",
+    "487": "Another close nightlife venue that aligns with the user’s bar/lounge tendencies and short-hop movement style.",
+    "484": "A late-night American food option that is plausible for a dawn-adjacent stop, though slightly less aligned than the west-Chelsea options.",
+    "488": "A repeat art-museum-style destination from history, but the distance and current late-night context make it less likely than nearby venues."
+  },
+  "fallback": false
+}

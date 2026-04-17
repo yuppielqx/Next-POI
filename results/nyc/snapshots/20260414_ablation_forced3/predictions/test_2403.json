@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2403",
+  "ranked_loc_ids": [
+    5643,
+    1602,
+    3017,
+    1592,
+    1284,
+    3671,
+    1560,
+    4423,
+    3382,
+    4941
+  ],
+  "explanations": {
+    "5643": "This is the user’s strongest weekday morning anchor and the best match for an 8:32 a.m. return in Midtown East.",
+    "1602": "It is the current nearby location and fits the user’s workday corridor around Midtown East.",
+    "3017": "A nearby office address that fits a commute-style morning move within the same business district.",
+    "1592": "Very close to the last known point and plausible as another Midtown professional stop.",
+    "1284": "A nearby Midtown option that fits a brief morning errand or coffee-adjacent stop.",
+    "3671": "A nearby movement target consistent with the user staying in the immediate Midtown area.",
+    "1560": "A close restaurant option that could fit a quick morning meal or errand.",
+    "4423": "A nearby deli stop that matches the commute and breakfast pattern.",
+    "3382": "Another close Midtown food stop that is plausible before work.",
+    "4941": "A historically relevant Tuesday morning café choice, though farther away than the Midtown options."
+  },
+  "fallback": false
+}

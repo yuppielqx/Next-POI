@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_314",
+  "ranked_loc_ids": [
+    2029,
+    2026,
+    78,
+    2030,
+    1522,
+    2031,
+    1260,
+    2675,
+    2292,
+    2291
+  ],
+  "explanations": {
+    "2029": "Strongest routine destination in the user’s work-centered Chelsea pattern, just a short move from the last subway stop.",
+    "2026": "Frequent nearby cafeteria stop that fits the user’s repeated subway-to-food workday sequence.",
+    "78": "A common nearby 3–5pm destination and plausible afternoon snack/meal stop after transit.",
+    "2030": "Another close cafeteria option with prior Monday visits, matching the user’s weekday routine.",
+    "1522": "The user often reuses this exact transit hub, making a brief return highly plausible.",
+    "2031": "Nearby juice bar that fits a quick afternoon refresh stop within the same Chelsea cluster.",
+    "1260": "Similar-user pattern suggests a nearby transit continuation, and this station is a plausible Manhattan connection.",
+    "2675": "Very close to the subway and a reasonable low-friction food stop, though less aligned with the user’s history.",
+    "2292": "Nearby dining option that could fit a short workday meal break in the 14th Street area.",
+    "2291": "Nearby office/building POI that is geographically consistent with a return into the local work core."
+  },
+  "fallback": false
+}

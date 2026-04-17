@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2068",
+  "ranked_loc_ids": [
+    5424,
+    1699,
+    3324,
+    1168,
+    5425,
+    4933,
+    278,
+    1619,
+    3668,
+    888
+  ],
+  "explanations": {
+    "5424": "This is the user's dominant weekday morning commute endpoint and the strongest match for the 08:23 Wednesday prior.",
+    "1699": "A frequent pre-work stop in the same early-morning corridor, making it the main alternative to the work destination.",
+    "3324": "A highly recurrent Bronx morning transit hub that often appears just before the Financial District arrival.",
+    "1168": "Another Bronx transit node tied to the user's weekday commute pattern and likely if still en route.",
+    "5425": "It is the last known location and nearby in the current trip, but evening restaurant activity is atypical for the predicted morning slot.",
+    "4933": "A very close nearby food option, though there is no personal history supporting it.",
+    "278": "Another immediate nearby food stop with plausible transit-day convenience but no user-specific precedent.",
+    "1619": "A Penn Station-area breakfast option that fits the morning time better than most nearby choices, though it is unsupported by history.",
+    "3668": "A common morning stop near the current position, but less consistent with the user's documented routine.",
+    "888": "A nearby Penn Station service location that is less likely than food or commute-related stops but remains geographically plausible."
+  },
+  "fallback": false
+}

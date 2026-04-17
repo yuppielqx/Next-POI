@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_119",
+  "ranked_loc_ids": [
+    890,
+    2422,
+    2804,
+    168,
+    904,
+    2410,
+    900,
+    893,
+    889,
+    897
+  ],
+  "explanations": {
+    "890": "The Monday morning time strongly favors a routine-oriented gym stop, and this is the user’s clearest repeat anchor in their history.",
+    "2422": "Similar users at this hour often head to a casual breakfast or coffee-like venue, and this nearby food stop fits a morning transition.",
+    "2804": "A morning meal stop is plausible here, especially given the user’s flexible urban leisure pattern and the nearby East Village setting.",
+    "168": "The user could be grabbing a quick morning sweet or snack, and similar users often move to casual food venues around this time.",
+    "904": "It is the last known location, so a brief return is possible despite the strong morning shift away from nightlife.",
+    "2410": "The user has entertainment-oriented behavior, and this nearby cinema is a plausible transitional daytime destination.",
+    "900": "Outdoor recreation matches the profile’s leisure lean and the morning prior, though it is less likely than gym or food.",
+    "893": "A casual food stop in the current corridor is possible, but it is less aligned with the morning routine signal than lighter options.",
+    "889": "The user has used meeting-room spaces before, but this would require a less likely cross-city move on a Monday morning.",
+    "897": "It fits the user’s Manhattan dining/nightlife pattern, but the morning timing makes it a weak continuation from the prior evening."
+  },
+  "fallback": false
+}

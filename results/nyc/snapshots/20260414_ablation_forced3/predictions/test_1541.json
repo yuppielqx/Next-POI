@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1541",
+  "ranked_loc_ids": [
+    1154,
+    1199,
+    107,
+    4928,
+    3736,
+    105,
+    4929,
+    5292,
+    742,
+    2342
+  ],
+  "explanations": {
+    "1154": "It is a heavily repeated transportation hub in the user’s core Jersey City corridor and fits the strong post-mall return-to-transit pattern.",
+    "1199": "It is immediately adjacent to the last location and matches the user’s transit-centered movement style.",
+    "107": "Another nearby major transit node that fits a likely Hudson waterfront transfer after Newport Centre Mall.",
+    "4928": "The user has visited this food stop before, and it is a plausible quick afternoon stop near their usual corridor.",
+    "3736": "This is one of the user’s main Manhattan activity anchors and fits the afternoon sports/recreation pattern.",
+    "105": "A nearby food-related stop that aligns with the user’s frequent short, clustered outings after transit.",
+    "4929": "A previously visited diner in the broader Jersey City area that matches the user’s repeat food-stop behavior.",
+    "5292": "It is close to the current position and fits a likely short movement within the Newport/Jersey City complex.",
+    "742": "A nearby, convenient daytime stop that is consistent with a brief between-destination pause.",
+    "2342": "A reasonable nearby restaurant option, but less supported than the transit hubs and repeated user favorites."
+  },
+  "fallback": false
+}

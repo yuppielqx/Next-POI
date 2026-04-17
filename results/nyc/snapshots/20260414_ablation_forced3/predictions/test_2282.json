@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2282",
+  "ranked_loc_ids": [
+    5581,
+    5582,
+    5584,
+    828,
+    3684,
+    123,
+    3348,
+    1857,
+    5583,
+    2246
+  ],
+  "explanations": {
+    "5581": "The strongest signal is the user’s repeated late-night return pattern to this home base, and the 02:40 timing fits their 2–4 AM clustering.",
+    "5582": "This nearby neighborhood hangout is tightly linked to Casa De Cattdaddy and often appears in the user’s local late-night circulation.",
+    "5584": "It is extremely close to the last location and fits a short northeast-oriented hop within the same eastern Queens/Floral Park area.",
+    "828": "This nearby outdoor-area check-in is plausible given the short movement radius and the user’s local Queens anchoring.",
+    "3684": "The user has multiple late-night visits here, making a nightlife detour possible even at this hour.",
+    "123": "The user has prior history here and often moves around Queens for errands or social stops beyond the immediate home cluster.",
+    "3348": "This Fresh Meadows restaurant fits the user’s Queens mobility and occasional late-night food-oriented movements.",
+    "1857": "A nightlife venue in Queens is consistent with the user’s bar-and-lounge pattern, though it is farther than the local cluster.",
+    "5583": "The user has prior visits tied to JFK-area activity, so this travel/event space remains a secondary possibility.",
+    "2246": "Similar users often move through transit hubs around this time, and this airport-linked stop matches the user’s occasional transport-corridor behavior."
+  },
+  "fallback": false
+}

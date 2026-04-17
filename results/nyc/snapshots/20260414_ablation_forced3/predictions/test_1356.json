@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1356",
+  "ranked_loc_ids": [
+    4711,
+    4712,
+    917,
+    952,
+    4329,
+    4248,
+    3370,
+    3425,
+    2939,
+    4265
+  ],
+  "explanations": {
+    "4711": "It is the user’s strongest recurring anchor and fits the Sunday late-morning return-to-favorite-place pattern.",
+    "4712": "A frequent neighborhood errand stop in the same East Village/Gramercy corridor, plausible for a Sunday morning return.",
+    "917": "Fits the user’s occasional morning coffee-and-errand behavior and is close to their core activity zone.",
+    "952": "A strong neighborhood dining option that matches the user’s casual brunch/lunch tendencies.",
+    "4329": "Another East Village casual dining spot aligned with the user’s weekend leisure and food pattern.",
+    "4248": "A repeated local spa visit makes this a credible mid-morning weekend destination.",
+    "3370": "A neighborhood diner that fits a Sunday late-morning meal outing in the user’s core area.",
+    "3425": "A nearby, previously visited restaurant that fits the user’s East Village dining circuit.",
+    "2939": "A coffee-shop-style stop in the user’s neighborhood, consistent with a Sunday morning outing.",
+    "4265": "A nightlife-oriented but still plausible repeat stop in the user’s familiar East Village social loop."
+  },
+  "fallback": false
+}

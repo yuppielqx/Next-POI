@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_257",
+  "ranked_loc_ids": [
+    1918,
+    1727,
+    3286,
+    1716,
+    447,
+    1721,
+    1722,
+    1720,
+    395,
+    1714
+  ],
+  "explanations": {
+    "1918": "It is the closest nearby dining option and fits the user’s clustered outing pattern after a prior food stop.",
+    "1727": "The user was just here and similar users often continue within the same shopping-dining complex at this time.",
+    "3286": "A nearby entertainment venue that matches a Saturday-style leisure sequence in the Garden State Plaza area.",
+    "1716": "The user has a history of casual chain dining and this is an adjacent, plausible dinner continuation.",
+    "447": "A nightlife-oriented option near the current location that fits the user’s evening behavior.",
+    "1721": "A familiar casual food stop in the same Paramus retail corridor, consistent with their midday/evening errand pattern.",
+    "1722": "A nearby department store that fits the user’s shopping-heavy profile and current mall vicinity.",
+    "1720": "The user often clusters multiple retail stops, making another shopping center visit reasonable.",
+    "395": "A sit-down restaurant consistent with evening dining and the user’s preference for casual chain venues.",
+    "1714": "Their repeated Mexican restaurant visits make this a durable long-shot even though it is less directly nearby."
+  },
+  "fallback": false
+}

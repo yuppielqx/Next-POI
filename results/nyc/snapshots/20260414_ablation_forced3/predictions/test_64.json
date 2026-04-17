@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_64",
+  "ranked_loc_ids": [
+    531,
+    530,
+    532,
+    4864,
+    112,
+    5529,
+    3345,
+    5526,
+    1312,
+    162
+  ],
+  "explanations": {
+    "531": "This best fits the user’s strong midday Friday routine, with many historical noon-to-2pm visits and repeated transitions from Riverside Park to Club H.",
+    "530": "The user began the morning here and may simply remain in their highly habitual Upper West Side anchor location.",
+    "532": "It is very close to the last known location and matches the same northern Manhattan recreational corridor the user frequents.",
+    "4864": "A nearby transit stop could plausibly be the next movement point if the user is shifting within the Upper West Side area.",
+    "112": "This station is also nearby and consistent with a short northward or eastward commute from Riverside Park.",
+    "5529": "A nearby local street destination fits the user’s tight geographic clustering around the Upper West Side.",
+    "3345": "A common midday food stop near the user’s morning route, making it plausible after a park visit.",
+    "5526": "Grocery errands are consistent with routine daytime movement near the user’s home corridor.",
+    "1312": "A coffee stop is a plausible midday transition for a regular early riser.",
+    "162": "A routine shopping stop is possible, though less supported than the user’s core recurring locations."
+  },
+  "fallback": false
+}

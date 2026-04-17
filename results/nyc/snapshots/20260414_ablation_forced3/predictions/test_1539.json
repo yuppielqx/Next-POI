@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1539",
+  "ranked_loc_ids": [
+    1797,
+    557,
+    4796,
+    88,
+    3287,
+    1149,
+    445,
+    3078,
+    53,
+    1211
+  ],
+  "explanations": {
+    "1797": "This is the strongest repeat destination in the user’s history and best matches the early-morning return pattern toward the Clifton retail corridor.",
+    "557": "The user often uses this corridor as a transit gateway between New York and New Jersey, and the current movement from the last hub makes it a plausible next step.",
+    "4796": "A highly familiar Clifton stop that fits the user’s routine of pairing travel with coffee and retail errands.",
+    "88": "As a major nearby transportation hub, it is a natural continuation if the user remains in Manhattan transit flow.",
+    "3287": "This is another recurring New Jersey retail destination that aligns with the user’s corridor-based shopping behavior.",
+    "1149": "A familiar Clifton-area shopping stop that fits the user’s practical retail pattern.",
+    "445": "The user has prior visits to this mall, and it matches the broader regional shopping routine.",
+    "3078": "A likely errand-style destination in the same Clifton retail ecosystem.",
+    "53": "Since this is the last known location, a brief dwell or immediate return there remains possible in the short term.",
+    "1211": "A nearby Midtown transfer point that fits continued movement within the Manhattan transit network."
+  },
+  "fallback": false
+}

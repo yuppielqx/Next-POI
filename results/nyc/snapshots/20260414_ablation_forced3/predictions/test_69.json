@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_69",
+  "ranked_loc_ids": [
+    536,
+    180,
+    508,
+    551,
+    561,
+    563,
+    248,
+    577,
+    539,
+    558
+  ],
+  "explanations": {
+    "536": "The evening prior pattern and UWS home-base bias make this a strong likely dinner stop near the 72nd Street corridor.",
+    "180": "It is one of the user’s most frequent evening-adjacent venues and fits a Saturday 6–8 p.m. fitness return.",
+    "508": "The user repeatedly cycles back into Central Park–adjacent anchors, especially when re-centering on the Upper West Side.",
+    "551": "This is an extremely close neighborhood staple with Saturday support and strong fit for a quick post-travel stop.",
+    "561": "A nearby grocery run is plausible given the user’s clustered Upper West Side errands and evening reversion pattern.",
+    "563": "The user often makes practical neighborhood stops, and this is a near-home grocery option.",
+    "248": "The user’s signature routine centers on Central Park, making a return there credible even in the evening.",
+    "577": "A close, utilitarian UWS errand stop fits the user’s neighborhood-based movement style.",
+    "539": "Staying at the last downtown location is less likely after a long gap, but a return or lingering food stop remains possible.",
+    "558": "The user sometimes heads into Midtown for structured outings, though this is weaker than the Upper West Side options."
+  },
+  "fallback": false
+}

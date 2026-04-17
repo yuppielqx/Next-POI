@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_883",
+  "ranked_loc_ids": [
+    3835,
+    3836,
+    4828,
+    1332,
+    4694,
+    1335,
+    3199,
+    3302,
+    4737,
+    4889
+  ],
+  "explanations": {
+    "3835": "The strongest recurring pattern is a return to this gym/pool facility, and the Wednesday morning timing fits a likely fitness visit near their Westchester anchor.",
+    "3836": "It is the last known location and a repeated favorite, so a short return there remains plausible despite the early hour.",
+    "4828": "A weekday early-morning movement from southern Westchester makes a commuter rail stop a plausible next step.",
+    "1332": "Similar-user behavior and the user’s fitness-oriented profile make another gym in the nearby area a reasonable alternative.",
+    "4694": "Bronxville’s Metro North train station fits the morning weekday travel pattern and the user’s local Westchester geography.",
+    "1335": "A nearby Yonkers shopping stop is feasible after a local morning move, though less aligned than fitness or transit.",
+    "3199": "The New Rochelle train station is another plausible commuter-oriented weekday location within the user’s anchor area.",
+    "3302": "The Wakefield Station is a nearby transit option for a morning movement, though it is less consistent with the user’s usual gym habit.",
+    "4737": "A practical daytime errand destination in the same general area could follow a morning outing, but it is not a strong historical match.",
+    "4889": "A nearby food stop is possible after an early local movement, though it is weaker than the gym and transit options."
+  },
+  "fallback": false
+}

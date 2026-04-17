@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_283",
+  "ranked_loc_ids": [
+    1886,
+    1888,
+    1887,
+    332,
+    1890,
+    1546,
+    1082,
+    1889,
+    63,
+    633
+  ],
+  "explanations": {
+    "1886": "This is the user’s strongest historical anchor and the time prior strongly favors a late-morning return to this routine daytime destination.",
+    "1888": "The user frequently makes morning-to-midday gym stops, making a practical Montclair errand the next most plausible routine continuation.",
+    "1887": "A diner fits the user’s practical daytime pattern and could follow a late-night outing as a recovery or breakfast stop.",
+    "332": "The user has a Manhattan daytime leisure pattern and this morning market aligns with the 10:59 time prior.",
+    "1890": "The user has history with downtown social dining, and this remains consistent with their NYC leisure behavior.",
+    "1546": "Similar to Griffin in nightlife profile, it is a plausible continuation if the user stays in Manhattan social mode.",
+    "1082": "The user was just here recently, so a nearby nightlife-related return is possible despite the morning time prior.",
+    "1889": "The user has shown willingness to make cross-metro hotel visits, though this is less aligned with the time prior.",
+    "63": "The user has visited broad transportation landmarks before, but this is unlikely compared with routine and dining options.",
+    "633": "A far-flung entertainment stop is in character for this user, but it is weak given the strong morning routine signal."
+  },
+  "fallback": false
+}

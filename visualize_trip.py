@@ -13,6 +13,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
+from src.config import RESULTS_DIR
 from src.data_loader import DataLoader
 
 
@@ -322,6 +323,12 @@ def plot_html(rows: list[dict], show_gt: bool, out_path: Path):
 
 def main():
     parser = argparse.ArgumentParser(description="Visualize trajectories on a map")
+    parser.add_argument(
+        "--dataset",
+        type=str,
+        default=None,
+        help="Dataset name under datasets/ (e.g., nyc, tky, ca).",
+    )
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--traj-id", help="Single trajectory ID (e.g. test_0)")
     group.add_argument("--user-id", help="User ID: visualize all train+valid trajectories")
@@ -347,7 +354,7 @@ def main():
             print(f"  #{r['idx']} {r['date']} {r['time']}  {r['name']} ({r['category']}){gt_tag}")
 
         suffix = "html" if args.html else "png"
-        out_path = Path(args.out) if args.out else Path(f"results/{args.traj_id}.{suffix}")
+        out_path = Path(args.out) if args.out else (RESULTS_DIR / f"{args.traj_id}.{suffix}")
         out_path.parent.mkdir(parents=True, exist_ok=True)
 
         if args.html:
@@ -379,7 +386,7 @@ def main():
             print(f"  #{r['idx']} {r['date']} {r['time']}  {r['name']} ({r['category']})")
 
         suffix = "html" if args.html else "png"
-        out_path = Path(args.out) if args.out else Path(f"results/user_{user_id}.{suffix}")
+        out_path = Path(args.out) if args.out else (RESULTS_DIR / f"user_{user_id}.{suffix}")
         out_path.parent.mkdir(parents=True, exist_ok=True)
 
         if args.html:

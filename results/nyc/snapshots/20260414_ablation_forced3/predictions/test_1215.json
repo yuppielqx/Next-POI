@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1215",
+  "ranked_loc_ids": [
+    3611,
+    4424,
+    3350,
+    4533,
+    4904,
+    2191,
+    2647,
+    4802,
+    4905,
+    5430
+  ],
+  "explanations": {
+    "3611": "The user has the strongest morning routine evidence for returning to this gym immediately after being at Location 4424, especially on Wednesdays around this time.",
+    "4424": "This is the exact last known anchor and a frequent morning stop, so staying here or briefly revisiting it is highly plausible.",
+    "3350": "The user’s core Forest Hills loop and morning timing make a nearby coffee stop a realistic next move.",
+    "4533": "It is very close to the current anchor and has prior user history, making it a possible short errand in the same neighborhood.",
+    "4904": "Another nearby coffee option in the same area that fits an early-day routine, though with no direct transition history.",
+    "2191": "A nearby transit hub could be the next step if the user is commuting after their morning anchor.",
+    "2647": "This is another close transit option in Forest Hills and fits a routine morning departure pattern.",
+    "4802": "A nearby public-space waypoint that could appear in a short local movement sequence.",
+    "4905": "It is within the same neighborhood cluster, but the category and user history make it less likely than routine anchors.",
+    "5430": "A nearby practical errand stop in Forest Hills, but it is less consistent with the user’s dominant gym-first behavior."
+  },
+  "fallback": false
+}

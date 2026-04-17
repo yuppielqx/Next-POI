@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_733",
+  "ranked_loc_ids": [
+    3515,
+    3093,
+    3521,
+    1031,
+    1536,
+    2294,
+    3523,
+    3088,
+    3510,
+    3509
+  ],
+  "explanations": {
+    "3515": "It is the current location at 12:00, and the strongest prior is a same-place continuation one minute later.",
+    "3093": "It is the closest neighboring restaurant and fits the user’s short nearby food-chain pattern in the same Williamsburg pocket.",
+    "3521": "This bakery is only a few steps away and matches the user’s frequent midday food-stop transitions.",
+    "1031": "A nearby bagel shop that fits the user’s habitual quick local food errand behavior.",
+    "1536": "A plausible next move after lunch, since the user often links nearby eateries with transit stops.",
+    "2294": "A short north-westward hop to a familiar nearby activity node from the current cluster.",
+    "3523": "A nearby grocery stop that aligns with the user’s routine-based neighborhood movement.",
+    "3088": "A reasonable nearby service stop within the broader local Brooklyn pattern.",
+    "3510": "A known secondary anchor in the user’s history, though it is farther than the immediate nearby options.",
+    "3509": "A major recurring downtown transit anchor that matches the user’s commuter-like midday movement profile."
+  },
+  "fallback": false
+}

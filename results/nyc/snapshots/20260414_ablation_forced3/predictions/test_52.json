@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_52",
+  "ranked_loc_ids": [
+    137,
+    4412,
+    2327,
+    5208,
+    918,
+    1092,
+    88,
+    3951,
+    4675,
+    423
+  ],
+  "explanations": {
+    "137": "It is the exact last known location and the strongest short-term repeat candidate for an early-morning transition.",
+    "4412": "A nearby bar fits the user’s nightlife-heavy pattern and the early Saturday timing suggests an overnight holdover.",
+    "2327": "This nearby beer garden matches a post-night-out, social stop and is consistent with staying around Penn Station.",
+    "5208": "A close food option is plausible for an early-morning bite after a late outing.",
+    "918": "Early-morning coffee is possible even for an evening-oriented user, especially at a transit hub.",
+    "1092": "The user’s history includes major event venues, and this adjacent landmark is a plausible next stop.",
+    "88": "Another major transit hub nearby, likely if the user is beginning to move out of Midtown.",
+    "3951": "The user may simply be transferring, and this is a very natural next movement point.",
+    "4675": "Fast food near the current location could serve as a quick late-night or early-morning stop.",
+    "423": "Williamsburg/North Brooklyn nightlife patterns make this a reasonable longer-shot guess despite the current Midtown position."
+  },
+  "fallback": false
+}

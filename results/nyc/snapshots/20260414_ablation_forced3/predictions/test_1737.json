@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1737",
+  "ranked_loc_ids": [
+    3695,
+    4323,
+    58,
+    5148,
+    5150,
+    3385,
+    778,
+    1110,
+    1512,
+    2443
+  ],
+  "explanations": {
+    "3695": "Monday morning and the user’s strongest recurring habit is the regular 8 a.m. coffee stop here.",
+    "4323": "Another frequent commuter-style coffee anchor that fits a weekday morning routine near transit.",
+    "58": "Grand Central Terminal is a plausible morning waypoint for a Monday commute, especially given similar-user patterns around this time.",
+    "5148": "This East Village Starbucks matches the user’s repeated coffee-shop behavior and remains within their common Manhattan corridor.",
+    "5150": "The user has visited Lower East Side Starbucks locations before, making this a reasonable morning coffee alternative.",
+    "3385": "Think Coffee fits the breakfast-coffee pattern and is close to the user’s usual downtown/Midtown movement corridor.",
+    "778": "A Soho coffee stop is consistent with the user’s morning caffeine routine and prior Lower Manhattan activity.",
+    "1110": "Trader Joe’s is a plausible daytime errand stop, though less likely than the user’s typical coffee visits.",
+    "1512": "The user does visit nightlife spots, but the strong morning temporal prior makes this less likely than a cafe.",
+    "2443": "A nightlife venue is possible based on history, but it conflicts with the Monday morning timing and coffee-shop bias."
+  },
+  "fallback": false
+}

@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1872",
+  "ranked_loc_ids": [
+    1546,
+    1201,
+    2141,
+    1890,
+    652,
+    4477,
+    1023,
+    4074,
+    275
+  ],
+  "explanations": {
+    "1546": "Very close to Splash Bar and strongly matches the user's Friday-night Chelsea nightlife pattern.",
+    "1201": "Another nearby gay bar in the same nightlife corridor, fitting a short hop after Splash Bar.",
+    "2141": "A likely continuation to a familiar gay bar venue in Greenwich Village later in the evening.",
+    "1890": "Fits the user's established pattern of moving from bars to lounges/restaurants on Friday nights.",
+    "652": "Possible if the user is cutting the night short and heading back via ferry, though less likely this soon.",
+    "4477": "Nearby late-night food option that could follow nightlife activity around 21:13.",
+    "1023": "A close-by restaurant that could be a food stop after bar-hopping, but less aligned than lounges.",
+    "4074": "Another nearby dinner/drinks venue that fits the district but is slightly less likely than the bar options.",
+    "275": "A plausible evening entertainment choice, though it is less consistent with the immediate nightlife sequence."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2000",
+  "ranked_loc_ids": [
+    540,
+    41,
+    3695,
+    2492,
+    3047,
+    1862,
+    2254,
+    349,
+    590,
+    215
+  ],
+  "explanations": {
+    "540": "It matches the user’s recurring evening social pattern and is the strongest same-time-slot venue among the historical favorites near their current Chelsea/Flatiron area.",
+    "41": "The user repeatedly uses Starbucks as a routine anchor, and an evening coffee stop near the last gym location is plausible.",
+    "3695": "This is the user’s familiar 6th Avenue coffee stop and fits a short post-gym move within the same neighborhood.",
+    "2492": "The time prior and lower-Manhattan dinner tendency make this a strong restaurant follow-up after Equinox.",
+    "3047": "A known lower-Manhattan dining destination for the user, consistent with an evening meal after the gym.",
+    "1862": "The user’s profile includes nightlife check-ins, and this nearby cocktail bar fits a Monday evening transition.",
+    "2254": "A nearby dining option in the user’s favored corridor, suitable for an evening stop after workout.",
+    "349": "Evening leisure behavior in the profile makes a movie stop possible after the gym.",
+    "590": "The user is highly gym-oriented, but the evening slot makes a repeat workout less likely than food or social options.",
+    "215": "This nearby sports retailer matches the user’s active lifestyle, though it is less time-appropriate than dining or nightlife."
+  },
+  "fallback": false
+}

@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_4",
+  "ranked_loc_ids": [
+    4443,
+    68,
+    4435,
+    40,
+    39,
+    5442,
+    1641,
+    46,
+    58
+  ],
+  "explanations": {
+    "4443": "It is the closest plausible nearby food stop in the same Canarsie corridor, matching a short post-transit trip chain.",
+    "68": "Similar users often move from the station into the surrounding residential Canarsie area, and it is very close by.",
+    "4435": "A nearby Brooklyn restaurant fits the user’s daytime errand pattern and the south-east movement trend.",
+    "40": "The user repeatedly visits this gym in the morning/daytime, making a return plausible after transit.",
+    "39": "Target is one of the user’s strongest retail anchors in the Gateway area and is a natural next errand stop.",
+    "5442": "A nearby residence is a plausible endpoint for a transit-to-home continuation in this part of Brooklyn.",
+    "1641": "Similar users frequently continue from transit nodes to major Brooklyn transportation hubs like Broadway Junction.",
+    "46": "Another nearby transit option fits the user’s transfer-heavy trip chaining after leaving Canarsie station.",
+    "58": "Grand Central is less likely due to distance, but midday transit patterns make a Manhattan hub possible."
+  },
+  "fallback": false
+}

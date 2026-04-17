@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_657",
+  "ranked_loc_ids": [
+    5093,
+    2489,
+    3869,
+    4686,
+    5089,
+    194,
+    1050,
+    342,
+    178,
+    977
+  ],
+  "explanations": {
+    "5093": "Closest nightlife option to Otto's Shrunken Head and a very plausible next stop on a Sunday night in the East Village.",
+    "2489": "Strong same-area nightlife match and consistent with the user's bar-hopping evening pattern.",
+    "3869": "Nearby East Village bar that fits a late-night social continuation after a rock club.",
+    "4686": "A close gastropub option that matches the user's food-and-drink outing behavior.",
+    "5089": "Nearby sports bar with nightlife appeal, making it a realistic next leisure stop.",
+    "194": "A nearby Mexican restaurant that fits the user's tendency to mix dinner and nightlife stops.",
+    "1050": "One of the user's repeated favorites, so a revisit remains plausible despite the current East Village location.",
+    "342": "A familiar entertainment-related stop that aligns with the user's arts-and-leisure pattern.",
+    "178": "A culture-oriented venue in the user's usual Manhattan corridor, plausible for an evening activity.",
+    "977": "A recurring Flatiron/Chelsea anchor that could draw the user back on a later-night outing."
+  },
+  "fallback": false
+}

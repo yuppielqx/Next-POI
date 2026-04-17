@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2549",
+  "ranked_loc_ids": [
+    2612,
+    5660,
+    3866,
+    5701,
+    5700,
+    5702,
+    4605,
+    5657,
+    1261,
+    1168
+  ],
+  "explanations": {
+    "2612": "It is the closest highly familiar home-base node in the Pelham Bay/Co-Op City corridor and fits the user's repeated short moves from nearby transit.",
+    "5660": "The user is already at this metro station, so a brief dwell or continued check-in here is the most immediate next step.",
+    "3866": "This nearby park matches the current time/location context and the user’s tendency to move within the local Bronx area.",
+    "5701": "This is one of the user’s most repeated local anchors and is consistent with a short northeast Bronx transition.",
+    "5700": "The user is heavily anchored here, and the current movement trend still favors a quick return to a familiar residential hub.",
+    "5702": "Another nearby Bronx metro station that fits the pattern of hopping between local transit points.",
+    "4605": "The user often pairs home-area stops with this nearby movie theater, making it a plausible next leisure destination.",
+    "5657": "A frequent nearby food stop that commonly follows the user's local leisure and transit sequence.",
+    "1261": "A reasonable nearby transit continuation if the user is moving northeast through the Bronx.",
+    "1168": "This is farther but still within the user's Bronx transit pattern and could follow a north-eastward ride."
+  },
+  "fallback": false
+}

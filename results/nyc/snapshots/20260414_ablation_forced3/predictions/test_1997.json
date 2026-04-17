@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1997",
+  "ranked_loc_ids": [
+    1546,
+    1890,
+    1204,
+    2728,
+    203,
+    4693,
+    4039,
+    5128,
+    4870,
+    3873
+  ],
+  "explanations": {
+    "1546": "The user was last here and has a strong late-night return pattern for this exact Chelsea speakeasy around midnight to 2am.",
+    "1890": "It is extremely close to G Lounge and fits the same late-night Chelsea nightlife flow.",
+    "1204": "A nearby Greenwich Village bar that matches the user’s LGBTQ nightlife pattern and the 02:22 hour.",
+    "2728": "Another close West Village nightlife venue that fits a continued social outing after G Lounge.",
+    "203": "A plausible late-night food stop within the user’s usual after-bar pattern.",
+    "4693": "A nearby late-night bar/food option in the West Village that matches the user’s Manhattan nightlife behavior.",
+    "4039": "Another nearby late-night dining/drinking stop consistent with post-bar movement southwest.",
+    "5128": "A close Manhattan restaurant/bar option that could follow a lounge visit at this hour.",
+    "4870": "Nearby Chelsea dining that fits a late-night transition from nightlife to food.",
+    "3873": "Very close to the last location and plausible as an all-night nearby stop, though less likely than bars or food venues."
+  },
+  "fallback": false
+}

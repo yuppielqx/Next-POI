@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1991",
+  "ranked_loc_ids": [
+    5370,
+    2404,
+    1596,
+    1124,
+    1587,
+    639,
+    3629,
+    3480,
+    3019,
+    192
+  ],
+  "explanations": {
+    "5370": "This is their strongest home base and the most likely evening return after a Monday outing.",
+    "2404": "A familiar downtown bar/restaurant fits the user’s repeated evening social pattern and current north-east movement.",
+    "1596": "It is very close to the last location and matches the user’s downtown nightlife behavior around evening hours.",
+    "1124": "A nearby nightlife spot that aligns with the user’s late-day entertainment and social trajectory.",
+    "1587": "This SoHo/NoHo dining option fits a likely dinner stop after Union Square.",
+    "639": "A recurring bar-type destination in lower Manhattan that matches the user’s evening preferences.",
+    "3629": "A known casual dinner venue in the Financial District area, consistent with a return-to-frequent-place pattern.",
+    "3480": "A lounge in Midtown that matches similar-user evening behavior and the user’s occasional Midtown presence.",
+    "3019": "A weekday-friendly dinner spot with prior Monday affinity, making it a plausible casual evening choice.",
+    "192": "A nearby Greenwich Village stop that fits the user’s downtown movement but is less likely than dining or home."
+  },
+  "fallback": false
+}

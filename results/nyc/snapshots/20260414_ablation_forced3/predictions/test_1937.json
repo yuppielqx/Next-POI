@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1937",
+  "ranked_loc_ids": [
+    478,
+    4095,
+    3338,
+    3507,
+    3557,
+    842,
+    5329,
+    4707,
+    5281,
+    3451
+  ],
+  "explanations": {
+    "478": "Friday morning behavior and similar-user traces strongly favor a Midtown coffee stop in the Times Square/Broadway corridor.",
+    "4095": "This is the user's most repeated workday destination and fits the late-morning office-arrival pattern in Midtown.",
+    "3338": "The user has a recurring coffee-before-work routine, and this Starbucks is very close to the current Midtown cluster.",
+    "3507": "A professional office nearby that matches the user's office-centered weekday mobility.",
+    "3557": "A common weekday lunch/errand option in the same corridor, likely if the user is continuing a workday routine.",
+    "842": "The user is in the Penn Station/Herald Square area, so a transit move is plausible before heading to work or coffee.",
+    "5329": "A nearby café that fits the morning food-and-coffee pattern, though less repeated than Starbucks.",
+    "4707": "Another close café option in the user's typical Midtown walking radius, but with weaker history support.",
+    "5281": "A nearby food stop that could fit a midday workday errand, but not as strongly as coffee or office.",
+    "3451": "It is the last known location and a known repeat visit, but Friday morning timing makes a return here less likely."
+  },
+  "fallback": false
+}

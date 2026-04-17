@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_547",
+  "ranked_loc_ids": [
+    1702,
+    2967,
+    2970,
+    244,
+    1175,
+    338,
+    647,
+    2968,
+    156,
+    1064
+  ],
+  "explanations": {
+    "1702": "This is the user’s most frequent venue and the strongest same-day return candidate, especially after their morning commute sequence.",
+    "2967": "The user repeatedly uses this Starbucks as a pre-work anchor, and it remains very close to the last known location.",
+    "2970": "It is extremely close to the office corridor and fits an evening food stop after work.",
+    "244": "A nearby restaurant with a plausible post-work dining pattern and a prior user visit.",
+    "1175": "This is a nearby coffee shop that matches the user’s strong coffee habit and short Manhattan hops.",
+    "338": "Very close to Grey New York and consistent with a quick food stop in the Flatiron area.",
+    "647": "Close by and aligned with the user’s occasional grocery/errand behavior.",
+    "2968": "Another work-related Manhattan venue that fits an evening office-area movement pattern.",
+    "156": "The user has a history of Wednesday evening cultural outings, making this a plausible but farther option.",
+    "1064": "A nearby bar that fits after-work activity, though it is less consistent than the office-centered options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2326",
+  "ranked_loc_ids": [
+    52,
+    2019,
+    1997,
+    275,
+    1038,
+    1630,
+    716,
+    2984,
+    498,
+    2203
+  ],
+  "explanations": {
+    "52": "It is extremely close to the last bookstore stop and fits the user’s habitual post-shopping coffee pattern in the Union Square area.",
+    "2019": "A frequent go-to food stop for this user in the same downtown cluster, making it a strong evening follow-up after Barnes & Noble.",
+    "1997": "Another highly consistent coffee venue in the user’s history, and a natural short next stop after staying in the same area.",
+    "275": "Similar users around this time often shift from nearby shopping/book browsing to entertainment, and this is a very plausible Union Square leisure continuation.",
+    "1038": "The user often chains bookstore/shopping with dinner in the East Village/Union Square zone, and this pizza spot is a recurring nearby food option.",
+    "1630": "The user has a strong bookstore/shopping signature, and this nearby bookstore is a plausible continuation of the same browsing-oriented trip.",
+    "716": "A nearby routine stop within the same compact area, and the user has shown repeated short errands and shopping sequences downtown.",
+    "2984": "This fits the user’s evening food pattern in the East Village and is a reasonable short hop from the current location.",
+    "498": "The user frequently favors Indian restaurant visits in this neighborhood, making it a plausible dinner choice after the bookstore stop.",
+    "2203": "Evening gym visits are part of the user’s profile, but it is slightly less likely than a food or coffee stop immediately after Barnes & Noble."
+  },
+  "fallback": false
+}

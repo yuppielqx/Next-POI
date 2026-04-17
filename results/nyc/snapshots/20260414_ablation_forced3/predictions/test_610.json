@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_610",
+  "ranked_loc_ids": [
+    3162,
+    2210,
+    716,
+    301,
+    1110,
+    47,
+    274,
+    750,
+    1903,
+    3571
+  ],
+  "explanations": {
+    "3162": "The strong morning routine and repeated gym anchoring make a return to this frequent fitness location the most likely next stop.",
+    "2210": "Another gym fits the early Wednesday workout pattern, and the user has prior visits here as an alternate exercise venue.",
+    "716": "The user often pairs morning workouts with grocery errands, making a post-gym grocery stop highly plausible.",
+    "301": "This aligns with the user’s habitual gym-to-grocery behavior and sits in the likely Union Square corridor.",
+    "1110": "This is another Trader Joe's grocery candidate in the same errand pattern, with history supporting a repeat visit.",
+    "47": "Although less habitual, the recent north-east drift and Midtown proximity make a shopping stop possible.",
+    "274": "Its extreme proximity to the last location makes it a reasonable nearby transitional stop, especially in the morning.",
+    "750": "The user has nightlife tendencies, and this lounge is a plausible nearby destination later in the day if plans shift.",
+    "1903": "A bar fits the user’s social pattern, though it is much less likely at this early morning time.",
+    "3571": "A nearby nightlife venue is possible but unlikely given the strong morning fitness prior."
+  },
+  "fallback": false
+}

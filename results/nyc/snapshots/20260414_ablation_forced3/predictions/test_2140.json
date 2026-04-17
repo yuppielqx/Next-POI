@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2140",
+  "ranked_loc_ids": [
+    5487,
+    890,
+    1649,
+    901,
+    5486,
+    1637,
+    3525,
+    3509,
+    2859,
+    2344
+  ],
+  "explanations": {
+    "5487": "The 18:20 Friday slot strongly matches the user’s repeated evening workout routine, and this is their most consistent late-day fitness destination.",
+    "890": "The user visits this gym often and it sits very close to the last location, making it a plausible immediate continuation before an evening workout.",
+    "1649": "A quick post-office or pre-gym food stop fits the user’s supporting lunchtime/early-evening pattern and nearby West Village location.",
+    "901": "This is extremely close to the last known point and fits a brief transitional stop before heading to the gym.",
+    "5486": "The user repeatedly anchors at this office in the morning, so a return is possible though less likely at 18:20 on a Friday.",
+    "1637": "A nearby deli stop is consistent with a short food break in the corridor between work and evening activity.",
+    "3525": "A casual meal stop near Varick Street could precede a workout or Friday evening transition.",
+    "3509": "The movement south and commute-like behavior make a transit stop plausible en route to the next routine destination.",
+    "2859": "Friday evening social behavior appears in the history, so a nightlife stop is possible, though less favored than fitness.",
+    "2344": "Nearby nightlife makes it a weak Friday evening possibility, but it is less aligned with the user’s work-and-gym routine."
+  },
+  "fallback": false
+}

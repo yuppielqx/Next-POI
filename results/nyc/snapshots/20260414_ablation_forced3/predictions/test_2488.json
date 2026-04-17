@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2488",
+  "ranked_loc_ids": [
+    323,
+    467,
+    293,
+    2560,
+    513,
+    309,
+    1374,
+    2400,
+    2740
+  ],
+  "explanations": {
+    "323": "This is the user’s strongest habitual anchor and a very likely quick post-errand stop after Pathmark.",
+    "467": "It is another close, routine neighborhood service location in the same southern Brooklyn corridor.",
+    "293": "The user has a recurring pharmacy pattern and this nearby option fits an immediate errand continuation.",
+    "2560": "A grocery return or continued shopping stop is plausible since they are already in an errand sequence.",
+    "513": "The user frequently visits this neighborhood food stop, especially in routine daytime transitions.",
+    "309": "A different Brooklyn Starbucks fits the user’s coffee habit, though it is less anchored than the 18th Ave location.",
+    "1374": "The user shows periodic larger-scale shopping behavior, making this a possible next retail stop.",
+    "2400": "Another grocery option that matches the user’s practical, errands-focused mobility pattern.",
+    "2740": "Midtown Starbucks is a known recurring destination, but the current southern Brooklyn context makes it less likely."
+  },
+  "fallback": false
+}

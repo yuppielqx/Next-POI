@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2445",
+  "ranked_loc_ids": [
+    284,
+    3921,
+    4821,
+    348,
+    338,
+    2836,
+    3986,
+    2942,
+    4061,
+    329
+  ],
+  "explanations": {
+    "284": "A mid-afternoon Saturday coffee stop fits the user’s strongest time pattern and their prior downtown café behavior.",
+    "3921": "This matches the user’s history of downtown Spanish food visits and is a plausible repeat food stop after the current south-east movement.",
+    "4821": "The bakery category aligns with the user’s breakfast-and-snack tendencies and the time prior favors a casual food venue.",
+    "348": "A nearby coffee shop is highly consistent with the user’s midday cafe-oriented movement and short downtown hops.",
+    "338": "Another bakery/food option in the immediate area, it fits the user’s strong culinary preference at this hour.",
+    "2836": "The user has already shown willingness to revisit quick lunch-style food spots, making another dumpling stop plausible.",
+    "3986": "A nearby taco place matches the user’s food-first pattern and compact Manhattan wandering.",
+    "2942": "A return to a known wine bar/cafe is possible given the user’s recurring downtown social dining pattern.",
+    "4061": "This falafel truck is consistent with the user’s casual food sampling and proximity to the current location.",
+    "329": "Similar users at this time often transition through nearby outdoor destinations, but it is less likely than food or coffee."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2228",
+  "ranked_loc_ids": [
+    3752,
+    2507,
+    1678,
+    1269,
+    5554,
+    3828,
+    3636,
+    3739,
+    2655,
+    5552
+  ],
+  "explanations": {
+    "3752": "This is the user's strongest work anchor and is immediately adjacent to the last Starbucks check-in, making it the most likely next stop.",
+    "2507": "The user has a repeated coffee-before-work pattern here and may simply remain or re-check in at the same spot.",
+    "1678": "The last observed cluster includes this transit hub, and commuters often move between coffee and the station area.",
+    "1269": "Zuccotti Park sits right in the same Financial District cluster and is a plausible nearby walk-through destination.",
+    "5554": "This nearby food stop fits the user's support-stop pattern around the office commute zone.",
+    "3828": "Sophies Cuban Cuisine is very close to the last location and could be a quick lunch-oriented follow-on in the same area.",
+    "3636": "Another nearby coffee option in the Financial District matches the user's strong coffee habit.",
+    "3739": "A close-by lower Manhattan venue that could appear as a brief errand or pause in the same corridor.",
+    "2655": "Extremely close and functionally similar to the user's usual quick food stops, though less historically favored.",
+    "5552": "A return to the Bronx commute origin is possible, but it is less likely immediately after the morning Financial District check-in."
+  },
+  "fallback": false
+}

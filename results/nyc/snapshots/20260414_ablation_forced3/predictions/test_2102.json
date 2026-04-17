@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2102",
+  "ranked_loc_ids": [
+    275,
+    2018,
+    340,
+    4618,
+    5108,
+    3715,
+    627,
+    178,
+    67,
+    626
+  ],
+  "explanations": {
+    "275": "The user has a direct history at this cinema and Tuesday night around 9 PM strongly fits their evening entertainment pattern near Union Square.",
+    "2018": "This is a known user stop in the Union Square/East Village corridor and fits a post-shopping dinner or drinks transition.",
+    "340": "It is very close to the last location and matches the user’s strong preference for evening lounge/social stops.",
+    "4618": "A late-evening dessert stop fits the user’s nightlife-oriented, food-centric outing style near Union Square.",
+    "5108": "Karaoke is a strong match for this user’s late-night social behavior and is nearby in Manhattan.",
+    "3715": "Their history shows bar-heavy nights, and this is a plausible next nightlife destination after retail errands.",
+    "627": "An Asian restaurant in Midtown South fits the time prior and the user’s frequent late-evening dining pattern.",
+    "178": "A movie theater is consistent with the user’s entertainment habits, though it is slightly less aligned than Regal Union Square.",
+    "67": "Very close to the current area and a plausible connector stop, but less likely than a venue for this evening slot.",
+    "626": "Times Square-area movies are possible for this entertainment-focused user, but it is less consistent with the Union Square corridor."
+  },
+  "fallback": false
+}

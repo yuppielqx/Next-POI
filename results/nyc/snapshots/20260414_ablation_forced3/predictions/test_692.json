@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_692",
+  "ranked_loc_ids": [
+    2039,
+    2599,
+    3407,
+    3424,
+    3408,
+    3406,
+    3413,
+    3416,
+    3417,
+    66
+  ],
+  "explanations": {
+    "2039": "The user is already at this American restaurant, and their Friday morning routine strongly favors staying within the same nearby Midtown corridor.",
+    "2599": "A highly frequent Friday morning coffee stop very close to the current location fits their breakfast-to-commute pattern.",
+    "3407": "This is one of the user’s strongest Friday morning repeat venues and is only a short walk away in Midtown East.",
+    "3424": "The user often makes brief morning service stops, and this pharmacy is extremely close to the last known location.",
+    "3408": "Their history shows repeated morning visits to institutional destinations, and this office is nearby and time-aligned.",
+    "3406": "The user frequently starts Friday mornings here, and another breakfast-related stop remains plausible in the same corridor.",
+    "3413": "This matches the user’s commuter/student-like morning routine and their strong morning institutional pattern.",
+    "3416": "A common morning deli/bodega stop in the user’s core area, consistent with a short local walk.",
+    "3417": "Another breakfast-oriented repeat venue that fits the user’s heavy 9–11am bagel pattern.",
+    "66": "The user frequently moves through the Herald Square/Midtown shopping area, making a nearby retail stop possible."
+  },
+  "fallback": false
+}

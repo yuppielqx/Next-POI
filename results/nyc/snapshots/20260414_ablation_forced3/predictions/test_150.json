@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_150",
+  "ranked_loc_ids": [
+    1182,
+    2602,
+    4474,
+    2372,
+    5280,
+    2260,
+    1168,
+    1175,
+    1173,
+    1177
+  ],
+  "explanations": {
+    "1182": "The user was last seen here and the short noon-to-afternoon window strongly favors staying near the current Manhattan cluster for a meal.",
+    "2602": "A nearby coffee stop fits the user’s strong transit/coffee ritual and is very plausible after a late-morning/early-afternoon meal break.",
+    "4474": "This close-by diner matches the user’s tendency toward casual food stops during midday Manhattan movement.",
+    "2372": "A bakery is a reasonable quick afternoon stop for a commuter-style user who often pairs movement with food or coffee.",
+    "5280": "The user’s daytime pattern and nearby location make a gym visit plausible, especially after a meal or before resuming travel north.",
+    "2260": "A fitness-oriented stop is possible in this area, though less supported than food or transit by the user’s history.",
+    "1168": "This is one of the user’s strongest Bronx anchors, but it is less likely immediately from a midday Upper West Side position than a nearby Manhattan stop.",
+    "1175": "The user frequently uses Starbucks as a transition point, though this one is farther south than the current cluster.",
+    "1173": "A Bronx outdoor/public-space anchor is plausible later in the day, but the current Manhattan position makes it less immediate.",
+    "1177": "This is another Bronx food stop consistent with the user profile, but it is farther from the last known location and less likely than nearby Manhattan options."
+  },
+  "fallback": false
+}

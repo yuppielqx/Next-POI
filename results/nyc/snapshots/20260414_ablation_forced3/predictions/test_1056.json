@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1056",
+  "ranked_loc_ids": [
+    4259,
+    3664,
+    823,
+    441,
+    3253,
+    4999,
+    1423,
+    4657,
+    5436
+  ],
+  "explanations": {
+    "4259": "The user’s strongest recurring pattern is to remain at UPS in the early morning, and it is also the last known location just 90 minutes earlier.",
+    "3664": "This is the paired location in the user’s signature early-morning commute pattern and is very close to UPS.",
+    "823": "Walmart is a frequent secondary morning stop in this user’s routine, though usually later than the current time.",
+    "441": "It is nearby in Secaucus and fits a utilitarian stop, but there is no prior visit history.",
+    "3253": "Another nearby retail option in the same practical shopping cluster, though less supported by history than Walmart.",
+    "4999": "This nearby office building is plausible as a work-related stop within the same Secaucus area.",
+    "1423": "A nearby professional office location that fits the user’s work-oriented mobility pattern, though it is not historically established.",
+    "4657": "This nearby sporting goods store is within the same commercial zone, but the user’s history points more strongly to UPS and Walmart.",
+    "5436": "A nearby food stop that could fit an early-morning routine, though the user’s pattern is much more work- and transit-oriented."
+  },
+  "fallback": false
+}

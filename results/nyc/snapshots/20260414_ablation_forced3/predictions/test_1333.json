@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1333",
+  "ranked_loc_ids": [
+    4683,
+    67,
+    590,
+    4521,
+    301,
+    2213,
+    329,
+    716,
+    3554,
+    4686
+  ],
+  "explanations": {
+    "4683": "Strong home-base anchor and the time is late evening on a Saturday, making a return home most likely.",
+    "67": "Very close to the current northward movement and a common nearby leisure stop in this neighborhood cluster.",
+    "590": "Recurrent evening fitness destination, and the user often pairs late-day activity with nearby Union Square stops.",
+    "4521": "A frequent local grocery stop near Union Square that fits an errand-to-home evening pattern.",
+    "301": "Nearby food-shopping destination that matches the user’s compact neighborhood routine.",
+    "2213": "Close by and aligned with the user’s fitness-oriented behavior in the late afternoon/evening window.",
+    "329": "Nearby outdoor destination with prior transition behavior, making it a plausible short-hop stop.",
+    "716": "Fits the user’s grocery pattern and is still within the Union Square/Flatiron orbit.",
+    "3554": "Nearby casual food option that could plausibly follow an errand on a Saturday night.",
+    "4686": "A reasonable evening social destination, though less likely than the home-base and nearby routine options."
+  },
+  "fallback": false
+}

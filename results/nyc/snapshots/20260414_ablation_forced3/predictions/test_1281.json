@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1281",
+  "ranked_loc_ids": [
+    3822,
+    1386,
+    797,
+    3154,
+    4539,
+    1083,
+    1127,
+    4147,
+    3620,
+    4087
+  ],
+  "explanations": {
+    "3822": "The strongest prior is a very short-horizon return-to-last stop, and the user was already at this exact Starbucks just 12 minutes earlier.",
+    "1386": "It is only a few steps away and fits the user’s routine of nearby grocery/errand follow-ups on the Upper East Side.",
+    "797": "A nearby leisure venue matches the user’s occasional entertainment pattern and is plausible after a coffee stop in this neighborhood.",
+    "3154": "This nearby breakfast/lunch food stop aligns with the user’s midday food-oriented behavior and can easily follow Starbucks.",
+    "4539": "A nearby restaurant is a reasonable next move given the user’s strong lunch/meal routine and short walking distance.",
+    "1083": "Another close food option that fits the user’s frequent restaurant visits and midday/afternoon timing.",
+    "1127": "The user sometimes shifts to nearby entertainment venues, and a cinema is a plausible short hop from the current area.",
+    "4147": "A nearby routine-oriented stop is possible, especially since the user’s movement is compact and neighborhood-based.",
+    "3620": "A nearby bar could fit the user’s secondary evening leisure pattern, though the current time is still more afternoon than night.",
+    "4087": "A nearby errand/shopping stop is possible, but it is less consistent with the user’s dominant food and coffee habits."
+  },
+  "fallback": false
+}

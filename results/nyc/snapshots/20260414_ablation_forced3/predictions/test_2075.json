@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2075",
+  "ranked_loc_ids": [
+    2000,
+    1978,
+    4446,
+    477,
+    4841,
+    4447,
+    4448,
+    3846,
+    3531,
+    4449
+  ],
+  "explanations": {
+    "2000": "This is the user’s strongest anchor with repeated Tuesday visits and the current morning check-in already places them there.",
+    "1978": "A very plausible mid-afternoon coffee stop right next to campus, matching the user’s frequent campus-adjacent food pattern.",
+    "4446": "The user was there the previous day, and it fits a same-campus academic move during a weekday afternoon.",
+    "477": "The user is likely staying within the Columbia campus orbit, and this is the broad institutional hub nearest the current location.",
+    "4841": "Another nearby Columbia academic building that fits an afternoon intra-campus transition.",
+    "4447": "A central campus location that could be passed through between classes or meetings.",
+    "4448": "A nearby Columbia science building consistent with movement around the university complex.",
+    "3846": "A routine-friendly coffee stop that aligns with the user’s campus-centered weekday behavior.",
+    "3531": "If the user is heading out of campus for the next leg, this nearby subway station is a likely transit point.",
+    "4449": "A nearby coffee shop that fits an afternoon break pattern, though it is less directly tied to the user’s strongest anchor."
+  },
+  "fallback": false
+}

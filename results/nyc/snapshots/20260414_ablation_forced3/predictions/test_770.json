@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_770",
+  "ranked_loc_ids": [
+    1834,
+    3217,
+    5123,
+    1799,
+    3516,
+    3315,
+    3471,
+    1824,
+    4349,
+    3247
+  ],
+  "explanations": {
+    "1834": "This is the user’s strongest habitual anchor and a high-probability Monday morning return destination in Midtown/Central Park South.",
+    "3217": "A nearby Midtown dining spot that fits the user’s food-oriented pattern and morning-to-midday movement in the same corridor.",
+    "5123": "Very close to the current area and plausible for a late morning meal stop after an overnight outing.",
+    "1799": "Still in the same Central Park South cluster and consistent with the user’s frequent Midtown nightlife-to-daytime loop.",
+    "3516": "A nearby lounge in the user’s favored neighborhood that could be visited as part of a familiar Midtown routine.",
+    "3315": "Another Midtown bar option that matches the user’s recurring nightlife-heavy behavior, though less likely in the morning.",
+    "3471": "Fits the user’s dining preferences and Midtown range, though it is a bit farther from the current anchor.",
+    "1824": "The last known location makes it possible by continuity, but a Monday morning return is less likely than a food stop.",
+    "4349": "A nearby transit point that could be used during a short movement transition in Midtown.",
+    "3247": "A historically relevant but much less likely Queens option given the strong Midtown morning prior."
+  },
+  "fallback": false
+}

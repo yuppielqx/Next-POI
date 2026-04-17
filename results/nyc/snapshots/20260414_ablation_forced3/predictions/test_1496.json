@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1496",
+  "ranked_loc_ids": [
+    4886,
+    4887,
+    402,
+    1719,
+    4298,
+    451,
+    2150,
+    2754,
+    3008
+  ],
+  "explanations": {
+    "4886": "The user is already at this exact location and their history shows the strongest morning continuity here.",
+    "4887": "This paired airport lot is the other dominant frequent stop and often alternates immediately with the FedEx terminal.",
+    "402": "The user’s routine is centered on the airport cluster, making the broader airport a plausible next move.",
+    "1719": "Terminal A is within the same Newark airport work zone and is a nearby airport-terminal continuation.",
+    "4298": "Terminal B is another close airport terminal option that fits the airport-operations pattern.",
+    "451": "Terminal C is still inside Newark Liberty and could be reached while staying in the same transportation hub.",
+    "2150": "A commute-related transfer point is plausible given the user’s worklike airport schedule.",
+    "2754": "Major road access near the airport could be used for an in/out transition.",
+    "3008": "It is nearby but has no real history signal, so it is only a low-probability local option."
+  },
+  "fallback": false
+}

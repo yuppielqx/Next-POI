@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1632",
+  "ranked_loc_ids": [
+    537,
+    1812,
+    349,
+    2042,
+    2046,
+    814,
+    2137,
+    5033,
+    1990,
+    2442
+  ],
+  "explanations": {
+    "537": "Strong late-night lounge history and the current Manhattan trajectory fit a familiar 9–11pm nightlife stop.",
+    "1812": "A recurring 9–11pm New American dinner spot in Chelsea that matches the Friday-night dining prior.",
+    "349": "The user has twice visited this theater in the same late-evening window, making it a plausible Friday-night choice.",
+    "2042": "Close to the last point and consistent with the user’s Hell’s Kitchen corridor, though with weaker repeat evidence.",
+    "2046": "A nightlife bar in the Chelsea area that aligns with the user’s occasional late-night social pattern.",
+    "814": "Very nearby and squarely in the nightlife category, but it has only a single historical visit.",
+    "2137": "This is the user’s strongest habitual coffee stop and remains near their Manhattan corridor, though it is less likely than nightlife at 22:47.",
+    "5033": "A repeated pizza anchor in the user’s history, but it is more of a meal stop than a best fit for this late hour.",
+    "1990": "A frequent habitual stop in NoHo/Greenwich Village that fits the user’s compact routine.",
+    "2442": "A Chelsea-area Italian restaurant that could fit a late dinner, but it has only one prior visit."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1987",
+  "ranked_loc_ids": [
+    1502,
+    782,
+    4280,
+    5368,
+    3268,
+    3970,
+    284,
+    2436,
+    5367,
+    774
+  ],
+  "explanations": {
+    "1502": "Strong Saturday-specific revisit behavior and the midday time prior make this the best follow-up stop near the current Brooklyn cluster.",
+    "782": "It is very close to Cafe Pedlar and part of the same recurring weekend Brooklyn corridor, making a nearby errand highly plausible.",
+    "4280": "The user has a strong habit of repeating this Saturday coffee stop, so lingering or returning here remains likely.",
+    "5368": "A nearby Brooklyn food stop fits the afternoon lunch pattern and the user has visited it before.",
+    "3268": "This is a nearby Brooklyn coffee shop that matches the user’s clustered mobility and café-heavy profile.",
+    "3970": "It is extremely close to the last known location, so a quick adjacent coffee move is possible despite no prior history.",
+    "284": "The user frequently visits coffee shops in familiar corridors, and this Manhattan café is a plausible but less local fallback.",
+    "2436": "Another habitual coffee destination in the user’s network, though it is less consistent with the Saturday Brooklyn prior.",
+    "5367": "This is a known repeat café in the user’s Manhattan routine and fits the coffee-driven behavior profile.",
+    "774": "A recurring coffee stop in the user’s history, but it is slightly less aligned with the immediate Brooklyn afternoon context."
+  },
+  "fallback": false
+}

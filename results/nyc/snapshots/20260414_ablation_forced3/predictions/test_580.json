@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_580",
+  "ranked_loc_ids": [
+    237,
+    1160,
+    1746,
+    1235,
+    329,
+    244,
+    3075,
+    2984,
+    4122
+  ],
+  "explanations": {
+    "237": "The user is already there and the strongest short-term pattern is staying in the same area, making an immediate return or continued presence most likely.",
+    "1160": "This is the user’s top historical anchor and a very strong afternoon destination in their Midtown entertainment routine.",
+    "1746": "Their most distinctive repeated pairing is Junior’s with theater visits in the Times Square area, and this fits the entertainment-focused profile.",
+    "1235": "A nearby Midtown stop that matches their repeated Theater District footprint and occasional hotel-related movement.",
+    "329": "Madison Square Park is a plausible nearby daytime outing similar users have favored, and it is close enough for an afternoon move.",
+    "244": "This is another nearby Midtown-adjacent restaurant choice that fits the user’s dining-centered mobility style.",
+    "3075": "Pershing Square Café is a plausible coffee stop near Midtown and fits the user’s occasional café behavior.",
+    "2984": "A known repeat-type dining destination from the user’s broader Manhattan history, though farther from the current cluster.",
+    "4122": "A nearby restaurant option that could fit an afternoon food stop, but it is less consistent with the user’s core Theater District routine."
+  },
+  "fallback": false
+}

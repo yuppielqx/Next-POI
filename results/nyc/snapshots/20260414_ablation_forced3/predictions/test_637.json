@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_637",
+  "ranked_loc_ids": [
+    1999,
+    3262,
+    3263,
+    3534,
+    3264,
+    1545,
+    303,
+    2525,
+    1530,
+    192
+  ],
+  "explanations": {
+    "1999": "This is the user’s strongest recurring anchor and a highly likely return point from the current downtown errand loop.",
+    "3262": "It is extremely close, frequently visited on Fridays and around noon to early afternoon, matching the user’s errand pattern.",
+    "3263": "The user is already there in the current trip context, making a nearby continuation or return very plausible.",
+    "3534": "A very close transit option in the same neighborhood, fitting the user’s subway-centered movement style.",
+    "3264": "This nearby SoHo bank stop matches the user’s compact downtown errands and Friday pattern.",
+    "1545": "A nearby transit hub in the same downtown corridor that aligns with the user’s subway chaining behavior.",
+    "303": "A short functional stop in the same Houston/NoHo area fits the user’s convenience-oriented daytime routine.",
+    "2525": "This nearby grocery/gourmet stop matches the user’s quick retail and food-errand pattern.",
+    "1530": "A plausible downtown transit continuation, especially given the user’s occasional Greenwich Village detours.",
+    "192": "A reasonable nearby leisure stop for a daytime Friday movement chain, though less likely than transit or errands."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1900",
+  "ranked_loc_ids": [
+    391,
+    5285,
+    3108,
+    1545,
+    3245,
+    3718,
+    5286,
+    955,
+    1338,
+    1251
+  ],
+  "explanations": {
+    "391": "It is the closest nightlife option and fits the user’s late-night Friday bar-hopping pattern after Dave’s Tavern.",
+    "5285": "The user may simply remain at the current dive bar, and repeated nightlife stays are common at this hour.",
+    "3108": "This is the strongest recurring Lower East Side anchor and a highly likely late-night return destination.",
+    "1545": "The user often uses this Lower East Side transit hub late at night, especially when shifting between nightlife spots.",
+    "3245": "Another LES nightlife spot that matches the user’s bar-heavy habits and short-range movement style.",
+    "3718": "A well-matched Lower East Side bar with strong nightlife alignment and proximity to the user’s core corridor.",
+    "5286": "The Cuban restaurant fits the user’s food-and-nightlife pattern and is near their usual Lower East Side zone.",
+    "955": "This is a repeated social destination for the user, though it is less likely this late than a nearby bar.",
+    "1338": "A familiar nightlife-friendly food spot that could follow an evening bar stop, but it is less central than LES options.",
+    "1251": "The user sometimes moves toward Brooklyn late at night, making this a plausible transit-based exit option."
+  },
+  "fallback": false
+}

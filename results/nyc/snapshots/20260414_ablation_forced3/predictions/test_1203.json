@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1203",
+  "ranked_loc_ids": [
+    114,
+    2801,
+    4406,
+    2800,
+    4594,
+    1196,
+    1622,
+    1252,
+    1530,
+    67
+  ],
+  "explanations": {
+    "114": "It is the user's strongest transit anchor and is at the last known location, making it the most likely immediate next stop.",
+    "2801": "A nearby grocery stop fits the afternoon errand pattern and the user’s tendency to move between transit and practical services.",
+    "4406": "It is very close to the current area and could plausibly be reached on a north-westward movement, though there is no prior visit history.",
+    "2800": "This nearby Lower Manhattan location is plausible as a short follow-on from the bridge area, especially given the user's bounded movement radius.",
+    "4594": "Another close-by Brooklyn/Lower Manhattan venue that fits a short transit-linked hop without requiring a large detour.",
+    "1196": "The user often moves through the Chinatown/Lower Manhattan corridor, making this a reasonable neighborhood-level destination.",
+    "1622": "City Hall is near the current area and consistent with the user's frequent travel through central Manhattan transit nodes.",
+    "1252": "Similar users often transition through Manhattan Bridge-related spots, so this nearby bridge-adjacent location remains plausible.",
+    "1530": "A major transit hub in the user's usual corridor, though it is less likely than staying near Manhattan Bridge right now.",
+    "67": "Similar-user patterns and the user's central Manhattan movement make this a possible afternoon destination, but it is less directly supported than the transit options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_253",
+  "ranked_loc_ids": [
+    329,
+    879,
+    1687,
+    878,
+    1681,
+    244,
+    338,
+    207,
+    1688,
+    5228
+  ],
+  "explanations": {
+    "329": "This is the most consistent return-to-frequent-place candidate, directly matching the user’s habitual Madison Square Park footprint and their immediate northward movement.",
+    "879": "The user repeatedly passes through this exact area during weekday routines, and it is the most natural nearby midday outdoor stop.",
+    "1687": "Their profile shows repeated work-related check-ins here, making it a strong office-anchor revisit near the current location.",
+    "878": "The user has many weekday transitions through this landmark, and it fits the same Flatiron/Madison Square work corridor.",
+    "1681": "This is the classic post-arrival coffee stop in their routine, and midday coffee/lunch behavior makes it plausible.",
+    "244": "A nearby lunch option in Madison Square Park that aligns well with a Friday afternoon pause close to work.",
+    "338": "Another close food stop near 23rd Street that fits a midday break within the same micro-area.",
+    "207": "The food-truck option is highly proximate and consistent with a quick lunchtime visit around Madison Square Park.",
+    "1688": "This conference-room location appears in the user’s history and remains a nearby work-related destination.",
+    "5228": "A nearby lunch cart is plausible for a midday Friday stop, though less historically grounded than the top options."
+  },
+  "fallback": false
+}

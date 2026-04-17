@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_194",
+  "ranked_loc_ids": [
+    1379,
+    1381,
+    1382,
+    1390,
+    58,
+    1380,
+    811,
+    274,
+    145,
+    1394
+  ],
+  "explanations": {
+    "1379": "This is the strongest commute anchor in the user’s history and best fits a Friday morning return to the Upper East Side routine.",
+    "1381": "The user frequently pairs the 96th St commute with this nearby Lexington Avenue stop, especially in morning/errand patterns.",
+    "1382": "This fits the user’s habitual Upper East Side errand chain and is a plausible follow-up near the commute origin.",
+    "1390": "The user often makes morning coffee stops in Midtown, and this location is near the current Midtown cluster.",
+    "58": "Grand Central is a recurring workday node for this user and aligns with the Midtown commute corridor.",
+    "1380": "This deli/bodega near Grand Central matches the user’s repeated Midtown weekday food-stop behavior.",
+    "811": "The current location is the same point, so a brief continued stay or immediate return here remains possible.",
+    "274": "This is a frequent Midtown daytime waypoint for the user and fits the nearby movement pattern.",
+    "145": "Another plausible Upper East Side transit stop, though less dominant than 96th St in the user’s history.",
+    "1394": "A coffee-stop pattern fits the Friday morning time slot, but this specific Upper East Side Starbucks is a weaker match than the main subway anchor."
+  },
+  "fallback": false
+}

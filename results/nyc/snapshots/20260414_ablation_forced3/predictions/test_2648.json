@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2648",
+  "ranked_loc_ids": [
+    563,
+    2236,
+    4214,
+    2727,
+    539,
+    2608,
+    564,
+    1314,
+    577,
+    88
+  ],
+  "explanations": {
+    "563": "It is exactly at the last known spot, and the user has a strong Upper West Side grocery/errand pattern that makes a direct revisit most likely.",
+    "2236": "This is extremely close to the current location and matches the user's repeated preference for quick casual Mexican food.",
+    "4214": "Very near the last stop and strongly aligned with the user's burrito-focused dining history.",
+    "2727": "It is a nearby Upper West Side food option, fitting an early-evening meal transition from grocery shopping.",
+    "539": "Close by and plausible for a casual dinner-like stop in the same neighborhood.",
+    "2608": "The user often makes afternoon-to-evening coffee or snack stops, and this is nearby.",
+    "564": "The user has transit-linked movements and this station is the most immediate nearby travel option.",
+    "1314": "A nearby public plaza that fits a short post-shopping walk around the Upper West Side.",
+    "577": "A practical nearby errand stop that fits the user's mixed shopping-and-utility behavior.",
+    "88": "A historically relevant transit hub for this user, though farther away than the Upper West Side options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1720",
+  "ranked_loc_ids": [
+    4149,
+    1611,
+    3935,
+    5125,
+    3675,
+    3145,
+    1405,
+    1083,
+    5123,
+    2966
+  ],
+  "explanations": {
+    "4149": "This is the user’s strongest habitual stop and best matches their daytime coffee routine after a transit move.",
+    "1611": "A frequent lunch-follow-up venue that fits the user’s midday-to-afternoon food pattern.",
+    "3935": "Another recurring Saturday-friendly coffee stop on the Upper East Side.",
+    "5125": "A nearby Upper East Side Starbucks that fits a quick return to a familiar coffee run.",
+    "3675": "The user has visited this in the same afternoon time window, making it a plausible dessert stop.",
+    "3145": "This closer Upper East Side Starbucks is still consistent with the user’s coffee-heavy routine.",
+    "1405": "The user was just at a bookstore, so a continued daytime errand or browsing stop remains possible.",
+    "1083": "A practical casual food option that matches the user’s lunch-oriented behavior.",
+    "5123": "Another daytime food venue that aligns with the user’s relaxed midday routine.",
+    "2966": "Less likely due to distance, but still plausible given the user’s broad Starbucks preference."
+  },
+  "fallback": false
+}

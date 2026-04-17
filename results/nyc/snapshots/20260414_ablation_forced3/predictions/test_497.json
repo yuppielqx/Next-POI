@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_497",
+  "ranked_loc_ids": [
+    2758,
+    2766,
+    2759,
+    2762,
+    2233,
+    1887,
+    2760,
+    1149,
+    863,
+    2232
+  ],
+  "explanations": {
+    "2758": "This is the user's strongest recurring base-area stop, matches the early-afternoon prior, and requires no meaningful movement from the last known location.",
+    "2766": "It is extremely close to the current Newark position and fits a plausible midday café stop after a morning at the base area.",
+    "2759": "A nearby repeat location with moderate history, making it a reasonable local move in the same Newark/South Orange corridor.",
+    "2762": "The user frequently favors diners and this nearby food stop fits the afternoon errand-to-meal pattern.",
+    "2233": "A practical grocery option in the local suburban circuit, consistent with the user's routine-oriented behavior.",
+    "1887": "The user has prior diner activity and this remains a plausible return to a familiar food venue within the local radius.",
+    "2760": "Gym visits are a strong part of the user's history, and a midday workout in Clifton is behaviorally consistent.",
+    "1149": "Target is one of the user's core retail anchors, so a local shopping errand is highly plausible.",
+    "863": "The user has repeated late-day restaurant behavior, and Applebee's matches that recurring dining pattern.",
+    "2232": "A Costco-style retail errand is plausible for this practical user, though it is less likely than the closer and more frequent options."
+  },
+  "fallback": false
+}

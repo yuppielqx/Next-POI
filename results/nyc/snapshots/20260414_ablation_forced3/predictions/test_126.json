@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_126",
+  "ranked_loc_ids": [
+    938,
+    937,
+    359,
+    936,
+    942,
+    935,
+    789,
+    939,
+    750,
+    650
+  ],
+  "explanations": {
+    "938": "Friday late-night social behavior strongly matches this downtown karaoke venue, and it fits the user’s nightlife pattern.",
+    "937": "This is a known late-night downtown stop and aligns well with the Friday night time prior.",
+    "359": "Its repeated 9–11pm usage makes it a strong candidate for a Friday evening outing in Tribeca.",
+    "936": "The user’s profile favors downtown nightlife venues, and this biergarten fits the social evening pattern.",
+    "942": "A nearby Greenwich Village bar makes sense after a daytime gap and matches the user’s bar-heavy behavior.",
+    "935": "Spring Lounge fits the user’s late-evening bar pattern and is geographically consistent with a downtown jump.",
+    "789": "The user visited this bar earlier in the trip, so a return to a familiar nightlife spot remains plausible.",
+    "939": "This Avenue A food spot fits the downtown cluster and could be part of a late-night stop.",
+    "750": "A lounge in Midtown South fits the nightlife category, though it is slightly less aligned than downtown options.",
+    "650": "This nightlife venue matches the Friday night context, but it is less supported by the user’s downtown-specific history."
+  },
+  "fallback": false
+}

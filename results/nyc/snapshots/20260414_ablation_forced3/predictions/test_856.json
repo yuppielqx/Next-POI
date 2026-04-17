@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_856",
+  "ranked_loc_ids": [
+    2146,
+    25,
+    1099,
+    629,
+    618,
+    3787,
+    476,
+    195,
+    2494,
+    1049
+  ],
+  "explanations": {
+    "2146": "It is the exact last known metro station and the strongest return-to-last candidate only two minutes later.",
+    "25": "It is immediately adjacent to the current station and fits a quick late-night food stop after transit or a show.",
+    "1099": "It is very close to the current location and a plausible nearby post-transit pizza stop in Williamsburg.",
+    "629": "It is nearby in Brooklyn and matches the user’s late-night, entertainment-linked bar/food pattern.",
+    "618": "It is a nearby Brooklyn transit hub that fits the user’s strong late-night subway movement.",
+    "3787": "It is a close-by bar option that aligns with the user’s nightlife-heavy behavior.",
+    "476": "It is near the current area, but is less likely than food or transit at 00:54 on a Sunday.",
+    "195": "It is a nearby food destination and could follow a late-night move, though it is less specific than the top choices.",
+    "2494": "It is a Brooklyn nightlife venue with a prior visit, making it plausible after a late-night transit leg.",
+    "1049": "It fits the user’s entertainment pattern, but it is farther away and less likely than nearby Brooklyn options."
+  },
+  "fallback": false
+}

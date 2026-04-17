@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1871",
+  "ranked_loc_ids": [
+    652,
+    2147,
+    1201,
+    2141,
+    1546,
+    1862,
+    1890,
+    275,
+    951,
+    5261
+  ],
+  "explanations": {
+    "652": "Late Monday night strongly favors a cross-borough jump into Manhattan, and this is the user’s most plausible gateway with repeated same-slot history.",
+    "2147": "The user has ferry-related transitions in their history, and a late-night ferry movement fits the Staten Island-to-Manhattan travel pattern.",
+    "1201": "This matches the user’s recurring Manhattan nightlife behavior, especially LGBTQ bar venues in the Village corridor.",
+    "2141": "Another strong fit for the user’s established evening pattern in downtown Manhattan’s gay nightlife scene.",
+    "1546": "The user has visited similar Manhattan nightlife spots on weekend and evening outings, making this a plausible late-night stop.",
+    "1862": "A Chelsea cocktail bar aligns with the user’s known social nightlife preferences and Manhattan evening activity.",
+    "1890": "The user’s late-night Manhattan outings sometimes include dining plus lounge settings, which fits this venue.",
+    "275": "The user has at least one movie-going visit in Manhattan, and late evening can include a cinema stop.",
+    "951": "This transportation hub on Staten Island is consistent with the user’s commute pattern and could precede a ferry connection.",
+    "5261": "The user’s strongest anchor is here, but the late-night timing makes a repeat visit much less likely than a Manhattan move."
+  },
+  "fallback": false
+}

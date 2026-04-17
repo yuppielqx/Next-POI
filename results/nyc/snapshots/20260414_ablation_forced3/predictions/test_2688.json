@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2688",
+  "ranked_loc_ids": [
+    115,
+    5732,
+    1663,
+    5056,
+    290,
+    1416,
+    291,
+    316,
+    4029,
+    2554
+  ],
+  "explanations": {
+    "115": "The morning time prior, nearby Flushing context, and transit-oriented patterns make the Main St station the strongest next stop.",
+    "5732": "It fits a short morning transit move in Flushing and is consistent with the user's local, commute-like mobility.",
+    "1663": "The Flushing-Main Street LIRR Station is another highly plausible morning transit hub near the last known location.",
+    "5056": "This is the user’s most repeated personal favorite, but a morning revisit is less likely than a transit stop.",
+    "290": "A generic Flushing neighborhood stop is plausible given the user's strong local Queens cluster.",
+    "1416": "The user has visited Bayside food spots before, though it is less aligned with the current Flushing morning context.",
+    "291": "A morning café stop matches the time of day and the user's light dining pattern.",
+    "316": "A bakery/café visit is plausible for a morning outing in the same Queens corridor.",
+    "4029": "It is adjacent to the last known area, but a repeat dim sum restaurant stop is less likely than transit or café.",
+    "2554": "This fits the user's leisure history, but the morning timing makes it a weak next destination."
+  },
+  "fallback": false
+}

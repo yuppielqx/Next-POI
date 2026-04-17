@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_648",
+  "ranked_loc_ids": [
+    3289,
+    250,
+    301,
+    1074,
+    2337,
+    276,
+    3292,
+    3295,
+    1126,
+    3299
+  ],
+  "explanations": {
+    "3289": "The strongest morning anchor in the user’s history is WCG, and the 10:51 Sunday timing still aligns with their repeated 9–11 AM work check-ins.",
+    "250": "The user often pairs morning work routines with coffee, making a nearby coffee stop a plausible pre-work move.",
+    "301": "This fits the user’s morning Union Square area pattern and could be an errand before heading to work.",
+    "1074": "Parsons is very close to the user’s core Chelsea/Flatiron route and matches the southward movement trend toward the daytime Manhattan core.",
+    "2337": "A nearby Flatiron-area food stop is consistent with a late morning transition after a morning routine.",
+    "276": "This is in the user’s usual Chelsea/Flatiron corridor and could fit a weekend errand near their work area.",
+    "3292": "The sushi restaurant is within the same downtown cluster and is a reasonable nearby stop given the current south-west movement.",
+    "3295": "Although less likely on a Sunday late morning, the gym remains a key habitual anchor in the user’s routine.",
+    "1126": "This is a familiar social venue in the user’s downtown orbit and could follow a weekend morning outing.",
+    "3299": "The user is currently here, so lingering or a quick return is possible, but the morning prior makes a move away more likely."
+  },
+  "fallback": false
+}

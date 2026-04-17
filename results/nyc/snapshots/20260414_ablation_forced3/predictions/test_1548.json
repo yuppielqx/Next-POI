@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1548",
+  "ranked_loc_ids": [
+    180,
+    92,
+    762,
+    561,
+    578,
+    4946,
+    4947,
+    186,
+    3906,
+    2372
+  ],
+  "explanations": {
+    "180": "It is the strongest repeat destination in the user’s history and the last known location, making a short return or continued stay most likely.",
+    "92": "The user frequently chains Equinox with grocery runs, and this is the most probable nearby provisioning stop.",
+    "762": "Another heavily used afternoon grocery destination in the same Upper West Side corridor, fitting the user’s errand pattern.",
+    "561": "A repeated grocery stop in the user’s core neighborhood that often appears in the same daytime loop.",
+    "578": "Pharmacy/convenience errands are part of the user’s routine, and this is close enough to follow a gym visit.",
+    "4946": "The user has repeated pet-store behavior in the same area, making this a plausible errand destination.",
+    "4947": "This frequent miscellaneous shop fits the user’s neighborhood-based daytime retail pattern.",
+    "186": "It is a nearby fitness option, but the user’s strongest pattern still favors Equinox over switching gyms.",
+    "3906": "A nearby coffee stop is plausible after a gym session, though it is less central than the user’s core errands.",
+    "2372": "A nearby bakery is possible for a quick post-workout or errand break, but it is weakly supported by the history."
+  },
+  "fallback": false
+}

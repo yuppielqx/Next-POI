@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1930",
+  "ranked_loc_ids": [
+    5315,
+    124,
+    5316,
+    2282,
+    2101,
+    2267,
+    2266,
+    469,
+    2033,
+    2986
+  ],
+  "explanations": {
+    "5315": "The strongest routine-based early-morning destination is the user’s primary residence hall, which matches the 6–8 a.m. pattern and campus commute behavior.",
+    "124": "The user frequently begins mornings at this transit stop, making it a likely immediate next move before reaching campus.",
+    "5316": "This Fordham-area library spot is highly familiar and close to the user’s academic routine, so it is a plausible morning stop.",
+    "2282": "The user was last here and often returns to campus academic locations, so a same-area repeat remains likely.",
+    "2101": "A diner visit has occurred in the early morning before, so a brief breakfast stop is possible during the commute.",
+    "2267": "This is another Fordham academic destination nearby, fitting the user’s tightly clustered campus movement pattern.",
+    "2266": "Very close to the last location, but it is less aligned with the user’s established routine than campus-related places.",
+    "469": "A morning coffee stop is behaviorally plausible, though not strongly supported by the user’s history.",
+    "2033": "Nearby and accessible, but more leisure-oriented than the user’s usual school-day pattern.",
+    "2986": "Close by and time-plausible, yet it is much less consistent with the user’s routine-driven academic movements."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_984",
+  "ranked_loc_ids": [
+    4130,
+    4082,
+    4115,
+    4128,
+    2524,
+    672,
+    3418,
+    3721,
+    750,
+    4117
+  ],
+  "explanations": {
+    "4130": "The target time is one minute after the last check-in and the strongest prior is to remain at the current stop.",
+    "4082": "It is only 0.02 km away and the user has an established pattern of short, localized food stops in this exact corridor.",
+    "4115": "This deli/bodega is extremely close and fits the user’s recurring breakfast/snack routine around 30th Street.",
+    "4128": "A nearby hotel-like stop that the user has visited before, making it a plausible immediate continuation.",
+    "2524": "This building is part of the user’s regular home-to-work loop and sits right in the same micro-area.",
+    "672": "A highly frequented deli with strong Friday and afternoon history, consistent with the user’s nearby food pattern.",
+    "3418": "Another repeatedly visited nearby lunch/breakfast venue that matches the user’s compact Manhattan routine.",
+    "3721": "Very close to the last location and within the user’s habitual Park Ave S cluster.",
+    "750": "A nearby lounge-like venue that the user has checked into before and that fits the eastward movement trend.",
+    "4117": "The user’s likely residence in the same broader neighborhood, making it a possible short return within the corridor."
+  },
+  "fallback": false
+}

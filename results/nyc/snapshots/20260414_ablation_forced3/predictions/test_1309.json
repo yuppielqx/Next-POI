@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1309",
+  "ranked_loc_ids": [
+    1220,
+    4654,
+    218,
+    2146,
+    2305,
+    2168,
+    495,
+    3879,
+    345,
+    4272
+  ],
+  "explanations": {
+    "1220": "This is the user’s dominant anchor and the most likely Friday evening return after a Manhattan daytime stop.",
+    "4654": "A Williamsburg-area dining spot that fits the user’s occasional evening local outings and home-base orbit.",
+    "218": "Strong historical repeat location, but the time pattern favors leaving Manhattan rather than staying put.",
+    "2146": "The Bedford Ave L train station is a plausible transit step for a commute back to Williamsburg.",
+    "2305": "Very close to the current location and consistent with a brief Friday evening nightlife stop near The Standard.",
+    "2168": "Nearby Meatpacking nightlife makes this a realistic short-hop social destination from the last known point.",
+    "495": "A highly adjacent venue that matches the user’s Manhattan routine and similar users’ evening bar behavior.",
+    "3879": "Another immediate vicinity option near the user’s current Manhattan cluster, plausible before heading home.",
+    "345": "The High Line area aligns with the user’s recurring Chelsea/Meatpacking pattern and nearby evening movement.",
+    "4272": "A nearby nightlife spot that fits the Friday evening transition pattern seen in similar users."
+  },
+  "fallback": false
+}

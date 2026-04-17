@@ -1,5 +1,5 @@
 """
-Stage 3b: LLM-based next POI prediction agent.
+Stage 3c: LLM-based next POI prediction agent.
 
 Uses gpt-5.4-mini to rank candidate locations given:
   - User's enhanced profile
@@ -106,12 +106,6 @@ def _format_candidates(candidates: list[dict]) -> str:
             source_label += " (forced nearby keep)"
         extra_lines = []
         extra_lines.append(f"    Source: {source_label}")
-        if "reranker_score" in c:
-            support = c.get("retrieval_support_count", 0.0)
-            extra_lines.append(
-                f"    Model prior: reranker score {c['reranker_score']:.3f}"
-                f" | historical support {support:.0f}"
-            )
         extra_lines.append(f"    Context: {c['snippet']}")
         details = "\n".join(extra_lines)
         lines.append(
@@ -175,7 +169,7 @@ Use the exact names as given in the candidate list. Output ONLY the numbered lis
     target_section = f"""## Prediction Target Time Prior
 {_format_prediction_target(target_checkin)}"""
 
-    candidate_section = f"""## Candidate Locations (pre-sorted by behavioral match score; select from these {n_candidates} options only)
+    candidate_section = f"""## Candidate Locations (select from these {n_candidates} options only)
 {_format_candidates(candidates)}"""
 
     sections = [task_section, profile_section, context_section, target_section, similar_section]

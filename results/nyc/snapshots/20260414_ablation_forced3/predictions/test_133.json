@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_133",
+  "ranked_loc_ids": [
+    999,
+    1042,
+    274,
+    998,
+    818,
+    67,
+    329,
+    1015,
+    468,
+    1035
+  ],
+  "explanations": {
+    "999": "This is the strongest midday anchor with 9 total visits and multiple noon-to-2pm check-ins, matching the Sunday afternoon prior.",
+    "1042": "It has repeated noon-to-2pm history and sits right in the Midtown corridor, fitting a likely daytime return near the user’s work base.",
+    "274": "The park has strong noon-time evidence and is close to Midtown, making it a plausible Sunday afternoon stop before or after a work-area return.",
+    "998": "The user visits this gym regularly, and a Sunday midday fitness visit is consistent with their routine.",
+    "818": "A recurring Midtown anchor that could plausibly fit a daytime errand or meeting near the user’s usual Manhattan cluster.",
+    "67": "Repeated visits and a central Manhattan location make it a viable daytime destination for a Sunday outing.",
+    "329": "Madison Square Park aligns with the user’s Midtown/NoMad pattern and outdoor daytime preferences.",
+    "1015": "The wine shop has multiple visits and is in the same general Manhattan corridor, so it remains a plausible stop.",
+    "468": "Lincoln Center Plaza is a known public-space visit and could fit a daytime urban-exploring pattern, though it is farther from the user’s core cluster.",
+    "1035": "The user is currently in Brooklyn and this nearby transit/shopping hub is a realistic short-range movement option."
+  },
+  "fallback": false
+}

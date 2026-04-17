@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_6",
+  "ranked_loc_ids": [
+    85,
+    92,
+    84,
+    86,
+    95,
+    3638,
+    526,
+    98,
+    2225,
+    3952
+  ],
+  "explanations": {
+    "85": "It is the strongest historical evening anchor, matches the user’s Harlem core, and the 20:56 Thursday prior heavily favors a return there.",
+    "92": "The user has repeated grocery behavior in the same Upper Manhattan cluster and evening timing makes a routine errand plausible.",
+    "84": "This fits the user’s occasional evening entertainment pattern and is close to the current Harlem area.",
+    "86": "It has strong 6–8 PM support from the user’s history and is a plausible recurring evening leisure destination.",
+    "95": "The user was just at a gym, and a return or nearby gym-related transition remains possible despite the time gap.",
+    "3638": "Grocery shopping fits the user’s practical evening routine and it is nearby in the Harlem/Upper Manhattan area.",
+    "526": "The user’s movement is trending southwest, and a nearby evening walk or leisure stop is plausible.",
+    "98": "A nearby café is consistent with a post-gym or early-evening grab-and-go stop in the user’s home area.",
+    "2225": "A dinner stop in the Harlem area fits the evening prior and the user’s localized, routine-driven behavior.",
+    "3952": "As the user is moving southwest, a nearby transit stop is plausible for continuing a short commute or transfer."
+  },
+  "fallback": false
+}

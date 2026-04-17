@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1389",
+  "ranked_loc_ids": [
+    97,
+    3248,
+    1476,
+    58,
+    1569,
+    4630,
+    3565,
+    1092,
+    3597,
+    2890
+  ],
+  "explanations": {
+    "97": "The target time is late night on a Tuesday, and this is the strongest known recurring nightlife spot in the user’s history for the 9–11 p.m. window.",
+    "3248": "The user is currently near Astoria/LIC, and a nearby bar fits the night transition better than continuing a breakfast stop.",
+    "1476": "As the last known location, a short return or linger is possible despite the late hour, especially if the user is still with a group.",
+    "58": "This is a frequent Tuesday anchor in the Midtown/Grand Central routine and could be revisited if the user heads back toward their usual core.",
+    "1569": "A heavily used Midtown coffee stop remains plausible if the user is returning to their weekday routine after moving west/north.",
+    "4630": "Another regular coffee-first Midtown destination that matches the user’s habitual, repeatable pattern.",
+    "3565": "A common Midtown lunch/food stop in the user’s history, making it a possible interim return point.",
+    "1092": "Similar users at this hour often drift into entertainment venues, and the user has late-night cultural behavior in their profile.",
+    "3597": "A Midtown routine stop that fits the user’s preference for familiar, central-Manhattan destinations.",
+    "2890": "The user has a fitness pattern in the same Manhattan corridor, though it is less likely than nightlife at 23:28."
+  },
+  "fallback": false
+}

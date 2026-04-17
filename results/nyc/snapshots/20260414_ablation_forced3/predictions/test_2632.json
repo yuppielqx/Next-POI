@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2632",
+  "ranked_loc_ids": [
+    16,
+    572,
+    5733,
+    5734,
+    1991,
+    4770,
+    3055,
+    64,
+    3754,
+    1583
+  ],
+  "explanations": {
+    "16": "Thursday afternoon strongly matches his recurring 3–5pm park visits, and it is a favored daytime anchor in his Manhattan routine.",
+    "572": "His most visited place overall is Equinox, and a weekday afternoon stop fits his fitness-oriented pattern and Midtown/Columbus Circle base.",
+    "5733": "Weekday afternoons often connect to work-related movement, and this is one of his recurring professional anchors in Manhattan.",
+    "5734": "Another Midtown office stop that fits the user’s structured weekday behavior and Manhattan-centered routine.",
+    "1991": "The reservoir/track aligns with his fitness profile and is a plausible afternoon exercise destination.",
+    "4770": "A Midtown coffee stop fits a Thursday afternoon transition between work and errands or meetings.",
+    "3055": "He has a shopping pattern in Manhattan retail corridors, and this Upper East Side location fits his habitual area.",
+    "64": "Another Midtown-East retail anchor that matches his shopping behavior and Manhattan mobility pattern.",
+    "3754": "After his recent nightlife-heavy evening, a restaurant stop is still plausible, and this is near his current Meatpacking location.",
+    "1583": "A practical Midtown food stop that fits daytime weekday routines, though it is less distinctive than his recurring anchors."
+  },
+  "fallback": false
+}

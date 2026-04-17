@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_93",
+  "ranked_loc_ids": [
+    75,
+    717,
+    715,
+    714,
+    720,
+    716,
+    718,
+    722,
+    626,
+    993
+  ],
+  "explanations": {
+    "75": "The strongest repeated pattern is a same-evening move from The Pulp & The Bean to the Apple Store, and the target time matches that routine almost exactly.",
+    "717": "The user is already here and tends to stay within this neighborhood cluster, so a short dwell or repeat stop is plausible.",
+    "715": "The user has nightlife/event behavior in the evening, and this is a known late-day entertainment venue in their history.",
+    "714": "Another prior event-space visit makes this a reasonable evening leisure destination, though it is less frequent than the Apple Store pattern.",
+    "720": "The user has shown late-night lounge behavior, and a night-time transition into a nightlife spot fits the broader profile.",
+    "716": "The user has morning grocery visits, but this is less likely at 21:03 than their recurring evening routine.",
+    "718": "A Brooklyn bar could fit an evening outing, especially given the user's occasional nightlife pattern.",
+    "722": "This aligns with the user's occasional Brooklyn nightlife stops, though it is not a dominant repeated destination.",
+    "626": "A movie theater is a plausible night activity, but there is weaker evidence than for the repeated coffee-to-Apple sequence.",
+    "993": "A nearby bar is possible for a Wednesday night, but it lacks the strong historical support of the top choices."
+  },
+  "fallback": false
+}

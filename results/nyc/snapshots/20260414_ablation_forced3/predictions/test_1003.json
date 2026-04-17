@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1003",
+  "ranked_loc_ids": [
+    3669,
+    419,
+    3215,
+    4861,
+    4682,
+    4168,
+    961,
+    515,
+    4464,
+    4170
+  ],
+  "explanations": {
+    "3669": "This is the strongest morning-routine match, with repeated 6–8 a.m. history and a common transition from the park corridor to coffee.",
+    "419": "The user was already here earlier and this park is their most frequent early-morning stop, so a return is very plausible.",
+    "3215": "A nearby coffee stop fits the 07:45 weekday pattern and the user’s breakfast/coffee routine.",
+    "4861": "Another close café option in the same Brooklyn routine corridor, consistent with a morning caffeine run.",
+    "4682": "A nearby bakery is a natural morning follow-up after the early park visit.",
+    "4168": "The user has a history of grocery runs here, and a practical errand could follow the morning outing.",
+    "961": "A familiar food stop in Brooklyn that fits the user’s daytime errand-and-coffee behavior.",
+    "515": "It is extremely close to the last location and matches the user’s daytime local movement pattern.",
+    "4464": "A nearby generic coffee option is plausible for an early weekday morning stop.",
+    "4170": "This is a known nearby repeat stop, though it is less likely this early than coffee or park destinations."
+  },
+  "fallback": false
+}

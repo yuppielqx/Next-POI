@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_258",
+  "ranked_loc_ids": [
+    1350,
+    1725,
+    558,
+    59,
+    586,
+    137,
+    1724,
+    1718,
+    3671,
+    1279
+  ],
+  "explanations": {
+    "1350": "It is immediately adjacent to the last shoe-store stop and fits the user’s Midtown sightseeing/shopping pattern.",
+    "1725": "This is essentially the same Rockefeller Center complex and is a very plausible next nearby check-in.",
+    "558": "The user is already in this complex, making a short continued on-foot move highly likely.",
+    "59": "The user has prior evening visits here and it is close enough for a natural Midtown continuation.",
+    "586": "Herald Square is a nearby shopping-heavy Manhattan stop consistent with this outing type.",
+    "137": "Penn Station is a plausible transit-linked next stop if the user is moving through Midtown.",
+    "1724": "This nearby entertainment venue matches the user’s leisure-tourism behavior around Midtown.",
+    "1718": "A nearby casual dining option fits the evening outing pattern after shopping/sightseeing.",
+    "3671": "A very close Midtown retail corridor that aligns with the current eastward movement.",
+    "1279": "Another nearby iconic Midtown landmark that fits a tourist-style Manhattan walk."
+  },
+  "fallback": false
+}

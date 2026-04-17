@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1424",
+  "ranked_loc_ids": [
+    4810,
+    4811,
+    4812,
+    2186,
+    235,
+    2006,
+    289,
+    5265,
+    1196,
+    3203
+  ],
+  "explanations": {
+    "4810": "The user has a strong recurring evening training pattern and Renzo is the most frequent late-afternoon/evening dojo in their history.",
+    "4811": "It is the last known location, matches the user's martial arts routine, and has a Wednesday-specific visitation pattern.",
+    "4812": "The user regularly pairs training with work, and this office building is a major weekday anchor in their routine.",
+    "2186": "A nearby recurring lunch/errand stop that fits the user's workday corridor around MetroTech and Downtown Brooklyn.",
+    "235": "A repeated office-related stop in the Financial District that fits the user’s commuter-like weekday movement.",
+    "2006": "As a nearby transit hub, it is plausible for moving between Lower Manhattan training and work locations.",
+    "289": "A convenient nearby coffee stop that fits the morning/transition behavior seen in this user.",
+    "5265": "It is a nearby martial arts dojo, making it a plausible alternative if the user is heading to another training venue.",
+    "1196": "The user’s movement is concentrated in this corridor, so a neighborhood-level stop is possible.",
+    "3203": "A nearby office-like space that could fit a weekday work transition, though it is less supported by history than the top choices."
+  },
+  "fallback": false
+}

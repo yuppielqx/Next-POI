@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_110",
+  "ranked_loc_ids": [
+    826,
+    827,
+    598,
+    830,
+    127,
+    833,
+    825,
+    839,
+    844,
+    846
+  ],
+  "explanations": {
+    "826": "The user was just there two minutes ago and their pattern strongly favors short continuation moves along the same corridor.",
+    "827": "This road is one of the user’s most frequently visited anchors and is immediately consistent with their northeast Queens movement.",
+    "598": "The user repeatedly uses bridge infrastructure, and this is a very plausible next hop when trending northeast.",
+    "830": "The toll plaza fits the user’s bridge-approach pattern and is a common transition point in their history.",
+    "127": "Another major Queens-Bronx connector that matches the user’s transportation-heavy route style.",
+    "833": "This corridor is part of the same commuting network and is a likely continuation from Clearview Expressway.",
+    "825": "The user has pre-trip food-stop behavior, making this a plausible short stop near their route.",
+    "839": "Another habitual pre-trip stop type that fits the user’s daytime, task-oriented travel pattern.",
+    "844": "A nearby bridge-related checkpoint that aligns with the user’s repeated infrastructure-focused movement.",
+    "846": "The user occasionally makes practical destination stops, and this nearby hardware store is plausible if they detour off the corridor."
+  },
+  "fallback": false
+}

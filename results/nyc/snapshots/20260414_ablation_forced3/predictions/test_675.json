@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_675",
+  "ranked_loc_ids": [
+    3352,
+    626,
+    349,
+    2265,
+    583,
+    2518,
+    3353,
+    565,
+    3354,
+    3231
+  ],
+  "explanations": {
+    "3352": "This is the user’s strongest recurring Friday-evening nightlife hub and best matches the 18:58 temporal prior.",
+    "626": "It is nearby in Midtown and fits the user’s repeated arts-and-entertainment chaining before late-night socializing.",
+    "349": "The user frequently visits movie theaters in Chelsea/Midtown, making a film stop plausible before nightlife.",
+    "2265": "The profile strongly favors live performance venues, and this fits the evening culture orientation.",
+    "583": "A bar only a short distance away, it matches the Friday evening nightlife pattern after dinner.",
+    "2518": "This nearby pub aligns with similar-user bar transitions and the user’s social, drink-oriented evenings.",
+    "3353": "A dinner-to-drinks bridge in the theater corridor makes this a plausible next stop.",
+    "565": "The user often moves through the theater district, and this is a likely cultural waypoint.",
+    "3354": "A nearby performing arts venue that matches the user’s performance-centered evening behavior.",
+    "3231": "Though less proximate, it fits the user’s repeated interest in live arts and nightlife-adjacent outings."
+  },
+  "fallback": false
+}

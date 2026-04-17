@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2675",
+  "ranked_loc_ids": [
+    137,
+    229,
+    3467,
+    5754,
+    5753,
+    1660,
+    1663,
+    3961,
+    3290,
+    1424
+  ],
+  "explanations": {
+    "137": "The user’s commute pattern strongly favors a mid-commute transfer stop shortly after departing Newark, and this exact Penn Station hub is the best match at 06:42.",
+    "229": "Another recurring Newark transit hub that fits the very early commute window, though it is less likely than progressing to the next transfer point.",
+    "3467": "The user has just been here, but repeated origin-hub behavior makes a brief revisit still plausible if the commute is unfolding slowly.",
+    "5754": "This is a major recurring bus-transfer node, but it usually appears later in the sequence than the current target time.",
+    "5753": "The dominant workplace destination is highly likely overall, but 06:42 is earlier than the user’s usual arrival time there.",
+    "1660": "A Queens rail station along the same commute corridor, but the user’s history points more strongly to Penn Station and the Q65 bus link.",
+    "1663": "This Queens station matches the eastbound trajectory, though it is a less established part of the user’s observed routine.",
+    "3961": "A nearby Newark light rail station that could appear during local repositioning, but it is not a core historical commute anchor.",
+    "3290": "Similar-user and transit patterns make a rail-station stop possible, but there is little direct evidence it is part of this user’s routine.",
+    "1424": "A nearby Newark venue is minimally plausible as a geographic fallback, but it is far less consistent with the user’s weekday commute behavior."
+  },
+  "fallback": false
+}

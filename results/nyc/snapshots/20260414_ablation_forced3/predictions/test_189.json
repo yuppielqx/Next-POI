@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_189",
+  "ranked_loc_ids": [
+    1356,
+    1357,
+    371,
+    271,
+    822,
+    1372,
+    135,
+    1365,
+    1358,
+    1359
+  ],
+  "explanations": {
+    "1356": "The user was just there 7 minutes earlier, and short-term persistence in the same airport lounge is the strongest signal.",
+    "1357": "It is essentially adjacent to the last known terminal area, making it a highly plausible immediate move within the airport.",
+    "371": "Another nearby terminal location in the same JFK/airport cluster fits a brief intra-airport transition.",
+    "271": "The user is likely still within the broader JFK travel context shortly after the lounge check-in.",
+    "822": "If the user is moving through the airport, baggage claim is a natural next stop in the departure/arrival flow.",
+    "1372": "Airport behavior patterns suggest terminal-to-terminal travel venues, though this is less likely than staying at JFK.",
+    "135": "Another airport hub option that matches the user’s travel-heavy history, but it is farther than the JFK-adjacent choices.",
+    "1365": "This matches the user’s errand-oriented pattern and noon-to-2 p.m. frequency, though it is much less likely than the airport context.",
+    "1358": "A recurring Brooklyn stop in the user’s history, but it conflicts with the immediate airport recency and southeast movement trend.",
+    "1359": "Strong overall affinity and midday pattern make it plausible, but the large spatial jump makes it a lower-probability next visit."
+  },
+  "fallback": false
+}

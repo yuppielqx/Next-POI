@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_890",
+  "ranked_loc_ids": [
+    2283,
+    1314,
+    1620,
+    3860,
+    562,
+    3844,
+    544,
+    3888,
+    2288,
+    565
+  ],
+  "explanations": {
+    "2283": "It is the closest plausible nearby food stop in the same Upper West Side corridor, fitting the user’s errand-plus-dining chaining pattern.",
+    "1314": "The user is moving north and this adjacent public plaza is an easy immediate next waypoint after Duane Reade.",
+    "1620": "This nearby landmark fits a northbound stroll and is consistent with the user’s daytime outing behavior.",
+    "3860": "A short hop north to a restaurant aligns with the user’s lunch-to-afternoon dining pattern and similar-user next-stop behavior.",
+    "562": "The trip has already centered on this Lincoln Square retail cluster, making a return visit highly plausible.",
+    "3844": "Bar Boulud is close by and matches the user’s history of midday restaurant stops in the Lincoln Square area.",
+    "544": "A nearby casual food stop is consistent with the user’s frequent midday dining and shopping sequences.",
+    "3888": "The CVS Pharmacy option is a natural errand continuation after Duane Reade in the same retail corridor.",
+    "2288": "This nearby bar is a plausible later-afternoon stop given the user’s habit of chaining daytime outings into social venues.",
+    "565": "A move farther south into a tourism/theater node is less likely than nearby options but still fits the user’s Manhattan mobility."
+  },
+  "fallback": false
+}

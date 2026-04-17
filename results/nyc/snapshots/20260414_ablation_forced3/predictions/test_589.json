@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_589",
+  "ranked_loc_ids": [
+    3693,
+    2307,
+    3223,
+    1277,
+    4673,
+    2301,
+    3108,
+    3109,
+    2097,
+    1594
+  ],
+  "explanations": {
+    "3693": "It is immediately adjacent to Off the Wagon on MacDougal Street and fits the user's Saturday evening bar-hopping pattern.",
+    "2307": "Another directly neighboring bar in the same Greenwich Village nightlife corridor, making it a natural next stop.",
+    "3223": "Very close by and a plausible early-evening social food-and-drink stop for this leisure-oriented user.",
+    "1277": "It is a nearby casual dinner option within the same block cluster, matching the 18:50 transition from bar to food.",
+    "4673": "This is a close, casual dining choice in the same immediate neighborhood, consistent with a short local move.",
+    "2301": "A nearby late-afternoon/early-evening food stop that fits a bar-crawl interlude.",
+    "3108": "This Lower Manhattan nightlife spot aligns strongly with the user's repeated Houston Street-area bar pattern.",
+    "3109": "A highly matched nightlife venue in the LES with prior 6–8 PM visits, making it a strong candidate.",
+    "2097": "A bar in the user's favored downtown drinking circuit, slightly farther but still consistent with the profile.",
+    "1594": "A classic bar the user has visited before and one that fits a Saturday night continuation in lower Manhattan."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_129",
+  "ranked_loc_ids": [
+    953,
+    137,
+    962,
+    4080,
+    4685,
+    958,
+    78,
+    949,
+    963,
+    486
+  ],
+  "explanations": {
+    "953": "The strongest late-night anchor in the user’s history is their FIT residence hall, and the time prior strongly favors a return home after the evening gallery stop.",
+    "137": "This is another repeatedly visited late-night anchor near Penn Station/FIT, making it the most plausible alternative return destination.",
+    "962": "The user has a clear recurring pattern of late food stops in this corridor, and it is close to both the current path and their home base.",
+    "4080": "A nearby American restaurant fits a plausible post-gallery dinner or late-night meal in the Chelsea corridor.",
+    "4685": "The user’s clustered west-side pattern makes a nearby casual stop more likely than a cross-town jump, especially this late.",
+    "958": "Similar users at this hour often shift to bars, and this nearby Chelsea bar is consistent with a low-key nightlife detour.",
+    "78": "A familiar Chelsea destination that fits the user’s neighborhood-based mobility and could serve as an evening wandering stop.",
+    "949": "The user has shown café-oriented behavior, and this nearby Meatpacking café matches their clustered west-side movement.",
+    "963": "A nightlife spot in the downtown corridor aligns with the time of night, though it is less consistent with the user’s strongest home-bound pattern.",
+    "486": "Similar users favor nightlife later at night, and this is a plausible but more distant lower-probability social stop."
+  },
+  "fallback": false
+}

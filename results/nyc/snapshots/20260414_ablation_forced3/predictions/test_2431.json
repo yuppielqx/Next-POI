@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2431",
+  "ranked_loc_ids": [
+    1053,
+    1959,
+    4389,
+    308,
+    3158,
+    3862,
+    773,
+    4466,
+    3047,
+    2073
+  ],
+  "explanations": {
+    "1053": "The user has a strong Chinatown food pattern and this is a very likely next dinner stop after the Battery Park visit.",
+    "1959": "It is the exact Chinatown Chinese-restaurant type the user often favors and sits near their current Manhattan food corridor.",
+    "4389": "This matches the user’s repeated Chinatown tea/dessert crawling and fits a late-evening food outing.",
+    "308": "A familiar Chinatown Asian stop that aligns with the user’s recurring weekend food-hopping behavior.",
+    "3158": "Late-night dessert is highly plausible for this user after an afternoon in Lower Manhattan.",
+    "3862": "The user has strong sushi and late-night dining history, making this a natural nearby move.",
+    "773": "Their profile shows frequent bar-hopping in Lower Manhattan, and this fits the 21:00 nightlife prior.",
+    "4466": "Another closely matching Nolita/SoHo bar that fits the user’s evening social pattern.",
+    "3047": "This is consistent with the user’s Lower Manhattan restaurant crawl style and casual dinner preferences.",
+    "2073": "A nearby, classic dinner destination that fits a weekend evening food sequence in Nolita/SoHo."
+  },
+  "fallback": false
+}

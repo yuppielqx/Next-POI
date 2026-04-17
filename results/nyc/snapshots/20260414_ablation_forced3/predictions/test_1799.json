@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1799",
+  "ranked_loc_ids": [
+    5182,
+    5183,
+    4555,
+    5184,
+    5185,
+    465,
+    4791,
+    3661,
+    508,
+    1621
+  ],
+  "explanations": {
+    "5182": "The user’s strongest recurring anchor is the Staten Island campus/Teleport cluster, making a return there the most probable evening jump.",
+    "5183": "This is the paired core location in the user’s repeated Staten Island routine and is almost as likely as The Teleport.",
+    "4555": "The user frequently revisits this nearby College of Staten Island academic site, fitting the habitual campus pattern.",
+    "5184": "Another repeated CSI academic building in the same tight Staten Island cluster, likely as part of the usual sequence.",
+    "5185": "The user has occasional evening leisure behavior here, so it is a plausible Sunday-night stop after travel.",
+    "465": "A known non-academic nighttime leisure venue in the user’s history, consistent with an evening outing.",
+    "4791": "This Staten Island retail stop is within the user’s familiar area and matches occasional shopping behavior.",
+    "3661": "A simple familiar food stop in the same Staten Island corridor, possible after returning from Manhattan.",
+    "508": "The user is currently in Manhattan, so a nearby continuation within the park area is possible before a return trip.",
+    "1621": "A nearby Central Park destination that fits short-range movement if the user remains in the area briefly."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2543",
+  "ranked_loc_ids": [
+    3621,
+    690,
+    678,
+    694,
+    3247,
+    4710,
+    5110,
+    4907,
+    5155,
+    480
+  ],
+  "explanations": {
+    "3621": "It is extremely close to the last gym and matches the user’s strong pattern of gym followed by a nearby dinner stop.",
+    "690": "This nearby sports bar fits the evening social transition pattern and is a known repeat-type destination in the same Astoria area.",
+    "678": "The user has the strongest history here, and a return to the gym remains highly plausible given the compact movement pattern.",
+    "694": "A very close practical errand stop near the gym area is plausible before an evening outing.",
+    "3247": "A nearby lounge fits the user’s evening social behavior and keeps them within the same neighborhood cluster.",
+    "4710": "A close café stop is possible as a brief post-gym pause, especially with the user’s routine-based movement.",
+    "5110": "Another nearby gym is less likely than the usual club but still plausible if the user is continuing a fitness routine.",
+    "4907": "The user has an evening dining/social profile, and this Manhattan restaurant matches that category well.",
+    "5155": "This lounge fits the late-evening bar/lounging pattern seen in the user’s history, though it is farther away.",
+    "480": "A cocktail bar is consistent with the user’s nightlife behavior, but the distance and neighborhood shift make it less likely."
+  },
+  "fallback": false
+}

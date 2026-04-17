@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1732",
+  "ranked_loc_ids": [
+    3600,
+    20,
+    1049,
+    2120,
+    210,
+    2675,
+    2453,
+    958,
+    2288,
+    3594
+  ],
+  "explanations": {
+    "3600": "Strong late-night history and a Midtown nightlife bar fit the 00:08 continuation after The Living Room.",
+    "20": "It is extremely close to the last venue and matches a nearby late-night dining/drinks move in the East Village.",
+    "1049": "A neighboring music venue makes sense right after The Living Room for someone still in nightlife mode.",
+    "2120": "Very close by and plausible as a late-night coffee/after-hours stop in the same corridor.",
+    "210": "Revisit odds are high because the user may remain at or return to the same music venue shortly after 22:49.",
+    "2675": "A nearby nightlife spot in downtown Manhattan fits a short, local post-show transition.",
+    "2453": "This nearby pub is consistent with the user’s bar-heavy late-night pattern.",
+    "958": "Another close Greenwich Village bar that matches the same post-event drinking trajectory.",
+    "2288": "A known nightlife venue for the user, though farther away than the immediate East Village options.",
+    "3594": "A historically strong midnight-to-2am stop, but less directly aligned with the current East Village location."
+  },
+  "fallback": false
+}

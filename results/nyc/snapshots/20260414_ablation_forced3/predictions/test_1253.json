@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1253",
+  "ranked_loc_ids": [
+    137,
+    88,
+    108,
+    3778,
+    4592,
+    4593,
+    4596,
+    4595,
+    445,
+    1620
+  ],
+  "explanations": {
+    "137": "This is the strongest weekday evening commute/work anchor, with the highest Tuesday and 6–8 PM frequency and strong transition history.",
+    "88": "A recurring evening transit node for late returns into Manhattan, matching the weekday evening time prior.",
+    "108": "The user repeatedly uses Hoboken transit links, making this a plausible commute-related stop after leaving northern New Jersey.",
+    "3778": "It was visited the previous evening and has Tuesday evening recurrence, so a repeat dinner stop is plausible.",
+    "4592": "The user’s current location is a major transit hub they visit frequently, though the evening timing makes departure more likely.",
+    "4593": "A nearby practical errand stop in the same region, with some evening presence in the history.",
+    "4596": "A close Montclair-area destination that fits a short local movement after the morning commute.",
+    "4595": "A nearby Montclair food stop that fits routine local travel, though it is less aligned with the evening slot.",
+    "445": "A plausible evening shopping/leisure destination based on prior patterns, but farther and less directly tied to the commute.",
+    "1620": "A repeat Manhattan leisure destination, though less likely than the transit and work-related nodes."
+  },
+  "fallback": false
+}

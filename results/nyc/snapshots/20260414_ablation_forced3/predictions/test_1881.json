@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1881",
+  "ranked_loc_ids": [
+    3170,
+    1572,
+    1293,
+    2453,
+    2131,
+    106,
+    109,
+    2083,
+    1347,
+    2342
+  ],
+  "explanations": {
+    "3170": "The user is already there as the last known location, and the strongest near-term continuation on a Sunday afternoon is staying put or re-checking in.",
+    "1572": "It is immediately adjacent to Revival in the same nightlife cluster, making it a very plausible next hop for a bar-oriented user.",
+    "1293": "This nearby nightlife spot fits the user’s late-night social pattern and is one of the closest candidate bars.",
+    "2453": "A pub next door to the current area is a natural low-friction move for someone continuing a social outing.",
+    "2131": "The user often strings together entertainment venues and bars, so a nearby music venue is a credible next stop.",
+    "106": "Their history shows frequent PATH corridor movement, so a transit return toward Lower Manhattan remains plausible.",
+    "109": "This is a core Jersey City anchor and a strong return candidate for a user centered on the Jersey City–Manhattan corridor.",
+    "2083": "The user favors gastropubs and Lower Manhattan nightlife, making this a solid downtown bar/food option.",
+    "1347": "A familiar Chinatown/Lower East Side-style nightlife stop aligns with the user’s bar-hopping behavior and prior Lower Manhattan outings.",
+    "2342": "A recurring Jersey City daytime/social anchor, slightly less likely here than immediate Manhattan options but still a strong habitual revisit."
+  },
+  "fallback": false
+}

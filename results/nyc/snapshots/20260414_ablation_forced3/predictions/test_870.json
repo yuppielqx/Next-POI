@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_870",
+  "ranked_loc_ids": [
+    1346,
+    38,
+    271,
+    3799,
+    3805,
+    131,
+    3279,
+    135,
+    116,
+    1399
+  ],
+  "explanations": {
+    "1346": "The user has the strongest historical pull to this airport terminal, and the 16:17 Tuesday afternoon prior matches their recurring mid-afternoon airport-linked pattern.",
+    "38": "This is a highly repeated convenience stop in the JFK corridor and fits a short pre- or post-transit pause.",
+    "271": "JFK remains the core anchor of the user’s mobility pattern and is strongly plausible given the airport-centered routine.",
+    "3799": "A frequent nearby fast-food stop in the same southeastern Queens travel corridor makes this a reasonable secondary destination.",
+    "3805": "This Queens Blvd Starbucks is another repeat coffee anchor and fits the user’s practical stop-based behavior.",
+    "131": "A transportation hub near the Queens-Manhattan corridor is consistent with the user’s bridge-and-transit-heavy movement style.",
+    "3279": "The Queens-Midtown Tunnel is a plausible north-westward transition point for someone moving through regional connectors.",
+    "135": "LaGuardia Airport is a major airport alternative that aligns with the user’s airport-centered travel profile.",
+    "116": "This is a key JFK-adjacent transit node and a natural link in airport-bound movement.",
+    "1399": "As a direct connector into JFK, this station fits the user’s airport/transit behavior even if it is less likely than the terminal itself."
+  },
+  "fallback": false
+}

@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1648",
+  "ranked_loc_ids": [
+    3650,
+    591,
+    192,
+    479,
+    5046,
+    5048,
+    1760,
+    3849,
+    2671
+  ],
+  "explanations": {
+    "3650": "Late-night Saturday behavior and the user’s dessert-stop pattern make a familiar nearby sweet shop the most likely next move.",
+    "591": "This is the strongest habitual anchor in the user’s history and remains plausible even late on Saturday night.",
+    "192": "The user often stays in the Greenwich Village core, and a park visit fits a short movement from the last downtown nightlife spot.",
+    "479": "A nearby Washington Square café is consistent with the user’s campus-centered routine and casual evening stops.",
+    "5046": "The NYU Stern lounge is a frequent repeat location and matches the user’s tightly clustered campus pattern.",
+    "5048": "Another dessert option in the NYU area fits the late-evening food/dessert tendency better than a non-food venue.",
+    "1760": "A familiar campus-adjacent juice stop is plausible if the user is making a quick routine refreshment run.",
+    "3849": "The nightlife category and relatively close downtown position make it a reasonable Saturday night social option.",
+    "2671": "It is the current location and a nightlife spot, but a repeat or stay-put outcome is less likely than a nearby established favorite."
+  },
+  "fallback": false
+}

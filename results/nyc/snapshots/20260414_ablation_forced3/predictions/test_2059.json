@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2059",
+  "ranked_loc_ids": [
+    3663,
+    2650,
+    1252,
+    1999,
+    3948,
+    1072,
+    320,
+    1987,
+    173,
+    4497
+  ],
+  "explanations": {
+    "3663": "This is one of the user’s most repeated Wednesday transit stops and best fits a return to the Brooklyn B/Q corridor.",
+    "2650": "The user heavily favors Brooklyn subway nodes, and this station is a frequent recurring stop in their history.",
+    "1252": "It has strong repeat Wednesday presence in the user’s history and is explicitly highlighted as a likely frequent return point.",
+    "1999": "The user often surfaces in downtown Manhattan after Brooklyn transit movement, making this a plausible next node.",
+    "3948": "This fits the same Brooklyn B/Q travel pattern, even though it is a less frequent stop than Avenue H or Church Avenue.",
+    "1072": "The user has a documented pattern of ending up in downtown Manhattan neighborhoods like SoHo after corridor-based transit movement.",
+    "320": "Regular Manhattan extensions in the user’s profile make Midtown a reasonable evening destination after a subway-linked trip.",
+    "1987": "The last known location was a Starbucks, so a short continuation or nearby related stop remains possible.",
+    "173": "The user sometimes uses major transport hubs, and Harlem 125th aligns with their broader Manhattan movement pattern.",
+    "4497": "The user has at least one outer-borough transit appearance, making Queens a low-probability but plausible option."
+  },
+  "fallback": false
+}

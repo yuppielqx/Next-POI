@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_378",
+  "ranked_loc_ids": [
+    2248,
+    2247,
+    2253,
+    2255,
+    688,
+    2256,
+    2261,
+    660,
+    2251,
+    2977
+  ],
+  "explanations": {
+    "2248": "This is the strongest recurring Astoria home-base stop with the most historical visits and fits a quick return after the Best Buy check-in.",
+    "2247": "The user repeatedly pairs Panera with their local routine, especially in the noon-to-afternoon window.",
+    "2253": "A nearby everyday errand stop that matches the user’s tightly clustered Astoria movement pattern.",
+    "2255": "A frequent local bakery fit for a short neighborhood trip after lunch.",
+    "688": "The user often links local food stops with movie outings, making this a plausible next leisure destination.",
+    "2256": "The user was just there, so a short return or nearby continuation remains possible within the same local loop.",
+    "2261": "Very close to the last location and plausible as a quick retail stop during a south-east movement.",
+    "660": "A nearby coffee stop that fits the user’s occasional daytime errand pattern.",
+    "2251": "A transit node is plausible if the user is continuing movement within Queens rather than stopping.",
+    "2977": "A nearby grocery option that fits the errand-oriented part of the user’s behavior."
+  },
+  "fallback": false
+}

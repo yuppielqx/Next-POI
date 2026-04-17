@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1622",
+  "ranked_loc_ids": [
+    5027,
+    747,
+    740,
+    145,
+    3811,
+    1611,
+    3617,
+    1612,
+    5000,
+    112
+  ],
+  "explanations": {
+    "5027": "This is the strongest habitual follow-up from 86th St, with the most visits and a proven transit-to-retail transition pattern in the user’s core Upper East Side corridor.",
+    "747": "The user frequently pairs morning transit with Starbucks, and this nearby Lexington Ave café fits the early-day routine perfectly.",
+    "740": "Another highly plausible coffee stop within a minute’s walk of the last station, matching the user’s repeated café-and-commute behavior.",
+    "145": "The user has an extremely strong history at this exact transit hub, so they may briefly remain there or re-enter it before heading elsewhere.",
+    "3811": "A nearby fast-food option on the same corridor, consistent with the user’s preference for quick, routine neighborhood stops.",
+    "1611": "This 3rd Ave location is close to the last known point and fits the same short-distance errand pattern around 86th Street.",
+    "3617": "A nearby retail stop on East 86th Street, plausible given the user’s shopping-oriented routine in the Upper East Side.",
+    "1612": "This pharmacy is almost adjacent to the last stop and is a classic quick errand destination for a routine-oriented traveler.",
+    "5000": "The Starbucks at 1492 3rd Ave is within the same immediate cluster and aligns with the user’s frequent coffee-shop visits.",
+    "112": "If the user continues moving north, this is a plausible next transit node, though it is less likely than the nearby 86th St-area options."
+  },
+  "fallback": false
+}

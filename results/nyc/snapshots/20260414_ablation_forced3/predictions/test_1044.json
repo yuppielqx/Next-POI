@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1044",
+  "ranked_loc_ids": [
+    777,
+    4244,
+    1205,
+    1295,
+    3537,
+    406,
+    1903,
+    3693,
+    2301,
+    1082
+  ],
+  "explanations": {
+    "777": "It is a classic Sunday-night bar in the same Greenwich Village/NYU corridor and matches the user’s documented history of Sunday visits.",
+    "4244": "It is essentially next door to the last stop, making it a very natural westward nightlife continuation.",
+    "1205": "It is extremely close, in the same downtown nightlife cluster, and the user has a prior history here.",
+    "1295": "It is only a short walk away and fits the user’s strong pattern of late-evening downtown nightlife.",
+    "3537": "This nearby bar aligns with the user’s bar-hopping behavior and the westward movement trend.",
+    "406": "It is a familiar downtown lounge for this user and fits a plausible next-stop transition after Off the Wagon.",
+    "1903": "It is another nearby nightlife option in the same corridor, suitable for a Sunday-night bar crawl.",
+    "3693": "It is directly adjacent to the current area and a logical continuation of the Greenwich Village drinking route.",
+    "2301": "A late-night food stop is plausible after drinks, especially in this nightlife-heavy neighborhood.",
+    "1082": "It is a known nightlife venue for the user, though it is farther away than the closest Village options."
+  },
+  "fallback": false
+}

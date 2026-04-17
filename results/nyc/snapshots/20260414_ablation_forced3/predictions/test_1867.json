@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1867",
+  "ranked_loc_ids": [
+    4014,
+    5258,
+    5259,
+    5159,
+    2625,
+    277,
+    741,
+    3438,
+    4375,
+    4917
+  ],
+  "explanations": {
+    "4014": "The user has just been at the racetrack twice in a row and their strongest habit is returning to this event-centered anchor.",
+    "5258": "A classic post-event late-night stop for this user, especially as they move south after Meadowlands visits.",
+    "5259": "It is part of the same Meadowlands complex and appears frequently in the user’s event circuit.",
+    "5159": "This matches the user’s recurring Bergen County convenience-store pattern after late-night outings.",
+    "2625": "Another familiar Bergen County stop that fits the southbound post-event movement trend.",
+    "277": "Similar users head to nearby Meadowlands venues around this time, and it is adjacent to the current location.",
+    "741": "A nearby East Rutherford sports venue that fits the same Meadowlands cluster.",
+    "3438": "A close nightlife option that aligns with the user’s evening-heavy, post-event behavior.",
+    "4375": "The user’s southbound pattern often drifts into the Hackensack area after events.",
+    "4917": "A nearby transit hub that could plausibly be used as the user leaves the Meadowlands area."
+  },
+  "fallback": false
+}

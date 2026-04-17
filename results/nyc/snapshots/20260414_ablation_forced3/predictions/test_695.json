@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_695",
+  "ranked_loc_ids": [
+    3413,
+    2599,
+    3416,
+    3417,
+    3408,
+    3407,
+    66,
+    3406,
+    3415,
+    2039
+  ],
+  "explanations": {
+    "3413": "This is one of the user’s strongest habitual morning destinations, and the 11:02 Tuesday prior fits their repeated 9–11am academic/commuter pattern in Midtown Manhattan.",
+    "2599": "The user visits this coffee stop very frequently in the morning, making it a highly likely next check-in after a morning institutional stop.",
+    "3416": "This deli is a Tuesday and 9–11am favorite, aligning closely with the user’s breakfast-oriented routine in Murray Hill.",
+    "3417": "A classic morning bagel stop for this user, with strong Tuesday and 9–11am history in the same corridor.",
+    "3408": "Another frequent weekday office-like stop in the user’s habitual Midtown East route, consistent with a morning workday sequence.",
+    "3407": "This is a very common breakfast/lunch venue in the user’s core area, and the timing strongly favors a morning café return.",
+    "66": "The user has repeatedly checked in here in the morning, and it remains within their compact Midtown activity zone.",
+    "3406": "A recurring bagel-shop destination that fits the user’s breakfast routine and Midtown East geography.",
+    "3415": "This deli matches the user’s routine-service preferences and has strong Tuesday recurrence in the same area.",
+    "2039": "This Europa Cafe location fits the user’s midday-friendly American restaurant pattern and sits squarely in their familiar Midtown corridor."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1820",
+  "ranked_loc_ids": [
+    612,
+    1785,
+    3652,
+    1160,
+    59,
+    137,
+    1653,
+    814,
+    3896,
+    3829
+  ],
+  "explanations": {
+    "612": "It is the closest forced-nearby continuation in Times Square, making it the most plausible immediate next stop after the last known location.",
+    "1785": "A nearby morning caffeine stop fits the short time gap and the user’s current Midtown transit pattern.",
+    "3652": "Hard Rock Cafe is essentially adjacent to Times Square and matches a brief same-area continuation.",
+    "1160": "Very close by and consistent with an early breakfast or quick food stop after being in Times Square.",
+    "59": "The user may simply remain in or re-enter the same area given the zero-distance last location and minimal elapsed time.",
+    "137": "Penn Station is a plausible southbound transit node if the user is moving on from Midtown.",
+    "1653": "A convenient café stop near Penn Station aligns with a short practical morning errand.",
+    "814": "A familiar nightlife venue in the same corridor is possible, though less likely this early.",
+    "3896": "Another nearby familiar spot in Hell’s Kitchen, consistent with the user’s repeat-visit habits.",
+    "3829": "A short hop to a known bar is possible, but the morning timing makes it less likely than food or transit options."
+  },
+  "fallback": false
+}

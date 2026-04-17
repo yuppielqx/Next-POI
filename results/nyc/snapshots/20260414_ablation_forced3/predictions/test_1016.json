@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1016",
+  "ranked_loc_ids": [
+    2527,
+    1567,
+    1882,
+    1681,
+    4081,
+    2102,
+    870,
+    3097,
+    2910,
+    2391
+  ],
+  "explanations": {
+    "2527": "The user’s strongest routine is a morning return to this frequent fitness anchor, and the current south-west movement from coffee fits a short walk back to workout.",
+    "1567": "They were just there and morning coffee routines often involve a brief lingering or quick return/continuation at the same café.",
+    "1882": "A nearby Midtown breakfast/café stop is plausible after coffee, especially given the morning time and routine-driven pattern.",
+    "1681": "Another very close coffee option fits a short morning errand sequence after the last known café stop.",
+    "4081": "The user may continue the morning coffee/food circuit with another adjacent coffee shop in the same corridor.",
+    "2102": "A nearby deli/bodega is consistent with a quick breakfast or grab-and-go stop before heading to fitness or work.",
+    "870": "This close food option is less likely at breakfast but still possible as part of a short Midtown errand chain.",
+    "3097": "Similar users at this time were often headed to offices, and this nearby professional location matches a workday transition.",
+    "2910": "A neighboring office-style destination is plausible given the morning weekday context and compact movement pattern.",
+    "2391": "A nearby entertainment venue is possible but less consistent with the user’s strong morning fitness routine."
+  },
+  "fallback": false
+}

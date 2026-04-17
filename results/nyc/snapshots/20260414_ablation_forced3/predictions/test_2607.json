@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2607",
+  "ranked_loc_ids": [
+    173,
+    4694,
+    1429,
+    3468,
+    3953,
+    58,
+    5741,
+    2114,
+    2352,
+    3597
+  ],
+  "explanations": {
+    "173": "This is the user’s strongest next-step commute node after Grand Central-area stops, with heavy 6–8 PM and Friday activity matching the 18:24 timing.",
+    "4694": "A key downstream rail stop in the same commute corridor, plausible if the user advanced faster than usual from Midtown toward the Bronxville/Fordham direction.",
+    "1429": "Very close to the last known location and a natural transfer point if the user is still within the Grand Central complex.",
+    "3468": "Fits the user’s recurring Bronx-bound rail pattern and the evening commute window, though it is farther along the chain.",
+    "3953": "The user frequently revisits this exact commuter stop, making a brief return or linger plausible.",
+    "58": "This Grand Central-adjacent waypoint is highly consistent with the user’s habitual corridor and could appear again in a short transfer sequence.",
+    "5741": "Track 18/19 near Grand Central is a very nearby transit option and could be the next platform-related stop.",
+    "2114": "\"'wichcraft\" is a nearby Midtown café that aligns with the user’s occasional quick grab-and-go behavior before commuting onward.",
+    "2352": "A nearby utilitarian stop that fits the user’s shop-and-transit pattern in Midtown East.",
+    "3597": "Another nearby Midtown option with low but plausible probability for a short pre-commute stop."
+  },
+  "fallback": false
+}

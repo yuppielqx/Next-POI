@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_227",
+  "ranked_loc_ids": [
+    1567,
+    1403,
+    1558,
+    1484,
+    1584,
+    1571,
+    917,
+    1556,
+    1579
+  ],
+  "explanations": {
+    "1567": "Sunday midday and the user’s history strongly favor recurring coffee stops after workouts, making this a very likely reset from the late-night bar.",
+    "1403": "This is a highly plausible nearby coffee check-in in the user’s core 23rd Street routine corridor at the target noon hour.",
+    "1558": "The user repeatedly visits gyms around noon on Sundays, and this nearby fitness stop fits the strongest time-conditioned pattern.",
+    "1484": "Gym visits are a dominant habit for this user, and a Sunday early-afternoon return to a familiar Equinox is consistent with their routine.",
+    "1584": "Another frequent Equinox variant in the Flatiron/Midtown South cluster, matching the user’s wellness-oriented midday pattern.",
+    "1571": "Sushi is one of the user’s recurring categories, and this nearby lunch option fits the 12:39 Sunday timing.",
+    "917": "Coffee is a strong companion behavior to workouts and midday transitions, so this close-by Starbucks remains very plausible.",
+    "1556": "The user does have a nightlife tilt on Sundays, and this pub is a frequent historical stop, though it is less likely than daytime routine venues.",
+    "1579": "A nearby sandwich spot in the same neighborhood is a reasonable midday food stop, though it is weaker than the user’s usual gym/coffee anchors."
+  },
+  "fallback": false
+}

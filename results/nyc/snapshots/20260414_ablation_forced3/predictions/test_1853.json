@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1853",
+  "ranked_loc_ids": [
+    59,
+    1235,
+    1776,
+    560,
+    4815,
+    5255,
+    4893,
+    362,
+    1184,
+    3053
+  ],
+  "explanations": {
+    "59": "This is one of the user’s most frequent midday destinations and fits the strong Midtown West corridor pattern after Lillie’s.",
+    "1235": "It is a core recurring venue in the same Times Square/Theater District cluster and commonly follows nearby lunch-time stops.",
+    "1776": "The user visits this heavily at noon–2pm, and it is a known repeat point in the broader routine.",
+    "560": "This is a nearby Midtown lunch stop with repeated daytime use, making it plausible for a short follow-up move.",
+    "4815": "Highly frequent in the user’s history, though the distance from the current Union Square area makes it less likely on this short interval.",
+    "5255": "Another repeated midday location in the user profile, but it is farther uptown than the dominant current pattern.",
+    "4893": "A Midtown meeting-oriented venue that matches the user’s business-hour mobility style.",
+    "362": "It is in Midtown West and could fit an event-space pattern, though it is much less historically reinforced.",
+    "1184": "This is extremely close and could be a short nearby errand, but it lacks prior user history.",
+    "3053": "A nearby lunch-oriented restaurant that fits the time window, but it is less consistent with the user’s strongest repeat-venue pattern."
+  },
+  "fallback": false
+}

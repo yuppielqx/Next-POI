@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_23",
+  "ranked_loc_ids": [
+    201,
+    199,
+    207,
+    198,
+    200,
+    202,
+    204,
+    137,
+    222,
+    208
+  ],
+  "explanations": {
+    "201": "The user has the strongest weekday noon routine here, and Tuesday at 12:55 matches their recurring Flatiron/NoMad work anchor.",
+    "199": "This is another core office check-in in the same Flatiron cluster and fits a lunchtime return during the workweek.",
+    "207": "A frequent noon-2pm lunch stop near the work zone, making it a strong quick-eat alternative.",
+    "198": "A nearby errand/pharmacy stop that aligns with short midday office-area movements.",
+    "200": "The user often pairs workdays with coffee breaks in the immediate Flatiron area.",
+    "202": "A lunch-friendly restaurant in the same neighborhood, plausible for a Tuesday midday meal.",
+    "204": "Another nearby lunch restaurant in the Flatiron/Gramercy vicinity that fits a weekday dining pattern.",
+    "137": "Penn Station is a plausible transit-related stop given the user's movement between Manhattan neighborhoods.",
+    "222": "This is the last known location and a nearby food stop, but it is less consistent with the stronger recurring workday pattern.",
+    "208": "A nearby bar that matches the user’s occasional evening/social behavior, though it is less likely at 12:55."
+  },
+  "fallback": false
+}

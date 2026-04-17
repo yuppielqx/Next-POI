@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1616",
+  "ranked_loc_ids": [
+    489,
+    1252,
+    1950,
+    2644,
+    1035,
+    1522,
+    3750,
+    1641,
+    2165,
+    5024
+  ],
+  "explanations": {
+    "489": "It is the last known location with strong transition history, and the current northwest movement suggests the user may still be in the same nearby corridor.",
+    "1252": "Similar users and the user’s transit-heavy pattern make the nearby Manhattan Bridge area a plausible next transfer point from DUMBO.",
+    "1950": "As a very close transportation hub near the current position, it fits a likely short-hop continuation in the same area.",
+    "2644": "The user often moves between Brooklyn transit hubs, and Atlantic Terminal is a natural next commuter-oriented stop.",
+    "1035": "This nearby major hub matches the user’s repeated Brooklyn transit behavior and afternoon commuting rhythm.",
+    "1522": "A Manhattan transfer hub is plausible given the user’s Brooklyn-to-Manhattan commuting pattern and midday timing.",
+    "3750": "This is a frequent Brooklyn transit node in the user’s historical corridor and aligns well with habitual station revisits.",
+    "1641": "Strong Tuesday afternoon history makes this a top habitual destination despite being farther from the current point.",
+    "2165": "One of the user’s most revisited stations, it remains a strong candidate for a return-to-routine transit stop.",
+    "5024": "A recurring Brooklyn subway stop with Tuesday affinity, making it a credible though slightly less likely next visit."
+  },
+  "fallback": false
+}

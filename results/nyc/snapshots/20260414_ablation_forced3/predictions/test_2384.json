@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2384",
+  "ranked_loc_ids": [
+    5270,
+    1347,
+    2886,
+    4346,
+    4672,
+    5269,
+    2378,
+    4930,
+    103,
+    4350
+  ],
+  "explanations": {
+    "5270": "It is the user’s strongest nightlife anchor, heavily visited on Sundays and highly consistent with an early evening leisure continuation.",
+    "1347": "Very close to Grove Street and aligned with the user’s social evening pattern, making it a strong bar-hop candidate.",
+    "2886": "A nearby downtown Jersey City food stop that fits a short post-transit evening outing.",
+    "4346": "It is essentially next door to the last location and fits a brief local downtown stop before dinner or drinks.",
+    "4672": "Van Vorst Park matches the user’s downtown Jersey City core and has prior Sunday-afternoon overlap.",
+    "5269": "A nearby casual food option in the same downtown corridor, plausible for an evening meal.",
+    "2378": "Close to the last location and consistent with a dinner-oriented stop in the Grove Street area.",
+    "4930": "Port-O Lounge is a nearby nightlife venue that fits the user’s late-day social behavior.",
+    "103": "A familiar Jersey City errand stop that can precede or follow nightlife plans.",
+    "4350": "A nearby recurring local park that matches the user’s downtown Jersey City movement pattern."
+  },
+  "fallback": false
+}

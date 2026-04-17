@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2591",
+  "ranked_loc_ids": [
+    4466,
+    4931,
+    4072,
+    1123,
+    4932,
+    2703,
+    27,
+    3593,
+    2029,
+    5719
+  ],
+  "explanations": {
+    "4466": "It is the closest strong nightlife option and fits the user’s late-night Manhattan bar pattern after leaving Lolita.",
+    "4931": "This is an immediate nearby gastropub match in the same downtown area, consistent with a short southeast cluster hop.",
+    "4072": "It has a strong midnight-to-2 a.m. history and is a plausible late-night continuation within downtown Manhattan.",
+    "1123": "A nearby East Village pool hall that fits the user’s after-hours social behavior and short-distance movement.",
+    "4932": "This matches the user’s recurring East Village nightlife pattern and is close to the last known location.",
+    "2703": "A nearby casual late-night pizza spot that could follow bar activity in the Lower East Side area.",
+    "27": "A familiar Manhattan nightlife stop that aligns with the user’s bar-heavy evening tendencies.",
+    "3593": "The user has a strong gym routine, so a very late or overnight workout remains possible despite the night-time prior.",
+    "2029": "This is a major anchor in the user’s history, but the late-night timing makes it less likely than nightlife venues.",
+    "5719": "A historically important overnight residence-like anchor, though it is farther away than the immediate downtown options."
+  },
+  "fallback": false
+}

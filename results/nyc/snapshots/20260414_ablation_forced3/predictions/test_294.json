@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_294",
+  "ranked_loc_ids": [
+    1952,
+    1954,
+    332,
+    1953,
+    1956,
+    207,
+    879,
+    2103,
+    5314,
+    2423
+  ],
+  "explanations": {
+    "1952": "The user’s strongest weekday midday pattern is a return to the office, and they were last checked in there that same morning.",
+    "1954": "A very common nearby lunch stop with multiple noon-to-2pm visits and frequent office-to-lunch transitions.",
+    "332": "A nearby midday errand destination that matches the user’s lunch-hour movement around Union Square.",
+    "1953": "A prior lunch spot in the same office cluster, consistent with a short midday food run.",
+    "1956": "Close to the office and plausible as a quick weekday lunch option in the Flatiron/Union Square area.",
+    "207": "A nearby food-truck lunch destination that fits the noon timeframe and the user’s casual lunch behavior.",
+    "879": "Very close to the last known location and consistent with brief midday movement around the office core.",
+    "2103": "A nearby lunchtime food venue with strong spatial proximity, though no prior history here.",
+    "5314": "Another very close lunch option in the same neighborhood, making it a plausible short outing.",
+    "2423": "A nearby office-like location that could fit a brief work-related move, though it is less supported than the food and office anchors."
+  },
+  "fallback": false
+}

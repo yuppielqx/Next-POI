@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2600",
+  "ranked_loc_ids": [
+    4424,
+    3350,
+    5430,
+    3611,
+    4904,
+    4533,
+    5610,
+    4799,
+    2191,
+    2647
+  ],
+  "explanations": {
+    "4424": "The user’s strongest recurring transition is from New York Sports Club to this nearby anchor, and the 09:03 morning timing fits the typical post-gym routine.",
+    "3350": "A close Forest Hills coffee stop is plausible after an early workout, especially given the morning time and local movement pattern.",
+    "5430": "This is another frequent nearby errand stop in the user’s tight Forest Hills routine and fits a quick post-gym transition.",
+    "3611": "The user is highly gym-centered and may still be at or returning to the gym within the morning routine window.",
+    "4904": "Another nearby Starbucks is a reasonable coffee-related continuation of the morning pattern, though less tied to the user’s history.",
+    "4533": "It is very close and in the same neighborhood, but there is no strong behavioral history supporting bookstore visits.",
+    "5610": "A nearby breakfast stop could follow the gym, though the user’s history is much more fitness-oriented than food-oriented.",
+    "4799": "Morning coffee-and-breakfast behavior makes this possible, but it is less supported than the user’s habitual anchors.",
+    "2191": "A transit hub is nearby and could be used during a routine move, but the user’s pattern suggests staying anchored locally.",
+    "2647": "This is nearby and plausible for movement, but the user’s highly local, habitual behavior makes a train departure less likely."
+  },
+  "fallback": false
+}

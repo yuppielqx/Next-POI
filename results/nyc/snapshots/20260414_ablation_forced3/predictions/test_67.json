@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_67",
+  "ranked_loc_ids": [
+    16,
+    508,
+    248,
+    180,
+    551,
+    561,
+    563,
+    536,
+    453,
+    558
+  ],
+  "explanations": {
+    "16": "It best matches the strong Monday 8 a.m. park routine and is a frequent next step from the Upper West Side morning corridor.",
+    "508": "A classic early-morning destination for this user, very close to the last stop and strongly tied to their recurring park sequence.",
+    "248": "Another highly repeated morning park check-in that fits the user’s established 6–8 a.m. pattern.",
+    "180": "The user frequently anchors mornings with a workout, and this is extremely close to Fairway Market on the Upper West Side.",
+    "551": "A very plausible breakfast stop given the 08:12 time prior and the user’s recent bagel-shop visit.",
+    "561": "The user often combines nearby errands with their morning routine, and this is a natural Upper West Side stop.",
+    "563": "Another nearby grocery/errand destination that fits the same local movement cluster.",
+    "536": "A frequent neighborhood food option that aligns with the user’s short-range Upper West Side mobility.",
+    "453": "It is very close to the last location and consistent with the user’s tight local circulation, though less likely at this hour.",
+    "558": "The user does move into Midtown for targeted daytime activity, but this is less likely than the Upper West Side morning options."
+  },
+  "fallback": false
+}

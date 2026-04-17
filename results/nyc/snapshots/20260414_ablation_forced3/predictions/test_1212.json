@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1212",
+  "ranked_loc_ids": [
+    4424,
+    3611,
+    3350,
+    2191,
+    4802,
+    2647,
+    4904,
+    5610,
+    4533,
+    881
+  ],
+  "explanations": {
+    "4424": "The user’s strongest weekday early-morning anchor is this Forest Hills coffee shop, and the target 07:00 Wednesday slot matches its highest historical frequency.",
+    "3611": "This is the user’s dominant routine destination and a close alternate for early Wednesday mornings within the same Forest Hills core.",
+    "3350": "It is the exact last-known stop, so a brief continuation of the local coffee/gym sequence is plausible.",
+    "2191": "After a Starbucks stop, a nearby transit hop is possible, especially given the tight Forest Hills cluster and morning timing.",
+    "4802": "The user often stays within the immediate Forest Hills anchor area, making this nearby public space a reasonable short-range move.",
+    "2647": "A nearby transport node fits a routine commuter pattern, though it is less supported than the core return locations.",
+    "4904": "Another nearby coffee stop in the same neighborhood could follow the morning routine, but it lacks prior visit history.",
+    "5610": "Morning food behavior in Forest Hills makes a bagel stop plausible, though the user’s history favors gym and coffee more strongly.",
+    "4533": "This is within the user’s usual neighborhood radius, but it appears only once in history and is less time-aligned.",
+    "881": "It is a fitness venue in the broader Queens area, but it is farther and less consistent with the user’s Forest Hills-centered routine."
+  },
+  "fallback": false
+}

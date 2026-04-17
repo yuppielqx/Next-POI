@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1278",
+  "ranked_loc_ids": [
+    2574,
+    416,
+    556,
+    1850,
+    2682,
+    4631,
+    3101,
+    2049,
+    587,
+    3688
+  ],
+  "explanations": {
+    "2574": "It is the strongest historical anchor, matches the current Midtown retail corridor, and is the most likely return immediately after the last check-in nearby.",
+    "416": "This is another core anchor in the user’s tight Midtown pattern and is especially plausible for a morning Tuesday revisit.",
+    "556": "It is extremely close to the last location and fits the user’s frequent quick stop pattern in the 33rd–53rd Street corridor.",
+    "1850": "Very near Salvatore Ferragamo, it matches the user’s retail-heavy behavior and morning shopping routine.",
+    "2682": "Close by and strongly aligned with the user’s repeated morning clothing-store visits in Midtown.",
+    "4631": "This is a highly consistent daytime retail stop in the same Midtown shopping zone.",
+    "3101": "A recurring lounge in the user’s history and part of their compact Midtown multi-venue burst behavior.",
+    "2049": "A frequent fast-casual choice that fits the user’s errand-chaining pattern around Herald Square.",
+    "587": "A repeated food stop in the same core area, making it plausible during a morning-to-late-morning sequence.",
+    "3688": "A recurring Midtown sports bar that appears in the user’s history, though it is less likely than the retail and core landmark anchors."
+  },
+  "fallback": false
+}

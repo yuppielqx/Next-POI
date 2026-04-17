@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_825",
+  "ranked_loc_ids": [
+    746,
+    4939,
+    3486,
+    968,
+    3711,
+    3633,
+    3718,
+    937,
+    3715,
+    390
+  ],
+  "explanations": {
+    "746": "It is the strongest recurring late-night anchor in the Lower East Side, extremely close to the last known location and well matched to the 23:21 nightlife transition.",
+    "4939": "Donnybrook is a nearby bar on Clinton St that fits the south-east movement and the user’s bar-heavy Thursday night pattern.",
+    "3486": "This is a frequent late-night bar in the same LES corridor, and the user has repeated evening visits there.",
+    "968": "A familiar nightlife spot on Orchard St that matches the user’s strong preference for Lower East Side bars after night activity.",
+    "3711": "This nearby bar fits the user’s habitual late-night bar-hopping in the Orchard/Rivington cluster.",
+    "3633": "Very close to the current area and categorized as nightlife, making it a plausible spontaneous next stop.",
+    "3718": "A known LES bar in the user’s nightlife corridor, consistent with their past late-night movements.",
+    "937": "A repeated evening destination in the same neighborhood, though slightly less proximate than the top options.",
+    "3715": "Another Orchard-area nightlife spot that aligns with the user’s clustered bar trajectory.",
+    "390": "Despite strong overall history, it is less likely at this late-night hour than a nearby Lower East Side bar."
+  },
+  "fallback": false
+}

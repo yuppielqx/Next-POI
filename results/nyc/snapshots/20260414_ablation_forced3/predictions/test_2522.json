@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2522",
+  "ranked_loc_ids": [
+    626,
+    59,
+    2834,
+    566,
+    519,
+    3340,
+    380,
+    123,
+    5692,
+    5153
+  ],
+  "explanations": {
+    "626": "Saturday evening strongly matches the user’s repeated movie-theater pattern and this is their most frequent signature venue.",
+    "59": "The user often clusters around Midtown entertainment and shopping destinations near AMC Empire 25, making this a natural nearby stop.",
+    "2834": "Their history includes visits to this Midtown performing arts venue, and it fits the same evening leisure corridor as AMC Empire 25.",
+    "566": "The user has a clear shopping-oriented pattern in Herald Square/Midtown, and this mall aligns well with Saturday evening retail activity.",
+    "519": "This matches the user’s Midtown clothing-store behavior and sits in the exact shopping district favored in their history.",
+    "3340": "Another Herald Square retail destination that fits the user’s recurring Midtown shopping trips and weekend timing.",
+    "380": "The user occasionally pairs entertainment with dining, and this restaurant is near their preferred Midtown activity zone.",
+    "123": "The user also frequents Queens mall environments, so an evening shopping stop in eastern Queens remains plausible.",
+    "5692": "Similar to Queens Center Mall, this fits the user’s mall/shopping tendency in Queens though it is less central to their strongest pattern.",
+    "5153": "A routine Queens stop is possible, but the Saturday evening leisure prior makes it less likely than Midtown entertainment or shopping."
+  },
+  "fallback": false
+}

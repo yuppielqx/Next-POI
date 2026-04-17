@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1612",
+  "ranked_loc_ids": [
+    88,
+    557,
+    3964,
+    1247,
+    147,
+    3013,
+    3615,
+    3900,
+    581,
+    3962
+  ],
+  "explanations": {
+    "88": "The user has a strong weekday evening commute pattern centered on this hub, and it is the most likely next stop from Midtown West at 18:22.",
+    "557": "Their history strongly favors outbound evening travel through this corridor, making the tunnel a very plausible commuter destination.",
+    "3964": "This Starbucks is exactly at the last known position and fits a quick evening coffee or pause before continuing.",
+    "1247": "The user is already adjacent to this office corridor, so a brief return or nearby stop is possible before commuting out.",
+    "147": "A nearby transit option that fits the return-to-commute pattern from Midtown West.",
+    "3013": "A recurring non-transport venue in the same neighborhood, plausible for an after-work drink or meal.",
+    "3615": "The user has a Midtown lunch/food pattern, and this pizza spot is close enough for a quick evening food stop.",
+    "3900": "A nearby quick-service food place that aligns with the user’s Midtown dining behavior.",
+    "581": "Another familiar Midtown food venue that fits a weekday evening meal pattern.",
+    "3962": "A very close fast-food option that could be chosen for a rapid commuter-side dinner."
+  },
+  "fallback": false
+}

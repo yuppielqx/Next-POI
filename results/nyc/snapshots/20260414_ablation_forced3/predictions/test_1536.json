@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1536",
+  "ranked_loc_ids": [
+    1797,
+    4796,
+    1149,
+    859,
+    2110,
+    3078,
+    4927,
+    3287,
+    445,
+    557
+  ],
+  "explanations": {
+    "1797": "This is the user’s strongest historical anchor, fits the Friday midday prior, and is the most likely return from the last known Clifton stop.",
+    "4796": "A very close Clifton support stop that matches the user’s routine of pairing Michaels with coffee and midday errands.",
+    "1149": "Nearby Clifton retail that fits the user’s corridor-based shopping pattern and could follow a crafts-store visit.",
+    "859": "Extremely close to the last location and plausible as a quick lunch stop during a Friday midday retail run.",
+    "2110": "Another nearby Clifton retail/food stop that aligns with the user’s local errand pattern around NJ-3.",
+    "3078": "A practical home-improvement retail option in the same Clifton routine area, consistent with shopping-driven movement.",
+    "4927": "A nearby convenience stop in the broader local corridor that could be used during a midday errand sequence.",
+    "3287": "Fits the user’s North Jersey retail behavior and is close enough to remain plausible after a Clifton visit.",
+    "445": "A recurring regional shopping destination in the user’s profile, though less immediate than the Clifton options.",
+    "557": "The user often transitions through this hub when heading into Manhattan, making it a viable but less likely next step than staying local."
+  },
+  "fallback": false
+}

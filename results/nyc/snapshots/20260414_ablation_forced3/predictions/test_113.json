@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_113",
+  "ranked_loc_ids": [
+    882,
+    883,
+    881,
+    3614,
+    5448,
+    880,
+    3587,
+    5446,
+    5692,
+    2734
+  ],
+  "explanations": {
+    "882": "This is the user’s strongest recurring anchor and the most likely midday return point after a morning gym visit.",
+    "883": "It is the current last known gym location and fits the user’s fitness-heavy routine in nearby Elmhurst.",
+    "881": "The user repeatedly visits this gym on weekday mornings, so a follow-up fitness stop remains plausible.",
+    "3614": "A nearby convenience stop in the Queens corridor could easily follow a gym outing.",
+    "5448": "Morning-oriented behavior makes a quick coffee stop a reasonable midmorning-to-afternoon transition.",
+    "880": "Another nearby caffeine/food option that matches a routine weekday pattern.",
+    "3587": "A nearby errand-oriented stop is consistent with the user’s clustered Queens mobility.",
+    "5446": "A local grocery run is a plausible short-hop destination after leaving the gym.",
+    "5692": "The user often stays in the Elmhurst/Rego Park area, making a nearby mall visit moderately likely.",
+    "2734": "This nearby neighborhood is a realistic next move along the user’s northward movement trend."
+  },
+  "fallback": false
+}

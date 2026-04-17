@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1877",
+  "ranked_loc_ids": [
+    5264,
+    1428,
+    2874,
+    1342,
+    288,
+    2588,
+    5263,
+    759,
+    1438,
+    58
+  ],
+  "explanations": {
+    "5264": "Strong evening-slot history at this familiar restaurant makes it the best match for a 20:30 return.",
+    "1428": "A likely post-tea transition to a nearby bar fits the user’s frequent dinner-and-drinks pattern.",
+    "2874": "This Midtown nightlife spot matches the user’s late-evening social routine and similar-user trajectories.",
+    "1342": "A gastropub in the Union Square/Flatiron corridor fits the predicted return-to-frequent-place behavior.",
+    "288": "Another Midtown bar option that aligns with the user’s pronounced evening and nightlife bias.",
+    "2588": "The southward downtown option is less likely, but still plausible as a familiar Manhattan destination.",
+    "5263": "A daytime-to-evening restaurant switch is possible, though this is a weaker fit than the bar choices.",
+    "759": "The user’s recurring fitness habit keeps this in play, despite the evening dining prior.",
+    "1438": "A gym visit is plausible from the profile, but less likely at this specific evening time.",
+    "58": "Grand Central is a reasonable transit-linked fallback if the user is moving through Midtown before dinner."
+  },
+  "fallback": false
+}

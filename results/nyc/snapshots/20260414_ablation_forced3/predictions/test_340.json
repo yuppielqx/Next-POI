@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_340",
+  "ranked_loc_ids": [
+    1063,
+    1403,
+    55,
+    2102,
+    2100,
+    2104,
+    1579,
+    5749,
+    1689,
+    2105
+  ],
+  "explanations": {
+    "1063": "This is the user’s dominant Tuesday 7–8 a.m. anchor near East 23rd Street and best matches the strong morning routine.",
+    "1403": "A frequent early-morning coffee stop in the same immediate Flatiron cluster makes it the most plausible secondary choice.",
+    "55": "The user repeatedly visits it during workday lunch hours, and it sits very close to the core destination area.",
+    "2102": "This nearby deli fits the user’s habitual breakfast pattern and has prior morning visits.",
+    "2100": "A recurring 6–8 a.m. coffee shop for this user, though it is slightly less central than the top options.",
+    "2104": "It is the last known location and remains in the same 23rd Street corridor, so a short return is possible.",
+    "1579": "This nearby sandwich place matches the user’s utilitarian food preferences and close spatial cluster.",
+    "5749": "A nearby deli/bodega aligns with the user’s grab-and-go morning behavior and location pattern.",
+    "1689": "Another close-by food stop on 23rd Street, but with weaker historical support than the more routine breakfast venues.",
+    "2105": "The user has used it in the morning before, but its Brooklyn location makes it much less likely than Manhattan options."
+  },
+  "fallback": false
+}

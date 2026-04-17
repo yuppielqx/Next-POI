@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_835",
+  "ranked_loc_ids": [
+    3729,
+    3728,
+    91,
+    1190,
+    1088,
+    3733,
+    1877,
+    3730,
+    3727,
+    715
+  ],
+  "explanations": {
+    "3729": "Saturday morning strongly matches this user’s repeated weekend Bronx/Riverdale outdoor routine, and it is the best behavioral fit.",
+    "3728": "The user has multiple early-morning visits here, making this a very plausible Saturday 6–8am-style stop.",
+    "91": "Fairway is the user’s strongest overall anchor and often appears in weekend morning patterns near the Bronx/upper Manhattan corridor.",
+    "1190": "This fits the same northern Bronx weekend shopping pattern and is a reasonable errand-oriented morning destination.",
+    "1088": "The user has early-morning airport behavior in their history, so a Saturday morning travel-related jump is possible.",
+    "3733": "The user frequently appears in media-office zones, and weekday-style Manhattan office movement can sometimes occur early.",
+    "1877": "Another strong Manhattan office anchor that aligns with the user’s media/work pattern.",
+    "3730": "The user’s nightlife and dining behavior makes a West Village brunch/lunch follow-up plausible after a Friday night out.",
+    "3727": "A return to a familiar nightlife/dining spot is possible, though less likely on Saturday morning than a weekend errand.",
+    "715": "This remains within the user’s entertainment/nightlife circuit, but the timing makes it less likely than the Bronx and grocery options."
+  },
+  "fallback": false
+}

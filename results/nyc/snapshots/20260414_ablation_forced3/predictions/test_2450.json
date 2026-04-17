@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2450",
+  "ranked_loc_ids": [
+    63,
+    5663,
+    1252,
+    466,
+    5171,
+    2559,
+    3782,
+    324,
+    2105,
+    5662
+  ],
+  "explanations": {
+    "63": "The user’s last check-in was here just 27 minutes before the target time, and it is their strongest historical midday hub.",
+    "5663": "This is the paired location in the user’s most common daytime sequence and remains a frequent Staten Island anchor.",
+    "1252": "The habitual corridor often continues from the bridge into Lower Manhattan, making this the main next-step alternative.",
+    "466": "Similar users and the nearby bridge corridor make this a plausible transit-related continuation.",
+    "5171": "The user has transit-corridor behavior, and this expressway-related point fits the same travel path.",
+    "2559": "Nearby Brooklyn stops are possible if the user leaves the bridge area and detours into Bay Ridge.",
+    "3782": "A nearby transit station could be visited if the user switches from bridge travel to local transit.",
+    "324": "A close, plausible short stop in Bay Ridge if the user pauses briefly after crossing.",
+    "2105": "Midday food errands are consistent with the user’s daytime pattern, though this is less historically central.",
+    "5662": "This is a known later-day errand stop and could appear if the user continues into Manhattan."
+  },
+  "fallback": false
+}

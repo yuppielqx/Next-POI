@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1444",
+  "ranked_loc_ids": [
+    2305,
+    218,
+    495,
+    2168,
+    2859,
+    1120,
+    282,
+    3879,
+    2133,
+    2207
+  ],
+  "explanations": {
+    "2305": "It is the strongest return-to-last candidate, sits essentially next to the last check-in, and matches the user’s evening nightlife pattern.",
+    "218": "Revisiting the exact prior Manhattan anchor is highly plausible given the short time gap and the user’s tendency to chain nearby leisure stops.",
+    "495": "This is a very nearby hotel bar that fits the user’s nightlife-heavy evening behavior in the Meatpacking area.",
+    "2168": "A close-by nightlife spot that aligns with a south-moving evening transition from the Standard area.",
+    "2859": "Another immediate-area dive bar option that fits an after-work/early-evening nightlife move.",
+    "1120": "A nearby nightlife venue in the same Meatpacking cluster, consistent with the user’s social evening routing.",
+    "282": "This nearby hotel/nightlife venue is a strong similar-user-supported option for an evening continuation around the Standard.",
+    "3879": "A very close dining/social option in the same complex, plausible for an evening meal before nightlife.",
+    "2133": "A nearby restaurant that fits a Manhattan evening stop and the user’s leisure-oriented pattern.",
+    "2207": "A close Manhattan dinner option that could plausibly follow the current southward movement trend."
+  },
+  "fallback": false
+}

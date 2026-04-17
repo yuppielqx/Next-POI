@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_250",
+  "ranked_loc_ids": [
+    878,
+    329,
+    1688,
+    1687,
+    1681,
+    4720,
+    820,
+    4717,
+    338,
+    348
+  ],
+  "explanations": {
+    "878": "It is one of the user’s most frequent early-morning Flatiron routine stops and is immediately adjacent to the last location.",
+    "329": "This Madison Square Park stop is highly recurrent in the same 6–8 AM weekday pattern and fits the nearby westward movement.",
+    "1688": "The user’s work-based routine is anchored here, and this office-related destination is a strong next step after Flatiron Plaza.",
+    "1687": "Another highly consistent office location in the user’s micro-area that matches their commuter pattern.",
+    "1681": "The user frequently cycles through coffee and nearby plaza stops in this exact morning window, making a quick return plausible.",
+    "4720": "It is extremely close to the last location and benefits from strong nearby-transition behavior in the Flatiron cluster.",
+    "820": "A nearby transit hub could fit a commuter’s morning movement, though it is less central than the user’s usual office/coffee stops.",
+    "4717": "This is a nearby food stop within the same micro-area and could be part of the user’s routine.",
+    "338": "Very close by and plausible for a morning food-related stop, but it is not as strongly supported by history as the top options.",
+    "348": "A nearby coffee shop in the same district could fit the user’s breakfast-oriented pattern, though it lacks prior history."
+  },
+  "fallback": false
+}

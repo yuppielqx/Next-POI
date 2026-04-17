@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1173",
+  "ranked_loc_ids": [
+    2305,
+    495,
+    2168,
+    218,
+    209,
+    4468,
+    2133,
+    2207,
+    4466,
+    2419
+  ],
+  "explanations": {
+    "2305": "The user is already in the Standard/Meatpacking area and has a strong late-evening nightlife pattern, making the nearby recurring bar the most likely immediate next stop.",
+    "495": "Very close to the last known location and a natural continuation of a Sunday night hotel-bar sequence in this nightlife corridor.",
+    "2168": "Similar users at this time often shift to bars, and this nearby nightlife spot fits the user’s late-day social behavior.",
+    "218": "A zero-distance return is plausible because the current trail already places the user there and hotel-based transitions are common.",
+    "209": "This is the strongest habitual dinner anchor overall, and a downtown evening return remains highly plausible despite the west-side starting point.",
+    "4468": "Close by and consistent with an evening meal outing, especially given the user’s routine-oriented restaurant visits.",
+    "2133": "A nearby American restaurant in the same neighborhood, fitting a dinner-before-drinks pattern on Sunday evening.",
+    "2207": "Another immediate-area dining option that matches the user’s food-centric movement and late-night timing.",
+    "4466": "The user frequently clusters around downtown social venues, and this bar fits a post-dinner nightlife move.",
+    "2419": "Less likely at this hour than dinner or drinks, but still a known downtown stop within the user’s habitual area."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1353",
+  "ranked_loc_ids": [
+    4708,
+    617,
+    5733,
+    3795,
+    1214,
+    3793,
+    3796,
+    3794,
+    566,
+    567
+  ],
+  "explanations": {
+    "4708": "The user’s strongest morning commute pattern is Cafe R followed immediately by UM, and this is the most likely next office check-in at 09:17.",
+    "617": "They are already at Cafe R and this remains the dominant pre-office anchor, so a brief continued stay or re-check-in is plausible.",
+    "5733": "It is extremely close in the same Midtown corridor and matches a nearby professional-building movement pattern.",
+    "3795": "This coworking space is adjacent to the current spot and fits the user’s work-oriented weekday morning geography.",
+    "1214": "A commuter-related transit stop near the current location could be the next move if they are heading onward to work.",
+    "3793": "A nearby gym is possible given the user’s exercise-oriented routine, though the time and sequence favor office travel more strongly.",
+    "3796": "This is an adjacent quick-stop location with some transition history, making it a minor nearby possibility.",
+    "3794": "The nearby deli/burrito option fits a short local errand or snack movement in the immediate area.",
+    "566": "Close proximity makes it a possible short detour, but it is less aligned with the user’s routine than work or coffee.",
+    "567": "This nearby retail stop is geographically plausible but weakly supported by the user’s morning commute pattern."
+  },
+  "fallback": false
+}

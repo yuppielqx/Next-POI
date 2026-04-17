@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1184",
+  "ranked_loc_ids": [
+    1633,
+    52,
+    3673,
+    3695,
+    693,
+    4481,
+    590,
+    1930,
+    986,
+    3627
+  ],
+  "explanations": {
+    "1633": "The user’s strongest weekday morning pattern is a post-workout move toward the office, and this is the most consistent work anchor around the target time.",
+    "52": "A coffee stop near the Union Square work corridor fits the typical gym-to-coffee-to-office routine.",
+    "3673": "Another highly plausible Union Square caffeine stop before settling into the morning workday.",
+    "3695": "This is a nearby coffee option along the likely westward drift from the last location.",
+    "693": "The user has repeated early-morning visits here, making this a strong breakfast/coffee continuation option.",
+    "4481": "A nearby food stop that matches the user’s morning fueling behavior after Barry’s Bootcamp.",
+    "590": "The user often visits fitness-related places in the early morning, so another gym/fitness stop remains possible.",
+    "1930": "This West Village Equinox is also consistent with the user’s exercise-oriented weekday routine, though less central than the office.",
+    "986": "A neighborhood coffee shop aligned with the user’s habitual post-workout caffeine pattern.",
+    "3627": "The user is already there at the last known point, so it remains a plausible continued stay or immediate revisit."
+  },
+  "fallback": false
+}

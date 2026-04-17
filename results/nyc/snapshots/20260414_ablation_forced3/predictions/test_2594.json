@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2594",
+  "ranked_loc_ids": [
+    27,
+    2029,
+    3744,
+    2003,
+    4004,
+    5718,
+    5719,
+    3876,
+    16
+  ],
+  "explanations": {
+    "27": "Thursday evening and the user’s strongest same-weekday, same-time bar pattern make this the best-matched repeat nightlife stop.",
+    "2029": "It is the user’s most visited anchor and a common Thursday destination, though the evening timing makes it slightly less likely than a bar.",
+    "3744": "This fits the user’s strong after-work gastropub habit in the Chelsea/Hell’s Kitchen corridor.",
+    "2003": "A classic Midtown evening bar option that matches the late-day social profile and nearby movement.",
+    "4004": "A nearby cocktail bar with prior visits that aligns well with the user’s frequent evening nightlife pattern.",
+    "5718": "HK Lounge is a familiar Manhattan bar and fits the user’s tendency to return to known nightlife spots after work.",
+    "5719": "A recurring private residence anchor remains plausible for a Thursday night check-in after Midtown activity.",
+    "3876": "It matches the user’s bar preference, but its Upper West Side location is less consistent with the current Manhattan cluster.",
+    "16": "The user has visited before and the area is nearby, but the evening social context makes it a weaker fit than nightlife venues."
+  },
+  "fallback": false
+}

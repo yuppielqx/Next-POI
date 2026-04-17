@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1998",
+  "ranked_loc_ids": [
+    590,
+    41,
+    795,
+    3695,
+    540,
+    215,
+    2416,
+    1613,
+    959,
+    351
+  ],
+  "explanations": {
+    "590": "The strongest historical and time-of-day match is a weekday morning return to this recurring gym immediately after the last known location.",
+    "41": "This is the other half of the user’s signature morning routine and is very close to the current area.",
+    "795": "A Wednesday morning fitness stop in lower Manhattan fits the user’s routine and this location has repeated Wednesday transitions.",
+    "3695": "The user frequently anchors mornings with coffee near Flatiron/Chelsea, and this Starbucks is in that corridor.",
+    "540": "The user has visited this social spot before, but it is less likely than a morning fitness or coffee stop at this hour.",
+    "215": "Sporting-goods retail aligns with the user’s active lifestyle and is very close to the current position.",
+    "2416": "This nearby shop is plausible as a short follow-on stop in the Flatiron area, though less behaviorally central.",
+    "1613": "A nearby daytime errand or browsing stop is possible, but it is not a dominant pattern in the user history.",
+    "959": "This recreation-oriented destination matches the active profile, though it is farther and less routine than Equinox.",
+    "351": "A morning health-oriented food stop is plausible for a fitness-focused user, but it is more speculative than the top choices."
+  },
+  "fallback": false
+}

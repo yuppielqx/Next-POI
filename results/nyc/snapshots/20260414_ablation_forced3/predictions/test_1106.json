@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1106",
+  "ranked_loc_ids": [
+    1214,
+    109,
+    1207,
+    4338,
+    3946,
+    53,
+    1206,
+    4341,
+    4344,
+    2888
+  ],
+  "explanations": {
+    "1214": "This is the user’s last known location, it is heavily reinforced in their commute pattern, and the Saturday afternoon timing still favors a transit-hub return move.",
+    "109": "The user’s strongest home-side anchor is Grove Street, making it the most likely next stop if they are heading back to Jersey City.",
+    "1207": "This station is part of the user’s repeated PATH corridor and is a common intermediate point between Midtown and Jersey City.",
+    "4338": "The user frequently continues along this Long Island City work corridor, and afternoon travel could place them here before heading elsewhere.",
+    "3946": "This is the user’s likely workplace and a highly recurrent destination, so it remains plausible even on a Saturday.",
+    "53": "Times Square is a nearby major transit hub that fits a Manhattan corridor movement and occasional cross-town commuting behavior.",
+    "1206": "Christopher Street PATH Station is a plausible PATH-related stop with strong commuter relevance and some transition history.",
+    "4341": "The user often makes local Jersey City errand stops, and this fits a return-home routine after transit.",
+    "4344": "The user has a Saturday afternoon pattern for occasional Jersey City leisure, making this a reasonable social stop.",
+    "2888": "This fits the user’s consistent lunch/coffee routine near work, though it is less likely at this specific Saturday afternoon time."
+  },
+  "fallback": false
+}

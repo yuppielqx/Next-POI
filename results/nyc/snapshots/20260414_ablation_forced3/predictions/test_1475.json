@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1475",
+  "ranked_loc_ids": [
+    982,
+    4062,
+    2297,
+    2846,
+    3867,
+    2926,
+    359,
+    3974,
+    1363
+  ],
+  "explanations": {
+    "982": "Strongest same-time nightlife match from the user’s history and a very plausible late-night downtown continuation.",
+    "4062": "Another top historical Saturday-night LES bar that fits their clustered nightlife pattern.",
+    "2297": "A nearby nightclub in Tribeca that matches the current late-night social trajectory.",
+    "2846": "A lounge close to the last location, fitting a short-hop nightlife move after an event space.",
+    "3867": "Nearby nightlife spot in Tribeca that could be a casual late-night stop.",
+    "2926": "Historical cocktail bar behavior makes this a credible westward nightlife option.",
+    "359": "The user may simply stay at the current event space if the outing is ongoing.",
+    "3974": "A nearby restaurant transition is possible if the night shifts toward food after the event.",
+    "1363": "A late-night dessert or snack stop is less likely but still consistent with their mixed nightlife/food behavior."
+  },
+  "fallback": false
+}

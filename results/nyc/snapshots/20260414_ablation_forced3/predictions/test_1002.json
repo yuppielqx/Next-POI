@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1002",
+  "ranked_loc_ids": [
+    88,
+    557,
+    4355,
+    3504,
+    4163,
+    439,
+    4165,
+    2704,
+    553,
+    4162
+  ],
+  "explanations": {
+    "88": "This is the user’s strongest recurring transit anchor and best fits an evening return to the commute corridor.",
+    "557": "A frequent commute-related node for this user, likely if they are heading back across the Hudson after the downtown stop.",
+    "4355": "From Wall Street, a subway departure is a plausible immediate next move for a commuter headed back north or west.",
+    "3504": "The user is already in Lower Manhattan, so a nearby financial-district continuation is possible before leaving.",
+    "4163": "The last known location is also a common revisit point in the user’s history, making a short linger or return plausible.",
+    "439": "The user’s routine strongly connects to the NJ side of the commute, so crossing back there is a reasonable next step.",
+    "4165": "Another transit hub option that matches the user’s transportation-centered behavior, though less central than Port Authority.",
+    "2704": "A nearby nightlife venue is possible after an evening movie, but it is much less consistent with the user’s routine profile.",
+    "553": "This is a sporadic leisure location in the user history, making it a lower-probability but conceivable diversion.",
+    "4162": "A gym visit fits some prior non-transit behavior, but it is weaker than the commute-linked destinations."
+  },
+  "fallback": false
+}

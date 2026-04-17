@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_316",
+  "ranked_loc_ids": [
+    548,
+    2043,
+    1547,
+    2046,
+    2047,
+    2042,
+    2048,
+    2041,
+    2044,
+    416
+  ],
+  "explanations": {
+    "548": "The Saturday 00:55 nightlife prior strongly favors a return to a known late-night lounge in Midtown West.",
+    "2043": "It fits the user's after-hours Hell's Kitchen pattern and is a plausible bar visit at this time.",
+    "1547": "A nearby nightlife spot with at least some same-time-slot evidence makes it a credible late-night option.",
+    "2046": "The user has a history of bar visits in the Hell's Kitchen/Theater District corridor, which matches this hour.",
+    "2047": "This Midtown bar aligns with the user's evening socializing pattern west of the ESB core.",
+    "2042": "A dinner-to-drinks stop in Hell's Kitchen is consistent with the user's nighttime movement style.",
+    "2048": "Late-night burrito or casual food in Midtown West is plausible after bar hopping.",
+    "2041": "Fast food is a realistic late-night fallback in Midtown West, though less profile-consistent than bars.",
+    "2044": "The user often stays anchored near this core, but a coffee stop at 00:55 is less likely than nightlife.",
+    "416": "The user is highly anchored there, yet the target time and Saturday night context make a return less likely than a westward nightlife stop."
+  },
+  "fallback": false
+}

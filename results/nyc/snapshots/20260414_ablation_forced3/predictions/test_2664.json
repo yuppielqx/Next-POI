@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2664",
+  "ranked_loc_ids": [
+    4452,
+    1742,
+    1753,
+    1754,
+    3657,
+    2872,
+    4661,
+    2092,
+    4594,
+    691
+  ],
+  "explanations": {
+    "4452": "Late-night patterns strongly favor this as the user’s usual return point after evening activity, and it has the highest midnight-to-2am history.",
+    "1742": "The user’s core Brooklyn base makes a nearby residential-area return highly plausible at 00:56.",
+    "1753": "It is adjacent to the last known location and fits the user’s tightly clustered downtown Brooklyn movement.",
+    "1754": "Very close to Superfine and within the user’s familiar DUMBO/Brooklyn Heights circuit, making a short nearby stop possible.",
+    "3657": "The user has a strong gym habit, though this hour is less typical than a home return.",
+    "2872": "A repeat comfort stop in the user’s Brooklyn routine, but less likely than residence late at night.",
+    "4661": "A recurrent dining location in the user’s history, though not the strongest midnight pattern.",
+    "2092": "The Brooklyn Heights Promenade is within the user’s local footprint and could fit a brief nearby walk.",
+    "4594": "A nearby Brooklyn entertainment spot that aligns with the user staying within the downtown area.",
+    "691": "A plausible late-night food stop in the same neighborhood, but with weaker historical support than the options above."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2486",
+  "ranked_loc_ids": [
+    323,
+    293,
+    513,
+    467,
+    462,
+    483,
+    930,
+    2560,
+    633,
+    2740
+  ],
+  "explanations": {
+    "323": "This is the user’s strongest habitual anchor and the most likely short local return after a Petco errand in the same southern Brooklyn orbit.",
+    "293": "It is very close to the last location, fits the user’s pharmacy-and-errand routine, and is plausible for an afternoon follow-up stop.",
+    "513": "The user visits this bagel shop regularly on Saturdays, making it a strong nearby food-stop candidate after Petco.",
+    "467": "Another routine pharmacy option in the user’s core neighborhood, consistent with the clustered errand pattern.",
+    "462": "The forced-nearby deli/sandwich stop is extremely close to the current position and fits a practical lunchtime-to-afternoon continuation.",
+    "483": "A nearby ice cream stop can fit a Saturday afternoon leisure pattern, especially after a local errand.",
+    "930": "This nearby Brooklyn food spot is a plausible meal stop following the Petco visit and matches the user’s casual dining behavior.",
+    "2560": "A grocery/errand destination in the same general area, consistent with the user’s practical shopping routine.",
+    "633": "A Saturday leisure venue in southern Brooklyn that fits the user’s occasional entertainment outings.",
+    "2740": "A recurring coffee destination for the user, but the Manhattan jump is less likely than a local southern Brooklyn continuation."
+  },
+  "fallback": false
+}

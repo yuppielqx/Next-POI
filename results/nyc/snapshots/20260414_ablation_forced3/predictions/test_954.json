@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_954",
+  "ranked_loc_ids": [
+    4046,
+    4069,
+    4073,
+    4030,
+    4061,
+    1015,
+    1,
+    9,
+    1110,
+    1664
+  ],
+  "explanations": {
+    "4046": "Monday midday strongly matches the user’s office-centered routine, and this is by far their most frequent and weekday-consistent anchor.",
+    "4069": "Another weekday office destination in the same Lower Manhattan work corridor, fitting a return-to-work pattern near lunchtime.",
+    "4073": "A noon-to-2pm lunch stop with a strong same-time history, making it a plausible nearby midday food choice.",
+    "4030": "This is a recurring Monday-friendly lunch option in the user’s Lower Manhattan/East Village cluster.",
+    "4061": "The user has repeated noon visits here, and it functions as a nearby lunch-oriented food stop.",
+    "1015": "A frequent midday wine-shop stop in the same compact Manhattan routine, plausible if they are running an errand.",
+    "1": "Close to the last location and in the user’s Lower Manhattan orbit, making it a reasonable lunch destination.",
+    "9": "A nearby café consistent with a mid-afternoon workday coffee break or reset.",
+    "1110": "Trader Joe’s fits the user’s errand pattern, though it is less likely than office or lunch venues at this time.",
+    "1664": "A same-location transit continuation is possible, but the strong Monday midday prior favors a shift into the Manhattan work/lunch circuit."
+  },
+  "fallback": false
+}

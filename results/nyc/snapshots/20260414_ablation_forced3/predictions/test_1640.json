@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1640",
+  "ranked_loc_ids": [
+    1110,
+    132,
+    2898,
+    2695,
+    4464,
+    1490,
+    5040,
+    1813,
+    4897,
+    4414
+  ],
+  "explanations": {
+    "1110": "The user just visited a grocery store and their routine strongly favors practical evening errand stops, making a return to this grocery anchor the most likely next move.",
+    "132": "Target is their strongest evening-pattern retail stop and fits the utilitarian Brooklyn errand behavior seen in similar users and their own history.",
+    "2898": "This is their most frequent anchor overall and a very plausible repeat coffee stop after an evening outing.",
+    "2695": "Their profile heavily favors sandwich and grocery-style food stops, and this Manhattan lunch/dinner anchor is one of their recurring trusted venues.",
+    "4464": "This Brooklyn Starbucks matches their commuter-like coffee routine and central/southern Brooklyn footprint.",
+    "1490": "Another Manhattan coffee option that matches their food-and-caffeine routine, especially during the evening slot.",
+    "5040": "A repeat coffee shop visit is consistent with their behavior, though this is slightly less anchored than Starbucks.",
+    "1813": "This is another Starbucks-type coffee stop in Midtown East, which fits the user’s practical, repeatable pattern.",
+    "4897": "A nearby sandwich shop aligns with their food-focused mobility and could follow the current Manhattan location.",
+    "4414": "A nearby quick meal stop is plausible given the utilitarian trend, but it is less supported by prior visits than the top options."
+  },
+  "fallback": false
+}

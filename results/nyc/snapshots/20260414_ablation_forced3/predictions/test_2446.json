@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2446",
+  "ranked_loc_ids": [
+    715,
+    1036,
+    3022,
+    1049,
+    3718,
+    2158,
+    97,
+    3169,
+    5093,
+    2489
+  ],
+  "explanations": {
+    "715": "Strongest historical anchor with repeated late-night visits and the best match to the user’s nightlife pattern.",
+    "1036": "Frequent nightlife destination in the user’s history and highly aligned with the 10 PM Sunday temporal prior.",
+    "3022": "Rock club option near the current area that fits the user’s music-driven late-night behavior.",
+    "1049": "Known music venue from the user’s past outing, making it a plausible downtown nightlife continuation.",
+    "3718": "Bar from a prior late-night chain that matches the user’s downtown social drinking pattern.",
+    "2158": "Prior rock club visit and strong fit for a late-evening music-oriented stop.",
+    "97": "Lounge/nightlife venue that fits the user’s evening social profile and Midtown-oriented movement.",
+    "3169": "Nearby nightlife spot in the East Village that aligns with a bar-hopping continuation.",
+    "5093": "Close bar option in the current East Village area, plausible for a short next-night stop.",
+    "2489": "Very near the last location and a likely immediate continuation point despite weaker historical evidence."
+  },
+  "fallback": false
+}

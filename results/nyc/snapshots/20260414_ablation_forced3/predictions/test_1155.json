@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1155",
+  "ranked_loc_ids": [
+    2216,
+    4197,
+    3496,
+    3100,
+    3679,
+    587,
+    4430,
+    2681,
+    975,
+    2050
+  ],
+  "explanations": {
+    "2216": "It is the user’s dominant repeat nightlife venue, strongly favored on Fridays around 21:00 and close to the last known area.",
+    "4197": "This nearby bar fits the user’s nightlife-heavy pattern and could be a substitute bar stop in the same Midtown corridor.",
+    "3496": "A nearby bar/nightlife spot aligns with the user’s evening social behavior and the current time prior.",
+    "3100": "Karaoke is a nightlife activity that matches the user’s late-evening tendencies and compact movement pattern.",
+    "3679": "This lounge/nightlife spot is a plausible evening destination near the last location and fits the user’s after-dark routine.",
+    "587": "The user was just here, and late-night food follow-ups are consistent with their history after nightlife outings.",
+    "4430": "This is one of the user’s recurring Friday-oriented stops, though it is less directly aligned with the nightlife pattern.",
+    "2681": "The user’s movement is concentrated in Manhattan and a taxi is a plausible transition stop between nightlife venues.",
+    "975": "This nearby dining option sits within the user’s familiar Midtown area, but it is less likely than bar or lounge destinations.",
+    "2050": "The user has visited this entertainment venue before, and it remains a possible Friday-night destination despite being farther away."
+  },
+  "fallback": false
+}

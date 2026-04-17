@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_577",
+  "ranked_loc_ids": [
+    3065,
+    3066,
+    38,
+    3799,
+    2902,
+    3806,
+    299,
+    932,
+    3069,
+    322
+  ],
+  "explanations": {
+    "3065": "It is the strongest habitual midday anchor in the user’s history and best matches the 12:09 temporal prior.",
+    "3066": "Also a frequent eastern Queens repeat with strong noon-to-2pm presence, making it a very plausible routine lunch stop.",
+    "38": "The immediate vicinity of the current Howard Beach area makes a quick coffee stop plausible at midday.",
+    "3799": "A nearby fast-food option fits the user’s habit of casual food stops and clustered outings.",
+    "2902": "Pizza places fit the user’s food-heavy pattern and this is a nearby outer-borough option.",
+    "3806": "A practical retail/pharmacy stop is consistent with the user’s mixed errand-and-food behavior.",
+    "299": "Target matches the user’s repeated retail tendency and suburban-style shopping pattern.",
+    "932": "A known repeat dining destination for this user, though less aligned with the midday return-to-anchor pattern than the top choices.",
+    "3069": "Another familiar diner in the user’s history, but it is less likely than the stronger eastern Queens lunch anchors.",
+    "322": "The user has visited Best Buy before, and similar users show midday retail transitions, but it is a weaker fit than food-oriented options."
+  },
+  "fallback": false
+}

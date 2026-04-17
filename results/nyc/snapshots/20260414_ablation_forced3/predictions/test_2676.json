@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2676",
+  "ranked_loc_ids": [
+    4223,
+    1915,
+    5052,
+    213,
+    4006,
+    4131,
+    3217,
+    4013,
+    715,
+    649
+  ],
+  "explanations": {
+    "4223": "The user has just been at this nearby dessert spot in Midtown, and Friday evening patterns favor a dessert follow-up after dinner.",
+    "1915": "A classic late-evening dessert destination for this user, fitting the Midtown/Koreatown continuation pattern.",
+    "5052": "This is a very plausible nearby repeat food stop in the same evening dining corridor around St. Marks/Koreatown-style outings.",
+    "213": "The user has a history of Manhattan evening social stops, and a bar is a strong next move after dinner.",
+    "4006": "Another nearby bar option that fits the late Friday evening nightlife continuation in Midtown.",
+    "4131": "A close upscale dining venue in the same area, plausible if the user continues a food-oriented outing.",
+    "3217": "Nearby French dining makes sense as a Midtown after-dinner transition, especially if they stay in the area.",
+    "4013": "A quick casual food stop is possible, though less aligned than dessert or drinks.",
+    "715": "The user has nightlife/entertainment history in Manhattan, but this is a bit less likely than closer food/drink venues.",
+    "649": "Downtown nightlife is possible later in the evening, but the distance and current Midtown cluster make it a weaker choice."
+  },
+  "fallback": false
+}

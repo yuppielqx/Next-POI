@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_524",
+  "ranked_loc_ids": [
+    2875,
+    2878,
+    2873,
+    2879,
+    2872,
+    113,
+    2092,
+    2883,
+    1590,
+    2876
+  ],
+  "explanations": {
+    "2875": "The strongest time-matched anchor is this Wednesday evening venue, and the user has a long repeated history of Brooklyn theater visits.",
+    "2878": "A Brooklyn bakery fits the user’s Park Slope evening corridor and nearby post-work/early-evening routine.",
+    "2873": "This is a known weekend Brooklyn habit, and it remains plausible as a nearby evening stop within the user’s brownstone-brooklyn pattern.",
+    "2879": "Another Brooklyn food stop in the user’s favored neighborhood cluster, making it a credible evening transition after Midtown.",
+    "2872": "The user often revisits coffee shops, and this Brooklyn Starbucks fits a possible cross-borough coffee stop.",
+    "113": "A Brooklyn train station is plausible for a commute or transfer as the user heads toward evening Brooklyn activity.",
+    "2092": "The Brooklyn Heights Promenade matches the user’s occasional scenic Brooklyn outings and nearby evening movement.",
+    "2883": "A nearby Brooklyn electronics-style errand is less likely than leisure, but still consistent with their occasional utility trips.",
+    "1590": "Despite being the last known location and a major habitual anchor, it is more daytime-oriented than the predicted evening pattern.",
+    "2876": "This lunch/mid-afternoon sandwich spot is part of the user’s routine, but it is weaker for a 19:27 evening visit than Brooklyn leisure destinations."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1811",
+  "ranked_loc_ids": [
+    3439,
+    3142,
+    67,
+    3679,
+    2996,
+    4207,
+    2018,
+    29,
+    2810,
+    1231
+  ],
+  "explanations": {
+    "3439": "Strong Saturday-night repeat venue in the user’s East Village social circuit, matching both their temporal rhythm and habitual nightlife pattern.",
+    "3142": "Frequently visited on evening slots and consistent with a return to a favored Brooklyn social spot after nearby movement.",
+    "67": "A recurring Saturday destination in the user’s Manhattan leisure corridor, plausible as an evening meetup or transition point.",
+    "3679": "Repeated Saturday evening lounge check-ins make this a strong fit for a night-out continuation.",
+    "2996": "A St. Mark’s-area Japanese spot that aligns with the user’s dining-and-drinks pattern in the East Village.",
+    "4207": "Another East Village food stop near the user’s usual nightlife cluster, fitting a post-dinner social move.",
+    "2018": "A nearby Japanese nightlife venue that matches the user’s evening-oriented, restaurant-plus-drinks behavior.",
+    "29": "A bar in the East Village corridor that fits the late-night social profile and downtown Manhattan preference.",
+    "2810": "Located on St. Marks Pl. and consistent with the user’s repeated visits to that nightlife/dining strip.",
+    "1231": "A nearby Brooklyn hub that is geographically plausible after the last stop, though less aligned than the Manhattan favorites."
+  },
+  "fallback": false
+}

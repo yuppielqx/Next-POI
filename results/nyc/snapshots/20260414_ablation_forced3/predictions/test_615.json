@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_615",
+  "ranked_loc_ids": [
+    3180,
+    3181,
+    166,
+    3107,
+    3178,
+    3191,
+    3188,
+    1360,
+    2200,
+    1131
+  ],
+  "explanations": {
+    "3180": "This is the user’s dominant anchor, it matches the strong Wednesday late-morning prior, and it is the last known location.",
+    "3181": "A recurring late-morning Sunday ritual spot near Midtown makes it a plausible nearby return even on a weekday morning.",
+    "166": "It is very close to the current area and fits a post-gym coffee or breakfast-style stop in the late morning.",
+    "3107": "A frequent errand destination in the user’s Midtown routine, and a reasonable follow-up after the gym.",
+    "3178": "The user often pairs pharmacy runs with grocery/gym trips, so this nearby errand stop remains likely.",
+    "3191": "The University Club is close to the user’s Midtown corridor and fits a short westward movement pattern.",
+    "3188": "Townhouse Bar is a nearby gay bar in the user’s broader preference set, though less likely at this hour.",
+    "1360": "A nearby coffee stop that aligns with late-morning behavior and a westward drift.",
+    "2200": "Another plausible Midtown coffee option, but less directly supported than the closer candidates.",
+    "1131": "A nearby food stop that could follow the gym, though it is less consistent with the user’s strongest habits."
+  },
+  "fallback": false
+}

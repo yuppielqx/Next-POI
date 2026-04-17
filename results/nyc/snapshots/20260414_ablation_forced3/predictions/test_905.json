@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_905",
+  "ranked_loc_ids": [
+    59,
+    53,
+    3962,
+    921,
+    1254,
+    2006,
+    2014,
+    114,
+    1545
+  ],
+  "explanations": {
+    "59": "The user is already there and their pattern strongly favors staying within the same Midtown transit corridor on Sunday mornings.",
+    "53": "This is the exact nearby 42nd St-Times Square hub and the highest-probability immediate continuation from the last known stop.",
+    "3962": "A frequent nearby repeat stop for this user, and it fits a short Midtown movement after Times Square.",
+    "921": "A closely linked Midtown subway stop that matches the user’s recurring Rockefeller Center / Times Square corridor.",
+    "1254": "A major Manhattan transfer point the user visits often, consistent with commuter-style weekday and weekend travel.",
+    "2006": "The user frequently moves through major transfer hubs, and Canal Street is a common next step toward Brooklyn or Lower Manhattan.",
+    "2014": "A high-connectivity hub that fits the user’s transfer-heavy pattern, though farther from the current location.",
+    "114": "A logical transit link for a commuter moving between Manhattan and Brooklyn, especially after Midtown activity.",
+    "1545": "A frequent user anchor and major connector that fits the broader network-travel pattern, though less immediate than nearby Midtown options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_322",
+  "ranked_loc_ids": [
+    2029,
+    557,
+    820,
+    329,
+    878,
+    348,
+    1175,
+    338,
+    59,
+    176
+  ],
+  "explanations": {
+    "2029": "Weekday morning timing and strong repeat-history make the user’s office/event-space commute destination the best fit.",
+    "557": "This is the strongest recurring commute hub in the user’s history and often precedes morning arrivals into Manhattan.",
+    "820": "The user is already in the Flatiron corridor and this nearby transit node fits a routine morning onward move.",
+    "329": "Madison Square Park is a repeated transition point near the current area, making it a plausible short-hop stop.",
+    "878": "A nearby office building aligned with the user’s work-oriented weekday pattern.",
+    "348": "A morning coffee stop is consistent with the target time and the user’s commuter routine.",
+    "1175": "Another nearby breakfast/coffee option that fits a weekday 9:34 a.m. movement.",
+    "338": "The last known location was here, so a brief follow-on visit remains possible despite the weaker routine fit.",
+    "59": "The user has visited before and it is still within a reasonable Manhattan transit range.",
+    "176": "A transportation hub in the user’s broader corridor, but less consistent with the immediate Midtown morning pattern."
+  },
+  "fallback": false
+}

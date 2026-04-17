@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_409",
+  "ranked_loc_ids": [
+    1049,
+    938,
+    2418,
+    2132,
+    340,
+    2420,
+    177,
+    980,
+    14
+  ],
+  "explanations": {
+    "1049": "A late-night music venue in the Lower East Side fits the user’s strong weekend evening pattern and the south-east movement trend after dinner.",
+    "938": "This nearby karaoke bar matches the user’s nightlife-heavy behavior and is a short downtown transition from Frank Restaurant.",
+    "2418": "A cocktail bar is highly plausible at 00:01 given the user’s evening social habits and compact movement in the East Village area.",
+    "2132": "As a nearby bar/nightlife spot, it fits a post-dinner downtown outing around midnight.",
+    "340": "This lounge aligns with the user’s social, nightlife-oriented weekend pattern and remains within the likely downtown corridor.",
+    "2420": "A wine-bar style stop fits the user’s wine and evening leisure preferences after an Italian dinner.",
+    "177": "This frequently visited downtown venue is consistent with the user’s clustered Greenwich/West Village nightlife behavior.",
+    "980": "A movie theater is possible for a late-night leisure sequence, though less likely than a bar at 00:01.",
+    "14": "A nearby diner could serve as a late-night continuation after dinner, but it is less aligned than the nightlife options."
+  },
+  "fallback": false
+}

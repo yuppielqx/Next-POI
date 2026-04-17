@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_228",
+  "ranked_loc_ids": [
+    1484,
+    1562,
+    1584,
+    917,
+    1403,
+    1567,
+    1583,
+    590,
+    1579
+  ],
+  "explanations": {
+    "1484": "The user just checked in at Equinox on Monday evening and their strongest routine is returning to familiar gym/yoga stops around midday.",
+    "1562": "This matches the user’s frequent fitness pattern and the Tuesday early-afternoon timing strongly favors a gym visit.",
+    "1584": "Another nearby Equinox branch fits the return-to-frequent-place behavior in the Midtown/Flatiron core.",
+    "917": "Coffee after or between workout sessions is a recurring habit, and this Midtown location is a natural short-hop from the last stop.",
+    "1403": "This 23rd Street Starbucks aligns with the user’s repeated coffee-and-gym loop in the Flatiron/Gramercy area.",
+    "1567": "A midday coffee stop is highly consistent with the user’s routine and nearby Manhattan clustering.",
+    "1583": "Lunch-hour food stops fit the target time and the user’s tendency to make short, structured midday outings.",
+    "590": "The 19th Street Equinox is another routine fitness option within the same Manhattan activity corridor.",
+    "1579": "A quick sandwich/lunch stop near the user’s core area is plausible at 13:09, though less likely than gym or coffee."
+  },
+  "fallback": false
+}

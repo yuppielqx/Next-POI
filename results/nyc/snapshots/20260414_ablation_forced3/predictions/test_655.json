@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_655",
+  "ranked_loc_ids": [
+    3305,
+    3306,
+    2205,
+    716,
+    2213,
+    2203,
+    2420,
+    1104,
+    2004,
+    2274
+  ],
+  "explanations": {
+    "3305": "It is the dominant weekday morning anchor and the target time strongly matches the user’s routine office return pattern.",
+    "3306": "It is very close to the last gym stop and fits the user’s office/gym cluster in the same neighborhood.",
+    "2205": "The user was just there on the prior check-in, so a short continuation or repeat is plausible despite the morning office prior.",
+    "716": "Similar users at this time sometimes make a nearby errand stop, and it is close to the user’s current area.",
+    "2213": "Similar-user morning fitness behavior makes a nearby wellness stop possible before or around the commute.",
+    "2203": "Another nearby gym option that aligns with the user’s exercise-in-workweek pattern.",
+    "2420": "Very close by, and nearby routine errands can occur in the morning even if it is less typical for this user.",
+    "1104": "A nearby breakfast spot that fits the morning time window and similar-user breakfast behavior.",
+    "2004": "It is extremely close to the last location, but the user has little evidence of morning cultural visits.",
+    "2274": "A nearby venue that is geographically plausible, though the user’s history makes it a low-probability morning destination."
+  },
+  "fallback": false
+}

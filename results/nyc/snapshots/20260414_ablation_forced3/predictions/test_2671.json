@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2671",
+  "ranked_loc_ids": [
+    5754,
+    5753,
+    137,
+    3467,
+    229,
+    1660,
+    1663,
+    88,
+    2150,
+    2730
+  ],
+  "explanations": {
+    "5754": "This is the most likely next commute transfer in the user’s habitual Flushing-to-Queens work sequence and fits the morning Monday transit pattern.",
+    "5753": "The user’s dominant recurring destination and eventual endpoint, likely reached shortly after the Q65 transfer.",
+    "137": "The user was just here and it is a highly recurrent intermediate commute node at Penn Station.",
+    "3467": "A frequent Newark-area origin/hub in the user’s routine, but less likely after already moving east toward Manhattan.",
+    "229": "Another Newark transportation hub that matches the commute style and morning timing, though it is less aligned with the current trajectory.",
+    "1660": "A plausible Queens rail transfer point in the user’s broader commute corridor, but not as strongly evidenced as Q65 or Penn.",
+    "1663": "A Flushing/Main Street rail stop that fits the area of the commute and similar-user patterns.",
+    "88": "A plausible Midtown transit transfer for commuters, but the user’s strongest pattern points more toward Penn Station.",
+    "2150": "Similar users sometimes move through Newark transit nodes at this hour, but it is off the main recurrent path.",
+    "2730": "It matches the Queens direction and similar-user transitions, but the behavioral evidence is weaker than the core commute locations."
+  },
+  "fallback": false
+}

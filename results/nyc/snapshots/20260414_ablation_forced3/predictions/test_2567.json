@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2567",
+  "ranked_loc_ids": [
+    1678,
+    3636,
+    2281,
+    5452,
+    4739,
+    67,
+    3053,
+    1336,
+    2228,
+    540
+  ],
+  "explanations": {
+    "1678": "This is the user’s strongest historical anchor and a likely evening transit link for continuing a routine downtown trip.",
+    "3636": "A familiar Lower Manhattan coffee stop that fits the user’s downtown errand-and-transit pattern.",
+    "2281": "The user has repeated bank visits in the downtown core, making this a strong nearby routine destination.",
+    "5452": "A Fulton-area food stop matches the user’s tendency to pair transit with casual dining.",
+    "4739": "Another convenient Financial District lunch/dinner option consistent with nearby food-oriented movement.",
+    "67": "The user has repeated leisure visits here, and it is a plausible northeast move from the current location.",
+    "3053": "Fits the user’s pattern of downtown dining and is close to the Union Square leisure corridor.",
+    "1336": "A nearby casual restaurant in the Manhattan corridor that matches the user’s evening food-stop behavior.",
+    "2228": "A late-day dessert/bakery option in the east Manhattan area, consistent with a short cross-town move.",
+    "540": "An evening nightlife venue that aligns with the user’s occasional after-hours social pattern."
+  },
+  "fallback": false
+}

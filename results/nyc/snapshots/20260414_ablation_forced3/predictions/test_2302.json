@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2302",
+  "ranked_loc_ids": [
+    4639,
+    5180,
+    4640,
+    4638,
+    449,
+    5517,
+    4395,
+    5606,
+    1665,
+    1199
+  ],
+  "explanations": {
+    "4639": "This is a frequent Saturday transit stop for the user and the most likely next move after the last Bayonne-area light rail check-in.",
+    "5180": "The user repeatedly cycles through this Bayonne station, especially during evening corridor travel on the Hudson-Bergen Light Rail.",
+    "4640": "It is the exact last known location and a recurring transit hub, making a near-immediate return or continued presence highly plausible.",
+    "4638": "A highly visited Jersey City transit point in the user’s regular corridor, often appearing in sequential station patterns.",
+    "449": "The user’s movement often resolves to a Bayonne residence-like stop after transit activity, especially later in the day.",
+    "5517": "This nearby Bayonne light rail station fits the north-eastward trend and the user’s station-hopping pattern.",
+    "4395": "A known Jersey City rail stop that matches the user’s occasional northbound corridor movement and Saturday behavior.",
+    "5606": "The user has a documented grocery pattern tied to Saturday evening errands, making this a plausible non-transit destination.",
+    "1665": "This Jersey City transit hub is part of the user’s broader Hudson County pattern and could appear as a transfer point.",
+    "1199": "The user sometimes extends north to Newport-area transit hubs, though this is less likely than the Bayonne stations."
+  },
+  "fallback": false
+}

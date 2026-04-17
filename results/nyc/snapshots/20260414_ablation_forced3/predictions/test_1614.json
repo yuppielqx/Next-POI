@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1614",
+  "ranked_loc_ids": [
+    2165,
+    1641,
+    3747,
+    5024,
+    3750,
+    3528,
+    1035,
+    2644,
+    1522,
+    2639
+  ],
+  "explanations": {
+    "2165": "This is the user’s strongest habitual Brooklyn station and fits the expected return to a familiar transit corridor after a short Manhattan stop.",
+    "1641": "Broadway Junction is another heavily repeated transit hub in the user’s history and is a natural next transfer point moving back toward Brooklyn.",
+    "3747": "Rockaway Ave is a frequent subway stop for this user and aligns with their commuter-style movement pattern.",
+    "5024": "Atlantic Ave is a recurrent Brooklyn metro station that fits a north-westward return through the user’s usual rail network.",
+    "3750": "This Brooklyn station is well within the user’s core footprint and is plausible during an evening transit leg.",
+    "3528": "The user often moves through Crown Heights-area stations, making this a strong corridor match.",
+    "1035": "Similar users often transition through Atlantic Terminal around this time, and it matches the user’s Brooklyn transit-heavy behavior.",
+    "2644": "LIRR Atlantic Terminal is a major hub in the user’s Brooklyn travel network and a realistic evening transfer destination.",
+    "1522": "Though less repeated, it is a plausible Manhattan transfer point given the user’s recent westward movement.",
+    "2639": "This nearby L-train station could be the immediate next step if the user continues a short Manhattan transit move."
+  },
+  "fallback": false
+}

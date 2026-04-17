@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_318",
+  "ranked_loc_ids": [
+    2048,
+    2046,
+    548,
+    2043,
+    2042,
+    988,
+    2045,
+    416,
+    2037,
+    2039
+  ],
+  "explanations": {
+    "2048": "Friday evening patterns and the Midtown West dinner/nightlife shift make this a strong match for the next social stop.",
+    "2046": "The user has an established evening nightlife tendency in Midtown West, and similar users at this time often moved to bars.",
+    "548": "It fits the user’s after-work nightlife pattern and is a known repeat-style venue in the Hell’s Kitchen corridor.",
+    "2043": "This is another evening nightlife option in the same westward Midtown band, consistent with the user’s Friday behavior.",
+    "2042": "A nearby dinner stop in the user’s usual evening range, making it a plausible post-work restaurant choice.",
+    "988": "The user has Midtown West dining patterns, and this breakfast spot is still a familiar restaurant-type stop in that corridor.",
+    "2045": "Another repeat dining option in the user’s broader evening Manhattan routine, with a reasonable Friday dinner fit.",
+    "416": "The user is strongly anchored here, so a return to the core location remains possible despite the evening time.",
+    "2037": "This is one of the user’s most frequent check-in points and could still be revisited if they remain work-centered.",
+    "2039": "It is the immediate last-known location, so a short dwell or return is possible even though the evening prior suggests movement outward."
+  },
+  "fallback": false
+}

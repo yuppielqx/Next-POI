@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_341",
+  "ranked_loc_ids": [
+    1063,
+    1403,
+    55,
+    2102,
+    2100,
+    2104,
+    1689,
+    1579,
+    2103,
+    766
+  ],
+  "explanations": {
+    "1063": "It is the user’s dominant early-morning anchor, with heavy Thursday and 6–8 a.m. history, making it the most likely next stop.",
+    "1403": "The user frequently pairs their morning arrival pattern with coffee, and this Starbucks is a top nearby habitual stop.",
+    "55": "It is part of the user’s regular workday routine and is directly adjacent to the current cluster, though less likely at this early hour than the anchor.",
+    "2102": "This nearby breakfast/deli spot fits the user’s grab-and-go morning behavior and has prior early-hour visits.",
+    "2100": "The user has repeated morning coffee behavior here, making it a plausible alternative to Starbucks.",
+    "2104": "It sits right in the same 23rd Street cluster and could serve as a quick utilitarian breakfast or snack stop.",
+    "1689": "The user has visited this nearby food spot before, but it is a weaker match for the strong 7:58 a.m. routine.",
+    "1579": "It is extremely close to the last location and is a plausible brief food stop, though it has only one recorded visit.",
+    "2103": "A known breakfast-oriented venue in the broader pattern, but it is slightly farther and less directly tied to the anchor routine.",
+    "766": "This is a recurring errand destination for the user, but the timing and location make it less likely than the immediate 23rd Street options."
+  },
+  "fallback": false
+}

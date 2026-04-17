@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2122",
+  "ranked_loc_ids": [
+    5463,
+    5462,
+    4172,
+    5464,
+    3282,
+    4164,
+    4166,
+    2232,
+    5308,
+    557
+  ],
+  "explanations": {
+    "5463": "This is one of the user’s strongest repeat Sunday anchors and fits the expected return to the Montclair State campus cluster.",
+    "5462": "The residence hall is a core habitual stop and pairs closely with the academic building in the user’s routine.",
+    "4172": "A central campus hub is a very plausible afternoon return point after an off-campus lunch stop.",
+    "5464": "Another frequent Montclair State academic building, matching the user’s tightly clustered campus behavior.",
+    "3282": "The broader university area is a strong base-rate destination for this user on Sunday afternoons.",
+    "4164": "This matches the user’s recurring gym pattern and the afternoon time prior well.",
+    "4166": "Sunday errands are common in this profile, and grocery shopping fits the expected return-to-routine pattern.",
+    "2232": "This retail stop aligns with the user’s weekend utilitarian trips and is geographically consistent with the campus area.",
+    "5308": "A nearby fast-food stop is plausible after an outing, though less likely than campus anchors.",
+    "557": "Similar-user patterns include transportation-hub transitions, but it is still less likely than the user’s usual northern New Jersey destinations."
+  },
+  "fallback": false
+}

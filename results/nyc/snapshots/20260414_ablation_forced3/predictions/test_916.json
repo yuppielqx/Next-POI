@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_916",
+  "ranked_loc_ids": [
+    2022,
+    633,
+    5382,
+    5383,
+    5385,
+    5078,
+    474,
+    4871,
+    930,
+    318
+  ],
+  "explanations": {
+    "2022": "The user was just at this nearby restaurant, and the strongest signal at one minute later is a continued stop in the same Sheepshead Bay area.",
+    "633": "The most likely action is that they remain at the movie theater immediately after the last check-in.",
+    "5382": "A very close food option in the same neighborhood fits a post-movie late-night snack pattern.",
+    "5383": "This nearby restaurant is a plausible short-hop dining follow-up while staying in Sheepshead Bay.",
+    "5385": "Applebee's is a nearby casual restaurant that matches the user’s food-run behavior after entertainment stops.",
+    "5078": "The user has a nightlife component, and this nearby bar is a reasonable late-night continuation.",
+    "474": "A grocery stop is consistent with the user’s utilitarian movement style and nearby transit-oriented routing.",
+    "4871": "A nearby gym is less likely this late, but it is within the immediate area and could appear in sparse movement histories.",
+    "930": "This is one of the user’s recurring late-night food destinations, though it is farther than the closest options.",
+    "318": "A nearby shopping stop could follow the current area pattern, but it is less consistent than dining or staying put."
+  },
+  "fallback": false
+}

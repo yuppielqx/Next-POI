@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_907",
+  "ranked_loc_ids": [
+    1200,
+    3962,
+    2006,
+    1545,
+    618,
+    125,
+    114,
+    3927,
+    140
+  ],
+  "explanations": {
+    "1200": "Their profile is heavily Queens-centered and this is one of their main recurring commuter anchors, especially for morning travel.",
+    "3962": "This is a frequent nearby repeat stop that fits a quick breakfast or transfer pause in the 8 a.m. window.",
+    "2006": "A familiar Lower Manhattan transfer point that fits a south-westward movement trend from Midtown.",
+    "1545": "This is a strong recurring hub for the user and a plausible next transfer on a routine commute path.",
+    "618": "The user often uses this Brooklyn commuter station, and it aligns with similar users’ morning transit behavior.",
+    "125": "Jay St-MetroTech is a major transfer hub and a plausible mid-route subway connection for this mobility pattern.",
+    "114": "A common corridor station for commuting between Midtown, Lower Manhattan, and Brooklyn.",
+    "3927": "This Brooklyn station fits the user’s transit-heavy profile and morning station usage.",
+    "140": "Despite being farther away, it is a recurring transit anchor in the user’s history and remains plausible for a routine route."
+  },
+  "fallback": false
+}

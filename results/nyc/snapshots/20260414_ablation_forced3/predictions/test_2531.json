@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2531",
+  "ranked_loc_ids": [
+    642,
+    4126,
+    235,
+    2508,
+    5371,
+    4506,
+    3781,
+    4421,
+    4499,
+    1094
+  ],
+  "explanations": {
+    "642": "It is the user’s dominant Monday morning commute node and the last known location, making it most likely they are still there or just transitioning nearby.",
+    "4126": "The user frequently moves from Location 642 to this nearby Financial District office stop shortly after arrival.",
+    "235": "This nearby office location fits the user’s workday pattern of a short move deeper into the Financial District.",
+    "2508": "It is a very close Lower Manhattan stop that aligns with the user’s established FiDi corridor and routine daytime movement.",
+    "5371": "A morning coffee stop in the same area is plausible given the time and commute context.",
+    "4506": "This nearby lunch-oriented food truck is within the same cluster, though slightly early for a weekday food stop.",
+    "3781": "A close FiDi food option that could follow arrival if the user pauses before work.",
+    "4421": "Another nearby weekday lunch venue in the same Lower Manhattan office corridor.",
+    "4499": "A nearby dining spot that is geographically consistent but less likely this early in the morning.",
+    "1094": "A nearby destination in the same general area, but it is less consistent with the user’s utilitarian commute pattern."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_184",
+  "ranked_loc_ids": [
+    1332,
+    281,
+    636,
+    1334,
+    59,
+    1333,
+    1335,
+    1336,
+    1116,
+    301
+  ],
+  "explanations": {
+    "1332": "The user’s strongest habit is a repeated early-morning weekday gym visit, and 07:05 on a Friday matches that routine closely.",
+    "281": "A nearby gym is the next best fitness-oriented option if they are staying in Manhattan before heading back to their usual anchor later.",
+    "636": "This is one of the user’s known scenic stops and fits a broad city-travel pattern, though it is much less habitual than the gym.",
+    "1334": "The user has visited a pub before, so an occasional return to nightlife is plausible, but the morning timing makes it unlikely.",
+    "59": "The user has a prior visit to Midtown nightlife/scenic activity, making it a possible but weak match for this time.",
+    "1333": "Their history includes a Manhattan exploratory stop near this area, but it is only a one-off and not time-aligned with the morning routine.",
+    "1335": "This northern suburban anchor fits their broader Bronx/Yonkers movement pattern, though a mall visit is less likely than the gym at 7 a.m.",
+    "1336": "They have been here once before, and it is a plausible food stop, but it does not match the strong fitness routine.",
+    "1116": "It is the last known location, but continuing nightlife into the early morning is less consistent than switching to the gym routine.",
+    "301": "A practical morning errand stop is possible, but it is far less supported than the user’s dominant gym behavior."
+  },
+  "fallback": false
+}

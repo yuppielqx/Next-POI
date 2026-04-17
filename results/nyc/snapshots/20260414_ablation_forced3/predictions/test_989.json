@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_989",
+  "ranked_loc_ids": [
+    1887,
+    4923,
+    3771,
+    4055,
+    3891,
+    5010,
+    5006,
+    4144,
+    2233,
+    4143
+  ],
+  "explanations": {
+    "1887": "It is the strongest repeated anchor in the user’s Newark/Bloomfield cluster and fits the Sunday evening return-to-frequent-place pattern.",
+    "4923": "A nearby nightlife option in Bloomfield aligns with the evening social tendency and the northwest-local movement trend.",
+    "3771": "This nearby diner matches the user’s diner-heavy history and is a plausible casual Sunday evening food stop.",
+    "4055": "A restaurant in the broader New Jersey/New York leisure pattern, and similar users often start evening sequences with food.",
+    "3891": "Another dining option consistent with the user’s evening meal behavior in the New Jersey cluster.",
+    "5010": "A nearby quick food/drink stop is plausible if the user is making a short local errand before later nightlife.",
+    "5006": "A practical nearby stop could fit an in-between errand, though it is less consistent with the user’s leisure bias.",
+    "4144": "The user has some grocery/shopping behavior, making this a possible nearby utilitarian stop.",
+    "2233": "A very close grocery option could be visited during a local evening circuit, but it is less likely than a diner or bar.",
+    "4143": "This matches the nightlife profile, but a Manhattan jump is less likely than staying in the Newark/Bloomfield area."
+  },
+  "fallback": false
+}

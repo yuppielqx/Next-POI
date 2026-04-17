@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1805",
+  "ranked_loc_ids": [
+    770,
+    2247,
+    2259,
+    2256,
+    712,
+    4292,
+    680,
+    5206,
+    895,
+    131
+  ],
+  "explanations": {
+    "770": "The user has a commuter-like morning-and-midday pattern and a strong bakery/coffee tendency, making a nearby bagel stop a natural next move.",
+    "2247": "It is extremely close to the last location and fits the user’s daytime food-and-errand behavior well.",
+    "2259": "Since the user is already at this gastropub area and tends to cluster nearby stops, they may linger or revisit the immediate venue.",
+    "2256": "This is an adjacent new food option in the same Astoria cluster, matching a short north-east continuation.",
+    "712": "A nearby café aligns with the user’s strong coffee-shop habit and lunchtime timing.",
+    "4292": "Another close bagel/breakfast-style stop fits the user’s morning commute and casual daytime dining pattern.",
+    "680": "A nearby sandwich place matches the user’s practical lunch-oriented food preferences and short-distance movement.",
+    "5206": "This nearby Greek restaurant fits the user’s eclectic but food-centered daytime outings in Queens.",
+    "895": "Similar users at this time often head toward Citi Field, and the broader Queens lunchtime trajectory leaves room for a stadium-related stop.",
+    "131": "The Queensboro Bridge transit hub is plausible given the user’s structured weekday travel and north-east movement trend."
+  },
+  "fallback": false
+}

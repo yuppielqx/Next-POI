@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_281",
+  "ranked_loc_ids": [
+    4703,
+    4040,
+    1884,
+    2413,
+    2981,
+    3074,
+    2439,
+    2412,
+    3460,
+    3352
+  ],
+  "explanations": {
+    "4703": "It is essentially next door to the last pub stop and best fits a continued late-night nightlife progression.",
+    "4040": "A nearby sports bar on the same block aligns with the user’s bar-hopping pattern and the current nighttime context.",
+    "1884": "The user is already here, and revisits or continued presence at the last-known nightlife venue are plausible.",
+    "2413": "This nearby lounge fits a late-night Meatpacking/West Village outing and a move to another nightlife spot.",
+    "2981": "A close-by restaurant is a reasonable alternative if the user pivots from drinking to food late at night.",
+    "3074": "A pub in the nearby West Village area matches the nightlife corridor and the user’s bar-heavy history.",
+    "2439": "This wine bar is close enough to fit an incremental move within the same late-night downtown cluster.",
+    "2412": "Another nearby American restaurant could be a late-night stop after the pub.",
+    "3460": "A short move to a nearby Cuban restaurant is consistent with similar users shifting from bars to food late at night.",
+    "3352": "A nightclub nearby fits the late-hour social pattern, though it is less directly supported than the bars and pubs."
+  },
+  "fallback": false
+}

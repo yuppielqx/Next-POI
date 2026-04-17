@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_959",
+  "ranked_loc_ids": [
+    2203,
+    9,
+    1293,
+    4057,
+    716,
+    4046,
+    4069,
+    67,
+    232,
+    4030
+  ],
+  "explanations": {
+    "2203": "Strong Monday evening gym habit and the profile explicitly favors a post-work transition to Blink around this hour.",
+    "9": "Very close to the office and a plausible quick evening coffee stop after a workday in Lower Manhattan.",
+    "1293": "A familiar nightlife spot in the East Village/Union Square corridor, fitting a Monday after-work social outing.",
+    "4057": "Nearby East Village restaurant that matches the user’s frequent food-stop chaining after office hours.",
+    "716": "A routine errand destination in the user’s compact Lower Manhattan circuit, plausible after work on Monday.",
+    "4046": "The office is the central anchor of the user’s routine and remains a possible same-day return or lingering check-in.",
+    "4069": "Another nearby office in the user’s recurring work geography, feasible if the user is shifting between professional locations.",
+    "67": "A common nearby waypoint within the user’s repeated downtown movement pattern and close to evening transit flows.",
+    "232": "A likely bar stop consistent with the user’s after-work nightlife behavior and downtown nightlife corridor.",
+    "4030": "A repeated East Village food destination that fits the user’s familiar dinner-after-work pattern."
+  },
+  "fallback": false
+}

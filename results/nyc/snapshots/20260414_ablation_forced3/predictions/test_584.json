@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_584",
+  "ranked_loc_ids": [
+    1036,
+    720,
+    2131,
+    2505,
+    2326,
+    1924,
+    259,
+    2531,
+    2792
+  ],
+  "explanations": {
+    "1036": "It is the dominant historical anchor, exactly matches the last location, and fits the user’s late-night return-to-frequent-place pattern.",
+    "720": "It has prior midnight-to-2am visits and fits the user’s downtown late-night lounge pattern.",
+    "2131": "It is a nearby music venue in the same entertainment corridor and aligns with the user’s concert/club behavior.",
+    "2505": "It is immediately adjacent to the current area and matches the user’s nightlife-oriented movement at this hour.",
+    "2326": "It is a close-by bar in the East Village/Union Square nightlife zone, making it a plausible next stop.",
+    "1924": "It is a nearby sports bar and similar-user behavior suggests late-night bar hopping.",
+    "259": "It is one of the user’s known nightlife spots and remains within the same compact downtown cluster.",
+    "2531": "It is a prior speakeasy visit in the user’s broader nightlife circuit and fits a late-night outing.",
+    "2792": "It is another nightlife venue from the user’s history, but it is less tightly matched than the closer East Village options."
+  },
+  "fallback": false
+}

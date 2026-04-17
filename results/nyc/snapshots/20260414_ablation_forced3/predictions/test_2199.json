@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2199",
+  "ranked_loc_ids": [
+    3639,
+    5433,
+    5526,
+    5532,
+    3345,
+    5529,
+    4353,
+    4409,
+    3532,
+    5527
+  ],
+  "explanations": {
+    "3639": "It is the strongest time-specific late-night match and a very frequent return spot just steps from the last location.",
+    "5433": "This is the user’s most visited nearby food stop and fits their hyperlocal late-night deli routine.",
+    "5526": "A frequent neighborhood grocery destination that matches the user’s short walking errands after evening activity.",
+    "5532": "The user often chains deli stops in this corridor, and it fits the same neighborhood food pattern.",
+    "3345": "A very nearby food venue the user already visited today, making a repeat or adjacent food stop plausible.",
+    "5529": "The user is currently here, so a brief continued stay or micro-movement within the same area is possible.",
+    "4353": "This broader neighborhood matches the user’s highly concentrated local movement footprint.",
+    "4409": "Late-night pizza is a known user behavior, and it is still close enough for an easy neighborhood hop.",
+    "3532": "The user has a history of quick errands nearby, and a pharmacy stop fits their localized walkable pattern.",
+    "5527": "The user has used transit at night before, so a short move to this nearby bus hub remains possible."
+  },
+  "fallback": false
+}

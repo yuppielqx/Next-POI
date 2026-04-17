@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_763",
+  "ranked_loc_ids": [
+    155,
+    4478,
+    2792,
+    303,
+    67,
+    2436,
+    2290,
+    2337,
+    3075,
+    3596
+  ],
+  "explanations": {
+    "155": "It is the user’s strongest anchor, appears in the exact same afternoon time context, and they were just there in the last two check-ins.",
+    "4478": "It is extremely close to the current spot and fits a Friday afternoon food/drink transition near the user’s downtown routine.",
+    "2792": "This nearby speakeasy matches the user’s late-day tendency and Manhattan nightlife pattern.",
+    "303": "It is close to the last location and fits a quick casual stop in the same neighborhood.",
+    "67": "The user often stays in the Village/Union Square corridor, making a nearby park visit plausible.",
+    "2436": "This is a nearby café option and the user strongly favors coffee-shop destinations.",
+    "2290": "A nearby dining spot that could follow the user’s midday-to-afternoon movement pattern.",
+    "2337": "It is within the broader downtown/Union Square orbit and suits a Friday afternoon meal stop.",
+    "3075": "Grand Central café behavior is consistent with the user’s café-heavy habit, though it is farther from the current area.",
+    "3596": "Another strong coffee-shop match from the user’s history, but less likely than returning to Location 155."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2617",
+  "ranked_loc_ids": [
+    1611,
+    164,
+    5126,
+    3811,
+    5703,
+    1405,
+    3617,
+    3949,
+    1509,
+    3817
+  ],
+  "explanations": {
+    "1611": "It is the strongest time-conditioned match for a midday stop and is extremely close to the last location, fitting the user’s lunch-and-errand pattern.",
+    "164": "The user frequently pairs shopping with this midday Manhattan retail corridor, and it is adjacent to the current eastward shopping run.",
+    "5126": "Pharmacy/errand behavior is common for this user, and this nearby stop fits the same Upper East Side shopping cluster.",
+    "3811": "A routine fast-food option in the same area, consistent with a midday food break after moving through stores.",
+    "5703": "The user is already here, so a short stay or immediate nearby follow-up makes it a plausible next point in the sequence.",
+    "1405": "The current trip started here and return-style retail revisits are possible during a short shopping loop on the Upper East Side.",
+    "3617": "A same-corridor clothing store that fits the ongoing eastward retail pattern and the user’s shopping-oriented behavior.",
+    "3949": "This is a strong historical Manhattan destination for the user and could appear after a shopping run if they continue locally.",
+    "1509": "The user often checks in here around midday transitions, making it a plausible nearby move from the current UES area.",
+    "3817": "If the user begins shifting from errands toward transit, this station is a likely connector in their regular Manhattan travel pattern."
+  },
+  "fallback": false
+}

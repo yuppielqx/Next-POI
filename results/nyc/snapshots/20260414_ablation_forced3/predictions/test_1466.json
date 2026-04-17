@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1466",
+  "ranked_loc_ids": [
+    4834,
+    141,
+    5401,
+    602,
+    4837,
+    5519,
+    93,
+    4838,
+    4839,
+    124
+  ],
+  "explanations": {
+    "4834": "The user’s strongest repeated weekday commute pattern centers on this bridge, and the target evening time strongly matches a return visit.",
+    "141": "This nearby transit node fits the evening commute corridor and is a common alternative to the bridge itself.",
+    "5401": "The Metro-North Yankees station is close by and plausible for a westbound commute-related transfer.",
+    "602": "It is adjacent to the user’s repeated Bronx commute area and often appears in the same movement cluster.",
+    "4837": "A frequent Bronx stop near the commute route, making it a plausible quick evening errand or meal stop.",
+    "5519": "Nearby retail fits a post-commute stop, though it is less consistent with the user’s strongest historical pattern.",
+    "93": "This nearby shopping location is possible for an evening errand but is not as behaviorally dominant.",
+    "4838": "The user often visits Upper Manhattan eateries, but this is less likely than a commute-related Bronx stop at this hour.",
+    "4839": "A recurring daytime anchor for the user, though the evening timing makes it less likely than transit locations.",
+    "124": "Similar users and commute behavior make a subway station plausible, but it is less directly supported than the Bronx-specific options."
+  },
+  "fallback": false
+}

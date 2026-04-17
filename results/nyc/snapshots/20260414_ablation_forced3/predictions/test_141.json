@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_141",
+  "ranked_loc_ids": [
+    63,
+    466,
+    1090,
+    4295,
+    324,
+    2561,
+    2558,
+    2105,
+    3782,
+    4552
+  ],
+  "explanations": {
+    "63": "The user was last seen here and the short time gap strongly suggests they are still in the bridge corridor.",
+    "466": "It is the closest bridge-related continuation point if they have just crossed or are approaching the toll area.",
+    "1090": "This is a recently visited anchor and could be the origin or return point in a brief transit sequence.",
+    "4295": "Early-morning travelers often make quick convenience stops soon after a bridge crossing.",
+    "324": "The user has repeated coffee-shop behavior, and this nearby option fits a practical morning stop.",
+    "2561": "A classic early-morning fuel stop that matches the user’s time window and neighborhood.",
+    "2558": "Bagel shops are highly plausible at this hour for a commuter-oriented morning routine.",
+    "2105": "Another nearby breakfast stop that fits the user’s practical, errand-like movement pattern.",
+    "3782": "If continuing south-east by transit, a nearby subway station is a natural next waypoint.",
+    "4552": "Slightly farther but still along the Staten Island side, making it a possible continuation after the bridge."
+  },
+  "fallback": false
+}

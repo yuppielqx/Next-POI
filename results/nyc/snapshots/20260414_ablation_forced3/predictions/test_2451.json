@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2451",
+  "ranked_loc_ids": [
+    965,
+    415,
+    5109,
+    2377,
+    356,
+    3353,
+    301,
+    745,
+    284,
+    373
+  ],
+  "explanations": {
+    "965": "The user was just checked in here two minutes ago and their movement pattern suggests they are staying in the same NoMad cluster.",
+    "415": "This is the closest major anchor in the same cluster and a frequent noon-to-2pm stop in the user's history.",
+    "5109": "The user repeatedly pairs this boutique with Stumptown and Ace Hotel around midday, making it a strong nearby follow-up.",
+    "2377": "It is co-located with the current area and fits the user's habit of lingering in hotel/lobby spaces.",
+    "356": "This nearby food spot is within walking distance and could be a quick lunch transition from Stumptown.",
+    "3353": "Another adjacent Midtown option that matches the user's lunch-time Manhattan browsing and dining pattern.",
+    "301": "The user has recently shown grocery/food-store movement and Union Square is a plausible short trip from the current area.",
+    "745": "A nearby lunch option that fits the user's midday food-and-walk routine.",
+    "284": "Coffee-shop behavior is a strong theme, and this is a reasonable nearby café alternative.",
+    "373": "The user’s shopping-centric profile and SoHo retail habits make this a plausible next boutique stop after coffee."
+  },
+  "fallback": false
+}

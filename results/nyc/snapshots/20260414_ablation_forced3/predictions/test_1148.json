@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1148",
+  "ranked_loc_ids": [
+    88,
+    4417,
+    1914,
+    2369,
+    490,
+    59,
+    58,
+    3667,
+    4235,
+    5283
+  ],
+  "explanations": {
+    "88": "The target time and weekday commute pattern strongly favor a return to this transit hub, and it was the last known location.",
+    "4417": "This is the user’s main anchor and a frequent weekday stop, though 17:03 is more typical of leaving than arriving.",
+    "1914": "It sits inside Port Authority and matches a quick pre- or post-transit stop with strong proximity and transition history.",
+    "2369": "A nearby Midtown errand stop that fits the user’s Manhattan corridor and occasional retail movement.",
+    "490": "This is one of the user’s known Midtown leisure stops and remains plausible given the current Midtown location.",
+    "59": "A common adjacent area in the same corridor, supported by similar-user patterns and close spatial proximity.",
+    "58": "Grand Central Terminal is a plausible commuter alternative, but it is less aligned with the user’s usual Port Authority-based routine.",
+    "3667": "A practical Midtown stop within the commute zone, though there is only limited prior evidence.",
+    "4235": "Extremely close to the last location and a plausible quick convenience stop after leaving the terminal.",
+    "5283": "Another very nearby Port Authority-area stop that could occur during a short transit break, but with no prior visits."
+  },
+  "fallback": false
+}

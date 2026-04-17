@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1538",
+  "ranked_loc_ids": [
+    1522,
+    1884,
+    4040,
+    88,
+    557,
+    3951,
+    137,
+    1211,
+    1429,
+    1797
+  ],
+  "explanations": {
+    "1522": "It is the last known location and best fits a short late-night continuation or nearby transfer.",
+    "1884": "It is directly adjacent to the current station and a plausible late-night nearby stop.",
+    "4040": "Another immediate nearby nightlife option that fits the late-night hour and current corridor.",
+    "88": "The user often uses major transit hubs, and this is a likely next step when heading back toward New Jersey.",
+    "557": "Their history strongly favors tunnel-based NJ↔Manhattan movement, especially after a late-night transit stop.",
+    "3951": "A nearby Midtown transit hub that fits a return-trip pattern through Manhattan.",
+    "137": "Penn Station is a strong commuter anchor and plausible transfer from the current west-side corridor.",
+    "1211": "A major Midtown connector that matches the user's transit-heavy Manhattan pattern.",
+    "1429": "Another major hub consistent with the user's Manhattan transfer behavior.",
+    "1797": "This is the strongest overall home-anchor venue, but it is less likely at 01:34 than nearby Manhattan transit options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_532",
+  "ranked_loc_ids": [
+    2896,
+    2898,
+    2900,
+    2897,
+    1176,
+    2899,
+    2903,
+    2902,
+    2901,
+    2089
+  ],
+  "explanations": {
+    "2896": "The college library best matches the user’s strongest Tuesday afternoon campus routine and is the top repeated destination in their history.",
+    "2898": "This coffee stop is tightly linked to the Brooklyn College cluster and fits the user’s repeated afternoon study-break pattern.",
+    "2900": "The student center is part of the same campus loop the user repeatedly returns to during the 3–5 p.m. window.",
+    "2897": "Brooklyn College itself is a highly recurrent academic anchor and a natural return destination after a Midtown stop.",
+    "1176": "The user has visited this coffee shop before, and the northwest movement from Midtown makes a downtown coffee stop plausible.",
+    "2899": "Grocery runs are part of the user’s occasional support activities, though this is less likely than a campus return.",
+    "2903": "Transit stations appear in the user’s broader movement history, making a subway-related transfer possible.",
+    "2902": "The user has some food-stop behavior, and this Brooklyn option is more consistent with their geography than Manhattan nightlife.",
+    "2901": "Brooklyn destinations outside campus are possible, but this courthouse is not a strong historical match.",
+    "2089": "It is extremely close to the last location, but the user’s profile and timing favor an academic return over a nearby errand."
+  },
+  "fallback": false
+}

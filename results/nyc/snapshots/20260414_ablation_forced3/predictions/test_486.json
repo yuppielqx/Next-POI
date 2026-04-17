@@ -1,0 +1,24 @@
+{
+  "traj_id": "test_486",
+  "ranked_loc_ids": [
+    5059,
+    422,
+    3913,
+    2739,
+    131,
+    1660,
+    137,
+    2730
+  ],
+  "explanations": {
+    "5059": "It is the closest plausible nightlife/food option to The Richardson and fits the late-night Brooklyn corridor pattern.",
+    "422": "Strong nearby keep probability makes remaining at the current lounge very plausible at 00:35.",
+    "3913": "Late-night travel could shift to a nearby bus line, especially if the user is transitioning within Brooklyn.",
+    "2739": "Another nearby nightlife venue that matches the user’s after-hours movement pattern.",
+    "131": "A bridge crossing is possible if they begin moving out of Brooklyn toward Manhattan or Queens.",
+    "1660": "A nearby transit station could be used if the user is heading toward home or another borough.",
+    "137": "Their recurring Midtown destination is plausible, but the late hour makes it less likely than nearby Brooklyn options.",
+    "2730": "This is a strong home anchor, but an immediate return from late-night Brooklyn is less likely at 00:35."
+  },
+  "fallback": false
+}

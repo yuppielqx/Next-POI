@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_796",
+  "ranked_loc_ids": [
+    720,
+    1343,
+    2385,
+    2795,
+    3658,
+    2645,
+    489,
+    1252,
+    630,
+    2681
+  ],
+  "explanations": {
+    "720": "It is the strongest historical nightlife match for this user, with multiple Sunday and midnight-to-2am visits fitting the target time.",
+    "1343": "This is another familiar late-night bar in the same downtown nightlife corridor, making it a natural continuation after the last stop.",
+    "2385": "It matches the user’s nightlife-leaning pattern and sits close to the current downtown movement path.",
+    "2795": "A known nightclub in the user’s history that fits the 00:02 late-night social sequence well.",
+    "3658": "This nightlife venue aligns with the user’s repeated late-hour bar and lounge behavior.",
+    "2645": "A frequent user location near the current trajectory, likely a return to a familiar nearby stop.",
+    "489": "The user is already here, so remaining at the same location is a plausible immediate next state.",
+    "1252": "The Manhattan Bridge area is close by and consistent with the current southeast drift through downtown Brooklyn/bridge-adjacent space.",
+    "630": "Similar users at this hour often continue to nearby nightlife spots, and this fits the bar/beer-garden pattern.",
+    "2681": "A short movement by cab is plausible given the late-night transition between clustered Manhattan nightlife venues."
+  },
+  "fallback": false
+}

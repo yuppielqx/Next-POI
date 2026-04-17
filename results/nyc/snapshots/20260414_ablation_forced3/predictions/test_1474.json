@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1474",
+  "ranked_loc_ids": [
+    4855,
+    4857,
+    4856,
+    1259,
+    4974,
+    1177,
+    2717,
+    5296,
+    1168,
+    1261
+  ],
+  "explanations": {
+    "4855": "The user repeatedly visits this pharmacy in the same local Bronx errand cluster, and afternoon trips make it especially likely.",
+    "4857": "It is the user’s last location and one of their most frequent stops, making a quick repeat or return visit very plausible.",
+    "4856": "This is another recurring neighborhood anchor in the same small radius, and the user sometimes combines errands with food stops.",
+    "1259": "The user has checked in here before and it fits the same grocery/errand routine in the Parkchester/Westchester Square area.",
+    "4974": "A nearby grocery option that matches the user’s shopping-oriented pattern even without prior visits.",
+    "1177": "A close diner-like food stop that fits the user’s casual local outing behavior around afternoon hours.",
+    "2717": "A nearby meal option consistent with the user’s occasional food-oriented check-ins in the neighborhood.",
+    "5296": "This nearby deli/bodega is a plausible convenience stop within the same localized Bronx movement pattern.",
+    "1168": "If the user is shifting along the south-east movement trend, a nearby transit node is a reasonable intermediate stop.",
+    "1261": "Another nearby transit point that could fit a local movement step, though it is less likely than the routine shopping venues."
+  },
+  "fallback": false
+}

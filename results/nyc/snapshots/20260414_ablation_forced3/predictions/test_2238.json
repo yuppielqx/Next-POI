@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2238",
+  "ranked_loc_ids": [
+    3752,
+    2507,
+    1678,
+    1269,
+    2281,
+    1265,
+    5554,
+    2655,
+    3739,
+    3827
+  ],
+  "explanations": {
+    "3752": "This is the user’s strongest weekday morning anchor and the last known location, making it the most likely next check-in.",
+    "2507": "The user frequently pairs One Liberty Plaza with this Starbucks immediately before or during work.",
+    "1678": "A very common nearby transit node in the user’s Financial District commute pattern.",
+    "1269": "This nearby Lower Manhattan park has some repeat history and is close enough to fit a brief micro-move.",
+    "2281": "It is nearby and occasionally visited in the same Lower Manhattan cluster.",
+    "1265": "A plausible coffee/breakfast stop in the Financial District, matching the user’s early-morning routine.",
+    "5554": "This is another nearby food stop close to the user’s regular work area.",
+    "2655": "Very close to the last location and a plausible quick-service breakfast stop.",
+    "3739": "Adjacent to the user’s current area, though less supported by their usual workday pattern.",
+    "3827": "A nearby deli/bodega that could fit a short support stop before work."
+  },
+  "fallback": false
+}

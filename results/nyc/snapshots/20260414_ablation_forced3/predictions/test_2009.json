@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2009",
+  "ranked_loc_ids": [
+    3663,
+    144,
+    2681,
+    1070,
+    3047,
+    774,
+    145,
+    1252,
+    1845,
+    4012
+  ],
+  "explanations": {
+    "3663": "This is the user’s strongest habitual anchor and best matches their transit-heavy, midday-to-afternoon pattern despite the Manhattan last stop.",
+    "144": "A major transportation hub that fits the user’s repeated station-to-station movement style and could plausibly be the next Manhattan transit transfer.",
+    "2681": "The user has prior taxi activity and this is geographically close to the last known area, making a short transit transition possible.",
+    "1070": "The user is already here and a continued stay or immediate adjacent check-in is possible, though less likely than a move to transit.",
+    "3047": "Very close to the last location and a plausible errand/meal stop in the same Lower Manhattan cluster.",
+    "774": "Fits the user’s coffee-errand pattern and is nearby enough to follow a museum-area stop.",
+    "145": "A strong transit hub aligned with the user’s mobility habits and the northwest movement trend from the Bowery area.",
+    "1252": "The Manhattan Bridge area is a plausible directional continuation toward Brooklyn-bound movement.",
+    "1845": "Matches the user’s academic history and Manhattan activity, though it is less temporally aligned than transit options.",
+    "4012": "A historically relevant errand stop that fits the user’s mixed transit-and-errand behavior, but is less likely than station-based destinations."
+  },
+  "fallback": false
+}

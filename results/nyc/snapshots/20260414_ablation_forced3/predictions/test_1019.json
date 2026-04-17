@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1019",
+  "ranked_loc_ids": [
+    779,
+    1520,
+    4194,
+    639,
+    27,
+    2308,
+    3999,
+    4195,
+    4060,
+    1912
+  ],
+  "explanations": {
+    "779": "It is very close to the last known location, fits the Tuesday evening nightlife pattern, and matches the user’s bar/pub preference.",
+    "1520": "This East Village nightlife spot is near the current position and aligns well with the user’s evening social-outing behavior.",
+    "4194": "A nearby Manhattan food-and-drink venue that fits the strong evening prior and the user’s tendency to shift from daytime beer stops into nightlife.",
+    "639": "It is a known past bar visit and remains a strong match for a Tuesday evening return to a familiar drinking spot.",
+    "27": "This whisky bar is consistent with the user’s nightlife-oriented profile and is a plausible Midtown-to-downtown evening move.",
+    "2308": "A repeatable social venue in Manhattan that fits the user’s bar/restaurant pattern and late-day timing.",
+    "3999": "One of the user’s most frequent historical nightlife anchors, though it is a slightly larger move than the closest Manhattan options.",
+    "4195": "A Brooklyn bar that matches the user’s nightlife habits and could follow a north-east drift toward Williamsburg.",
+    "4060": "This is a recurrent user venue and a strong stylistic match, but it requires a more specific Brooklyn shift than the closest candidates.",
+    "1912": "A nightlife venue in Brooklyn that matches the user’s late-night tendencies, though it is less directly supported than the bar-heavy Manhattan options."
+  },
+  "fallback": false
+}

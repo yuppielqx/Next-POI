@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1103",
+  "ranked_loc_ids": [
+    299,
+    1680,
+    298,
+    713,
+    310,
+    4337,
+    2962,
+    2554,
+    846,
+    4260
+  ],
+  "explanations": {
+    "299": "The user just checked in here 47 minutes ago and their history strongly supports repeated midday returns to Target.",
+    "1680": "This is an extremely close grocery stop in the same College Point corridor and fits the user’s errand-heavy retail pattern.",
+    "298": "It is very nearby and matches the same bulk-shopping behavior seen in the current trip chain.",
+    "713": "A short hop from Target makes it a plausible quick break or follow-up stop during a midday shopping outing.",
+    "310": "Grocery continuation is consistent with the user’s routine household-shopping pattern in northeastern Queens.",
+    "4337": "A nearby practical errand stop that fits the user’s preference for clustered retail visits.",
+    "2962": "The user frequently visits shopping centers in this corridor, making this a credible next retail destination.",
+    "2554": "This is a familiar nearby leisure venue that often pairs with the user’s daytime shopping trips.",
+    "846": "A nearby big-box store in the same general retail belt, suitable for an errand-chain continuation.",
+    "4260": "A nearby food stop that could plausibly follow a late-morning retail check-in."
+  },
+  "fallback": false
+}

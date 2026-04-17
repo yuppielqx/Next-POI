@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_428",
+  "ranked_loc_ids": [
+    2137,
+    137,
+    1092,
+    2522,
+    2045,
+    2048,
+    2521,
+    2345,
+    2513,
+    1020
+  ],
+  "explanations": {
+    "2137": "A nearby Midtown West coffee stop fits the afternoon prior, the north-west movement, and the user’s repeated Starbucks pattern.",
+    "137": "The last known location is New York Penn Station itself, and a short continuation there is always possible after an unknown stop.",
+    "1092": "It is immediately adjacent to the current position and a plausible Sunday afternoon destination for a transit-area visit or event.",
+    "2522": "This matches the user’s social food-and-drink habits and sits in the same Midtown West corridor they frequent.",
+    "2045": "A lunch-to-afternoon restaurant choice in the likely Midtown West area aligns well with the target Sunday time.",
+    "2048": "The user has a strong Mexican/Latin dining tendency, and this nearby Midtown option fits a casual afternoon meal.",
+    "2521": "A wine bar/restaurant suits the user’s evening-oriented social profile, even at a Sunday afternoon hour.",
+    "2345": "A bakery near the user’s Midtown cluster is consistent with a lighter afternoon stop before evening plans.",
+    "2513": "Another recurring coffee anchor in the user’s Midtown West pattern, though slightly farther than the closest Starbucks.",
+    "1020": "This lounge matches the user’s nightlife-leaning profile, but it is less likely than the more food- and coffee-oriented nearby options at this time."
+  },
+  "fallback": false
+}

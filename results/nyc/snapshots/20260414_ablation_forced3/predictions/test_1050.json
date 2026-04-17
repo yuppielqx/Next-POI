@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1050",
+  "ranked_loc_ids": [
+    1104,
+    3855,
+    773,
+    3487,
+    590,
+    2428,
+    4252,
+    776,
+    2343,
+    4253
+  ],
+  "explanations": {
+    "1104": "It is immediately adjacent to the last spa stop and fits the strong Saturday afternoon pattern of moving to a nearby food spot.",
+    "3855": "Very close to Great Jones Spa and consistent with a short north-west move within the user's downtown core.",
+    "773": "A nearby bar that matches the user’s strong tendency to transition from daytime wellness into social drinking.",
+    "3487": "Close enough to support a short walk and plausible as a late-afternoon meal before evening plans.",
+    "590": "A highly recurring user venue and a classic fit for the user’s fitness-oriented routine, though slightly less likely right after a spa.",
+    "2428": "Another nearby wellness stop that fits the current daytime flow, though the user more often chains into social venues.",
+    "4252": "A familiar café in the user’s core area and a reasonable afternoon bridge before dinner or drinks.",
+    "776": "Very nearby and aligned with the user’s nightlife-heavy profile, making it a plausible pre-evening bar stop.",
+    "2343": "A nearby restaurant option that fits the lower Manhattan social corridor and weekend outing pattern.",
+    "4253": "A likely East Village bar destination that matches the user’s drinking patterns, though somewhat farther and later than the most likely afternoon choices."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1494",
+  "ranked_loc_ids": [
+    63,
+    466,
+    837,
+    836,
+    4882,
+    951,
+    4555,
+    4871,
+    3663,
+    1252
+  ],
+  "explanations": {
+    "63": "The user was last seen on this exact transportation hub 13 minutes earlier, and their history strongly favors staying within the Verrazano/Staten Island transit corridor.",
+    "466": "This is the immediate bridge-adjacent continuation point and fits a short post-crossing transit movement very well.",
+    "837": "A frequent user location on the same Staten Island bridge-highway network, making it a strong next-step after the bridge.",
+    "836": "The user often moves along connected arterial routes, and this nearby scenic transit corridor matches the corridor continuation pattern.",
+    "4882": "Coffee stops are a major part of this user’s routine, so a short detour to a familiar Starbucks is plausible during the afternoon/evening travel window.",
+    "951": "The Staten Island Ferry terminal is a relevant transit hub for a Staten Island-centered mobility pattern, though less directly aligned than the bridge corridor.",
+    "4555": "The College of Staten Island fits the user’s Staten Island footprint and their daytime movement pattern, but it is less likely than pure transit nodes.",
+    "4871": "This gym appears in the user’s history and could fit an evening stop, but it is less consistent with the immediate bridge-to-bridge movement.",
+    "3663": "Similar-user behavior around this time favors transit stations, but this is a more speculative Brooklyn move than the Staten Island corridor.",
+    "1252": "Similar users sometimes transition from the bridge to this kind of landmark, but it is much less consistent with the user’s established Staten Island-centered route."
+  },
+  "fallback": false
+}

@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1909",
+  "ranked_loc_ids": [
+    4979,
+    1144,
+    456,
+    489,
+    143,
+    1181,
+    818,
+    1235,
+    2029
+  ],
+  "explanations": {
+    "4979": "It is the closest nearby lunch option to the last known cinema check-in and fits a short midday move.",
+    "1144": "This nearby River Rd restaurant is even closer than most candidates and matches the immediate edgewater-area continuation.",
+    "456": "A one-minute later prediction strongly favors the user still being at the same cinema complex.",
+    "489": "If they leave the waterfront corridor, a nearby landmark-style stop in the broader area is more plausible than a long jump.",
+    "143": "The user often moves to food venues after clustered check-ins, and this Manhattan restaurant is a reasonable dining follow-up.",
+    "1181": "A nearby Manhattan retail stop is plausible for an urban explorer with a history of short hops between venues.",
+    "818": "Their profile includes repeated hotel activity, making a lodging-related stop a reasonable fallback.",
+    "1235": "The user’s hotel-and-transit behavior makes a central hotel a possible but less likely midday destination.",
+    "2029": "This event-space location fits the user’s broad Manhattan mobility pattern, though it is less likely than nearby Edgewater options."
+  },
+  "fallback": false
+}

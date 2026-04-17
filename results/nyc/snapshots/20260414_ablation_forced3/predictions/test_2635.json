@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2635",
+  "ranked_loc_ids": [
+    3287,
+    5737,
+    4917,
+    1790,
+    4014,
+    5736,
+    4375,
+    593,
+    1148,
+    176
+  ],
+  "explanations": {
+    "3287": "This is the user’s strongest anchor and best match for a Saturday afternoon return to the Garfield home-area corridor.",
+    "5737": "A nearby routine errand stop in Garfield fits the user’s suburban shopping pattern and late-afternoon daytime behavior.",
+    "4917": "The user often chains local destinations with transit hubs, and this is a plausible nearby connector after a Meadowlands-area outing.",
+    "1790": "The user has a clear history here, and bowling is one of their core leisure patterns in this corridor.",
+    "4014": "Another known leisure venue near the current area, especially plausible for weekend activity.",
+    "5736": "A common nearby food stop that fits an afternoon reset after a late Friday night outing.",
+    "4375": "The user frequently moves through nearby Bergen County retail areas, making this a reasonable errand destination.",
+    "593": "Secaucus Junction is a plausible transit link for someone moving between suburban New Jersey and city/event destinations.",
+    "1148": "The user shows entertainment-oriented behavior, and a movie stop in nearby Clifton is consistent with past patterns.",
+    "176": "A less likely but possible transit movement if the user is beginning another NYC-bound excursion."
+  },
+  "fallback": false
+}

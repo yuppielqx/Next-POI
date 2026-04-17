@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1975",
+  "ranked_loc_ids": [
+    4497,
+    5352,
+    1677,
+    131,
+    2782,
+    2333,
+    290,
+    5354,
+    5353,
+    769
+  ],
+  "explanations": {
+    "4497": "The user just arrived there, it is their most visited Saturday-friendly Queens stop, and the strongest prior favors a routine return nearby.",
+    "5352": "A very close Sunnyside breakfast stop that fits the 10:01 Saturday morning timing and their repeated donut-shop pattern.",
+    "1677": "This nearby subway station matches the user’s commute-oriented behavior and often serves as a short hop from Sunnyside.",
+    "131": "A frequent transportation hub in the Queens corridor, plausible if they are continuing a transfer chain after Sunnyside.",
+    "2782": "It is part of the same western Queens movement pattern and was visited immediately before Sunnyside on this trip.",
+    "2333": "A recurring transit node in their afternoon travel chain, though less likely for a Saturday morning destination.",
+    "290": "The user often extends into northern Queens, so a move eastward remains plausible despite the current Sunnyside location.",
+    "5354": "A nearby Sunnyside grocery stop that could fit a Saturday errand pattern and a short local outing.",
+    "5353": "Another nearby Queens restaurant that is geographically plausible, though less supported than the breakfast and transit options.",
+    "769": "A nearby train hub that fits their transit-heavy profile, but it is less directly supported than the closer Sunnyside options."
+  },
+  "fallback": false
+}

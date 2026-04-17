@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1587",
+  "ranked_loc_ids": [
+    4167,
+    443,
+    439,
+    1068,
+    1163,
+    4092,
+    4986,
+    823,
+    398,
+    3286
+  ],
+  "explanations": {
+    "4167": "Friday night and the user’s repeated 9–11pm movie-theater pattern make this the strongest leisure return.",
+    "443": "The user often returns to Union City in the evening, and the corridor-based movement fits a nearby social stop.",
+    "439": "Weehawken is one of the user’s most frequent Hudson-side anchors and matches their evening mobility habits.",
+    "1068": "A casual dinner stop in Weehawken fits the user’s recurring restaurant pattern after late afternoon travel.",
+    "1163": "This nearby diner is consistent with a late-evening food stop in the North Bergen/Weehawken area.",
+    "4092": "The user shows routine, errand-based North Jersey travel, and a grocery stop would fit the post-visit movement.",
+    "4986": "Another familiar grocery option in the same corridor, aligned with short utilitarian trips.",
+    "823": "Secaucus is close to the user’s core route, and Walmart matches their retail/errand tendencies.",
+    "398": "The fixed community-college anchor is highly habitual, though the late Friday timing makes it slightly less likely.",
+    "3286": "A movie outing is plausible at this hour, but it is a bit farther from the user’s usual Hudson-centered cluster."
+  },
+  "fallback": false
+}

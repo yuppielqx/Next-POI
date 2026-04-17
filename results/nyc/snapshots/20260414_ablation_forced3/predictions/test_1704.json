@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1704",
+  "ranked_loc_ids": [
+    5104,
+    2008,
+    3948,
+    2538,
+    114,
+    2644,
+    1260,
+    382,
+    2014,
+    1329
+  ],
+  "explanations": {
+    "5104": "The strongest signal is the last known check-in there at 21:33 and the user’s repeated late-night returns home, making a 02:00 revisit most likely.",
+    "2008": "It is extremely close to the last location and fits the user’s transit-heavy, late-night movement pattern around Ditmas Park.",
+    "3948": "Another nearby subway stop that matches a short local transit move from home late at night.",
+    "2538": "A nearby nightlife option that could plausibly attract an after-hours local stop without requiring a long cross-borough trip.",
+    "114": "This is a major recurring transit node in the user’s history and a plausible late-night return path, though farther than nearby Brooklyn options.",
+    "2644": "Atlantic Terminal is a frequent transportation hub for this user and fits an evening travel chain, but the timing favors staying near Ditmas Park.",
+    "1260": "Union Square is consistent with the user’s Manhattan transit/nightlife pattern, but it is less likely than local Brooklyn destinations at 02:00.",
+    "382": "The user does visit nightlife spots late, and this is a recognizable after-hours destination, though it is not as directly supported as a home return.",
+    "2014": "A major Brooklyn transfer point that fits the commute-oriented profile, but it is less specific than the stronger nearby stations.",
+    "1329": "A Brooklyn nightlife venue that could fit a weekend night outing, but the home-base pattern makes it a weaker prediction."
+  },
+  "fallback": false
+}

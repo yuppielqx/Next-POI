@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1319",
+  "ranked_loc_ids": [
+    4667,
+    1059,
+    4666,
+    1037,
+    1201,
+    2141,
+    1529,
+    2056,
+    1038,
+    192
+  ],
+  "explanations": {
+    "4667": "It is the exact last location, has the strongest Saturday late-night history, and fits the user’s pattern of lingering in the same nightlife venue around 11 p.m.",
+    "1059": "It is essentially adjacent to Queen Vic and fits a likely short-hop continuation within the same East Village nightlife cluster.",
+    "4666": "This nearby performing arts venue is in the same downtown corridor and matches the user’s arts-and-nightlife mix.",
+    "1037": "It is a familiar late-night downtown bar for this user and is close enough to be a plausible move after Queen Vic.",
+    "1201": "This is another high-frequency gay bar in the user’s regular night-out circuit and fits the weekend nightlife pattern.",
+    "2141": "A Saturday-favored bar in the user’s core social set, it is a credible next stop for a late-night bar crawl.",
+    "1529": "This nearby nightlife spot matches the user’s downtown gay-bar trajectory and late-evening timing.",
+    "2056": "Close to the current area and category-matched, it is a reasonable alternative if the user is moving a short distance south-west.",
+    "1038": "After bar time, a late-night food stop is plausible given the user’s leisure-oriented evening behavior.",
+    "192": "It is a nearby downtown landmark that could fit a brief late-night stroll, though it is less likely than the bar options."
+  },
+  "fallback": false
+}

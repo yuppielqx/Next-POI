@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1301",
+  "ranked_loc_ids": [
+    4148,
+    334,
+    4623,
+    67,
+    1600,
+    1050,
+    274,
+    1343,
+    3341,
+    192
+  ],
+  "explanations": {
+    "4148": "It is the user’s strongest anchor overall, highly frequented on Saturdays and in the 6–8 PM social window, making it the best match for a Saturday evening return.",
+    "334": "It is the current location and the closest nearby American restaurant, so a continued stay or immediate return is plausible.",
+    "4623": "It is extremely close to the last stop and fits the user’s Saturday nightlife pattern after dinner.",
+    "67": "The user often chains nearby Midtown/Union Square stops, and it is a known Saturday destination in their history.",
+    "1600": "This nearby restaurant fits the user’s repeated food-and-drink circuit in the same neighborhood.",
+    "1050": "Another close nightlife/restaurant option in the same evening corridor, matching their social outing style.",
+    "274": "A frequent evening anchor for this user and a strong Midtown leisure stop aligned with the target time.",
+    "1343": "It matches the user’s bar-heavy late-evening behavior and is a plausible next nightlife move.",
+    "3341": "A Manhattan bar in the user’s broader evening circuit, though less central than the top options.",
+    "192": "A plausible lower Manhattan stop in the user’s park-and-nightlife pattern, but less likely than the nearby anchors."
+  },
+  "fallback": false
+}

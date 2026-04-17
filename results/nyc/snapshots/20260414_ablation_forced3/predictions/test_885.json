@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_885",
+  "ranked_loc_ids": [
+    1142,
+    23,
+    212,
+    1048,
+    3161,
+    2449,
+    3191,
+    3727,
+    3842,
+    1092
+  ],
+  "explanations": {
+    "1142": "Strongest habitual repeat venue, perfectly matching the morning time slot and the immediate Brooklyn return pattern.",
+    "23": "A frequent nearby social drinking spot in the same Williamsburg/Greenpoint cluster, fitting the user’s nightlife preference.",
+    "212": "A nearby coffee shop that fits the strong morning prior and the similar-user café pattern.",
+    "1048": "Close by in Williamsburg and aligned with the user’s bar-oriented leisure behavior.",
+    "3161": "A nearby cocktail bar that matches the user’s nightlife/social drinking tendencies.",
+    "2449": "A known Manhattan bar in the user’s history, but less likely than a Brooklyn return given the current clustering.",
+    "3191": "A weekday-associated repeat stop from history, making it a plausible Tuesday alternative despite being less time-matched.",
+    "3727": "Another one-off bar visit in the user’s history, but farther and less consistent than Brooklyn-core venues.",
+    "3842": "Very close to the last location, though the gym category is less aligned with the user’s dominant leisure profile.",
+    "1092": "A prior Manhattan destination, but its event-venue nature and weaker behavioral fit make it a long shot."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_546",
+  "ranked_loc_ids": [
+    2156,
+    2957,
+    1920,
+    192,
+    2956,
+    88,
+    2958,
+    445,
+    1194,
+    2954
+  ],
+  "explanations": {
+    "2156": "The user’s routine strongly favors familiar campus-adjacent food spots in Greenwich Village, and dinner-time returns to this area fit the Monday evening prior well.",
+    "2957": "This is one of the user’s most repeated anchors near NYU, making a return to a weekday academic location highly plausible after an evening retail outing.",
+    "1920": "The user repeatedly circulates between residence and classroom locations in the Village, so a return to this nearby dorm is very consistent.",
+    "192": "A common Greenwich Village stop for this user, and early evening often matches a park or transition visit before heading to dinner or residence.",
+    "2956": "The user has visited this Paramus dining spot before, but it is less likely than the Manhattan campus cluster given the strong temporal and spatial pull back to NYU.",
+    "88": "As a transit hub, it is a plausible connector after Midtown movement, though it is less aligned with the user’s usual routine than campus-adjacent destinations.",
+    "2958": "The user has an occasional late-evening nightlife pattern near Waverly, so this remains possible for an evening stop in the Village.",
+    "445": "The user does make periodic suburban shopping trips, but the target time and the current Midtown context favor a return to lower Manhattan instead.",
+    "1194": "This is a plausible Manhattan shopping continuation from the current retail trip, but the user more often pivots back to NYU-area routines than stays in fashion retail.",
+    "2954": "Similar to Zara, it fits the retail context but is less likely than the user’s recurring academic and food-related destinations."
+  },
+  "fallback": false
+}

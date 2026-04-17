@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_495",
+  "ranked_loc_ids": [
+    2758,
+    1149,
+    863,
+    1887,
+    2762,
+    2760,
+    2765,
+    823,
+    104,
+    107
+  ],
+  "explanations": {
+    "2758": "This is the strongest historical anchor, with the most visits and a particularly strong Tuesday midday pattern matching the target time.",
+    "1149": "The user frequently runs practical errands in Clifton, and Target fits the midday retail pattern well.",
+    "863": "A repeated Clifton dining spot that matches the user’s established routine-oriented behavior.",
+    "1887": "Diners are a recurring preference, and this Bloomfield stop fits a daytime local errand/mealtime return.",
+    "2762": "Another strong diner option in the user’s northern New Jersey circuit, consistent with routine lunch stops.",
+    "2760": "The user has gym visits in Clifton, and midday could plausibly be a workout or errand break.",
+    "2765": "Nutley is within the user’s usual suburban cluster, and diner visits are common in the profile.",
+    "823": "A practical shopping destination within the broader local radius, fitting a daytime errand trip.",
+    "104": "This matches the user’s nearby Jersey City movement and could follow the eastward trend from Manhattan.",
+    "107": "A transit hub is plausible after the East Village nightlife area, especially for a return trip toward New Jersey."
+  },
+  "fallback": false
+}

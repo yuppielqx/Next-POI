@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1748",
+  "ranked_loc_ids": [
+    3237,
+    5154,
+    3193,
+    3046,
+    3191,
+    1730,
+    665,
+    627,
+    3353,
+    2448
+  ],
+  "explanations": {
+    "3237": "This is the strongest habitual Tuesday-evening fitness destination in the user’s history and best fits the routine-driven pattern after a gap from the last stop.",
+    "5154": "Another heavily repeated fitness anchor in the user’s Manhattan corridor, with strong Tuesday history and evening relevance.",
+    "3193": "A recurring hotel stop in Midtown that matches the 6–8pm timing pattern seen in the user history and similar-user behavior.",
+    "3046": "The user was last here, so a short-term continuation is possible despite the evening time making a return less likely than a routine gym visit.",
+    "3191": "This Midtown Manhattan building is close to the user’s core area and could plausibly be a transitional stop on the way to an evening activity.",
+    "1730": "Saks Fifth Avenue fits a northward Manhattan movement and an evening errand or shopping stop, though it is less habitual than fitness venues.",
+    "665": "A nearby Manhattan food stop that aligns with routine urban movement and a possible pre-dinner errand.",
+    "627": "This Asian restaurant in Midtown is consistent with an evening meal after afternoon shopping or gym activity.",
+    "3353": "A plausible dinner destination in the same Manhattan corridor, but weaker than the user’s usual fitness-centric pattern.",
+    "2448": "A nightlife option that matches occasional evening social behavior, though it is less likely than a routine gym return."
+  },
+  "fallback": false
+}

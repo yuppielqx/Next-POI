@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_749",
+  "ranked_loc_ids": [
+    3557,
+    3561,
+    668,
+    3558,
+    3556,
+    3566,
+    3463,
+    3567,
+    1322,
+    1983
+  ],
+  "explanations": {
+    "3557": "Strongest lunch-time match in Midtown, with the highest repeated noon-to-2pm history and only a short walk from the last known spot.",
+    "3561": "Another frequent midday food stop near the work anchor, and its timing history fits the 13:42 lunch window well.",
+    "668": "A nearby fast-casual lunch option that matches the user's repeated Midtown food pattern and short-distance movement.",
+    "3558": "A familiar nearby deli/bodega stop within the user's regular Midtown radius, plausible for an afternoon bite.",
+    "3556": "The user frequently returns to this anchor location, and it is extremely close to the last check-in.",
+    "3566": "The user occasionally makes entertainment stops in Midtown, and this theater is nearby enough for a spontaneous afternoon visit.",
+    "3463": "A forced-nearby option that fits a short local move, though it is less supported by the user's history than food venues.",
+    "3567": "A plausible nearby non-food daytime stop in Midtown-West, but weaker than the lunch-oriented choices.",
+    "1322": "The user has visited this before and it matches leisure behavior, but it is farther and less likely at this time.",
+    "1983": "A Midtown bar the user has visited before, but midday Saturday lunch behavior makes it a weaker prediction."
+  },
+  "fallback": false
+}

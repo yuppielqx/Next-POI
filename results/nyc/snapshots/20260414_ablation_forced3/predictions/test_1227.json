@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1227",
+  "ranked_loc_ids": [
+    652,
+    951,
+    4360,
+    3502,
+    4998,
+    4552,
+    4556,
+    1255,
+    4551,
+    1980
+  ],
+  "explanations": {
+    "652": "It is the exact last location, strongly matches the late-night ferry-corridor pattern, and is the most likely immediate next step in a commute sequence.",
+    "951": "This is the user’s strongest Staten Island anchor and a common Friday transition point after ferry travel.",
+    "4360": "It is another ferry-related transit point in the immediate Lower Manhattan corridor and fits the current south-westward movement.",
+    "3502": "The Battery Maritime Building is extremely close by and a plausible continuation from the ferry terminal area.",
+    "4998": "A nearby convenience stop near Whitehall is consistent with the user’s late-night, transit-adjacent behavior.",
+    "4552": "This is a frequent Friday-night recreational destination for the user and fits a Staten Island return after Manhattan nightlife.",
+    "4556": "A ferry boat is consistent with the user’s commute chain and similar users’ ferry-linked night transitions.",
+    "1255": "This nearby transit node fits the Lower Manhattan corridor and could follow a ferry or terminal check-in.",
+    "4551": "The user often heads to NYIT in Manhattan, but the Friday 21:36 slot is less typical than transit or leisure.",
+    "1980": "A familiar Manhattan food stop for the user, though less likely than transit-linked locations at this hour."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2579",
+  "ranked_loc_ids": [
+    3649,
+    78,
+    21,
+    3296,
+    275,
+    4243,
+    3860,
+    1991,
+    2331,
+    3163
+  ],
+  "explanations": {
+    "3649": "The user has a strong weekend bakery/coffee habit and this is the nearest food stop from Chelsea Market, making it the most natural continuation.",
+    "78": "They are already there, and a short lingering or internal move within the market is plausible at 18:45.",
+    "21": "Seafood/dinner fits the Sunday evening window and matches the user’s prior food-oriented Manhattan leisure pattern.",
+    "3296": "This is their strongest recurring anchor, and a return later in the day is plausible after a Chelsea stop.",
+    "275": "Sunday evening is a prime movie time, and the user has a history of late-night visits to this cinema.",
+    "4243": "Their occasional nightlife pattern and the 18:45 dinner-to-drinks transition make this a reasonable downtown evening option.",
+    "3860": "Sushi/restaurant dining aligns with their food-centric weekend behavior and is consistent with a nearby Manhattan evening outing.",
+    "1991": "The user repeatedly returns to the track on Sundays, so an evening recreation loop remains possible.",
+    "2331": "A nearby Asian dinner spot fits the southwest movement and the user’s occasional lower-Manhattan dining pattern.",
+    "3163": "Late-day social drinking is part of their history, though it is less likely than food-focused options at this moment."
+  },
+  "fallback": false
+}

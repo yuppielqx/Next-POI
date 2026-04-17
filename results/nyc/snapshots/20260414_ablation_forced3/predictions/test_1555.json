@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1555",
+  "ranked_loc_ids": [
+    4952,
+    716,
+    4525,
+    3479,
+    49,
+    5730,
+    2178,
+    2132,
+    980,
+    1036
+  ],
+  "explanations": {
+    "4952": "This is the user’s strongest habitual destination and a Saturday late-morning wellness stop fits their established routine.",
+    "716": "A nearby errand after activity is plausible, and the user has previously paired yoga with a Trader Joe’s visit.",
+    "4525": "The user frequently stays in the Flatiron/Union Square retail corridor, making a familiar shopping stop likely.",
+    "3479": "A coffee stop in the same neighborhood matches the user’s midday errand pattern and nearby Manhattan movement.",
+    "49": "This Union Square-area clothing store fits the user’s compact shopping behavior around central Manhattan.",
+    "5730": "A morning bakery/food stop is consistent with the target time and the user’s occasional food-oriented visits.",
+    "2178": "The user has a history of bakery visits in Manhattan, and this remains a plausible late-morning treat stop.",
+    "2132": "The user is already here and could reasonably remain for brunch or a lingering meal transition.",
+    "980": "Very close by and consistent with a nearby leisure transition, though less aligned with the user’s usual habits.",
+    "1036": "Extremely nearby and historically linked to transitions, but nightlife timing makes it less likely for this morning prediction."
+  },
+  "fallback": false
+}

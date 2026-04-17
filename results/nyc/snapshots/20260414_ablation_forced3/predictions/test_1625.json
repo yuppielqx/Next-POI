@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1625",
+  "ranked_loc_ids": [
+    145,
+    5027,
+    747,
+    740,
+    5000,
+    3811,
+    1612,
+    3320,
+    1539,
+    1546
+  ],
+  "explanations": {
+    "145": "The user’s strongest routine is centered on this Upper East Side transit hub, and the morning weekday timing fits a commute stop.",
+    "5027": "This is one of the user’s most repeated UES destinations and often follows subway activity in their history.",
+    "747": "The user frequently pairs morning transit with Starbucks, and this Lexington Avenue location matches the habitual corridor.",
+    "740": "Another familiar Upper East Side coffee stop that aligns with the user’s early-day routine.",
+    "5000": "This Starbucks on 3rd Ave is close to the user’s core UES cluster and fits the coffee-after-transit pattern.",
+    "3811": "The location sits in the same repetitive 3rd Avenue neighborhood where the user often stops during daily movement.",
+    "1612": "A practical errand-oriented stop on E 86th St that matches the user’s routine, transit-linked behavior.",
+    "3320": "The user has some Bronx transit history and similar users sometimes pivot to subway stations after late-night movement.",
+    "1539": "This is a plausible Manhattan transfer point, though it is less consistent with the user’s core UES habit.",
+    "1546": "The user has nightlife check-ins, but the morning prior makes this far less likely than transit or coffee destinations."
+  },
+  "fallback": false
+}

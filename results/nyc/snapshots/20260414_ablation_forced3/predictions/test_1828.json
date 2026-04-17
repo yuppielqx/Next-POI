@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1828",
+  "ranked_loc_ids": [
+    120,
+    2653,
+    2652,
+    112,
+    1258,
+    142,
+    5223,
+    1522,
+    3951,
+    402
+  ],
+  "explanations": {
+    "120": "The user has just arrived there, and the strongest temporal and spatial prior says they are most likely still at or immediately around this stop.",
+    "2653": "Their history strongly favors a late-night northbound return to 145th Street as the next step after 125th.",
+    "2652": "This is the 125 St A/B/C/D hub nearby, making it a plausible transfer or adjacent transit continuation.",
+    "112": "A nearby northbound corridor stop that fits the user’s repeated late-night subway progression pattern.",
+    "1258": "This is another plausible Manhattan transit stop if they briefly detour or transfer while moving uptown.",
+    "142": "The user has a strong transit-oriented pattern and Columbus Circle is a common corridor node on northbound trips.",
+    "5223": "Close to their Upper Manhattan anchor and consistent with movement in the 125th-to-145th corridor.",
+    "1522": "A lower-probability transit hub that fits the broader corridor-based movement style.",
+    "3951": "A major hub consistent with their metropolitan transit usage, though less likely than nearby Upper Manhattan options.",
+    "402": "The user has airport travel history, but this is much less likely than a local uptown transit continuation at this moment."
+  },
+  "fallback": false
+}

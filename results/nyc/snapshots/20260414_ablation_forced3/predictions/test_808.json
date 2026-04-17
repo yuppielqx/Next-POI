@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_808",
+  "ranked_loc_ids": [
+    1036,
+    2391,
+    2362,
+    3683,
+    1650,
+    886,
+    1855,
+    1848,
+    1092,
+    59
+  ],
+  "explanations": {
+    "1036": "It is the strongest historical nightlife anchor for this user and is very close to the current Gramercy corridor, making it the most likely next entertainment stop.",
+    "2391": "A nearby late-night comedy venue fits the user's after-hours entertainment pattern and is only a short move north.",
+    "2362": "A close-by dinner spot in the East Village/Gramercy area fits a late-night food follow-up after a theater check-in.",
+    "3683": "This nearby American restaurant matches the user's nightlife-oriented chaining of entertainment with casual dining.",
+    "1650": "Late-night ramen is a plausible next move for a user staying in the same corridor after a show.",
+    "886": "A classic after-midnight NYC food destination aligns well with the user's late-evening behavior, though it is a bit farther south.",
+    "1855": "Very close to the last location and a simple quick meal stop, though less distinctive than the stronger nightlife options.",
+    "1848": "A nearby late-night grab-and-go option that could follow a theatre visit, but it is less aligned with the user's entertainment-heavy history.",
+    "1092": "A familiar Manhattan entertainment venue could be part of the user's broader leisure pattern, but the time and location make it less immediate.",
+    "59": "It matches the user's Manhattan entertainment footprint, but it is less consistent with the current Gramercy-area northward movement and short time gap."
+  },
+  "fallback": false
+}

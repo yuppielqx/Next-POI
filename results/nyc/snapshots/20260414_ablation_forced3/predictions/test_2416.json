@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2416",
+  "ranked_loc_ids": [
+    209,
+    289,
+    1196,
+    2334,
+    1072,
+    5394,
+    4787,
+    59,
+    626,
+    5651
+  ],
+  "explanations": {
+    "209": "It is the closest strong match to a post-gym evening food stop and similar users often follow gym activity with dinner nearby.",
+    "289": "The user repeatedly returns to this Canal Street coffee shop and the southwest movement fits a quick Lower Manhattan stop.",
+    "1196": "This is a core recurring neighborhood for the user and aligns with the strong Lower Manhattan return pattern after Ludlow Fitness.",
+    "2334": "Hotel Chantelle is immediately nearby and offers a plausible evening restaurant continuation from the last location.",
+    "1072": "SoHo is one of the user’s familiar Lower Manhattan corridors and is consistent with short evening wandering.",
+    "5394": "The nearby SVA Residence Hall is an extremely close geographic option, making it a plausible incidental destination.",
+    "4787": "The user has just visited this kind of beverage stop and may continue with another drink-related nearby outing.",
+    "59": "This is a frequent historical destination, though it is less likely than nearby Lower Manhattan options given the current southwest trend.",
+    "626": "An evening movie stop fits the target time and the user’s entertainment pattern, but it is farther than the Chinatown/Canal options.",
+    "5651": "This is one of the strongest historical anchors, but its Brooklyn distance makes it less likely than nearby Lower Manhattan candidates tonight."
+  },
+  "fallback": false
+}

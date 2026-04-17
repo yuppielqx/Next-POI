@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_374",
+  "ranked_loc_ids": [
+    2248,
+    2247,
+    2255,
+    2253,
+    688,
+    2256,
+    2251,
+    771,
+    2259,
+    3131
+  ],
+  "explanations": {
+    "2248": "It is the strongest same-area Saturday morning repeat with the highest visit count and a very close transition pattern from the user’s current Astoria cluster.",
+    "2247": "The user was just here, and this café is one of their most frequent Astoria anchors with strong Saturday morning history.",
+    "2255": "Morning errands and bakery stops fit the user’s profile, and this spot has a strong 9–11 AM pattern with close proximity.",
+    "2253": "A likely nearby morning errand destination with repeated Saturday visits and easy fit for a local routine.",
+    "688": "The user often pairs nearby food stops with this movie theater, and similar users also show morning-to-entertainment transitions.",
+    "2256": "This is another nearby Saturday-favored food stop that matches the user’s local, casual outing pattern.",
+    "2251": "A nearby transit option could follow a brief morning stop, especially if the user is heading out of the immediate Astoria cluster.",
+    "771": "This station fits a short local movement pattern and keeps the user within their usual neighborhood radius.",
+    "2259": "A plausible casual breakfast/brunch stop in Astoria, though it has much less evidence than the top food anchors.",
+    "3131": "A nearby coffee stop is plausible for a Saturday morning, but it lacks prior history compared with the user’s core favorites."
+  },
+  "fallback": false
+}

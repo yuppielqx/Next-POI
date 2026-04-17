@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1697",
+  "ranked_loc_ids": [
+    3023,
+    289,
+    5095,
+    5097,
+    5099,
+    1196,
+    4063,
+    2976,
+    3493,
+    3122
+  ],
+  "explanations": {
+    "3023": "It is the strongest recurring habit match, fits the afternoon window, and is a nearby Lower East Side nightlife/food anchor the user repeatedly returns to.",
+    "289": "This is a highly probable Canal Street coffee stop that matches the user’s repeated afternoon coffee pattern and close Chinatown orbit.",
+    "5095": "The user is just coming from this salon and has a strong history of salon-related clustering in the same midafternoon period.",
+    "5097": "Another frequent grooming venue in the same Chinatown cluster, making it a natural next stop after Mess Hair Salon.",
+    "5099": "This is an extremely close Chinatown food option that fits the user’s habitual snack/meal behavior after errands or grooming.",
+    "1196": "The user often moves within this exact neighborhood cluster, so a generic Chinatown stop remains plausible.",
+    "4063": "A nearby Chinatown food venue that fits the user’s afternoon errand/food pattern and close spatial proximity.",
+    "2976": "A local Chinatown restaurant that matches the user’s food-centered, lower Manhattan routine.",
+    "3493": "This nearby Asian restaurant fits the user’s established preference for Chinatown dining destinations.",
+    "3122": "Although farther away, it is a strong historical anchor for this user and remains possible given their repeated nightlife/restaurant visits."
+  },
+  "fallback": false
+}

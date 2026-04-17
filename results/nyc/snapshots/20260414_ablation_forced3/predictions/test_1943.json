@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1943",
+  "ranked_loc_ids": [
+    2409,
+    329,
+    5325,
+    353,
+    3545,
+    4037,
+    1940,
+    420,
+    3292,
+    4623
+  ],
+  "explanations": {
+    "2409": "The strongest signal is the user’s repeated early-morning weekday workout routine, and Flywheel is their clear anchor venue in the Flatiron/Chelsea fitness corridor.",
+    "329": "Madison Square Park is very close to the last location and fits a plausible south-eastward move, but it is less consistent than the gym habit.",
+    "5325": "This breakfast spot is near both the current area and the early-morning timing, making it a likely post-workout or commute stop.",
+    "353": "The user was last here, so a brief continuation of the coffee stop is possible despite the stronger workout prior.",
+    "3545": "A nearby breakfast option that matches the morning hour and the user’s routine of nearby dining after movement.",
+    "4037": "Close by and in the user’s favored Manhattan corridor, though less aligned with the early-morning fitness pattern.",
+    "1940": "This is within the user’s central Manhattan range and could fit a quick meal, but it is not a strong time match.",
+    "420": "A breakfast spot in the user’s broader downtown pattern, but farther and less tied to the observed routine than the top options.",
+    "3292": "A nearby sushi restaurant with convenient proximity, though sushi is unlikely at this very early hour.",
+    "4623": "It is adjacent to the last location and geographically convenient, but nightlife venues are the weakest fit for a 5:40 a.m. Tuesday prediction."
+  },
+  "fallback": false
+}

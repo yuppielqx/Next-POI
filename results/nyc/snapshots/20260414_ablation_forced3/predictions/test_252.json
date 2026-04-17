@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_252",
+  "ranked_loc_ids": [
+    1681,
+    1688,
+    329,
+    878,
+    879,
+    1687,
+    820,
+    354,
+    331,
+    4157
+  ],
+  "explanations": {
+    "1681": "This is the most frequent morning follow-up stop in the user’s routine and fits the classic 7:42 coffee-after-arrival pattern.",
+    "1688": "The user’s work anchor is consistently tied to this office cluster, making it a very likely next check-in just after the Flatiron Plaza/Building sequence.",
+    "329": "Madison Square Park is part of the same habitual micro-area and appears often in the user’s early-morning weekday chain.",
+    "878": "The user is already here at the last known timestamp, so they may simply remain checked in at this exact place for another minute.",
+    "879": "This adjacent public square is heavily used in the same morning routine and is still within the immediate movement footprint.",
+    "1687": "Another nearby office venue in the same commute corridor, supported by repeated weekday usage.",
+    "820": "A nearby transit option could be visited during the commute window, though it is less consistent with the user’s strongest pattern.",
+    "354": "This is extremely close to the current location and plausible for a quick morning errand, but it lacks the strong history of the top places.",
+    "331": "A nearby coffee shop is behaviorally possible, but the user’s past overwhelmingly favors Taza Coffee & Deli instead.",
+    "4157": "Another nearby food stop in the Flatiron area, but it is much less supported by the user’s historical routine."
+  },
+  "fallback": false
+}

@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1342",
+  "ranked_loc_ids": [
+    2016,
+    4701,
+    4697,
+    2008,
+    2642,
+    3663,
+    4696,
+    3359,
+    114
+  ],
+  "explanations": {
+    "2016": "This is the user’s current location, a highly recurring home-area transit anchor with strong same-day continuity from their morning pattern.",
+    "4701": "The user has a documented Saturday noon-to-afternoon fitness pattern here, and it is very close to Kings Highway.",
+    "4697": "This nearby Brooklyn station is a frequent local transit stop and fits the return-to-frequent-place Saturday pattern.",
+    "2008": "A nearby B/Q station that matches the user’s Brooklyn transit corridor and short-distance movement.",
+    "2642": "Another nearby Brooklyn station consistent with the user’s south Brooklyn, transit-driven movement.",
+    "3663": "This nearby station fits the user’s linear Brooklyn rail pattern and could be a local transfer or errand stop.",
+    "4696": "A close neighborhood errand destination that aligns with the user’s habitual, non-exploratory Saturday behavior.",
+    "3359": "The user has a strong prior for coffee-shop transitions and this Manhattan café is part of their known pattern, though less likely on Saturday.",
+    "114": "It is one of the user’s most frequent commute nodes, but a Saturday afternoon trip into Manhattan is less likely than a local Brooklyn stop."
+  },
+  "fallback": false
+}

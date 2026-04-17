@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1908",
+  "ranked_loc_ids": [
+    106,
+    109,
+    2273,
+    5294,
+    1637,
+    4678,
+    5290,
+    1277,
+    1266,
+    107
+  ],
+  "explanations": {
+    "106": "The strongest evening commute pattern points to a trans-Hudson transit stop in Lower Manhattan, and this is the best match for the 19:46 time prior.",
+    "109": "This is the most likely Jersey City counterpart in the user’s recurring PATH commute chain and often follows WTC-area activity.",
+    "2273": "The user has repeated 6–8pm visits here, making it a strong alternate evening destination if they are heading back to Chelsea.",
+    "5294": "It is the current location and nearby food stop, so a short continuation or lingering nearby remains plausible.",
+    "1637": "The user often chains food stops after movement, and this deli fits the south-westward direction from the last known point.",
+    "4678": "A nearby frequent food option in the same neighborhood, consistent with a casual evening meal after the afternoon stop.",
+    "5290": "Another nearby café that matches the user’s café/food pattern and could plausibly be an evening pause.",
+    "1277": "A close Greenwich Village restaurant that fits the user’s dining pattern and current area.",
+    "1266": "Pace University locations are an academic anchor in the user’s history, though less likely than transit at this hour.",
+    "107": "Newport PATH Station is a reasonable trans-Hudson alternative if the user is shifting toward Jersey City travel."
+  },
+  "fallback": false
+}

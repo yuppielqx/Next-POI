@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1071",
+  "ranked_loc_ids": [
+    4282,
+    4283,
+    2775,
+    445,
+    3286,
+    1716,
+    2628,
+    2620,
+    2626,
+    2956
+  ],
+  "explanations": {
+    "4282": "The user was just there at 11:44, it is by far their dominant anchor, and their history shows repeated Friday and evening returns.",
+    "4283": "Evening trips often shift into nearby Paramus for food-related errands, and similar users at this time also favor this spot.",
+    "2775": "This matches the user's bookstore/comic-shop behavior and the similar-user evening pattern toward bookstores.",
+    "445": "A common evening shopping destination in the user’s Paramus corridor when they move beyond the anchor venue.",
+    "3286": "Evening timing makes a movie stop plausible, especially near the user’s usual Paramus shopping and leisure cluster.",
+    "1716": "Casual dining in Paramus fits the user’s weekend-and-evening errand pattern.",
+    "2628": "The user has visited this retail hub before, and evening shopping trips in Paramus are consistent with their routine.",
+    "2620": "Close to the current area and a plausible quick errand after staying local.",
+    "2626": "A nearby Fair Lawn grocery stop is possible if the user is doing a late-day errand run.",
+    "2956": "Another plausible Paramus evening dining option, though less likely than the user’s core habitual places."
+  },
+  "fallback": false
+}

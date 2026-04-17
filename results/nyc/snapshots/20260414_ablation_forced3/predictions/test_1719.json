@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1719",
+  "ranked_loc_ids": [
+    4149,
+    5125,
+    3935,
+    3145,
+    1083,
+    1405,
+    5126,
+    3675,
+    164,
+    3423
+  ],
+  "explanations": {
+    "4149": "This is the user’s strongest habitual anchor and fits the common post-lunch return-to-coffee pattern at the target afternoon time.",
+    "5125": "It is a nearby Upper East Side Starbucks that matches the user’s coffee-heavy routine and current northeast movement.",
+    "3935": "Another frequent coffee stop in the user’s core area, plausible for an afternoon transition after Chipotle.",
+    "3145": "This nearby Upper East Side Starbucks fits the user’s repeated coffee behavior and is close to the last location.",
+    "1083": "A quick casual food follow-up near the current area is consistent with the user’s lunch-and-snack pattern.",
+    "1405": "The very short distance and the user’s occasional leisure/errand behavior make this a plausible nearby stop.",
+    "5126": "A practical errand destination close to the current location fits the user’s daytime routine and local movement.",
+    "3675": "This nearby dessert/snack option aligns with the user’s occasional afternoon treat behavior after lunch.",
+    "164": "The user already visited a clothing store earlier in the trip, so a short continuation of shopping is plausible.",
+    "3423": "A nearby retail stop on the Upper East Side fits the current shopping-oriented trip context and local movement."
+  },
+  "fallback": false
+}

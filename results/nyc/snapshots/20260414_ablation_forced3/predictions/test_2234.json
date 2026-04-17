@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2234",
+  "ranked_loc_ids": [
+    3324,
+    5552,
+    5282,
+    5512,
+    2173,
+    3020,
+    5066,
+    703,
+    4837,
+    141
+  ],
+  "explanations": {
+    "3324": "It is the closest and strongest home-area transit hub match, and the Saturday afternoon prior plus repeated Bronx-side transitions make a return here most likely.",
+    "5552": "This is the exact station tied to the user’s South Bronx base and is the most natural immediate follow-up from the last known location.",
+    "5282": "The user often pairs Bronx transit with quick convenience stops, and this nearby afternoon-matched option fits that pattern well.",
+    "5512": "This nearby Bronx entertainment venue is a plausible local errand/leisure stop when the user remains in the home corridor.",
+    "2173": "Another very close Bronx subway option, likely if the user is continuing a short local transit movement.",
+    "3020": "A nearby Bronx station that fits the north-east movement trend and the user’s heavy reliance on transit nodes.",
+    "5066": "A nearby neighborhood service location that could be visited during a Saturday afternoon local outing.",
+    "703": "This nearby Bronx-area nightlife/general area location is less likely but still within the user’s immediate movement radius.",
+    "4837": "A close Bronx deli stop that fits the user’s functional, support-stop behavior.",
+    "141": "A nearby Bronx transit hub that could be reached next if the user makes a short transfer from the current station."
+  },
+  "fallback": false
+}

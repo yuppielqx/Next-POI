@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1434",
+  "ranked_loc_ids": [
+    955,
+    274,
+    1380,
+    2739,
+    1151,
+    1034,
+    871,
+    4816,
+    550,
+    1522
+  ],
+  "explanations": {
+    "955": "It is the closest nightlife-adjacent venue to the last known point and fits a Saturday night continuation in Midtown.",
+    "274": "The user is already there, and revisits or short continued stays are common around this time.",
+    "1380": "This nearby deli/bodega is an easy quick stop from Bryant Park and matches a short nighttime move.",
+    "2739": "A nearby lounge/nightlife option that fits the user’s evening pattern and the north-east Midtown drift.",
+    "1151": "A short walk away in the Times Square corridor, it matches late-night entertainment behavior.",
+    "1034": "A nearby casual food stop consistent with post-evening activity in Midtown.",
+    "871": "Strong user history in Midtown makes this a plausible nearby shopping visit.",
+    "4816": "The user has repeated Midtown café behavior, and this is close enough for a late-night stop.",
+    "550": "Columbus Circle is a frequent user destination and remains a reasonable Midtown follow-on.",
+    "1522": "A transit move is plausible after a Bryant Park nighttime check-in, especially if heading onward."
+  },
+  "fallback": false
+}

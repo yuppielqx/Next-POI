@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2166",
+  "ranked_loc_ids": [
+    6,
+    4206,
+    64,
+    1475,
+    2868,
+    4684,
+    3935,
+    735,
+    5501,
+    234
+  ],
+  "explanations": {
+    "6": "This is the user’s strongest recurring anchor, and the Monday early-morning prior strongly favors a return to the same Midtown East base.",
+    "4206": "It is very close to the anchor and fits the user’s habitual nearby American-restaurant pattern after or before routine check-ins.",
+    "64": "This is a nearby Upper East Side/Midtown stop and aligns with the user’s tendency to make short-range routine movements around the anchor.",
+    "1475": "Extremely close to the last location and plausible as a nearby morning hotel/meeting stop in the same corridor.",
+    "2868": "A very close fast-casual option that could fit a quick morning errand or meal near the user’s base.",
+    "4684": "A nearby restaurant option in the user’s usual Manhattan range, with some support from prior dining behavior.",
+    "3935": "A morning coffee stop near the user’s core corridor is consistent with an early Monday routine.",
+    "735": "A nearby bar from the Upper East Side cluster, though less likely at this morning hour than the food and anchor locations.",
+    "5501": "This matches the user’s nightlife and dining tendencies, but is more typical of evening than early morning.",
+    "234": "A plausible nearby leisure destination within the user’s Manhattan range, but less likely than the routine anchor and immediate neighborhood stops."
+  },
+  "fallback": false
+}

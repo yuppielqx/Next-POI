@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1435",
+  "ranked_loc_ids": [
+    1271,
+    137,
+    435,
+    2356,
+    274,
+    329,
+    67,
+    2557,
+    1196,
+    602
+  ],
+  "explanations": {
+    "1271": "Saturday afternoon errands and prior Midtown shopping patterns make this the strongest match for a purposeful daytime outing.",
+    "137": "Penn Station fits the user’s transit-heavy chaining behavior and is a common Manhattan hub after a long-distance jump.",
+    "435": "Weekend leisure behavior and west Midtown affinity make this a plausible Saturday afternoon destination.",
+    "2356": "The user’s food-stop history and Midtown proximity support a likely lunch or early afternoon meal visit.",
+    "274": "A classic Saturday Manhattan stop that matches the user’s leisure-and-errand outing style.",
+    "329": "Madison Square Park is a nearby daytime recreation option consistent with the user’s downtown-to-midtown movement pattern.",
+    "67": "Fits the user’s recurring Manhattan crosstown trips and Saturday afternoon outdoor behavior.",
+    "2557": "The user often chains practical errands, and this Union Square pharmacy is a plausible quick stop.",
+    "1196": "A downtown neighborhood visit is possible given the user’s broad Manhattan range and leisure patterns.",
+    "602": "The Bronx anchor remains a secondary possibility, especially if the user heads back toward their home base after the prior night."
+  },
+  "fallback": false
+}

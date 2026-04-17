@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_634",
+  "ranked_loc_ids": [
+    690,
+    2543,
+    1456,
+    3247,
+    2198,
+    3621,
+    678,
+    3241,
+    5110,
+    4710
+  ],
+  "explanations": {
+    "690": "It is extremely close to the last Astoria lounge and fits the user’s strong Friday-night preference for nearby nightlife venues.",
+    "2543": "This nearby Astoria bar matches the eastward movement trend and the user’s recurring late-evening bar-hopping pattern.",
+    "1456": "A close pub option in Astoria that aligns with the target-time nightlife prior and likely continuation after Grand Cafe Astoria.",
+    "3247": "Revisit is plausible because the user is already in the Astoria nightlife corridor and may remain at the same lounge.",
+    "2198": "Late-night food is a common follow-up after bars, and this nearby diner fits a post-drinks stop.",
+    "3621": "A nearby restaurant and draught spot that could serve as the next casual nightlife continuation.",
+    "678": "The user has a distinctive gym-plus-nightlife pattern, making a short return to fitness plausible though less likely at 23:54.",
+    "3241": "This is the user’s own gym venue and sometimes recurs in their routine, but the timing favors nightlife more strongly.",
+    "5110": "Similar-user evidence and the user’s fitness habit make this a remote possibility despite the late hour.",
+    "4710": "A nearby café is less consistent with the user’s nightlife behavior, but it remains a possible short-hop destination."
+  },
+  "fallback": false
+}

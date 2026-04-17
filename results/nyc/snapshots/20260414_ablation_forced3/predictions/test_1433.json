@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1433",
+  "ranked_loc_ids": [
+    871,
+    4816,
+    1850,
+    550,
+    2177,
+    1151,
+    1034,
+    1271,
+    377,
+    2245
+  ],
+  "explanations": {
+    "871": "It is the strongest historical match in the same Midtown retail corridor, very close to the last Starbucks and highly visited by the user on Tuesdays in this evening-related time window.",
+    "4816": "This café is also a frequent Midtown stop for the user and sits near the current location, making it a plausible short next hop after Starbucks.",
+    "1850": "The user has a Midtown shopping pattern, and this nearby retail store fits the same walkable evening shopping sequence.",
+    "550": "Columbus Circle is a nearby Midtown anchor with moderate historical recurrence, so it is a reasonable next destination while moving southwest.",
+    "2177": "A return or continued stay at the current check-in point is very likely given the very short time gap and same-area behavior.",
+    "1151": "This nearby entertainment venue fits an evening outing pattern and is close enough for a quick move within Midtown.",
+    "1034": "A food stop in the same Manhattan cluster is plausible, especially for an evening transition from café/retail activity.",
+    "1271": "This nearby department store matches the user's broad retail behavior, though it is less historically favored than FAO Schwarz or Uniqlo.",
+    "377": "The user has occasional park visits, and this nearby major park is a feasible evening destination from Midtown.",
+    "2245": "The user has occasional late-day nightlife behavior, making this nearby dive bar a lower-probability but plausible evening option."
+  },
+  "fallback": false
+}

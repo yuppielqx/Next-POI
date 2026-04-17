@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_526",
+  "ranked_loc_ids": [
+    2873,
+    2879,
+    1742,
+    4452,
+    2092,
+    2872,
+    113,
+    2883,
+    300,
+    2875
+  ],
+  "explanations": {
+    "2873": "It is the strongest Sunday-specific match, only a short distance away, and fits the user’s repeated weekend church routine.",
+    "2879": "Very close to the last stop in Brooklyn Heights and consistent with a post-church bakery/coffee errand on a Sunday afternoon.",
+    "1742": "The user appears to be staying within the same neighborhood, making a nearby area-level move plausible.",
+    "4452": "Another extremely nearby Brooklyn Heights stop that fits a short southward/local transition.",
+    "2092": "The Brooklyn Heights Promenade is a nearby scenic stop that could follow a Sunday church visit.",
+    "2872": "A repeat coffee stop at the same immediate area is plausible after the 14:02 Starbucks check-in.",
+    "113": "DeKalb Ave station is a nearby transit option if the user is continuing southward movement through Brooklyn.",
+    "2883": "P.C. Richard & Son is a nearby Brooklyn retail stop that fits an errand-style afternoon outing.",
+    "300": "A practical nearby shopping destination that aligns with the user’s daytime, task-oriented behavior.",
+    "2875": "This is a strong routine venue in the user’s history, though less likely than the immediate Brooklyn Heights options at this time."
+  },
+  "fallback": false
+}

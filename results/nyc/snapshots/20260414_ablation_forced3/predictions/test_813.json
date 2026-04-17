@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_813",
+  "ranked_loc_ids": [
+    3527,
+    2846,
+    3868,
+    4050,
+    4046,
+    1538,
+    1260,
+    137,
+    3686
+  ],
+  "explanations": {
+    "3527": "The user just returned to this station and the next timestamp is only 13 minutes later, making lingering at the same transit node the strongest immediate prediction.",
+    "2846": "It is adjacent to Canal St and fits a short nearby evening diversion if the user leaves the station briefly.",
+    "3868": "This is a very close nearby place that matches staying in the same Lower Manhattan area.",
+    "4050": "The roof deck is within a block of the last location and could plausibly be a quick nearby stop.",
+    "4046": "Another immediate neighboring point of interest near Canal St with very low movement cost.",
+    "1538": "A short subway continuation north fits the transit-heavy profile, though it is less immediate than nearby Canal St options.",
+    "1260": "Union Square is a plausible next transit destination after Canal St for a late-evening Manhattan move.",
+    "137": "This is a historically frequent base in Midtown, but it is farther away than the lower-Manhattan candidates.",
+    "3686": "A Midtown transfer station remains possible for an onward trip, but the current evidence strongly favors staying near Canal St."
+  },
+  "fallback": false
+}

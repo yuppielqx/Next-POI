@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_324",
+  "ranked_loc_ids": [
+    2029,
+    2030,
+    2026,
+    4642,
+    1522,
+    557,
+    4306,
+    2291,
+    78
+  ],
+  "explanations": {
+    "2029": "Strong weekday routine and the target time fits a likely return to the user’s most frequent workplace-like destination.",
+    "2030": "It is adjacent to Google New York and similar users commonly move from the workplace area to nearby cafeteria spots around midday.",
+    "2026": "A nearby cafeteria that matches a workday lunch pattern and is strongly supported by similar-user transitions.",
+    "4642": "Another nearby work-oriented destination in the same Chelsea/Flatiron corridor that fits a return-to-campus/workplace movement.",
+    "1522": "Commuter behavior and the user’s transit-heavy history make a subway transfer plausible around this time.",
+    "557": "This is the dominant historical location, so another commute-related crossing remains possible despite the current Manhattan position.",
+    "4306": "A short daytime pause at a nearby coffee spot fits a workday routine and the local cluster of POIs.",
+    "2291": "The nearby Port Authority Building is a plausible transit-adjacent stop given the user’s transportation-centered movement.",
+    "78": "It is close to the last location and can attract weekday lunch foot traffic, though it is less routine than the top choices."
+  },
+  "fallback": false
+}

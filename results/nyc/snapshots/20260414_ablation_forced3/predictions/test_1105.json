@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1105",
+  "ranked_loc_ids": [
+    109,
+    4341,
+    4346,
+    4347,
+    1202,
+    1207,
+    1214,
+    4339,
+    1206,
+    4338
+  ],
+  "explanations": {
+    "109": "The user was last seen here one minute earlier and this is their dominant weekday morning commute origin.",
+    "4341": "It is extremely close to Grove Street and fits a quick pre-commute stop near home.",
+    "4346": "It is adjacent to Grove Street and could be passed or checked in during a brief morning movement.",
+    "4347": "This is a nearby Grove Street-area food spot that the user has visited before.",
+    "1202": "It is very close in Jersey City and appears in the user’s recurring local after-work/social pattern.",
+    "1207": "This is a core step in the user’s usual commute corridor after departing Grove Street.",
+    "1214": "It is part of the same PATH commute chain and a plausible next transit node.",
+    "4339": "The user has visited this gym before, though it is less likely at 08:02 than transit.",
+    "1206": "This matches the broader commute direction toward the user’s Long Island City work area.",
+    "4338": "This is a regular part of the user’s work commute, but it is too far ahead to be the immediate next stop."
+  },
+  "fallback": false
+}

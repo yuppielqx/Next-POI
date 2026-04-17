@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_36",
+  "ranked_loc_ids": [
+    329,
+    348,
+    331,
+    879,
+    244,
+    338,
+    352,
+    207,
+    354,
+    351
+  ],
+  "explanations": {
+    "329": "This is the user’s dominant morning anchor with the strongest visit history and the highest match to the 07:24 time slot.",
+    "348": "The user frequently returns to this coffee shop within the same tight Flatiron routine, especially around morning transitions.",
+    "331": "A nearby coffee shop in the same micro-area that fits the user’s habitual coffee-and-anchor pattern.",
+    "879": "It is an extremely close public square that matches the user’s outdoor-destination routine and the morning time prior.",
+    "244": "A repeatedly visited nearby restaurant that sits inside the same Madison Square circuit.",
+    "338": "Another close-food stop in the user’s regular Flatiron cluster, plausible after or before the anchor.",
+    "352": "A morning-favored bakery in the same neighborhood that aligns with the user’s early-day habits.",
+    "207": "A nearby food-truck option in the immediate area, consistent with short-radius daytime movement.",
+    "354": "A local convenience stop close to the last known location, possible for a quick errand.",
+    "351": "A nearby juice bar within the same routine zone, but less supported than the core anchor and cafés."
+  },
+  "fallback": false
+}

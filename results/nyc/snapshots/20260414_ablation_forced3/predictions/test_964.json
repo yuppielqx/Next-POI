@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_964",
+  "ranked_loc_ids": [
+    330,
+    110,
+    2599,
+    3403,
+    3407,
+    1584,
+    3418,
+    3422,
+    676,
+    3720
+  ],
+  "explanations": {
+    "330": "This is the user’s strongest repeated weekday-morning destination and fits the classic Starbucks-to-work hop.",
+    "110": "A very likely short commuter move from Starbucks toward the user’s usual East Side work corridor.",
+    "2599": "The user often starts mornings here, so a brief return or nearby coffee-related transition remains plausible.",
+    "3403": "Another nearby coffee stop in the same routine-heavy Kips Bay area and consistent with the morning pattern.",
+    "3407": "Close by and behaviorally similar as an early-morning food stop before heading to work.",
+    "1584": "A nearby frequent-style anchor that could follow the user’s morning routine, especially on weekdays.",
+    "3418": "A nearby coffee shop that matches the user’s pre-work pattern and Manhattan East Side concentration.",
+    "3422": "A nearby food venue that is spatially compatible, though less aligned with the user’s coffee-and-medical routine.",
+    "676": "Close to the last location and plausible as a brief morning stop, but less supported by history.",
+    "3720": "Very near the current position and a possible workday destination, though it is not a known strong historical anchor."
+  },
+  "fallback": false
+}

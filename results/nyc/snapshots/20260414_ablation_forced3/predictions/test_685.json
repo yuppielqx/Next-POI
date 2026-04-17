@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_685",
+  "ranked_loc_ids": [
+    811,
+    1385,
+    3381,
+    333,
+    3384,
+    1552,
+    3379,
+    3386,
+    1976,
+    2995
+  ],
+  "explanations": {
+    "811": "The user is already at this Japanese restaurant, and the 18:42 prediction point is only 13 minutes after the last check-in, making a same-place continuation most likely.",
+    "1385": "Very close to the current location and plausible as a quick post-dinner stop for convenience food or snacks.",
+    "3381": "A frequent evening grocery destination for this user, fitting their practical after-work routine.",
+    "333": "Another nearby grocery option that matches the user’s habitual errand pattern in the evening slot.",
+    "3384": "Friday evening makes a short move to a lounge plausible after dinner, especially given similar-user nightlife patterns.",
+    "1552": "Nearby and consistent with a brief post-dinner coffee stop in Midtown East.",
+    "3379": "The user repeatedly returns to this coworking space along the same Manhattan corridor, though it is less likely this late in the evening.",
+    "3386": "A nearby café that fits a short transition for coffee or meeting-up behavior.",
+    "1976": "In Koreatown and aligned with the user’s food preferences, though a bit less likely than closer options.",
+    "2995": "Another Koreatown dining spot that fits the user’s corridor, but it is lower priority than the nearer and more routine-oriented choices."
+  },
+  "fallback": false
+}

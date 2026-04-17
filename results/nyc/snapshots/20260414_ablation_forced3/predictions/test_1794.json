@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1794",
+  "ranked_loc_ids": [
+    229,
+    1154,
+    3003,
+    107,
+    104,
+    438,
+    1198,
+    4949,
+    698,
+    2382
+  ],
+  "explanations": {
+    "229": "It is the top historical transit hub match for this user and best fits a post-midnight return into the Hudson County corridor.",
+    "1154": "Journal Square is one of the user’s most repeated weekday transfer points and is highly plausible after an overnight gap.",
+    "3003": "This is another core commuter station in the user’s regular western Hudson County pattern and fits an early-morning reset.",
+    "107": "Newport PATH Station is a frequent transportation hub in the user’s history and remains a strong Jersey City destination.",
+    "104": "The user often chains transit with retail stops near Newport, making this a plausible follow-on location.",
+    "438": "Journal Square-area movement is consistent with the user’s corridor-based travel and would be a natural transfer destination.",
+    "1198": "Light rail stations fit the user’s rail-heavy mobility style and this is within their usual Jersey City orbit.",
+    "4949": "Evening and late-night gym visits are part of the user’s behavior, so a fitness stop remains possible after transit.",
+    "698": "The user is already near this Times Square area, but it is less consistent with their weekday corridor than a Hudson County return.",
+    "2382": "Lower Manhattan is within the user’s broader range, though it is less likely than a familiar transit hub at 05:19."
+  },
+  "fallback": false
+}

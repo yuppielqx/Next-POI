@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1920",
+  "ranked_loc_ids": [
+    1329,
+    5649,
+    2059,
+    2393,
+    1943,
+    5161,
+    785,
+    921,
+    5162,
+    2210
+  ],
+  "explanations": {
+    "1329": "The user’s strongest anchor venue and the time prior strongly suggest they are still at or returning to this nightlife spot overnight.",
+    "5649": "It is the closest nearby nightlife/bar option and fits a late-night continuation in the same South Slope corridor.",
+    "2059": "Another nearby nightlife venue that matches the user’s evening-oriented bar pattern and could follow Lucky 13.",
+    "2393": "Freddy's Bar is a close-by bar, making it a plausible next stop if the user leaves Lucky 13 but stays local.",
+    "1943": "This nearby burger joint can fit a late-night food break after nightlife activity in Park Slope.",
+    "5161": "A nearby restaurant that could attract a late-night meal stop while the user remains in the Brooklyn corridor.",
+    "785": "This close Mexican spot is a plausible post-nightlife food destination near the last known location.",
+    "921": "A nearby transit hub is a realistic option if the user is heading home after the bar.",
+    "5162": "It is a historically frequent Brooklyn venue for the user and within the broader local movement pattern.",
+    "2210": "Although less likely at 05:18, it is a repeated favorite in the user’s history and remains within their Brooklyn routine."
+  },
+  "fallback": false
+}

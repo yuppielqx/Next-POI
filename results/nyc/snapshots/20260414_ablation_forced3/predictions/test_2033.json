@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2033",
+  "ranked_loc_ids": [
+    137,
+    58,
+    616,
+    1393,
+    613,
+    2353,
+    1072,
+    4385,
+    3714,
+    3477
+  ],
+  "explanations": {
+    "137": "Penn Station fits the user’s morning commute pattern and nearby-users often transition through major transit hubs at this time.",
+    "58": "Grand Central Terminal is another strong commuter hub for a Friday morning and aligns with the user’s occasional Midtown movement.",
+    "616": "A Washington Heights coffee stop matches the user’s uptown anchor and early-morning routine.",
+    "1393": "This is a highly repeated East Harlem errand destination and fits a practical morning visit.",
+    "613": "The user’s history is strongly clustered in Harlem, making a neighborhood-level uptown stop plausible.",
+    "2353": "The user has repeated familiarity with Washington Heights, especially around Broadway and 168th Street.",
+    "1072": "The user has visited SoHo before and could continue a southward city pattern, though it is less likely in the morning.",
+    "4385": "A maintenance errand is consistent with the user’s practical mobility profile, though it is less time-specific.",
+    "3714": "The user has a prior late-night dining visit here, making a return possible but less likely in the morning.",
+    "3477": "The user has nighttime activity in nightlife venues, but this Friday morning prior makes another bar stop much less likely."
+  },
+  "fallback": false
+}

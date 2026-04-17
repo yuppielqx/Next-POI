@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_677",
+  "ranked_loc_ids": [
+    3234,
+    1082,
+    2168,
+    1120,
+    984,
+    3375,
+    897,
+    720,
+    2506,
+    630
+  ],
+  "explanations": {
+    "3234": "It is a nearby bar in the same West Village/Meatpacking nightlife corridor, making it a natural next stop two hours after The Jane Hotel Ballroom.",
+    "1082": "This is an extremely close nightlife spot that fits the user’s late-night social pattern and could easily follow the current outing.",
+    "2168": "A nearby nightlife venue with strong post-midnight fit, especially for a user continuing a downtown bar crawl.",
+    "1120": "Another close nightlife option in the Meatpacking area that matches the user’s evening-oriented behavior.",
+    "984": "This nearby music venue is plausible for a late-night continuation after a ballroom/bar stop.",
+    "3375": "The user is already at The Jane Hotel Ballroom, so a return or adjacent move within the same property is highly plausible.",
+    "897": "This nearby upscale nightlife-steakhouse option fits the user’s social, Manhattan evening profile.",
+    "720": "A known lounge in the user’s history that matches their nightlife preferences, though it is farther than the nearest options.",
+    "2506": "A recurring lounge in the user’s past that aligns with late-night social behavior, despite being less proximate.",
+    "630": "This nightlife spot fits the user’s bar-oriented pattern, but it is less likely than the immediate West Village options."
+  },
+  "fallback": false
+}

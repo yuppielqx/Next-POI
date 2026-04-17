@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1445",
+  "ranked_loc_ids": [
+    3240,
+    208,
+    4822,
+    4457,
+    4823,
+    4684,
+    3505,
+    3753,
+    3458,
+    3592
+  ],
+  "explanations": {
+    "3240": "It fits the user’s Midtown post-work dining pattern and is a close, plausible evening stop from the office corridor.",
+    "208": "Similar users often shift to evening drinks after work, and this bar matches a nearby after-hours social extension.",
+    "4822": "The user has a history of personal-care stops in Midtown, making an evening grooming visit plausible.",
+    "4457": "This nearby American restaurant aligns with a reasonable dinner choice after leaving the office.",
+    "4823": "The user has already visited this sushi spot, and a repeat Midtown dinner return is consistent with prior behavior.",
+    "4684": "Another previously visited lunch/dinner venue that could serve as a convenient evening meal near the office.",
+    "3505": "A nearby Japanese restaurant fits the user’s Midtown food pattern and evening timing.",
+    "3753": "Similar-user behavior supports after-work bar visits, and this nearby nightlife spot is a reasonable option.",
+    "3458": "The strongest routine anchor is the office itself, so a brief return or late stay remains possible even in the evening.",
+    "3592": "A coffee stop is less likely than dinner, but it is very close and could fit a quick post-work pickup."
+  },
+  "fallback": false
+}

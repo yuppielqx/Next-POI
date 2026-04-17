@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1261",
+  "ranked_loc_ids": [
+    88,
+    557,
+    53,
+    4388,
+    550,
+    4610,
+    16,
+    1191,
+    546,
+    435
+  ],
+  "explanations": {
+    "88": "This is the user's strongest historical anchor, with many visits and a strong noon-to-2pm pattern matching the target time.",
+    "557": "The user repeatedly pairs this with Port Authority for cross-river transit, making it a highly likely return on a Friday afternoon.",
+    "53": "Another major transit hub in the same corridor, and the user has substantial history here around midday.",
+    "4388": "This fits the user's Midtown West/Upper West Side transit spine and is close to the current area.",
+    "550": "Columbus Circle is a plausible next stop for a Manhattan-centered mover heading through Midtown West.",
+    "4610": "The user has multiple midday visits to this pizza spot, so a quick food stop is plausible.",
+    "16": "The last known movement and nearby geography make a park return reasonable, especially given the user's occasional leisure stops.",
+    "1191": "A nearby deli/bodega fits the user's short amenity-stop behavior around transit-heavy routes.",
+    "546": "A grocery stop in the same general corridor is plausible for a quick errand between transit movements.",
+    "435": "This nearby west-side destination is less likely than transit hubs but still fits the user's occasional selective excursions."
+  },
+  "fallback": false
+}

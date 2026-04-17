@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_212",
+  "ranked_loc_ids": [
+    1430,
+    1437,
+    1451,
+    1490,
+    1448,
+    654,
+    1428,
+    288,
+    1456,
+    771
+  ],
+  "explanations": {
+    "1430": "Strongest morning weekday anchor in Midtown East with the highest 9–11 a.m. visit count and a very close match to the Wednesday 09:29 commute pattern.",
+    "1437": "Grand Central library check-ins fit the same Midtown East daytime routine and have substantial morning recurrence.",
+    "1451": "A transportation hub is plausible right after the overnight gap and matches the user’s commuter behavior.",
+    "1490": "Morning coffee stop in Midtown aligns with the user’s early-day transit-and-caffeine pattern.",
+    "1448": "Another Midtown drink stop that fits a quick morning refresh near the office corridor.",
+    "654": "Office-adjacent Midtown destination that matches the user’s weekday work-area clustering.",
+    "1428": "Frequent Midtown haunt with some morning presence, though it is less likely than the office anchor.",
+    "288": "Recurrent Midtown venue and nearby to the office cluster, but it skews more toward later-day visits.",
+    "1456": "Highly familiar routine stop, yet its Astoria location and nightlife profile make it less likely at 09:29.",
+    "771": "Consistent with the Queens-to-Manhattan commute, though the temporal prior favors a Midtown arrival over a transit stop."
+  },
+  "fallback": false
+}

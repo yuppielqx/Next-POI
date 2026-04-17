@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_100",
+  "ranked_loc_ids": [
+    782,
+    303,
+    778,
+    756,
+    774,
+    284,
+    792,
+    796,
+    773,
+    789
+  ],
+  "explanations": {
+    "782": "It has the strongest same-weekday history for Sunday mornings and fits the predicted return-to-frequent-place pattern in the East Village/Brooklyn corridor.",
+    "303": "This is one of the user’s most visited downtown spots and matches the morning-to-daytime food/juice routine near the likely area.",
+    "778": "It is the user’s most frequent location overall and is a very plausible Sunday morning coffee stop in SoHo.",
+    "756": "The user has visited it before and the time-conditioned prior explicitly flags it as a secondary recurring Sunday-morning destination.",
+    "774": "A coffee shop in the same downtown corridor that fits the user’s morning behavior and neighborhood preferences.",
+    "284": "Another likely morning coffee stop near the user’s preferred SoHo/Lower Manhattan pattern.",
+    "792": "This combines café behavior with a daytime errand/leisure pattern that can follow a late-morning outing.",
+    "796": "The user was just there, so a return remains possible even though the target time and prior suggest a different recurring place.",
+    "773": "This bar is one of the user’s known downtown venues and fits their strong nightlife category history, though it is less likely in the morning.",
+    "789": "A downtown bar in a familiar area for this user, but the morning time makes it a lower-probability choice."
+  },
+  "fallback": false
+}

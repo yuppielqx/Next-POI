@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2335",
+  "ranked_loc_ids": [
+    137,
+    842,
+    4315,
+    4563,
+    229,
+    4398,
+    2231,
+    3467,
+    4203,
+    5645
+  ],
+  "explanations": {
+    "137": "This is the user’s strongest historical commute anchor near Penn Station and best matches the Monday morning routine.",
+    "842": "A frequent weekday transfer point that commonly follows or accompanies arrivals at Location 137.",
+    "4315": "The user often continues uptown in Midtown after the Penn Station cluster, especially on routine mornings.",
+    "4563": "A known coffee stop in the Midtown commute corridor and a plausible short morning visit.",
+    "229": "A transportation hub pattern from the recent New Jersey side makes a transit stop possible, though less likely than Midtown.",
+    "4398": "The user’s transit-oriented behavior makes another rail connection in the Newark area plausible.",
+    "2231": "Another commuter hub near the last known area, but it is not the user’s strongest habitual pattern.",
+    "3467": "A major Newark rail station that fits the travel-oriented profile, though it lacks direct history support.",
+    "4203": "A morning-appropriate stop that could fit a commuter pattern, but it is not among the user’s repeated venues.",
+    "5645": "A routine weekday stop is possible, but this is weaker than the transit and coffee candidates."
+  },
+  "fallback": false
+}

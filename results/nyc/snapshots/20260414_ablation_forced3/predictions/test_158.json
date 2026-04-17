@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_158",
+  "ranked_loc_ids": [
+    1224,
+    1217,
+    1221,
+    1219,
+    1226,
+    1223,
+    1222,
+    1220,
+    618,
+    1232
+  ],
+  "explanations": {
+    "1224": "The user’s strongest evening pattern is repeated returns to this transit hub, which best fits the 18:20 time prior and the corridor-level movement from Fresh Pond.",
+    "1217": "It is a closely related Williamsburg Bridge Bus Terminal node with strong transition history and sits directly in the user’s habitual Brooklyn transit sequence.",
+    "1221": "This is the exact last-known stop and a heavily repeated Sunday bus-station check-in, making it a very plausible immediate next revisit.",
+    "1219": "The user regularly cycles back to this depot, and its bus-station category matches the transit-heavy behavior profile.",
+    "1226": "This Ridgewood intermodal terminal is part of the same transfer network and has some evening presence in the user’s history.",
+    "1223": "Fresh Pond Road station is a transit anchor in the same Queens corridor and aligns with the user’s bus-to-subway movement pattern.",
+    "1222": "The user has occasional overnight and recurring presence here, so it remains a realistic nearby return destination.",
+    "1220": "The user sometimes checks into the broader neighborhood around their transit nodes, especially on Sundays.",
+    "618": "This Brooklyn station is a plausible westward transit follow-on, though it is less central than the user’s core nodes.",
+    "1232": "Casey Stengel Depot is another transit hub in Queens, but it is farther from the current corridor than the leading candidates."
+  },
+  "fallback": false
+}

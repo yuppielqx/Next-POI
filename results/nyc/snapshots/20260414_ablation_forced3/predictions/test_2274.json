@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2274",
+  "ranked_loc_ids": [
+    3150,
+    4637,
+    1664,
+    5577,
+    107,
+    742,
+    106,
+    2170,
+    67,
+    1176
+  ],
+  "explanations": {
+    "3150": "The user’s strongest recurring late-morning Saturday pattern is a gym revisit, and this is the exact last known location.",
+    "4637": "It is essentially adjacent to the current spot, making a quick nearby transit move plausible before or after the gym.",
+    "1664": "A familiar commuter hub and a frequent transition point in the user’s routine, though less likely than staying local.",
+    "5577": "A nearby coffee stop fits the user’s coffee-to-commute-to-gym habit and could easily follow a Saturday workout.",
+    "107": "Newport PATH Station is a strong Jersey City transit alternative with repeated historical use and proximity to the current area.",
+    "742": "The user often anchors routines around coffee, and this nearby Starbucks matches that familiar behavior.",
+    "106": "A major PATH destination in the user’s corridor, but more likely on workdays than a Saturday late morning.",
+    "2170": "This is one of the user’s most repeated morning coffee waypoints, though it is slightly less time-aligned than the gym.",
+    "67": "The Saturday timing and prior pattern make a nearby Manhattan errand or park stop possible, especially in the Union Square corridor.",
+    "1176": "A Lower Manhattan coffee stop is plausible given the user’s recurring coffee habits, but it is not as strong as the gym or immediate nearby options."
+  },
+  "fallback": false
+}

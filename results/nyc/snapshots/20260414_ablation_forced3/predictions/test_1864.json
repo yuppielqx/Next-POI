@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1864",
+  "ranked_loc_ids": [
+    3357,
+    4774,
+    608,
+    469,
+    1836,
+    142,
+    4349,
+    1318,
+    2093,
+    1882
+  ],
+  "explanations": {
+    "3357": "This best matches the user’s repeated weekday morning coffee-before-AMDA routine and strong Midtown West habit.",
+    "4774": "AMDA is the user’s dominant anchor and a very plausible return visit even early in the morning.",
+    "608": "A nearby coffee stop in the same compact Midtown West corridor fits the user’s routine-based pattern.",
+    "469": "This is another close Starbucks option near AMDA that suits an early-morning caffeine stop.",
+    "1836": "A very nearby 9th Avenue Starbucks aligns with the user’s strong coffee-shop behavior.",
+    "142": "The user frequently uses transit in this area, and it sits right in their usual movement radius.",
+    "4349": "A nearby subway node that fits a morning commute pattern in Midtown West.",
+    "1318": "This is close to the user’s core area and could be visited as part of a short morning loop.",
+    "2093": "A practical nearby stop in the same neighborhood, consistent with routine errand behavior.",
+    "1882": "A nearby casual food option that fits the user’s early-day local movement pattern."
+  },
+  "fallback": false
+}

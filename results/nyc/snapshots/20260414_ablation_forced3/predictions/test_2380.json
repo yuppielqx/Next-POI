@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2380",
+  "ranked_loc_ids": [
+    2628,
+    2623,
+    2629,
+    1720,
+    3287,
+    2625,
+    3284,
+    1722,
+    445,
+    3746
+  ],
+  "explanations": {
+    "2628": "The user was just at Target the prior evening and Saturday morning often continues the same Paramus retail errand pattern.",
+    "2623": "It is extremely close to the last stop and fits the user’s suburban shopping corridor behavior.",
+    "2629": "Sears is a known repeat Paramus retail anchor in the user’s history and matches the same shopping trip cluster.",
+    "1720": "This is one of the user’s strongest recurring destinations and a very plausible morning retail stop.",
+    "3287": "The user has prior affinity for Walmart-style errand trips in the nearby suburban corridor.",
+    "2625": "Grocery and errand behavior fits the profile, and it is close to the current Paramus location.",
+    "3284": "Another nearby department store that matches the user’s mall-and-shopping pattern.",
+    "1722": "Department-store shopping is highly consistent with the user’s established retail-heavy behavior.",
+    "445": "A major Paramus shopping destination the user has visited before, though slightly less direct than the closer options.",
+    "3746": "A nearby casual dining stop that could follow or accompany a morning retail outing."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2313",
+  "ranked_loc_ids": [
+    2159,
+    271,
+    5598,
+    426,
+    1346,
+    5323,
+    272,
+    3616,
+    1088,
+    3960
+  ],
+  "explanations": {
+    "2159": "It is the user’s strongest recurring airport-adjacent stop and the time/location pattern strongly favors a short JFK-cluster transition.",
+    "271": "The user is already at JFK and may simply remain at the airport given the very short time gap.",
+    "5598": "This is a frequent nearby nighttime stop in the same JFK-side cluster.",
+    "426": "It is a very close JFK terminal-area location with strong transition history.",
+    "1346": "Another nearby airport terminal option consistent with a short intra-airport move.",
+    "5323": "The user’s history supports terminal-to-terminal movement within JFK.",
+    "272": "A nearby JFK AirTrain station that fits the airport-transit pattern.",
+    "3616": "A nearby JFK-area restaurant that matches the user’s airport-side evening routine.",
+    "1088": "A plausible JFK terminal destination, though less supported than the user’s core recurring spots.",
+    "3960": "A known anchor location, but it is less likely than staying within the JFK airport cluster at this time."
+  },
+  "fallback": false
+}

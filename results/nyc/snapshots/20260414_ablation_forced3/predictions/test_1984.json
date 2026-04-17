@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1984",
+  "ranked_loc_ids": [
+    36,
+    1641,
+    4433,
+    5363,
+    1250,
+    1187,
+    1018,
+    5362,
+    4435,
+    5364
+  ],
+  "explanations": {
+    "36": "This is the user’s strongest recurring weekday morning origin point, and the 08:28 target time strongly matches their usual commuter departure pattern.",
+    "1641": "This Broadway Junction transit hub is another repeated early-morning stop and fits the user’s southeast Brooklyn commuting corridor.",
+    "4433": "The user has used this Brooklyn L-line station before, and it aligns with a northwest-bound transit sequence from their origin area.",
+    "5363": "The last known stop was here, so a brief morning linger or return check-in is plausible before continuing the commute.",
+    "1250": "The user frequently appears in Lower Manhattan transit nodes, and this is a likely next step if the commute is already underway.",
+    "1187": "This generic Lower Manhattan check-in matches the user’s habitual Civic Center area activity and can follow nearby transit stops.",
+    "1018": "The user has historical visits here near their Manhattan cluster, making it a plausible short walk from the last location.",
+    "5362": "This deli is part of the user’s observed Lower Manhattan routine and is adjacent to their recent position.",
+    "4435": "While less likely at this time, it fits the user’s occasional food-stop pattern and transit-linked movement history.",
+    "5364": "A minor food-related option in the same commuting corridor, but less consistent with the user’s weekday morning pattern."
+  },
+  "fallback": false
+}

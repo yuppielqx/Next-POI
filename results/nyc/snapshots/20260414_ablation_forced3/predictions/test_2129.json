@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2129",
+  "ranked_loc_ids": [
+    2014,
+    1035,
+    3930,
+    3928,
+    2644,
+    1532,
+    1251,
+    133,
+    766
+  ],
+  "explanations": {
+    "2014": "This is the strongest match to the user’s repeated Brooklyn transit corridor and the stated southeast movement toward Downtown Brooklyn.",
+    "1035": "A closely related Downtown Brooklyn transit-and-errand hub that fits the user’s commute-oriented pattern and prior visits.",
+    "3930": "Another frequent Brooklyn station in the user’s history that aligns with a southeast return to familiar transit nodes.",
+    "3928": "This is a recurring Brooklyn metro station for the user and fits the weekday late-afternoon transit rhythm.",
+    "2644": "The LIRR Atlantic Terminal context makes this a strong alternate Brooklyn rail destination for a commuter-like trip.",
+    "1532": "A Brooklyn station consistent with the user’s transit-heavy behavior, though less central than Atlantic or Fulton.",
+    "1251": "This Brooklyn transfer point matches the user’s rail-centric mobility and southeast progression.",
+    "133": "A plausible Brooklyn continuation for a transit-oriented user, but less directly tied to prior core hubs.",
+    "766": "Since this is the last known location and the user may make a short nearby stop before continuing, it remains a weaker fallback."
+  },
+  "fallback": false
+}

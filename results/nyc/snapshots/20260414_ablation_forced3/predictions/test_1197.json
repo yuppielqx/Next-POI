@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1197",
+  "ranked_loc_ids": [
+    3300,
+    1200,
+    3959,
+    3800,
+    2656,
+    139,
+    5586,
+    116,
+    1399,
+    123
+  ],
+  "explanations": {
+    "3300": "The user’s strongest recurrent anchor is Jamaica Center, and the last known check-in plus same-area trend make a return to the terminal the most likely next step.",
+    "1200": "This is effectively the adjacent transit node to the last location and fits the user’s commute-oriented pattern extremely well.",
+    "3959": "A nearby quick-errand food stop is plausible given the user’s midday movement history and the close distance from Jamaica Center.",
+    "3800": "It is very close to the current area and the user has occasional leisure visits, making it a possible late-morning diversion.",
+    "2656": "Another nearby Jamaica transit hub aligns with the user’s transportation-heavy behavior and could follow a routine corridor move.",
+    "139": "The user often chains transit nodes in southeastern Queens, so a move toward the LIRR complex is plausible.",
+    "5586": "This is nearly adjacent to the previous rail options and fits the same commuter flow through Jamaica.",
+    "116": "The broader Jamaica Station hub remains a reasonable continuation of the user’s transit-oriented trajectory.",
+    "1399": "While less likely than the bus/subway nodes, it is still part of the same major transportation cluster near the user’s current position.",
+    "123": "A routine Queens errand stop is possible later in the morning, though it is less consistent than the Jamaica transit options."
+  },
+  "fallback": false
+}

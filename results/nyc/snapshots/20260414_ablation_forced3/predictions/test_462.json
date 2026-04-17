@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_462",
+  "ranked_loc_ids": [
+    1095,
+    116,
+    2639,
+    137,
+    1522,
+    927,
+    2014,
+    1200,
+    2642,
+    140
+  ],
+  "explanations": {
+    "1095": "The user just moved northeast from a bar and this nearby metro station is the most plausible immediate late-night transit stop.",
+    "116": "It is the dominant recurring anchor in the user’s history and a highly likely return point for a transit-heavy trip chain.",
+    "2639": "Late-night Manhattan subway access fits the user’s off-peak mobility and station-to-station chaining pattern.",
+    "137": "Penn Station is a major transit hub that matches the user’s strong transportation-oriented behavior.",
+    "1522": "This station has a strong midnight-to-2am presence in the user’s history and fits a late-night transfer.",
+    "927": "A Queens rail stop consistent with the user’s repeated off-peak transit use and corridor-based movement.",
+    "2014": "A major Brooklyn transfer hub that aligns with the user’s pattern of multi-line transit nodes.",
+    "1200": "Another Queens anchor that matches the user’s Jamaica-centered travel pattern.",
+    "2642": "The user frequently visits southern Brooklyn stations, making this a plausible late-night transit destination.",
+    "140": "A recurring Brooklyn terminal in the user’s history, though less likely than the nearer Queens/Manhattan hubs."
+  },
+  "fallback": false
+}

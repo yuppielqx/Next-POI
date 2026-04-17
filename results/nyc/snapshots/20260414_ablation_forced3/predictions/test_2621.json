@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2621",
+  "ranked_loc_ids": [
+    1499,
+    2343,
+    5728,
+    5729,
+    1854,
+    639,
+    2436,
+    4966,
+    384,
+    3586
+  ],
+  "explanations": {
+    "1499": "Strongest match to the user’s repeated Saturday late-afternoon gourmet-shop pattern and the provided destination prior.",
+    "2343": "A highly recurrent food spot for this user and still plausible for a Saturday evening-to-afternoon dining chain.",
+    "5728": "Fits the user’s Brooklyn café habits and is another familiar daytime food stop in the Cobble Hill area.",
+    "5729": "A casual pizza option aligned with the user’s food-oriented outings and downtown Manhattan movement.",
+    "1854": "Dessert venues fit the user’s evening-snack behavior, though this is less distinctive than their core repeats.",
+    "639": "A social bar destination that matches their after-work pattern and lower Manhattan rotation.",
+    "2436": "A familiar café-type stop in downtown Manhattan that suits an afternoon transition.",
+    "4966": "Nearby and food-oriented, making it a plausible follow-up from the current West Village/Carmine area.",
+    "384": "Very close to the last location and consistent with a casual food outing, though no prior history lowers confidence.",
+    "3586": "Proximity makes it plausible, but lack of prior visits and weaker profile alignment reduce its likelihood."
+  },
+  "fallback": false
+}

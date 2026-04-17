@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_696",
+  "ranked_loc_ids": [
+    3407,
+    3406,
+    2039,
+    2599,
+    274,
+    1122,
+    3408,
+    3424,
+    3416,
+    2044
+  ],
+  "explanations": {
+    "3407": "A frequent Friday lunch/afternoon destination very close to Lord & Taylor, matching the short northwest move and the user’s strong repeat pattern.",
+    "3406": "Highly repeated on Fridays and consistent with the user’s food-first routine within the Midtown corridor.",
+    "2039": "A very strong Friday-repeat American restaurant option near the current position, fitting a quick local transition.",
+    "2599": "A common coffee stop for this user and still close enough for an easy afternoon move from Lord & Taylor.",
+    "274": "Nearby and northwest, it fits the movement trend and the user’s central Manhattan wandering around the noon-to-afternoon window.",
+    "1122": "Very close to the last point and consistent with the user’s repeated Midtown institutional stops.",
+    "3408": "Adjacent to the current area and plausible if the user is continuing a familiar office-like weekday circuit.",
+    "3424": "A nearby practical errand stop that fits the routine-service pattern and short-distance movement.",
+    "3416": "Within the user’s usual corridor and a plausible deli/bodega stop for a quick afternoon visit.",
+    "2044": "Another nearby coffee option that aligns with the user’s habitual late-morning to afternoon caffeine pattern."
+  },
+  "fallback": false
+}

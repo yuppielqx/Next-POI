@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_937",
+  "ranked_loc_ids": [
+    4010,
+    4012,
+    4011,
+    4005,
+    4015,
+    2993,
+    2670,
+    98,
+    613,
+    3820
+  ],
+  "explanations": {
+    "4010": "This is the user’s strongest recurring anchor and the most likely morning return point in East Harlem/Upper East Side.",
+    "4012": "A routine neighborhood errand stop fits the user’s habitual local morning pattern near their base.",
+    "4011": "The user often pairs home-base returns with practical grocery errands in the same immediate area.",
+    "4005": "This nearby fitness center matches a plausible early Saturday routine around the user’s anchor zone.",
+    "4015": "A close local restaurant in East Harlem could be a breakfast or early meal stop after returning home.",
+    "2993": "A nearby diner is a credible morning food destination within the user’s usual neighborhood range.",
+    "2670": "The user’s northeast local movement and morning timing make a nearby waterfront walk plausible.",
+    "98": "A Harlem café is consistent with a calm Saturday morning neighborhood visit.",
+    "613": "Broader neighborhood movement northward is possible given the recent northeast trend and local pattern.",
+    "3820": "This nearby retail stop is less likely than food or home-base options, but still fits a short local morning outing."
+  },
+  "fallback": false
+}

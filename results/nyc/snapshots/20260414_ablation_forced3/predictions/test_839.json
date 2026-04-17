@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_839",
+  "ranked_loc_ids": [
+    3737,
+    3738,
+    3739,
+    4355,
+    3752,
+    4971,
+    4158,
+    3504,
+    4163,
+    4105
+  ],
+  "explanations": {
+    "3737": "Strongest temporal and behavioral match: this is the user’s most frequent pre-dawn stop and best fits the Friday 05:16 routine.",
+    "3738": "It is the last known location and the other dominant node in the user’s tight Financial District loop.",
+    "3739": "Very close to the current area and consistent with a short local eastward move within the same Lower Manhattan cluster.",
+    "4355": "A nearby transit node that fits a routine commute-like transfer pattern in the Financial District.",
+    "3752": "A nearby office building that matches the user’s work-like early-morning mobility around Lower Manhattan.",
+    "4971": "Another close Financial District office destination that aligns with the user’s repeated commercial-area circuit.",
+    "4158": "A nearby office building in the same corridor, plausible for a short eastward continuation of the trip.",
+    "3504": "Broad area-level return is plausible given the user’s highly concentrated routine in this exact neighborhood.",
+    "4163": "Close by and behaviorally consistent with the user’s frequent early-morning movement through the Financial District core.",
+    "4105": "Extremely nearby and within the same micro-area, but less supported than the user’s repeated garage/building pattern."
+  },
+  "fallback": false
+}

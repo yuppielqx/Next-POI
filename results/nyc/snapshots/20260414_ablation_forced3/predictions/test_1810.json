@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1810",
+  "ranked_loc_ids": [
+    4412,
+    2317,
+    1092,
+    137,
+    1881,
+    5208,
+    1371,
+    560,
+    4674,
+    5207
+  ],
+  "explanations": {
+    "4412": "Strong Saturday-evening history and immediate proximity make this the most likely next nightlife stop in the Penn Station cluster.",
+    "2317": "Another highly visited Saturday bar in the same walkable corridor, fitting a likely evening drinking progression.",
+    "1092": "Frequent 6–8 PM activity and tight spatial overlap suggest a nearby event or venue visit is plausible.",
+    "137": "This Penn Station hub is extremely close and has repeated Saturday evening presence, making it a natural short-hop move.",
+    "1881": "A nearby sports-bar option that matches the user’s evening social pattern in the same Midtown nightlife zone.",
+    "5208": "Already the last known location, so a brief stay or immediate return there remains possible despite lower movement likelihood.",
+    "1371": "A close-by dinner/bar venue that fits the user’s food-plus-social behavior around Penn Station.",
+    "560": "Nearby and unvisited, but less aligned with the user’s typical nightlife sequence than bars or entertainment spots.",
+    "4674": "A nearby food option that could follow Penn Sushi, though it is weaker than the user’s usual venue types.",
+    "5207": "Home is a fallback destination, but the Saturday evening timing and strong Midtown routine make it less likely right now."
+  },
+  "fallback": false
+}

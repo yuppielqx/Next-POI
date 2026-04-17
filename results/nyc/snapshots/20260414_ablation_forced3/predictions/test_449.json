@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_449",
+  "ranked_loc_ids": [
+    2615,
+    2616,
+    2617,
+    2620,
+    2618,
+    2624,
+    2625,
+    2619,
+    445,
+    2623
+  ],
+  "explanations": {
+    "2615": "This is the strongest routine anchor, with multiple Tuesday afternoon visits and the best overall historical support for a return after Panera Bread.",
+    "2616": "A nearby home base candidate that fits a routine afternoon return within the user’s tight Fair Lawn orbit.",
+    "2617": "The user was just there this morning and it is a recurring Tuesday stop, though staying until mid-afternoon is less likely.",
+    "2620": "A very close practical errand stop that matches the user’s suburban shopping-and-errands pattern.",
+    "2618": "A repeated diner anchor in Fair Lawn that could plausibly be visited for an afternoon meal.",
+    "2624": "It is nearby and the recent visit suggests some continuity with the current local movement pattern.",
+    "2625": "A practical errand destination consistent with the user’s routine, though somewhat less tied to this exact time.",
+    "2619": "Another familiar dining stop that fits a mid-afternoon food-related outing.",
+    "445": "A plausible nearby shopping destination, especially given the recent Paramus-area movement.",
+    "2623": "A nearby retail option within the user’s usual North Jersey corridor, but less directly supported than the top choices."
+  },
+  "fallback": false
+}

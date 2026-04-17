@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1736",
+  "ranked_loc_ids": [
+    2404,
+    2454,
+    2440,
+    5147,
+    3921,
+    5367,
+    1529,
+    387,
+    1059
+  ],
+  "explanations": {
+    "2404": "It is a nearby bar in the user’s downtown social corridor and fits an early-evening transition stop better than a late-night venue.",
+    "2454": "Very close to the last location and matches the user’s strong preference for compact downtown nightlife hopping.",
+    "2440": "A nearby pub that suits a Monday afternoon pre-evening social stop within the same Lower Manhattan orbit.",
+    "5147": "The user was just here, so a short revisit is possible despite the time gap making it less likely than a nearby new place.",
+    "3921": "A close Spanish restaurant fits the profile’s casual food preference during non-peak daytime hours.",
+    "5367": "A café is plausible for this earlier time slot and the user’s occasional daytime utilitarian stops.",
+    "1529": "Strong historical match and within the user’s preferred West Village nightlife pattern, though it is slightly farther away.",
+    "387": "A familiar hotel-bar option in the user’s core downtown area, consistent with social pre-evening movement.",
+    "1059": "A known nightlife anchor in the East Village that fits the user’s habits, but it is less likely at 16:05 on Monday than a café or restaurant."
+  },
+  "fallback": false
+}

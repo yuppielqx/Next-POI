@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1295",
+  "ranked_loc_ids": [
+    4646,
+    1252,
+    3929,
+    211,
+    3913,
+    2901,
+    3551,
+    88,
+    2974,
+    303
+  ],
+  "explanations": {
+    "4646": "The user’s last known location is their strongest residential anchor, and the night-time Saturday prior makes a home return or stay most likely.",
+    "1252": "This is the main non-home fallback with frequent Saturday and late-evening history, fitting a routine trip into Manhattan.",
+    "3929": "The nearby metro station is a plausible short-hop transit move from home, especially given the user’s transportation-heavy pattern.",
+    "211": "A nearby repeat outdoor stop in the home area could fit a short local errand or walk before a longer outing.",
+    "3913": "The user often uses transit nodes, and this bus line matches a movement-oriented transition from central Brooklyn.",
+    "2901": "A Brooklyn destination within a reasonable radius and part of the user’s limited repeat set of civic locations.",
+    "3551": "A well-established Manhattan repeat that aligns with the user’s regular Midtown coffee-trip pattern.",
+    "88": "This major transit hub matches the user’s Manhattan travel behavior, though it is less likely than staying local.",
+    "2974": "The user visited a pharmacy just before, making another service-oriented stop possible if they continued errands.",
+    "303": "A Manhattan food stop is plausible given past movement patterns, but it is a weaker fit than the core home/transit options."
+  },
+  "fallback": false
+}

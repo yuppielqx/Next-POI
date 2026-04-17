@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1844",
+  "ranked_loc_ids": [
+    543,
+    933,
+    4705,
+    274,
+    66,
+    47,
+    58,
+    631,
+    1837,
+    1976
+  ],
+  "explanations": {
+    "543": "It is the current last known location and the strongest return-to-last candidate only two minutes later.",
+    "933": "It is immediately adjacent in Rockefeller Center and fits the ongoing Midtown shopping pattern.",
+    "4705": "A nearby café that would be a plausible quick stop during the same shopping trip.",
+    "274": "Close by and consistent with a short walk south-west through Midtown.",
+    "66": "Another nearby retail destination that matches the user’s shopping behavior.",
+    "47": "A logical continuation of the retail outing toward the Herald Square shopping corridor.",
+    "58": "Grand Central Terminal is a nearby Midtown hub and a plausible transit-related move.",
+    "631": "A Midtown entertainment option, though less likely this early in the afternoon.",
+    "1837": "A further retail stop that fits the user’s shopping profile but is less proximate.",
+    "1976": "A food stop aligned with the user’s pattern, though it is less likely than nearer retail options."
+  },
+  "fallback": false
+}

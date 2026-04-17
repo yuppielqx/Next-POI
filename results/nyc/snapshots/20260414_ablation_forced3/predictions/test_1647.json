@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1647",
+  "ranked_loc_ids": [
+    591,
+    3094,
+    5046,
+    479,
+    3650,
+    1760,
+    5048,
+    2228,
+    192,
+    3249
+  ],
+  "explanations": {
+    "591": "This is the user’s strongest habitual anchor and the most likely familiar NYU destination for a late-evening return.",
+    "3094": "A very frequent campus café stop that fits the user’s routine, especially after daytime classes and before evening activity.",
+    "5046": "The NYU Stern lounge is a highly plausible nearby campus-cafeteria revisit given the user’s strong school-centered pattern.",
+    "479": "A Washington Square café aligns with the user’s late-night campus circuit and similar users’ study/snack behavior.",
+    "3650": "Dessert shops are a recurring fit for this user, and the 9–11pm time window strongly supports another sweet stop.",
+    "1760": "This Mercer Street stop has repeated Wednesday relevance and remains close to the user’s core NYU territory.",
+    "5048": "Another dessert option consistent with the user’s ice-cream-and-sweets pattern after evening movement.",
+    "2228": "A nearby bakery/chocolate spot that matches the user’s food-oriented evening trajectory around NYU.",
+    "192": "A common transitional destination in the Greenwich Village area, especially if the user is moving between food and campus venues.",
+    "3249": "Late-night pizza is behaviorally plausible, and it fits both similar-user patterns and the user’s nearby East Village movement."
+  },
+  "fallback": false
+}

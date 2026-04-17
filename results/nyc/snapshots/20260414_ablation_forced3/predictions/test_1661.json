@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1661",
+  "ranked_loc_ids": [
+    88,
+    53,
+    58,
+    4953,
+    1355,
+    1151,
+    607,
+    1825,
+    631,
+    1826
+  ],
+  "explanations": {
+    "88": "It is the strongest historical anchor for this user and fits the late-night transit-oriented pattern near the current Times Square corridor.",
+    "53": "This is an extremely close Midtown transit hub and matches the user’s routine of moving through major stations after evening activities.",
+    "58": "A frequently visited Midtown anchor that aligns with the user’s established Grand Central-area pattern, though it is slightly farther than the top transit options.",
+    "4953": "Late-evening movement after a movie often leads to nearby food and drink, and this is a known social spot for the user in the same corridor.",
+    "1355": "It is directly adjacent to the current area and a plausible post-movie dinner stop in Times Square.",
+    "1151": "The user has a leisure-and-entertainment pattern in Midtown, making this nearby venue a reasonable after-hours destination.",
+    "607": "A very nearby, routine-friendly stop that fits a quick late-night refreshment or waiting pattern.",
+    "1825": "After an evening in the theater district, returning to a nearby hotel is a plausible short-distance move.",
+    "631": "The user is already in movie-theater territory, so another adjacent entertainment venue is possible though less likely than transit or food.",
+    "1826": "This nearby attraction is close enough to fit a final short hop, but it is less consistent with the user’s stronger transit and food habits."
+  },
+  "fallback": false
+}

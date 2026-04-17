@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_543",
+  "ranked_loc_ids": [
+    2922,
+    1649,
+    2923,
+    986,
+    1194,
+    43,
+    2343,
+    2935,
+    901,
+    2937
+  ],
+  "explanations": {
+    "2922": "Strong midday return-to-base behavior makes this the best fit for a downtown work-adjacent stop.",
+    "1649": "It matches the user’s frequent noon-to-2pm lunch pattern in SoHo/Hudson Square.",
+    "2923": "Another highly plausible Tuesday lunch stop with strong noon-slot history and nearby west-side geography.",
+    "986": "The user often uses coffee shops at midday, and this is a natural next step after Dean & DeLuca.",
+    "1194": "It is immediately nearby and fits the eastward drift toward SoHo retail errands.",
+    "43": "Very close to the last stop and consistent with the user’s image-conscious downtown shopping pattern.",
+    "2343": "A recurring midday restaurant choice that fits a casual lunch move within the same downtown cluster.",
+    "2935": "Close enough for a lunch visit and aligned with the user’s West Village/SoHo dining pattern.",
+    "901": "A plausible coffee stop for a short eastward move during the afternoon.",
+    "2937": "A familiar downtown dining venue, but slightly less likely than the more directly matching lunch and office options."
+  },
+  "fallback": false
+}

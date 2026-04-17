@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1993",
+  "ranked_loc_ids": [
+    2617,
+    445,
+    2625,
+    3286,
+    5482,
+    4319,
+    5376,
+    5375,
+    3579,
+    2637
+  ],
+  "explanations": {
+    "2617": "A nearby food stop in Fair Lawn fits the afternoon timing, the northwest movement, and the user’s recurring casual dining pattern.",
+    "445": "This is the user’s strongest repeated retail anchor and a very plausible same-corridor continuation after the tanning salon.",
+    "2625": "Similar users around 16:10 often gravitate to Rochelle Park errands, making this a strong nearby retail/pharmacy option.",
+    "3286": "The user often chains mall activity with entertainment, and this is directly tied to their main Paramus hub.",
+    "5482": "A nearby hot dog joint is a believable quick snack stop after a personal-care visit in the same area.",
+    "4319": "Similar-user patterns and the local north-west drift make this a plausible transit-oriented move from Fair Lawn.",
+    "5376": "Staying at the tanning salon is less likely than moving on, but it remains possible given the short time gap.",
+    "5375": "A fast-food errand in the broader Bergen County corridor fits the user’s casual stop pattern.",
+    "3579": "This nearby residential-area stop is feasible if the user is heading toward another local destination in the same general direction.",
+    "2637": "Though usually a Bayonne anchor, it is less consistent with the current northwest movement and afternoon Paramus-area context."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_405",
+  "ranked_loc_ids": [
+    232,
+    1293,
+    2404,
+    2120,
+    1070,
+    2405,
+    2403,
+    3367,
+    3136,
+    5061
+  ],
+  "explanations": {
+    "232": "The user has a strong prior history here and Friday-night bar hopping makes a return to a known downtown nightlife venue very plausible.",
+    "1293": "It fits the late-Friday nightlife pattern and is a nearby Manhattan bar option in the East Village corridor.",
+    "2404": "This matches the user’s downtown social chaining behavior and is a plausible next stop after a bar outing.",
+    "2120": "The user has visited before and it is a known late-night downtown anchor, though it is less likely than a more purely bar-focused stop.",
+    "1070": "The user has paired cultural stops with nightlife-adjacent downtown movement before, making this a reasonable nearby chain option.",
+    "2405": "Staying put is possible, but the profile and time prior favor a change of venue rather than remaining at the same bar.",
+    "2403": "It is close to the last known location in Brooklyn, but it is less aligned with the user’s stronger downtown Manhattan nightlife pattern.",
+    "3367": "Another nearby bar in Brooklyn, but it lacks the stronger personal-history and downtown corridor fit of the top options.",
+    "3136": "The user has some arts-oriented behavior, but a late-night cinema visit is less likely than a bar or lounge.",
+    "5061": "It is nearby and entertainment-oriented, yet it is a weaker match for a late Friday-night continuation than the nightlife venues above."
+  },
+  "fallback": false
+}

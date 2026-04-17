@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1856",
+  "ranked_loc_ids": [
+    1235,
+    59,
+    1776,
+    97,
+    4815,
+    5255,
+    560,
+    4763,
+    5317,
+    3477
+  ],
+  "explanations": {
+    "1235": "The user repeatedly returns to this Midtown anchor around 14:00, and the prior day’s Bank of America stop was followed by a Marriott Marquis check-in.",
+    "59": "This is one of the user’s strongest noon-to-2pm recurring Midtown destinations and fits the routine return pattern.",
+    "1776": "A major, heavily visited afternoon anchor in the user’s history, especially consistent with weekday business-hour movement.",
+    "97": "The user frequently chains into this lounge after Midtown stops, and it matches the lunch/social-burst pattern.",
+    "4815": "Although already the last known location, the user has high revisit frequency here and could briefly remain in the uptown cluster.",
+    "5255": "Another bank-heavy stop that aligns with the user’s business-hour banking pattern and nearby uptown movement.",
+    "560": "A plausible quick lunch-time food stop in Midtown given similar users’ midday restaurant transitions.",
+    "4763": "Very close to the current uptown position and feasible for a short midday food stop before a larger jump.",
+    "5317": "Nearby fast food fits the compact lunch-burst behavior and could be visited during the 14:00 window.",
+    "3477": "A nearby nightlife/bar venue that is less likely than the core anchors but still plausible given the user’s lounge-oriented history."
+  },
+  "fallback": false
+}

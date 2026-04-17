@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1041",
+  "ranked_loc_ids": [
+    777,
+    3077,
+    2770,
+    3537,
+    1106,
+    2918,
+    1407,
+    1595,
+    421,
+    278
+  ],
+  "explanations": {
+    "777": "It is the closest strong nightlife option in the same East Village corridor, matching the user’s bar-hopping pattern and the southwest movement trend.",
+    "3077": "This is one of the user’s repeatedly visited downtown bars and is close enough for a short continuation of the late-night crawl.",
+    "2770": "A very nearby Sake Bar fits the immediate time window and the user’s tendency to chain drinks within the same nightlife district.",
+    "3537": "It is the current location and forced-nearby keep, so a brief stay or immediate return-like continuation remains plausible.",
+    "1106": "The user frequently visits this bar and it fits the late-night drinking pattern, though it requires a larger move than the closest options.",
+    "2918": "This repeated Midtown nightlife stop is consistent with the user’s bar sequence, but it is less aligned with the current downtown position.",
+    "1407": "A classic post-bar food stop for this user, especially if the night shifts from drinking to late-night eats.",
+    "1595": "This nearby food/drink option could fit a transition stop, though it is less historically specific than the top bar choices.",
+    "421": "A plausible nearby nightlife venue in the same general socializing pattern, but with weaker historical support.",
+    "278": "Late-night food is possible after bars, but it is less likely than a direct move to another nearby nightlife spot."
+  },
+  "fallback": false
+}

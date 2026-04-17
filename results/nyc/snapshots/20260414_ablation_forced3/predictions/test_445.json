@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_445",
+  "ranked_loc_ids": [
+    2597,
+    3301,
+    2595,
+    2594,
+    2603,
+    2606,
+    2613,
+    2602,
+    2600,
+    2598
+  ],
+  "explanations": {
+    "2597": "This is the strongest historical commute anchor, it matches the weekday morning timing, and similar users at this hour often head there next.",
+    "3301": "It is a nearby transit hub in the Woodlawn corridor and fits the north-east movement trend from the last stop.",
+    "2595": "The user has frequent history here and it is very close to the current area, making it a plausible short-hop continuation.",
+    "2594": "This Bronx metro station is part of the user’s repeated northern corridor and is a likely transit-oriented next stop.",
+    "2603": "Another nearby Bronx train station that fits the morning commuter pattern and clustered movement behavior.",
+    "2606": "The user has prior usage of this station and it remains a realistic transit link in the Bronx network.",
+    "2613": "As the last known stop and a practical morning errand location, a brief stay or revisit remains possible.",
+    "2602": "The user often follows morning transit with coffee or routine Manhattan stops, and similar users do this around this time.",
+    "2600": "This aligns with the user’s functional errand pattern in Manhattan, especially on weekday mornings.",
+    "2598": "A frequent practical stop in the user’s corridor, though less likely than the Bronx transit options at this hour."
+  },
+  "fallback": false
+}

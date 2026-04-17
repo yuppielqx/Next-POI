@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2417",
+  "ranked_loc_ids": [
+    289,
+    1196,
+    1072,
+    2334,
+    209,
+    4787,
+    59,
+    626,
+    3489,
+    1035
+  ],
+  "explanations": {
+    "289": "This is one of the user’s strongest recurring midday stops and fits a short northeast move from Ludlow Fitness into the Canal Street corridor.",
+    "1196": "Chinatown matches the user’s frequent Lower Manhattan pattern and is a very plausible nearby continuation after the fitness stop.",
+    "1072": "SoHo is close, consistent with the northeast trend, and aligns with the user’s usual Lower Manhattan outing chain.",
+    "2334": "Hotel Chantelle is immediately adjacent to the current area, making it a natural short next stop after Ludlow Fitness.",
+    "209": "This nearby restaurant matches the user’s midday food-oriented behavior and is a plausible quick transition from the gym.",
+    "4787": "A juice stop fits the user’s midday food-and-caffeine routine and the nearby Lower Manhattan travel pattern.",
+    "59": "Times Square is a frequent historical destination around noon and early afternoon, though it requires a larger move than the closest Lower Manhattan options.",
+    "626": "The user often combines daytime outings with entertainment, and this Midtown theater is a reasonable follow-on destination.",
+    "3489": "A restaurant visit fits the user’s lunch-centric behavior, though it is less likely than the closer Chinatown/SoHo options.",
+    "1035": "This is consistent with the user’s Brooklyn travel habits, but it is a less likely immediate next stop than nearby Manhattan locations."
+  },
+  "fallback": false
+}

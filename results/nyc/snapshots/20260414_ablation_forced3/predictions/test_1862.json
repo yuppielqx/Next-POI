@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1862",
+  "ranked_loc_ids": [
+    4774,
+    3357,
+    1836,
+    2101,
+    53,
+    608,
+    1237,
+    1354,
+    2042,
+    1882
+  ],
+  "explanations": {
+    "4774": "This is the user’s dominant anchor and the strongest match for a Wednesday late-afternoon return after a downtown errand run.",
+    "3357": "The user repeatedly pairs AMDA with nearby coffee stops, especially on weekdays and in the afternoon.",
+    "1836": "Another frequent Midtown West coffee stop that fits the user’s routine-based AMDA corridor.",
+    "2101": "A diner on the same 9th Ave strip that matches the user’s lunch-to-afternoon food pattern near their core area.",
+    "53": "A transit hub fits the user’s mobility style and the likely return toward Midtown West after being downtown.",
+    "608": "Columbus Circle is a known part of the user’s anchored geography and a plausible coffee stop en route back north.",
+    "1237": "This is another nearby coffee option in the user’s Midtown West routine zone.",
+    "1354": "A performing arts venue in Midtown West aligns with the user’s arts-focused profile and afternoon activity window.",
+    "2042": "A nearby restaurant in the AMDA neighborhood that fits a late-afternoon food stop before class or rehearsal.",
+    "1882": "A common nearby diner option in the user’s habitual Midtown West corridor, plausible for an afternoon break."
+  },
+  "fallback": false
+}

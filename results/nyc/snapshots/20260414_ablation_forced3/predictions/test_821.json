@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_821",
+  "ranked_loc_ids": [
+    3718,
+    3486,
+    968,
+    3715,
+    746,
+    3711,
+    937,
+    3716,
+    1049,
+    3633
+  ],
+  "explanations": {
+    "3718": "The next check-in is only 23 minutes later and the user has a strong return-to-last pattern in the Lower East Side nightlife corridor.",
+    "3486": "It is the closest familiar bar to Max Fish and fits the user’s midnight-to-2am bar-hopping behavior in the same cluster.",
+    "968": "This is an adjacent nightlife spot on Orchard Street that matches the user’s tendency to move a very short distance between late-night venues.",
+    "3715": "It is extremely nearby on Orchard Street and is consistent with the user’s late-night Lower East Side bar sequence.",
+    "746": "A known late-night favorite in the same neighborhood, with repeated midnight–2am visits that fit this time window well.",
+    "3711": "A nearby bar in the user’s established LES circuit, making it a plausible short-hop destination after Max Fish.",
+    "937": "Also part of the user’s recurring Lower East Side nightlife pattern, though slightly farther than the closest bar options.",
+    "3716": "The user has a music-venue overlap with the current trip and this nearby venue could fit a continuation of the night out.",
+    "1049": "Another nearby music venue that aligns with the current music-heavy movement and the local area stay trend.",
+    "3633": "It is a nearby nightlife spot in the same corridor, but with less historical support than the more frequently visited bars."
+  },
+  "fallback": false
+}

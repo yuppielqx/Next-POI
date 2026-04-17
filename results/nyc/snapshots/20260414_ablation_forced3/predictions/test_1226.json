@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1226",
+  "ranked_loc_ids": [
+    4551,
+    608,
+    142,
+    1318,
+    1980,
+    2033,
+    550,
+    2267,
+    1407,
+    611
+  ],
+  "explanations": {
+    "4551": "This is the user's strongest Manhattan anchor and fits the Wednesday afternoon academic corridor immediately after Columbus Circle.",
+    "608": "It is the last known location and a repeated convenience stop in the user's Columbus Circle routine.",
+    "142": "A nearby transit hub that fits a commuter transition within the same corridor.",
+    "1318": "It is adjacent to the last location and consistent with staying in the Columbus Circle cluster.",
+    "1980": "A frequent nearby lunch option that matches the noon-to-afternoon food pattern.",
+    "2033": "Very close to the current area and plausible as a short move north within the same neighborhood.",
+    "550": "This is essentially Columbus Circle, making it a likely linger or revisit spot.",
+    "2267": "Fordham University is another academic venue nearby, though less established than NYIT.",
+    "1407": "A nearby quick food stop that fits a midday urban lunch pattern.",
+    "611": "It is a plausible nearby dining destination, but less aligned with the user's usual academic commute."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2307",
+  "ranked_loc_ids": [
+    5333,
+    137,
+    2743,
+    2735,
+    1271,
+    47,
+    1564,
+    1613,
+    1963,
+    4907
+  ],
+  "explanations": {
+    "5333": "The user has a strong Midtown weekday errand pattern, and this pharmacy is the closest repeated match to their established daytime routine near Penn Station/Herald Square.",
+    "137": "Penn Station is a core commute hub in the user’s history, and after Gotham Hall they are still positioned in the Midtown work corridor.",
+    "2743": "A nearby Midtown pharmacy fits the user’s practical weekday stop pattern and the current north-east movement trend.",
+    "2735": "The user frequently makes midday coffee stops in Midtown, and this is a known noon-to-2pm match near the current area.",
+    "1271": "This Midtown retail stop matches the user’s errands-and-shopping behavior around Herald Square during the afternoon.",
+    "47": "The location is very close and fits a practical shopping/errand continuation from the current Midtown cluster.",
+    "1564": "The user has prior Midtown retail activity, and electronics/shopping venues are consistent with their weekday daytime pattern.",
+    "1613": "Bookstore visits fit the user’s Midtown midday routine and their tendency to cluster practical stops after commuting.",
+    "1963": "The user is already there, so a brief continued stay or immediate return is possible even if it is less typical than an onward move.",
+    "4907": "A nearby lunch/afternoon food stop is plausible given the 13:18 timing and the user’s practical Midtown movement pattern."
+  },
+  "fallback": false
+}

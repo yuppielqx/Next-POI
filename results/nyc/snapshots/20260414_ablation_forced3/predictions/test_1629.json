@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1629",
+  "ranked_loc_ids": [
+    4848,
+    5029,
+    4965,
+    2371,
+    735,
+    1387,
+    5031,
+    5032,
+    1814,
+    2916
+  ],
+  "explanations": {
+    "4848": "The target time and the user’s strongest recurring Upper East Side coworking pattern make this the most likely return destination.",
+    "5029": "This is the other dominant frequent anchor in the user’s local UES routine and fits a post-work afternoon movement.",
+    "4965": "A repeated nearby neighborhood restaurant that matches the user’s clustered Upper East Side dining behavior.",
+    "2371": "Another regular UES restaurant in the user’s habitual radius, likely if the afternoon turns into an early dinner stop.",
+    "735": "The user often ends the day with bars, and this nearby repeat venue fits an evening social transition.",
+    "1387": "A familiar Upper East Side cafe/coffee stop that aligns with a localized afternoon errand or break.",
+    "5031": "A one-off but nearby UES food venue that is plausible given the user’s repeated neighborhood dining patterns.",
+    "5032": "This is another UES restaurant in the same corridor, making it a reasonable substitute for the usual favorites.",
+    "1814": "Although less typical, the short-distance transition from Kips Bay keeps this nearby library in play for an afternoon stop.",
+    "2916": "Nearby and category-consistent with the user’s bar tendency, but weaker than the more established UES options."
+  },
+  "fallback": false
+}

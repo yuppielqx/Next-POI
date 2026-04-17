@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2079",
+  "ranked_loc_ids": [
+    5434,
+    1713,
+    4977,
+    2636,
+    5019,
+    5320,
+    3082,
+    1162,
+    4371,
+    445
+  ],
+  "explanations": {
+    "5434": "This is the user’s strongest anchor with 27 prior visits and the last known location, making a short return most likely even at night.",
+    "1713": "The user has repeated midnight-to-2am visits here, and late-night coffee/food behavior fits the target time well.",
+    "4977": "The profile highlights late-night errand patterns at grocery stores, and this Edgewater Pathmark matches that off-schedule retail tendency.",
+    "2636": "Similar users at this hour favored Dunkin-type stops, and the user has prior evidence of coffee-shop style late-night mobility.",
+    "5019": "Grocery/retail errands are consistent with the user’s overnight out-of-routine trips, though this Bergenfield location is less central than Englewood options.",
+    "5320": "Pharmacy/errand chaining is part of the user’s routine, and this nearby retail stop fits a practical late-night destination.",
+    "3082": "A very close Englewood grocery option could plausibly attract a short return trip for a quick late-night errand.",
+    "1162": "A nearby Englewood restaurant is plausible for a late food stop, though there is less direct history support than for coffee or grocery.",
+    "4371": "Diners are common late-night destinations, and this nearby Englewood diner fits the time-conditioned food prior.",
+    "445": "The user has a history of retail trips there, but the mall is less likely at 01:41 than closer food or convenience locations."
+  },
+  "fallback": false
+}

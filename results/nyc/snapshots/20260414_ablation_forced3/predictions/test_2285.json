@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2285",
+  "ranked_loc_ids": [
+    5567,
+    5144,
+    5483,
+    4486,
+    4900,
+    3283,
+    118,
+    4372,
+    4375,
+    4771
+  ],
+  "explanations": {
+    "5567": "The user has just checked in here twice within the last hour, and the strongest short-term signal is that they remain in the same grocery-shopping spot.",
+    "5144": "It is the closest grocery alternative and fits the current shopping context, making a nearby store hop plausible.",
+    "5483": "Another grocery option in the same Bergen County orbit, consistent with a continued errand sequence.",
+    "4486": "Fitness is the user’s dominant long-term pattern, though this timing is less typical than their usual early-morning gym visits.",
+    "4900": "The user often pairs road movement with routine travel, so a return to a familiar transit route is possible.",
+    "3283": "A nearby gym could attract the user if the shopping errand ends and they pivot to exercise.",
+    "118": "A bus transfer hub matches the user’s commute-oriented movement profile and could follow a local errand.",
+    "4372": "Nearby automotive activity is less common but still plausible for a short regional stop.",
+    "4375": "A nearby commercial plaza fits the same-area movement trend, though it is less specific than the grocery options.",
+    "4771": "A nearby food stop is possible after shopping, but it is less supported by the user’s routine than grocery or gym destinations."
+  },
+  "fallback": false
+}

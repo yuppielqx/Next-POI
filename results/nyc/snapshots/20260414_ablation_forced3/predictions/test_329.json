@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_329",
+  "ranked_loc_ids": [
+    2072,
+    240,
+    2080,
+    2070,
+    486,
+    2082,
+    1778,
+    2083,
+    2079,
+    1196
+  ],
+  "explanations": {
+    "2072": "It matches the user’s Friday social pattern, is in the core Lower Manhattan nightlife cluster, and is a strong return-to-frequent-place candidate after Trouble City.",
+    "240": "Strong Friday-only history and the time prior points to an early evening social stop, making this a very plausible recurring venue.",
+    "2080": "Another repeated bar in the user’s East Village orbit, fitting the expected transition from one nightlife spot to another.",
+    "2070": "The last known location is itself a favored nightlife spot, so a quick return remains plausible despite the daytime gap.",
+    "486": "A nearby Lower East Side bar consistent with the user’s clustered evening drinking pattern and movement south-west.",
+    "2082": "This fits the user’s bar-heavy profile and nearby East Village geography, making it a reasonable alternative social stop.",
+    "1778": "A similar bar category in the user’s preferred nightlife zone, plausible for a Friday afternoon/evening outing.",
+    "2083": "A gastropub in the same general Manhattan nightlife corridor, matching the user’s casual food-and-drink behavior.",
+    "2079": "Close to the last location and historically tied to the user’s lower Manhattan daytime/leisure movements, though less likely than bars.",
+    "1196": "Nearby and consistent with occasional lower Manhattan daytime movement, but less aligned with the strong nightlife tendency."
+  },
+  "fallback": false
+}

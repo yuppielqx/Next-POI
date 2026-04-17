@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1808",
+  "ranked_loc_ids": [
+    5207,
+    1092,
+    137,
+    5208,
+    4412,
+    2317,
+    1653,
+    560,
+    2327,
+    1881
+  ],
+  "explanations": {
+    "5207": "The strongest morning routine signal points to a return home in southeastern Queens around this time.",
+    "1092": "The user is currently anchored in the Penn/MSG cluster, making an immediate nearby continuation plausible.",
+    "137": "Penn Station is a frequent transition point and fits a short in-area move from the last known spot.",
+    "5208": "This is part of the user’s tight Midtown loop and has strong historical repeat behavior.",
+    "4412": "The user often moves from Penn/MSG into nearby bars, though morning timing makes this less likely.",
+    "2317": "Another nearby nightlife venue in the same cluster, supported by prior visits.",
+    "1653": "A nearby morning café option that fits the target time, though there is no visit history.",
+    "560": "Very close to the current area and plausible for a morning stop, but lacking prior evidence.",
+    "2327": "A nearby beer garden with slight relevance from the Midtown social pattern, but weaker at this hour.",
+    "1881": "A nearby sports bar that matches the user’s social corridor, though it is less consistent with a Wednesday morning move."
+  },
+  "fallback": false
+}

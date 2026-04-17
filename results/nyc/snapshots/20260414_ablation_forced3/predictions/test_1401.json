@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1401",
+  "ranked_loc_ids": [
+    683,
+    4780,
+    4781,
+    2261,
+    659,
+    3801,
+    4782,
+    317,
+    3128,
+    4507
+  ],
+  "explanations": {
+    "683": "This is the user's strongest habitual anchor and best-supported morning destination, especially for a weekday return into Queens.",
+    "4780": "The user frequently makes practical morning food stops in the Northern Boulevard corridor, making this a strong Queens errand option.",
+    "4781": "Jamaica fast-food visits fit the user's recurring pattern of flexible, utilitarian stops before resuming travel.",
+    "2261": "Long Island City retail locations align well with the user's big-box shopping and errand-driven behavior.",
+    "659": "Another Northern Boulevard Queens retail stop that matches the user's shopping-heavy mobility style.",
+    "3801": "It is the most recent known area and the user has prior history here, though it is weaker than their Queens anchors.",
+    "4782": "Grocery-store behavior is consistent with the user's errand pattern, and this Queens location is plausible after an overnight reset.",
+    "317": "The user is currently near this Valley Stream miscellaneous shop, so a short immediate continuation is possible despite weaker historical support.",
+    "3128": "The nearby mall is a natural follow-on to the current Valley Stream retail context and the user's shopping orientation.",
+    "4507": "The user sometimes extends into leisure outings, making a nearby entertainment stop possible though less likely in the morning."
+  },
+  "fallback": false
+}

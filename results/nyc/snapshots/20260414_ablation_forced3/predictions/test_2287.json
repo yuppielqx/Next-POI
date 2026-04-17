@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2287",
+  "ranked_loc_ids": [
+    1834,
+    921,
+    3944,
+    5588,
+    16,
+    558,
+    2829,
+    75,
+    59,
+    3530
+  ],
+  "explanations": {
+    "1834": "This is the user’s strongest habitual Tuesday morning Midtown destination and fits the strong Brooklyn-to-Manhattan daytime routine.",
+    "921": "A plausible transfer point on the way from Church Ave toward Midtown, especially given the user’s repeated F/G corridor usage.",
+    "3944": "The user is already near this station and often shows morning activity here, so a brief stay or return is possible.",
+    "5588": "The recent grocery-stop pattern near the current area makes a local errand plausible before leaving Brooklyn.",
+    "16": "The user frequently reaches central Midtown-area destinations, and the morning timing could support a park-adjacent stop.",
+    "558": "This Midtown landmark matches the user’s daytime Manhattan movement and is near several of their recurring destinations.",
+    "2829": "Very close to Plaza Food Hall and consistent with the user’s Midtown daytime cluster.",
+    "75": "A plausible Midtown errand destination in the same general area as the user’s repeated Manhattan daytime stops.",
+    "59": "The user has prior visits to Times Square and often moves through central Manhattan during the day.",
+    "3530": "A likely transit stop near the Plaza area if the user is continuing through Midtown rather than staying put."
+  },
+  "fallback": false
+}

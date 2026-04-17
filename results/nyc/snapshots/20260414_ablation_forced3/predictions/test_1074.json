@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1074",
+  "ranked_loc_ids": [
+    4291,
+    3336,
+    4290,
+    694,
+    1455,
+    4292,
+    4229,
+    690,
+    2259,
+    678
+  ],
+  "explanations": {
+    "4291": "A morning errand stop in the Astoria home cluster is highly plausible, and the user has repeated pharmacy behavior nearby.",
+    "3336": "This is very close to the last location and fits the user’s recurring Astoria grocery/health routine.",
+    "4290": "The user was last here, so a short return is the strongest movement pattern given the overnight gap.",
+    "694": "A nearby pharmacy is a strong morning-errand candidate for this Astoria-based user.",
+    "1455": "A close-by bodega/deli fits a quick breakfast or pickup stop in the neighborhood.",
+    "4292": "Morning timing strongly supports a bagel shop in Astoria as a likely first stop.",
+    "4229": "A nearby local bar is less likely in the morning, but it is adjacent and could be part of a short neighborhood movement.",
+    "690": "Similar to other nearby social spots, though the early time makes it less probable than errands or breakfast.",
+    "2259": "This fits the user’s Astoria dining pattern, though it is more consistent with later meals than 08:28.",
+    "678": "Similar users at this time sometimes go to a gym, making it a plausible though less likely morning option."
+  },
+  "fallback": false
+}

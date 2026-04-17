@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_519",
+  "ranked_loc_ids": [
+    116,
+    5586,
+    1399,
+    271,
+    2863,
+    135,
+    2782,
+    2861,
+    2849
+  ],
+  "explanations": {
+    "116": "The user is already in the Jamaica transit hub and this is the most natural immediate transfer point from the AirTrain.",
+    "5586": "A track-level rail transfer is highly plausible right after arriving at Jamaica Station.",
+    "1399": "The last known location is here, so a brief dwell or same-station continuation is most likely.",
+    "271": "The profile shows repeated airport-linked behavior, making a move deeper into JFK likely.",
+    "2863": "Airport-travel patterns and prior lounge visits make a lounge stop a plausible next step.",
+    "135": "If not continuing by rail, a shift to another nearby airport node like LaGuardia is possible but less likely.",
+    "2782": "LIC is the home base and eventual return destination, though the short time gap makes it less likely by 19:30.",
+    "2861": "This is a frequent LIC anchor and could be the user’s next familiar stop after travel.",
+    "2849": "A late-afternoon/evening return to a trusted LIC food spot is consistent with the user’s routine."
+  },
+  "fallback": false
+}

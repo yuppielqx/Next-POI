@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_707",
+  "ranked_loc_ids": [
+    26,
+    2103,
+    177,
+    2792,
+    1767,
+    3362,
+    1403,
+    216,
+    244,
+    940
+  ],
+  "explanations": {
+    "26": "It is immediately adjacent to Rye House and fits the user’s late-night nearby-new-place pattern for a quick food stop after drinks.",
+    "2103": "Also right next to the last location, this is a plausible late-night snack destination given the user’s nightlife corridor behavior.",
+    "177": "A familiar nightlife venue in the same lower Manhattan corridor makes this a strong candidate for continuing the evening.",
+    "2792": "The user has a history of cocktail-bar nightlife, and this speakeasy fits the 22:54 time prior well.",
+    "1767": "A nearby lounge aligns with the user’s evening social pattern and Manhattan south-of-Midtown cluster.",
+    "3362": "Another late-night social venue that matches the user’s nightlife habits and westward movement tendency.",
+    "1403": "The user often visits this coffee shop, and a late-night or post-bar coffee stop is plausible.",
+    "216": "Close by and previously visited, it could serve as a late-night meal following the bar.",
+    "244": "A nearby casual food option that fits a post-evening-drinks appetite in this neighborhood.",
+    "940": "A local entertainment venue in the same area remains possible, though less likely than food or bar options at this hour."
+  },
+  "fallback": false
+}

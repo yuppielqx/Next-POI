@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2080",
+  "ranked_loc_ids": [
+    5434,
+    398,
+    445,
+    5320,
+    5019,
+    2636,
+    5435,
+    1713,
+    4174,
+    395
+  ],
+  "explanations": {
+    "5434": "This is the user’s strongest routine anchor and best matches the Friday afternoon commuter pattern returning to the Englewood corridor.",
+    "398": "The community college is the main alternative in the user’s repeated Englewood-to-school weekday rhythm.",
+    "445": "Friday afternoons often support retail stops, and this mall is one of the user’s most consistent shopping destinations.",
+    "5320": "A practical errand stop in the same corridor fits the user’s low-variance, utility-oriented travel style.",
+    "5019": "Grocery runs are part of the user’s routine and this nearby store aligns well with an afternoon return trip.",
+    "2636": "Similar-user behavior and the user’s occasional coffee/food errands make this a plausible short stop.",
+    "5435": "A fast-food destination is consistent with the user’s practical, chain-oriented movement pattern.",
+    "1713": "The user has visited this off-schedule coffee spot before, though it is less consistent with the target corridor.",
+    "4174": "The user was just there, so a brief continued presence is possible despite the stronger tendency to move on.",
+    "395": "Remaining at the last known dining spot is possible, but the routine-oriented pattern makes a new anchor more likely."
+  },
+  "fallback": false
+}

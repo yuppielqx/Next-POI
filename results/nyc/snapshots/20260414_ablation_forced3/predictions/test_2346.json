@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2346",
+  "ranked_loc_ids": [
+    1258,
+    1095,
+    131,
+    45,
+    5522,
+    997,
+    1405,
+    3160,
+    557,
+    3159
+  ],
+  "explanations": {
+    "1258": "It is the exact last known location, heavily revisited, and fits the user’s strong transit-centered weekday routine.",
+    "1095": "This is the user’s most repeated metro station and a common Friday transit node in their history, making a return plausible after the 68th St stop.",
+    "131": "Nearby transportation hub with prior late-evening activity, matching a likely Upper East Side transfer pattern after the last subway check-in.",
+    "45": "Very close to the current area and a realistic quick stop before or after a commute-related movement.",
+    "5522": "Also extremely nearby and previously visited, so it is a plausible short errand or food stop in the same corridor.",
+    "997": "The user has repeated corridor movement here, and it aligns with a north-east travel trend from the last station.",
+    "1405": "A nearby Upper East Side retail stop that fits the user’s occasional non-transit add-ons after commuting.",
+    "3160": "Close by and historically reachable from the current area, though less likely than food or transit options.",
+    "557": "A known Friday transportation hub in the user’s history, but farther and less consistent with the immediate Upper East Side context.",
+    "3159": "A late-night nightlife option that appears in the profile, though it is less likely than the commute-linked destinations."
+  },
+  "fallback": false
+}

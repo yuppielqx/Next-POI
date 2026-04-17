@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1750",
+  "ranked_loc_ids": [
+    2132,
+    97,
+    650,
+    1036,
+    1833,
+    974,
+    1860,
+    338,
+    271,
+    244
+  ],
+  "explanations": {
+    "2132": "Strongest time-specific repeat destination for this user at 19:15, and the current day’s earlier Hilton→Eataly pattern matches the prior day before heading there.",
+    "97": "Fits the early-evening lounge/bar behavior and is a close Midtown/Flatiron-area social stop near the current location.",
+    "650": "A recurrent nightlife venue in the user’s evening circuit, plausible if they continue from dinner into nightlife.",
+    "1036": "Another strong evening entertainment option in the user’s downtown nightlife pattern, though slightly less aligned than dining-first stops.",
+    "1833": "A highly frequent anchor point, but less likely than an evening restaurant given the 19:15 timing and recent southward movement.",
+    "974": "A plausible East Village dinner stop for an early evening meal, though less central in the user’s repeated sequence than The Smith.",
+    "1860": "Matches the user’s nightlife-heavy profile, but it is more likely later at night than at 19:15.",
+    "338": "The user was just here, so a short repeat is possible, but the pattern more strongly suggests moving on to an evening venue.",
+    "271": "Frequent in the history, but the timing and immediate downtown context make an airport move less likely now.",
+    "244": "Nearby and food-oriented, but weaker than the user’s known recurring evening anchors and social venues."
+  },
+  "fallback": false
+}

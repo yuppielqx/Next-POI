@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2139",
+  "ranked_loc_ids": [
+    5213,
+    5402,
+    5028,
+    5406,
+    4985,
+    4817,
+    2662,
+    128,
+    2661,
+    2099
+  ],
+  "explanations": {
+    "5213": "It is the closest strong nightlife match and the user’s recent pattern already includes a bar crawl through Dyckman/Inwood.",
+    "5402": "The user was last seen here, making a nearby late-night revisit highly plausible.",
+    "5028": "A nearby nightclub fits the Friday-night social profile and is consistent with continued nightlife activity.",
+    "5406": "Another nearby Spanish/Latin nightlife venue that matches the user’s Upper Manhattan late-evening dining pattern.",
+    "4985": "This nearby Mexican bar-restaurant matches the user’s recent chain of social food-and-drink stops.",
+    "4817": "The user favors late-night Latin dining, and this is a strong neighborhood-appropriate food option.",
+    "2662": "A close casual food stop is plausible after late-night drinking and socializing.",
+    "128": "The user often chains nightlife with transit, so a nearby subway stop is a realistic next move.",
+    "2661": "This nearby station fits a south-east drift and could be used to continue or end the outing.",
+    "2099": "A late-night fast-food stop is a plausible fallback after bars, though less likely than nearby nightlife venues."
+  },
+  "fallback": false
+}

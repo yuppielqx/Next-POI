@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_525",
+  "ranked_loc_ids": [
+    1590,
+    2876,
+    70,
+    2880,
+    58,
+    2882,
+    2877,
+    586,
+    2874,
+    469
+  ],
+  "explanations": {
+    "1590": "The target time is just one minute after the last check-in, and this is the user’s dominant Midtown coffee stop with the strongest same-day and same-time history.",
+    "2876": "It is immediately adjacent to the last location and fits the user’s regular afternoon Midtown sandwich/coffee routine, making it the main alternative if they moved a block away.",
+    "70": "This nearby Grand Central-area post office is close to the user’s Midtown corridor and could fit a brief errand during a daytime commute pattern.",
+    "2880": "A very close Midtown pharmacy stop is plausible for a short routine detour while staying within the same neighborhood.",
+    "58": "Grand Central Terminal is nearby and consistent with the user’s Midtown anchor, especially if they are transitioning between familiar errands.",
+    "2882": "H&M is a nearby retail stop in the same Midtown shopping cluster, making it a possible quick visit.",
+    "2877": "The Broadhurst Theater is within the Theater District and aligns with the user’s occasional arts-oriented Midtown movements.",
+    "586": "Herald Square is a nearby Manhattan landmark that could be part of a short northbound movement from the coffee shop.",
+    "2874": "A nearby Midtown nightlife spot is less likely at this hour, but still possible as a short lateral move in the same area.",
+    "469": "This is farther north but still fits the user’s general affinity for coffee shops and daytime Manhattan movement."
+  },
+  "fallback": false
+}

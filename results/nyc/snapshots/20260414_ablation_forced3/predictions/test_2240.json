@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2240",
+  "ranked_loc_ids": [
+    2450,
+    2944,
+    1005,
+    3370,
+    4226,
+    991,
+    4056,
+    4230,
+    3155,
+    2541
+  ],
+  "explanations": {
+    "2450": "It is the user’s strongest recurring anchor, extremely close to Sushi Lounge, and fits the likely Saturday evening food continuation.",
+    "2944": "A highly familiar nearby café in the East Village that matches the user’s downtown orbit and short-hop movement pattern.",
+    "1005": "Another repeated East Village stop very close to the last location, making it a plausible familiar transition point.",
+    "3370": "A nearby East Village diner that fits a casual post-dinner move within the user’s core neighborhood.",
+    "4226": "This is very close and aligns with the user’s history of occasional café visits in the same downtown area.",
+    "991": "A recurring Saturday fitness stop in their pattern, though less likely than a food or nightlife venue at this time.",
+    "4056": "A nearby restaurant option that fits a short downtown food move after Sushi Lounge.",
+    "4230": "The user often shifts into nightlife later in the evening, and this close bar matches that behavior.",
+    "3155": "A nearby bar on St Marks Pl that fits the user’s late-day social/leisure pattern.",
+    "2541": "A close nightlife venue that could follow dinner, but it is slightly less aligned than the top bar choices."
+  },
+  "fallback": false
+}

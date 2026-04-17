@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1325",
+  "ranked_loc_ids": [
+    4669,
+    4671,
+    1064,
+    1881,
+    1643,
+    3692,
+    4670,
+    4344,
+    2886,
+    2378
+  ],
+  "explanations": {
+    "4669": "The user’s strongest home anchor and the temporal prior near midnight make a return to Jersey City most likely.",
+    "4671": "A repeated nightlife venue for this user, and a plausible continuation from Stout if they stay in Manhattan briefly.",
+    "1064": "It is the last known location, so a short dwell or immediate return there remains possible.",
+    "1881": "A nearby nightlife spot that fits the user’s bar-hopping pattern around Penn Station late at night.",
+    "1643": "Another adjacent nightlife option near the current Manhattan cluster, matching the user’s evening social behavior.",
+    "3692": "A known entertainment venue for the user, though farther downtown than the current Midtown area.",
+    "4670": "A familiar Jersey City social stop that fits the user’s bar-and-restaurant routine if they head homeward.",
+    "4344": "Another Jersey City nightlife spot in the user’s preferred category set, plausible on a return path.",
+    "2886": "A Jersey City food stop that fits the user’s chained outing pattern, especially after drinks.",
+    "2378": "A recurring Jersey City restaurant for this user, but less likely than home or nightlife venues at this hour."
+  },
+  "fallback": false
+}

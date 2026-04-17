@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_10",
+  "ranked_loc_ids": [
+    102,
+    101,
+    104,
+    105,
+    107,
+    106,
+    450,
+    109,
+    347,
+    1199
+  ],
+  "explanations": {
+    "102": "It best matches the user’s frequent Sunday errand pattern and household-shopping behavior in the Newport/Jersey City cluster.",
+    "101": "A recurring bulk-shopping stop that fits the user’s retail-heavy routine and nearby movement from Prime Food Market.",
+    "104": "This is one of the user’s strongest recurrent anchors and sits very close to the last known location.",
+    "105": "The user was last seen here, so a short revisit is plausible given the tight local cluster.",
+    "107": "A transportation node aligned with the user’s repeated transit-linked chaining between errands.",
+    "106": "The user frequently uses PATH, but a cross-river move is less likely than staying in Jersey City.",
+    "450": "A grocery-store option that fits Sunday midday shopping behavior, though it lacks prior visit history.",
+    "109": "Another plausible transit stop in the same corridor, but less central than the Newport anchors.",
+    "347": "The Holland Tunnel hub is nearby and could fit movement, though it is less consistent with shopping intent.",
+    "1199": "A nearby transportation hub that fits the corridor pattern, but with weaker evidence than the retail venues."
+  },
+  "fallback": false
+}

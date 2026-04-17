@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_469",
+  "ranked_loc_ids": [
+    2667,
+    2449,
+    386,
+    2485,
+    1184,
+    2672,
+    2675,
+    2673,
+    97,
+    2671
+  ],
+  "explanations": {
+    "2667": "This is the user’s dominant late-night base and the strongest repeat destination, especially after evening nightlife outings.",
+    "2449": "The user was last here and similar night-time behavior often continues at the same nightlife venue for several hours.",
+    "386": "The nearby Ainsworth is the closest plausible continuation of the current bar/nightlife outing.",
+    "2485": "A nearby hotel is a reasonable late-night fallback if the user is ending the outing or resting.",
+    "1184": "The user has prior visits here, and it is a nearby Manhattan stop that could fit a post-nightlife errand.",
+    "2672": "This matches the user’s nightlife profile and is a plausible next bar/hangout destination.",
+    "2675": "Another nightlife spot in the user’s preferred social category, consistent with a bar-hopping pattern.",
+    "2673": "The user has history with nightlife venues, and a nightclub remains a plausible late-night move.",
+    "97": "A nearby lounge-like venue could fit a continued evening social route.",
+    "2671": "This nightlife lounge is another plausible Manhattan stop if the user keeps moving through downtown venues."
+  },
+  "fallback": false
+}

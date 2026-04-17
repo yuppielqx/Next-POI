@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2361",
+  "ranked_loc_ids": [
+    2353,
+    5616,
+    5618,
+    5619,
+    577,
+    3563,
+    3876,
+    570,
+    3906,
+    582
+  ],
+  "explanations": {
+    "2353": "Nighttime behavior strongly favors a return to the user's anchor neighborhood, and this is the best match for the 21:09 slot.",
+    "5616": "The user has repeated late-evening bar activity, making this a strong Friday-night destination after a daytime errand run.",
+    "5618": "Pizza places fit the user's evening food pattern, and this has meaningful Friday and night-slot history.",
+    "5619": "Fort Lee remains a major part of the user's routine, and Friday transitions there are common in their history.",
+    "577": "The user frequently revisits Duane Reade as part of their commuter-errand pattern, including clustered same-area movements.",
+    "3563": "Nearby pizza is a plausible evening stop given the user's food-centric and upper-Manhattan movement pattern.",
+    "3876": "This bar is very close and fits the user's occasional nightlife behavior, though it is less foundational than Washington Heights.",
+    "570": "The user has a strong history with nearby sandwich shops, and this location is almost adjacent to the last known stop.",
+    "3906": "Close proximity and daytime errand behavior make a quick local stop possible before heading uptown.",
+    "582": "Another nearby practical stop in the same corridor, but with weaker timing and transition evidence than the top choices."
+  },
+  "fallback": false
+}

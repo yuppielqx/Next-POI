@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_980",
+  "ranked_loc_ids": [
+    2524,
+    672,
+    4115,
+    4118,
+    3721,
+    3498,
+    4128,
+    4120,
+    4082,
+    200
+  ],
+  "explanations": {
+    "2524": "This is a highly recurrent nearby work/building stop and fits the user’s established home-to-breakfast-to-office routine in the late morning.",
+    "672": "The user has just been here and repeatedly loops through this deli, making a short immediate revisit plausible.",
+    "4115": "A frequent nearby deli/bodega in the same corridor, consistent with the user’s breakfast and snack pattern.",
+    "4118": "A common nearby lunch spot in the user’s history that fits a Thursday late-morning transition.",
+    "3721": "A regularly visited nearby errand stop with strong same-neighborhood behavior.",
+    "3498": "Very close and office-like, so it suits a shift from breakfast to work in the same micro-area.",
+    "4128": "Another nearby building/hotel-type stop that matches the user’s localized movement pattern.",
+    "4120": "A frequent nearby lunch venue that fits the user’s food-oriented midday routine.",
+    "4082": "A nearby repeat restaurant visit is plausible given the user’s compact food-and-work loop.",
+    "200": "A very close coffee stop that could reasonably follow a late-morning breakfast sequence."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1040",
+  "ranked_loc_ids": [
+    777,
+    3993,
+    4230,
+    4079,
+    3258,
+    4226,
+    2514,
+    421,
+    1407,
+    3077
+  ],
+  "explanations": {
+    "777": "It is very close to Odessa, matches the user’s downtown late-night bar-hopping pattern, and fits the strong Saturday 1:27 AM nightlife prior.",
+    "3993": "This nearby East Village bar is consistent with a short move southeast and the user’s tendency to continue drinking late into the night.",
+    "4230": "The user may simply remain at or return to the current bar, especially given the zero-distance continuation possibility.",
+    "4079": "A close post-bar food stop is plausible for this user, who often chains drinks into quick late-night meals.",
+    "3258": "Another nearby food option in the East Village area that fits a typical after-midnight bite.",
+    "4226": "Very close to the last known location and a reasonable late-night casual stop in the same neighborhood.",
+    "2514": "A nearby bar that fits the user’s social nightlife behavior, though slightly less direct than East Village options.",
+    "421": "A Greenwich Village nightlife stop that aligns with the user’s downtown bar circuit and Saturday night timing.",
+    "1407": "A highly repeated late-night food destination for this user, though it is farther away than the most likely nearby options.",
+    "3077": "A classic user-frequented late-night bar, but it is less spatially aligned with the immediate East Village movement than the top choices."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1240",
+  "ranked_loc_ids": [
+    4583,
+    1748,
+    1432,
+    4352,
+    4584,
+    4585,
+    4586,
+    1433,
+    2661,
+    2805
+  ],
+  "explanations": {
+    "4583": "It is the last known location and fits the strong Saturday neighborhood-stay pattern in Inwood.",
+    "1748": "This Inwood Hill Park location has strong Saturday and afternoon support and is very close to the current park visit.",
+    "1432": "The user often remains within the Inwood home area on weekends, making a nearby return plausible.",
+    "4352": "This nearby metro station is heavily used in the user’s history and is a common local transition point.",
+    "4584": "A nearby Inwood Hill Park playground that matches the user’s park-oriented weekend behavior.",
+    "4585": "It is a close Inwood errand stop and aligns with the user’s local neighborhood activity.",
+    "4586": "The user has visited this nearby grocery store before, and it fits a stay-near-home pattern.",
+    "1433": "A familiar local deli stop in Inwood that could easily follow a nearby park visit.",
+    "2661": "This nearby station is a plausible local movement node if the user heads out from the park area.",
+    "2805": "A close-by grocery option in the same neighborhood, consistent with routine weekend errands."
+  },
+  "fallback": false
+}

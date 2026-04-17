@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_715",
+  "ranked_loc_ids": [
+    58,
+    3407,
+    173,
+    759,
+    2049,
+    3469,
+    747,
+    1609,
+    145
+  ],
+  "explanations": {
+    "58": "This is the user's strongest routine anchor with extensive Friday and 3–5 p.m. history, making it the most likely return after the Upper West Side stop.",
+    "3407": "A heavily repeated Midtown East destination that fits the user's weekday routine and is the main secondary anchor.",
+    "173": "A transportation hub is plausible if the user is still in transit, and it matches the commute-like pattern.",
+    "759": "It is the current location, so a brief continued stay or immediate return is possible despite being less routine-driven.",
+    "2049": "A Midtown Friday-favored lunch/afternoon food stop that aligns with the user's restaurant behavior.",
+    "3469": "A nearby Manhattan retail stop could occur during a short afternoon errand, though it is weakly supported by history.",
+    "747": "A nearby coffee stop in the user’s core East Side area fits the routine-driven movement pattern.",
+    "1609": "Another close café option in the same general neighborhood, consistent with the user's breakfast/coffee tendencies.",
+    "145": "If the user is moving back south/east, a transit hub on the Upper East Side is a reasonable intermediary stop."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1335",
+  "ranked_loc_ids": [
+    4683,
+    590,
+    332,
+    57,
+    67,
+    301,
+    4521,
+    329,
+    2213,
+    1993
+  ],
+  "explanations": {
+    "4683": "The strongest home-base anchor and the most likely post-gym return at this late evening hour.",
+    "590": "The user has a repeated evening fitness pattern and may still be at or just leaving the gym.",
+    "332": "Very close to the gym and residence, matching their Union Square-centered movement.",
+    "57": "It is immediately nearby and fits their frequent neighborhood food/errand pattern.",
+    "67": "A common nearby leisure stop for this user, especially within their compact local routine.",
+    "301": "A likely quick grocery errand in the user’s Union Square evening loop.",
+    "4521": "Another recurring grocery destination that fits a practical post-work movement.",
+    "329": "Madison Square Park is close and consistent with their northward shift from Equinox.",
+    "2213": "A nearby fitness-related alternative that matches the user’s exercise-oriented evening behavior.",
+    "1993": "A nearby restaurant option that fits an after-gym dinner pattern in the Union Square area."
+  },
+  "fallback": false
+}

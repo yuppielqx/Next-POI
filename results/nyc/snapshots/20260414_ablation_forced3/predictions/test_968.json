@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_968",
+  "ranked_loc_ids": [
+    1027,
+    1321,
+    4475,
+    4095,
+    4100,
+    4096,
+    3207,
+    3557,
+    2827,
+    815
+  ],
+  "explanations": {
+    "1027": "The user’s last known check-in is already at Calle Ocho, making an immediate return/continuation there the strongest prediction for this exact timestamp.",
+    "1321": "It is extremely close to the last location and fits a nearby north-west drift without requiring a major trip.",
+    "4475": "This nearby West Side spot is close enough to be a plausible short move from Calle Ocho in the same neighborhood.",
+    "4095": "The user regularly returns to this Midtown office anchor, and a later-day movement toward the work core is consistent with their history.",
+    "4100": "A nearby Midtown lunch stop fits the midday timing and short-radius movement pattern from the current area.",
+    "4096": "This is a familiar evening venue and a possible future destination, though it is less likely at this midday Saturday moment.",
+    "3207": "The user’s bar-heavy profile makes this a plausible social stop, but the timing favors a slower daytime continuation instead.",
+    "3557": "A practical food stop in Midtown aligns with the user’s office-adjacent routine and short-distance mobility.",
+    "2827": "This nearby restaurant is a reasonable lunch option if the user shifts slightly north from the current West Side location.",
+    "815": "The user has visited this shopping spot before, but it is less likely than food or immediate neighborhood options at this time."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_644",
+  "ranked_loc_ids": [
+    1975,
+    3274,
+    1935,
+    3087,
+    1932,
+    2447,
+    3270,
+    418,
+    1114,
+    3136
+  ],
+  "explanations": {
+    "1975": "It is immediately adjacent to the last known location and fits the user’s strong Saturday-evening preference for a nearby bar or gastropub stop.",
+    "3274": "The user is already there and could plausibly linger or effectively remain in the same nightlife venue cluster.",
+    "1935": "This is a recurring Brooklyn nightlife spot for the user and is very close to the current Park Slope/Gowanus circuit.",
+    "3087": "A known bar in the user’s history, nearby and highly consistent with their repeated bar-hopping pattern.",
+    "1932": "A nearby pub that matches the user’s social, late-afternoon-to-evening Brooklyn routine.",
+    "2447": "A strong fit for their bar/lounge behavior and a plausible short hop within the same Brooklyn nightlife corridor.",
+    "3270": "Another nearby bar in their preferred neighborhood range, matching the current movement trend north-east.",
+    "418": "A Brooklyn bar consistent with the user’s recurring social nightlife visits and within reasonable distance.",
+    "1114": "A familiar entertainment venue for this user that fits Saturday evening outing behavior, though slightly less immediate than the bars.",
+    "3136": "A nearby cultural option that fits the user’s occasional evening entertainment pattern, but is less likely than a bar."
+  },
+  "fallback": false
+}

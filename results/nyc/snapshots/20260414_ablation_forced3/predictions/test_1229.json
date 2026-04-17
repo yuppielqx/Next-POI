@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1229",
+  "ranked_loc_ids": [
+    1882,
+    891,
+    1980,
+    1407,
+    1860,
+    611,
+    3753,
+    1318,
+    608,
+    4551
+  ],
+  "explanations": {
+    "1882": "After a late-night bar visit, a nearby diner is the most likely next stop for food and a short NW move.",
+    "891": "The user was just here moments ago, and late-night nightlife patterns often include lingering or returning to the same venue.",
+    "1980": "It is close by in Midtown West and fits the user’s frequent convenience-food behavior.",
+    "1407": "A nearby street-food option matches the hour and the user’s late-night food tendencies.",
+    "1860": "This is very close and fits the user’s occasional nightlife pattern around Times Square/Chelsea edge.",
+    "611": "A nearby food venue that could plausibly follow a bar stop, though it is less aligned than diner/late food options.",
+    "3753": "Another nearby nightlife spot, but it is less likely than immediate food or the current bar cluster.",
+    "1318": "Close to the current area and consistent with movement toward Columbus Circle, though not a strong night-time target.",
+    "608": "This matches the user’s Manhattan corridor, but it is less likely at 02:28 than nightlife or food.",
+    "4551": "The user frequents NYIT, but a campus visit at this hour is unlikely compared with nearby late-night options."
+  },
+  "fallback": false
+}

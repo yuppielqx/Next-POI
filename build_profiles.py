@@ -7,7 +7,7 @@ Usage:
                            [--workers N]           # concurrent LLM profile builders
                            [--skip-similarity]     # only build profiles, skip similarity
                            [--migrate-temporal]    # add temporal_profile to existing cached profiles (no LLM)
-                           [--build-transitions]   # build cache/transitions.pkl from all train+val trips
+                           [--build-transitions]   # build cache/<dataset>/transitions.pkl from train+val trips
 """
 import argparse
 import pickle
@@ -17,7 +17,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from src.config import TOP_TRANSITIONS, TRANSITIONS_CACHE
+from src.config import DATASET_TAG, DATA_DIR, TOP_TRANSITIONS, TRANSITIONS_CACHE
 from src.data_loader import DataLoader
 from src.profile_builder import build_all_profiles, build_profile, load_all_profiles, migrate_temporal_profiles
 from src.utils import logger
@@ -46,6 +46,12 @@ def build_transitions(data_loader) -> dict[int, list[tuple[int, int]]]:
 
 def main():
     parser = argparse.ArgumentParser(description="Build user profiles and similarity index")
+    parser.add_argument(
+        "--dataset",
+        type=str,
+        default=None,
+        help="Dataset name under datasets/ (e.g., nyc, tky, ca).",
+    )
     parser.add_argument("--user-id", type=str, default=None, help="Build profile for a single user (debug)")
     parser.add_argument("--recompute", action="store_true", help="Rebuild all caches from scratch")
     parser.add_argument("--workers", type=int, default=16, help="Parallel profile-building workers")
@@ -53,8 +59,9 @@ def main():
     parser.add_argument("--migrate-temporal", action="store_true",
                         help="Add temporal_profile to existing cached profiles without re-calling LLM")
     parser.add_argument("--build-transitions", action="store_true",
-                        help="Build cache/transitions.pkl from all train+val trips")
+                        help="Build cache/<dataset>/transitions.pkl from all train+val trips")
     args = parser.parse_args()
+    logger.info(f"Active dataset: {DATASET_TAG} ({DATA_DIR})")
 
     data_loader = DataLoader()
 

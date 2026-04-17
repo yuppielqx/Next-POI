@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2659",
+  "ranked_loc_ids": [
+    879,
+    5749,
+    4720,
+    1264,
+    878,
+    820,
+    5750,
+    329,
+    4717
+  ],
+  "explanations": {
+    "879": "The user was just here, and their routine repeatedly returns to this exact anchor point in the Flatiron core.",
+    "5749": "A highly frequented nearby food stop that fits the user’s snack-heavy Flatiron pattern.",
+    "4720": "Very close and part of the user’s errand-like corridor behavior around 23rd Street.",
+    "1264": "A frequent convenience stop in the same tight cluster, especially plausible during a short morning move west.",
+    "878": "Similar-user and proximity signals support a nearby landmark hop within the Flatiron area.",
+    "820": "The westward drift and dense Manhattan routine make a nearby transit move plausible.",
+    "5750": "Another recurring nearby food venue that fits the user’s clustered midday activity.",
+    "329": "Madison Square Park is a natural adjacent destination from Flatiron Plaza and matches the outdoor/public-space pattern.",
+    "4717": "A close-by lunch-oriented option that fits the user’s food-and-errand movement style."
+  },
+  "fallback": false
+}

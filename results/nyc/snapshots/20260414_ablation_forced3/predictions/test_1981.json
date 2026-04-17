@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1981",
+  "ranked_loc_ids": [
+    3600,
+    4362,
+    4361,
+    5360,
+    5358,
+    5359,
+    131,
+    2250,
+    695,
+    3248
+  ],
+  "explanations": {
+    "3600": "It is the strongest Saturday-night match with the highest same-time history and fits the user’s habitual return to familiar nightlife spots.",
+    "4362": "This Astoria pub is a highly repeated Saturday destination and is close to the user’s established late-night bar circuit.",
+    "4361": "The user was just here last, and it remains one of their core nightlife anchors despite the next visit likely being a fresh outing.",
+    "5360": "Another familiar Astoria bar with strong Saturday and 9–11 p.m. signals, making it a natural next stop.",
+    "5358": "A Manhattan nightlife spot that appears in the user’s late-evening pattern and is a plausible alternate to the Astoria cluster.",
+    "5359": "The user has used this Astoria transit-adjacent nightlife stop on Saturdays, making it a reasonable movement node.",
+    "131": "This transportation hub fits the user’s occasional transit-linked evening movements between Queens and Manhattan.",
+    "2250": "A nearby food stop that could precede or follow drinking, though it is less central than the bar/pub options.",
+    "695": "A close nearby diner could attract a late-night transition, but it is not strongly supported by the profile.",
+    "3248": "This nearby bar is behaviorally plausible as a nightlife venue, but it lacks the user-specific visit history of the top choices."
+  },
+  "fallback": false
+}

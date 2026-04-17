@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_997",
+  "ranked_loc_ids": [
+    2697,
+    993,
+    3708,
+    639,
+    3703,
+    4158,
+    4155,
+    4153,
+    2242,
+    1698
+  ],
+  "explanations": {
+    "2697": "The late-night Sunday timing and the user’s repeated Sunday history make this the strongest nightlife return candidate in Lower Manhattan.",
+    "993": "A nearby Brooklyn bar fits the 2:58 a.m. nightlife prior and the user’s bar-heavy pattern, though it has less history than Ryan Maguire's Ale House.",
+    "3708": "This Lower Manhattan bar matches the after-hours social pattern and the user’s strong Financial District/Seaport corridor.",
+    "639": "Another familiar bar in the same downtown nightlife zone, making it a plausible late-night stop.",
+    "3703": "The user has Sunday repeat visits here, and a food venue can still fit a very late post-night-out check-in.",
+    "4158": "It is one of the user’s most frequent places, but the Sunday night timing makes a work-related return less likely.",
+    "4155": "This fits the user’s Lower Manhattan anchor and repeated presence nearby, though it is less compelling than a bar at this hour.",
+    "4153": "A high-history Manhattan location for the user, but its work-like profile clashes with the late-night Sunday prior.",
+    "2242": "A Brooklyn bar near the current cluster, but with only a single prior visit it is less likely than the established nightlife spots.",
+    "1698": "Its Lower Manhattan placement keeps it in play, but its generic food category is weaker than the user’s preferred bar/pub destinations."
+  },
+  "fallback": false
+}

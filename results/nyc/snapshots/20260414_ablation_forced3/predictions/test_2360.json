@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2360",
+  "ranked_loc_ids": [
+    577,
+    570,
+    3563,
+    3906,
+    21,
+    1103,
+    582,
+    4326,
+    2353,
+    5619
+  ],
+  "explanations": {
+    "577": "This is the strongest habitual morning stop on the Upper West Side and fits the very short time gap from the last check-in.",
+    "570": "A frequent nearby sandwich place in the same Upper West Side routine, making it a plausible quick errand or food stop.",
+    "3563": "It is another close Upper West Side food option with a strong Tuesday pattern in the user’s history.",
+    "3906": "A nearby daytime coffee stop that fits a Tuesday late-morning movement pattern.",
+    "21": "It is extremely close to the last location, so a short local shift to a nearby venue is plausible.",
+    "1103": "Another adjacent café that matches a brief daytime neighborhood transition.",
+    "582": "A nearby Starbucks and common errand-style stop in the same area, though less frequent than Duane Reade.",
+    "4326": "Close by and consistent with daytime neighborhood activity, but less supported by the current morning context.",
+    "2353": "A familiar anchor neighborhood for the user, but a larger move than the immediate Upper West Side options.",
+    "5619": "Historically important in the mornings, but too far for such a short follow-up from the current Upper West Side location."
+  },
+  "fallback": false
+}

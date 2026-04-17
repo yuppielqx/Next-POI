@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1376",
+  "ranked_loc_ids": [
+    4601,
+    4749,
+    4757,
+    4750,
+    4751,
+    4752,
+    5006,
+    5010,
+    4595,
+    4397
+  ],
+  "explanations": {
+    "4601": "Sunday afternoon aligns with the user’s weekend errand pattern, and this is the strongest specific repeat stop in the local area.",
+    "4749": "A grocery run is very plausible on Sunday afternoon and matches the user’s documented weekend retail behavior.",
+    "4757": "This fits a routine Sunday errand stop and is a known nearby pharmacy the user has visited before.",
+    "4750": "The user often returns to this local social anchor, and it is close enough for a short afternoon visit.",
+    "4751": "Although more of an evening destination, it is the user’s dominant recurring venue and remains a strong return candidate.",
+    "4752": "The user frequently visits Dunkin’ in the morning, so a stop here is possible even if the timing is less ideal.",
+    "5006": "A nearby pharmacy errand is plausible on a Sunday afternoon despite no prior visits at this exact branch.",
+    "5010": "This nearby convenience stop could fit a quick local errand or snack trip in the same area.",
+    "4595": "A food stop in the Montclair area is possible, though this is less consistent with the afternoon timing than the main errand locations.",
+    "4397": "A nearby bakery/casual food stop is feasible, but it is weaker than the user’s established frequent destinations."
+  },
+  "fallback": false
+}

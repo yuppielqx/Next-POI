@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_178",
+  "ranked_loc_ids": [
+    1321,
+    1304,
+    1323,
+    508,
+    1322,
+    1320,
+    570,
+    2322,
+    65,
+    78
+  ],
+  "explanations": {
+    "1321": "This is the user’s dominant morning destination and best matches a Monday 09:59 return to the Upper West Side routine.",
+    "1304": "It is another major anchor in the user’s history with strong weekday relevance, but it is less aligned than the park routine for this morning slot.",
+    "1323": "The user was last here and it fits their repeated workday pattern, though the broader time-conditioned prior favors a morning return elsewhere.",
+    "508": "This is a nearby Upper West Side park-related stop that fits the user’s outdoor morning behavior.",
+    "1322": "A prior user destination on the West Side that could plausibly follow a morning park visit.",
+    "1320": "The user has visited this before on a weekend outing, but it is less likely for a weekday morning.",
+    "570": "A nearby Upper West Side food stop that fits the neighborhood routine, though it has limited history.",
+    "2322": "This Chelsea-area deli matches a daytime errand/meal pattern and is close to the current area.",
+    "65": "A generic morning café option that could fit the time of day but lacks user-specific history.",
+    "78": "It is nearby to the last known location and consistent with a south-westward movement trend, but it is less consistent with the user’s habitual pattern."
+  },
+  "fallback": false
+}

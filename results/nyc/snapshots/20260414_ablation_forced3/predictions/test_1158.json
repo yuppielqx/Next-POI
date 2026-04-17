@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1158",
+  "ranked_loc_ids": [
+    1641,
+    1701,
+    36,
+    4433,
+    68,
+    4436,
+    4443,
+    620,
+    5024
+  ],
+  "explanations": {
+    "1641": "It is the current location and strongest habitual transit hub, making an immediate stay or continuation there the most likely next step.",
+    "1701": "It is extremely close to the last point and fits the user’s transit-heavy Brooklyn corridor movement.",
+    "36": "This is a nearby recurring L-train anchor that matches the user’s southeast Brooklyn return pattern.",
+    "4433": "The user repeatedly cycles through this station, and it remains a likely nearby transit continuation.",
+    "68": "Another strong residential anchor on the southeast Brooklyn side, consistent with end-of-trip returns.",
+    "4436": "A nearby service stop in the user’s home corridor that could fit an afternoon errand after transit movement.",
+    "4443": "The Caribbean restaurant is close to the current corridor and aligns with the user’s occasional targeted local stops.",
+    "620": "A plausible broader neighborhood move if the user continues southeast-bound travel through Brooklyn.",
+    "5024": "This nearby L station is supported by similar-user behavior and could be the next transit hop."
+  },
+  "fallback": false
+}

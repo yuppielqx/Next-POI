@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_419",
+  "ranked_loc_ids": [
+    2461,
+    2332,
+    359,
+    2460,
+    1602,
+    2098,
+    4642,
+    78,
+    65,
+    2331
+  ],
+  "explanations": {
+    "2461": "This is the user’s dominant recurring weekday anchor in SoHo, and after a long overnight gap it is the most likely reset point for a Saturday afternoon return.",
+    "2332": "A known nearby SoHo hospitality stop that fits the user’s lower-Manhattan orbit and weekend after-hours pattern.",
+    "359": "The user has prior visits to this Tribeca event space, making it a plausible social/work-adjacent return in the same downtown cluster.",
+    "2460": "A recurring SoHo dining option that fits the user’s established lower-Manhattan movement and afternoon meal/social timing.",
+    "1602": "The user has occasional Midtown work-related stops here, so it remains a credible but less likely daytime destination.",
+    "2098": "The last known location and a nightlife venue, but the afternoon target time makes an immediate return less likely than a daytime anchor.",
+    "4642": "A nearby professional space that matches the user’s work-oriented profile, though it has no prior visit history.",
+    "78": "A nearby shopping/dining hub that could fit a Saturday afternoon diversion after a nightlife-heavy night.",
+    "65": "A practical café stop in the same neighborhood, plausible for a midday reset but not strongly supported by history.",
+    "2331": "A nearby restaurant and nightlife-adjacent venue that fits the area, though it is less aligned with the user’s strongest repeated patterns."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_914",
+  "ranked_loc_ids": [
+    1344,
+    140,
+    635,
+    2649,
+    921,
+    1439,
+    3925,
+    1545,
+    1200,
+    53
+  ],
+  "explanations": {
+    "1344": "The user has the strongest late-night Saturday history here, and it matches the dominant Coney Island anchor pattern.",
+    "140": "This is the key transit hub for reaching the user’s most common overnight destination in the Coney Island corridor.",
+    "635": "The user repeatedly visits this Coney Island leisure anchor on Saturdays, making it a plausible late-night endpoint.",
+    "2649": "A nearby Brooklyn late-night stop that fits an east-southward jump toward the Coney Island area.",
+    "921": "A plausible intermediate Brooklyn transfer point on the way to Coney Island from Manhattan/Queens.",
+    "1439": "Another common Brooklyn transfer station that fits the user’s corridor-based movement style.",
+    "3925": "This Brooklyn train station is a recurring Saturday and midnight-window stop, fitting a late-night transit pattern.",
+    "1545": "The user often passes through major Manhattan transfer hubs, and this station is consistent with late-night subway movement.",
+    "1200": "A core Queens anchor in the user’s routine, though less likely than Brooklyn/Coney Island at this time.",
+    "53": "Times Square remains a familiar commuter hub for this user and a plausible late-night transit point."
+  },
+  "fallback": false
+}

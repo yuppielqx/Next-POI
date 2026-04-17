@@ -1,0 +1,24 @@
+{
+  "traj_id": "test_1948",
+  "ranked_loc_ids": [
+    821,
+    5281,
+    5333,
+    975,
+    5329,
+    2967,
+    511,
+    67
+  ],
+  "explanations": {
+    "821": "This is the user’s strongest home-base transit anchor and the top time-conditioned Brooklyn destination for a morning continuation.",
+    "5281": "The user is already here and short morning bursts make a nearby repeat stop plausible before heading back out.",
+    "5333": "It is the closest nearby keep-and-transition option, fitting a brief next move from the current restaurant stop.",
+    "975": "This is another immediate nearby Manhattan option that could follow the current stop during the late-morning window.",
+    "5329": "A nearby café visit fits the user’s food-and-coffee pattern during the morning commute period.",
+    "2967": "Coffee stops are common for this user, and this nearby Manhattan Starbucks matches the timing well.",
+    "511": "A bagel shop is highly consistent with the user’s observed breakfast/food routine after an early transit stop.",
+    "67": "This is a recurring Manhattan destination for the user and remains plausible as a mid-morning stop after the current food visit."
+  },
+  "fallback": false
+}

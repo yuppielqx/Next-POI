@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2493",
+  "ranked_loc_ids": [
+    1894,
+    718,
+    5456,
+    1909,
+    5679,
+    2582,
+    3308,
+    3973,
+    5350,
+    5678
+  ],
+  "explanations": {
+    "1894": "The user is already in the Williamsburg/Brooklyn nightlife area, and a nearby bar is the strongest fit for a Saturday evening transition.",
+    "718": "This is another very close Brooklyn bar, matching the user’s nightlife-leaning Saturday evening pattern.",
+    "5456": "A cocktail bar within walking distance fits the immediate post-cafe move toward drinks.",
+    "1909": "The sports bar is nearby and plausible for a casual evening stop after Atlas Cafe.",
+    "5679": "The user was just here, so a brief linger or return is possible despite the stronger nightlife trend.",
+    "2582": "This adjacent café is a natural low-effort next stop if they are staying local before heading out.",
+    "3308": "A nearby dinner option fits the late-evening food-and-social sequencing seen in similar trajectories.",
+    "3973": "This close Italian restaurant is plausible as a quick dinner destination before nightlife.",
+    "5350": "A nearby restaurant could attract a Saturday evening meal stop, though it is less aligned with the nightlife pattern.",
+    "5678": "The office is a major anchor in the profile, but the evening timing makes a return there less likely than local nightlife."
+  },
+  "fallback": false
+}

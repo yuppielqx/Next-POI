@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1753",
+  "ranked_loc_ids": [
+    1833,
+    1036,
+    650,
+    1860,
+    2132,
+    338,
+    974,
+    271,
+    97,
+    391
+  ],
+  "explanations": {
+    "1833": "The strongest overnight pattern is a return to this Midtown West anchor around 02:30 after late-night downtown activity.",
+    "1036": "It matches the user’s recurring midnight-to-2am nightlife circuit and is a frequent late-night venue in their history.",
+    "650": "The user is already in this nightlife loop and could remain at the same club or return there in the early hours.",
+    "1860": "This is another favored late-night music venue in the user’s established Chelsea-to-Midtown nightlife pattern.",
+    "2132": "The user repeatedly visits this East Village bar/restaurant on patterned outings, especially around social meal times.",
+    "338": "A common daytime stop in the user’s Midtown/Flatiron routine, though less likely at 02:30 than nightlife or hotel.",
+    "974": "This restaurant appears in the user’s regular dining rotation and sits along their usual East Village corridor.",
+    "271": "The user travels frequently, but a 02:30 airport visit is less likely than a hotel return.",
+    "97": "A plausible nightlife-adjacent alternative in the user’s Manhattan social pattern, though less dominant than the core venues.",
+    "391": "Similar users and the Midtown nightlife context make this a weak but possible late-night bar choice."
+  },
+  "fallback": false
+}

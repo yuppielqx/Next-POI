@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_343",
+  "ranked_loc_ids": [
+    1063,
+    55,
+    1403,
+    2102,
+    4081,
+    1579,
+    5750,
+    202,
+    2100,
+    1553
+  ],
+  "explanations": {
+    "1063": "It is the user's dominant anchor point, exactly matches the current stay pattern, and has the strongest Tuesday late-morning history.",
+    "55": "This fits the user’s recurring workday lunch routine and is extremely close to the last known stop.",
+    "1403": "A habitual coffee stop for this user, consistent with late-morning breakfast/coffee behavior near 23rd Street.",
+    "2102": "Another nearby grab-and-go breakfast option with repeated history and strong spatial alignment.",
+    "4081": "A very close coffee shop that matches the user’s morning-oriented routine even though it has no prior history.",
+    "1579": "This nearby sandwich place fits a practical weekday food pattern and is close to the anchor area.",
+    "5750": "A nearby lunch-capable restaurant that could plausibly serve as a midday stop within the same cluster.",
+    "202": "A nearby casual lunch option that fits the user’s utilitarian food preferences.",
+    "2100": "A frequent breakfast/coffee chain in the broader 23rd Street commuting pattern, though slightly farther away.",
+    "1553": "A plausible nearby routine errand stop, but less likely than the food and office-related options."
+  },
+  "fallback": false
+}

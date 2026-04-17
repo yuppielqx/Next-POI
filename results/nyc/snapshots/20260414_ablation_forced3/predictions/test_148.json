@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_148",
+  "ranked_loc_ids": [
+    732,
+    1147,
+    1144,
+    1157,
+    443,
+    1159,
+    731,
+    1062,
+    1163,
+    104
+  ],
+  "explanations": {
+    "732": "Strong prior visits and repeated 9–11pm check-ins make this a highly likely late-night dining stop.",
+    "1147": "The user often ends evening movements at this Hoboken bar, matching the nightlife pattern and nearby transit flow.",
+    "1144": "This is the user’s most habitual morning anchor and a frequent Saturday revisit, so a return is plausible even at night.",
+    "1157": "A recurring Hoboken nightlife venue that fits the user’s bar-oriented evening routine and current corridor.",
+    "443": "Similar Saturday evening entertainment behavior makes this Hudson County spot a reasonable next move.",
+    "1159": "The nearby Hoboken waterfront is close to the current path and could be a brief follow-on stop after transit.",
+    "731": "This Hoboken burger-and-bar venue matches the user’s casual late-night food and drink preferences.",
+    "1062": "A strong evening diner option in the user’s history, though farther away than the top Hoboken candidates.",
+    "1163": "Another diner in the broader Hudson County pattern, but with less direct frequency than the leading choices.",
+    "104": "A familiar Jersey City destination that fits the user’s corridor-based movement, though it is less nightlife-aligned."
+  },
+  "fallback": false
+}

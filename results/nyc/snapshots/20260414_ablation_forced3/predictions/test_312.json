@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_312",
+  "ranked_loc_ids": [
+    1522,
+    2029,
+    2027,
+    2026,
+    2030,
+    78,
+    114,
+    1252,
+    2031,
+    960
+  ],
+  "explanations": {
+    "1522": "The user has a strong commuter pattern centered on this station, and a late-night move after a nearby cafeteria stop most likely leads to transit.",
+    "2029": "This is the user’s most frequent venue and remains the core anchor of their Chelsea routine, so a return is highly plausible.",
+    "2027": "The user has repeatedly used this donut shop on Tuesdays, and similar late-night or snack-oriented movements make it a strong nearby follow-up.",
+    "2026": "It is the last known location and part of the user’s habitual Chelsea food cluster, so a quick repeat visit is very plausible.",
+    "2030": "It is extremely close to the last check-in and has prior transition evidence, making it another likely food stop in the same area.",
+    "78": "The user has an established pattern of nearby Chelsea dining/shopping visits, and this fits the same compact workday radius.",
+    "114": "Similar users around this time often move through transit stations, and the user has history with bridge-related subway travel.",
+    "1252": "The user has occasional movement into this Brooklyn-adjacent area, though it is less likely than the Chelsea cluster.",
+    "2031": "This nearby juice bar fits the user’s food-break behavior, but it has weaker historical support than the top options.",
+    "960": "It is within a reasonable nearby Manhattan range and could fit a late-night wander, but it is less aligned with the user’s routine than the transit and food venues above."
+  },
+  "fallback": false
+}

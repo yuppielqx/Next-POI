@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2012",
+  "ranked_loc_ids": [
+    3793,
+    519,
+    5329,
+    1832,
+    1212,
+    1271,
+    1283,
+    1208,
+    4935,
+    1850
+  ],
+  "explanations": {
+    "3793": "This is the user’s strongest recurring destination and best matches the midday-to-afternoon routine with a northward move in the Midtown South corridor.",
+    "519": "Very close to the last stop and consistent with the user’s repeated daytime retail pattern around Herald Square.",
+    "5329": "A prior repeat food stop in the same area, fitting a likely post-lunch errand chain.",
+    "1832": "Nearby and visited before, making it a plausible quick errand in the user’s Midtown shopping loop.",
+    "1212": "Extremely close to the current area and aligned with the user’s strong clothing-store behavior.",
+    "1271": "A nearby department-store style stop that fits the user’s shopping-and-errands routine.",
+    "1283": "Practical daytime errand location within the user’s Manhattan retail corridor.",
+    "1208": "A plausible mid-afternoon retail stop consistent with the user’s shopping habits, though slightly farther south.",
+    "4935": "A nearby café that fits the user’s pattern of daytime food breaks between errands.",
+    "1850": "A strong apparel candidate in the broader Midtown shopping area, but less directly tied to the immediate movement pattern."
+  },
+  "fallback": false
+}

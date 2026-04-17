@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_379",
+  "ranked_loc_ids": [
+    1817,
+    550,
+    2265,
+    28,
+    2244,
+    2264,
+    2033,
+    1750,
+    2272,
+    2280
+  ],
+  "explanations": {
+    "1817": "This is the user’s strongest anchor location with the highest visit count and a clear Sunday evening pattern matching the target time.",
+    "550": "It is the current location and a known repeated stop, so a short continuation or nearby return is plausible despite the broader arts bias.",
+    "2265": "A highly plausible Sunday evening arts destination within the Lincoln Center complex and consistent with the user’s cultural routine.",
+    "28": "The user frequently visits nearby cinemas, and Sunday evening is a classic movie-going time.",
+    "2244": "Repeated evening visits make this a strong alternative performance venue in the same corridor.",
+    "2264": "The New York Public Library for the Performing Arts fits the user’s arts-centered behavior and is close to their core area.",
+    "2033": "A central performing arts hub near the user’s frequent stops, making it a likely nearby return.",
+    "1750": "This aligns with the user’s film-oriented outings and nearby Manhattan arts pattern.",
+    "2272": "The user has repeated Sunday visits here, and it fits the common post-event dessert pattern.",
+    "2280": "A nearby recurring public-space stop that fits short walkable movements in the Lincoln Center corridor."
+  },
+  "fallback": false
+}

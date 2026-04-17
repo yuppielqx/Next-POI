@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_170",
+  "ranked_loc_ids": [
+    1258,
+    3429,
+    1984,
+    1238,
+    1168,
+    58,
+    114,
+    59,
+    1235,
+    46
+  ],
+  "explanations": {
+    "1258": "The user was just checked in here 38 minutes earlier and their routine strongly favors staying within the same transit node or immediate return.",
+    "3429": "It is directly adjacent to the last subway stop and fits the short, corridor-based movement pattern around the Upper East Side.",
+    "1984": "This nearby location is within a block of the last stop, making it a plausible brief transfer or adjacent check-in.",
+    "1238": "The user is already in this neighborhood and the time window supports a nearby continuation rather than a major move.",
+    "1168": "Their history is heavily tied to the 6 line corridor, and a southbound or northbound ride along that line remains plausible.",
+    "58": "Grand Central Terminal is a major transit hub in the same Manhattan core and matches the commuter-centric behavior.",
+    "114": "Bridge/transit infrastructure is a known pattern for this user, though it is farther from the current position.",
+    "59": "Midtown transit and transfer activity is common in the user’s history, making this a reasonable Manhattan destination.",
+    "1235": "This is another recurring Midtown Manhattan area in the user’s movement history, often paired with transit-heavy trips.",
+    "46": "The user frequently uses major subway nodes, and this Brooklyn station reflects their established transit network."
+  },
+  "fallback": false
+}

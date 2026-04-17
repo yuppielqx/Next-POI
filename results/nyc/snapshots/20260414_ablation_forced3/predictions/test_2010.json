@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2010",
+  "ranked_loc_ids": [
+    3693,
+    2326,
+    2505,
+    2132,
+    4052,
+    3171,
+    1924,
+    1342,
+    3554,
+    1474
+  ],
+  "explanations": {
+    "3693": "It fits the user’s bar-heavy evening pattern and is a nearby downtown nightlife option after Bar None.",
+    "2326": "A direct continuation at the current venue is very plausible only 27 minutes later on a Saturday evening.",
+    "2505": "Close by and still in the same social/nightlife corridor, matching a short nearby move.",
+    "2132": "A nearby bar category venue that could follow a casual evening outing.",
+    "4052": "Another very close nightlife spot, consistent with a brief hop between adjacent bars.",
+    "3171": "A nearby cocktail bar that matches the user’s tendency for light socializing after daytime activity.",
+    "1924": "A sports bar nearby enough to fit the short-horizon movement trend and evening timing.",
+    "1342": "A gastropub that aligns with the user’s leisure-driven evening behavior and nearby Manhattan cluster.",
+    "3554": "A nearby restaurant that could follow drinks as part of an evening food stop.",
+    "1474": "It is a strong historical match for bar-going, though the crosstown distance makes it less likely than nearby options."
+  },
+  "fallback": false
+}

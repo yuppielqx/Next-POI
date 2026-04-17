@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2696",
+  "ranked_loc_ids": [
+    2476,
+    137,
+    2485,
+    5290,
+    2490,
+    2449,
+    5138,
+    2486,
+    647,
+    2479
+  ],
+  "explanations": {
+    "2476": "This is the strongest historical anchor, it is at the last known location, and the user’s midday weekday pattern strongly favors a return there.",
+    "137": "A frequent nearby weekday stop in the same Midtown corridor, making it a plausible next move if the user shifts slightly from the office anchor.",
+    "2485": "It is essentially adjacent to the last location and fits the user’s tightly clustered movement pattern around West 26th–27th Street.",
+    "5290": "A very close café option that matches the user’s repeated midday food/coffee behavior near their workplace base.",
+    "2490": "The user visited this recently at lunchtime, so it is a strong nearby food-related continuation of the afternoon routine.",
+    "2449": "This is directly adjacent to the core cluster and the user has a clear bar/nightlife tendency, making it a plausible short hop.",
+    "5138": "A nearby cocktail bar in the same neighborhood that fits the user’s social/after-work behavior and compact geography.",
+    "2486": "A close coffee stop that aligns with the user’s frequent office-day pattern and likely midday refreshment needs.",
+    "647": "A nearby repeat food stop within the same corridor, plausible for an early-afternoon errand or snack run.",
+    "2479": "Another nearby repeat venue in the same local orbit, making it a lower-probability but still plausible neighborhood visit."
+  },
+  "fallback": false
+}

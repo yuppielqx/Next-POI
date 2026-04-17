@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1715",
+  "ranked_loc_ids": [
+    5119,
+    5117,
+    5121,
+    5120,
+    1249,
+    294,
+    5535,
+    2560,
+    3944,
+    176
+  ],
+  "explanations": {
+    "5119": "The user was last seen here only 49 minutes earlier, and the strongest time-conditioned prior says they are most likely still at or very near this synagogue.",
+    "5117": "It is very close by and fits the user’s recent religious-observance pattern, making it the most plausible nearby synagogue transition.",
+    "5121": "Another nearby place of worship that matches the current religious trip context and could reasonably be the next stop.",
+    "5120": "This nearby Orthodox-community grocery store fits the neighborhood pattern and is a plausible short walk after synagogue.",
+    "1249": "A nearby transit option if the user is leaving the synagogue area, and their history shows frequent movement through transportation hubs.",
+    "294": "A local major destination within the same Brooklyn area, possible if the user is continuing a purposeful daytime errand.",
+    "5535": "A nearby local venue that could follow a morning stop, especially if the user is transitioning to a meal or errand.",
+    "2560": "A nearby grocery option that fits short-range neighborhood movement more than a long cross-city trip.",
+    "3944": "Another nearby subway hub that could be used if the user is heading out of the borough area.",
+    "176": "Historically important for this user, but it is much less likely than the nearby Brooklyn options at this time."
+  },
+  "fallback": false
+}

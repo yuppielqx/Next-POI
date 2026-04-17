@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_667",
+  "ranked_loc_ids": [
+    3336,
+    1483,
+    1467,
+    1495,
+    770,
+    1468,
+    2251,
+    47,
+    3339,
+    3338
+  ],
+  "explanations": {
+    "3336": "This is the strongest habitual late-afternoon return for the user, with the highest visit count and a strong Thursday 3–5 PM pattern.",
+    "1483": "The user is already at this exact spot and has repeatedly checked in here on Thursdays in the same afternoon window.",
+    "1467": "It is extremely close to the current location and fits a plausible post-gym food stop in Astoria.",
+    "1495": "Similar users and the user's own routine both favor quick coffee stops near this exact corridor.",
+    "770": "A nearby food-and-coffee option that matches the user's chaining behavior after fitness or errands.",
+    "1468": "Close by and could fit a casual early evening transition, though it is less aligned with the user's afternoon routine.",
+    "2251": "A nearby transit node is plausible if the user is moving to another corridor after the gym.",
+    "47": "The user has a Midtown shopping pattern, but this is less likely immediately after an Astoria gym check-in.",
+    "3339": "This matches the user's appearance-routine profile, though the timing and location make it a secondary option.",
+    "3338": "A familiar coffee stop in the user's history, but it is farther away and less likely than the Astoria options."
+  },
+  "fallback": false
+}

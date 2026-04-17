@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1156",
+  "ranked_loc_ids": [
+    4430,
+    2216,
+    587,
+    975,
+    2696,
+    2681,
+    4197,
+    3679,
+    3496,
+    3424
+  ],
+  "explanations": {
+    "4430": "The time prior and the user's repeated daytime-to-evening presence make this the strongest return-to-frequent-place candidate.",
+    "2216": "This is the user's most visited place overall and fits their habitual nightlife pattern, though it is slightly less time-consistent at 13:06.",
+    "587": "It is the last known location and remains plausible due to immediate recency and corridor continuity, even if the afternoon timing is less typical.",
+    "975": "It is nearby in Midtown and matches the user's established lower-Manhattan/Midtown dining pattern.",
+    "2696": "A transit option is plausible given the user's movement between compact Manhattan stops and the southwest trend.",
+    "2681": "The user sometimes makes short hops between familiar areas, making a taxi transition a reasonable possibility.",
+    "4197": "This nearby bar aligns with the user's strong nightlife orientation, despite being less supported than the recurring favorites.",
+    "3679": "The lounge/nightlife category fits the profile, but it lacks any prior history for this user.",
+    "3496": "Another nearby nightlife-oriented food-and-bar option, though it is less likely than the user's established venues.",
+    "3424": "A close, practical daytime stop is possible after overnight movement, but it is weaker than the leisure-oriented candidates."
+  },
+  "fallback": false
+}

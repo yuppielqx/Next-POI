@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2363",
+  "ranked_loc_ids": [
+    2557,
+    3876,
+    2353,
+    570,
+    582,
+    569,
+    561,
+    5619,
+    5616,
+    5331
+  ],
+  "explanations": {
+    "2557": "This is the strongest match for the user’s repeated Upper West Side pharmacy pattern and a very common post-lunch/early evening errand stop.",
+    "3876": "It is an ultra-close evening bar option that fits the user’s occasional nightlife checks and the Thursday 6–8 p.m. tendency.",
+    "2353": "The user’s profile strongly anchors evening returns in Washington Heights, making a homeward move plausible despite the distance.",
+    "570": "The user has already visited this spot today and it fits the sandwich/errand routine, though a repeat is less likely than a nearby transition.",
+    "582": "A nearby Starbucks is consistent with a short local move after lunch, especially given the user’s clustering around Columbus Ave.",
+    "569": "Very close by and category-wise plausible for an evening food stop, especially if the user wants dinner after Lenny’s.",
+    "561": "A nearby grocery errand fits the user’s practical daytime-oriented behavior and frequent convenience-style stops.",
+    "5619": "This is a recurring anchor in the user’s history, but the current Manhattan position and evening timing make it less likely.",
+    "5616": "It matches the user’s nightlife history and Thursday evening pattern, though it is farther away than the strongest neighborhood options.",
+    "5331": "A pharmacy visit is behaviorally plausible, but it is less favored than the much more proximate Duane Reade."
+  },
+  "fallback": false
+}

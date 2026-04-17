@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_200",
+  "ranked_loc_ids": [
+    1379,
+    1381,
+    1382,
+    1394,
+    145,
+    1387,
+    1386,
+    1083,
+    1395,
+    112
+  ],
+  "explanations": {
+    "1379": "This is the user’s dominant Upper East Side anchor and strongest same-time revisit, making it the most likely late-night return point.",
+    "1381": "It is extremely close to the last location and fits the user’s recurring nearby errand pattern at night.",
+    "1382": "This nearby Upper East Side grocery stop matches the user’s habit of chaining practical late-night errands around home.",
+    "1394": "It is co-located with the 96th St area and could plausibly be a quick late-night stop before or after transit.",
+    "145": "The user’s commute-oriented routine makes another nearby subway station a reasonable alternative within the same corridor.",
+    "1387": "A nearby Upper East Side café fits the user’s frequent food-and-errand movement pattern.",
+    "1386": "This is another residential grocery option in the broader Upper East Side zone, consistent with routine errand behavior.",
+    "1083": "It is near the user’s usual Upper East Side area and could appear as a late-night food stop.",
+    "1395": "The user has occasional shopping behavior around Lexington Avenue and this is a plausible nearby retail stop.",
+    "112": "Another transit option near the user’s base, but less likely than the 6 train station they usually favor."
+  },
+  "fallback": false
+}

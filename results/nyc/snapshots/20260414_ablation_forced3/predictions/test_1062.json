@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1062",
+  "ranked_loc_ids": [
+    861,
+    4266,
+    4269,
+    4267,
+    4268,
+    858,
+    5160,
+    229,
+    5690,
+    4134
+  ],
+  "explanations": {
+    "861": "The user’s strongest overnight anchor is here, and their history shows frequent 3–5am returns to this building after evening activity.",
+    "4266": "This is a highly repeated companion stop in the user’s routine and fits their habitual late-night fast-food pattern near the main base.",
+    "4269": "It is the last known location, so a short follow-up or return visit remains plausible despite the overnight time.",
+    "4267": "The user often moves along commuter corridors, and this transportation point fits their car-based regional travel pattern.",
+    "4268": "The user has a history of roadway check-ins, and this aligns with a westward movement trend and late-night travel.",
+    "858": "Grocery shopping is part of the user’s practical routine, and this nearby East Orange store matches their localized movement style.",
+    "5160": "Another nearby fast-food option, it fits the user’s established preference for quick late-night food stops.",
+    "229": "Newark Penn Station is a plausible commuter-oriented destination given the user’s transportation-heavy pattern.",
+    "5690": "A late-night coffee/food stop in East Orange could occur, especially given the user’s overnight activity window.",
+    "4134": "A gas station is consistent with the user’s car-based mobility and movement along local road corridors."
+  },
+  "fallback": false
+}

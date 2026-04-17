@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1738",
+  "ranked_loc_ids": [
+    5152,
+    1673,
+    1668,
+    1666,
+    1669,
+    1670,
+    291,
+    135,
+    895,
+    134
+  ],
+  "explanations": {
+    "5152": "The strongest late-night pattern is a return home, and this is the user’s most frequent destination with multiple 9–11 PM visits.",
+    "1673": "It is the current last known stop, so a brief continuation or dwell at the same train station is possible before heading home.",
+    "1668": "Similar users often transition through this nearby 7 line station, and it fits the east/central Queens return corridor.",
+    "1666": "The user’s movement is trending southeast and this nearby station is a plausible link on the way back toward home.",
+    "1669": "This is a common nearby transit node in the user’s Queens travel pattern and fits a late-evening return route.",
+    "1670": "A practical intermediate stop near the user’s home area, especially consistent with transit-based movement.",
+    "291": "Starbucks in Flushing is a recurring anchor for this user and remains a plausible late-day stop before home.",
+    "135": "LaGuardia Airport is one of the user’s recurring transit-linked places and is close enough to be plausible from the current area.",
+    "895": "The user has visited Citi Field before, and it is very near the current position in Queens.",
+    "134": "This major hub matches the user’s transit-heavy profile, though it is less likely than the more local Queens options."
+  },
+  "fallback": false
+}

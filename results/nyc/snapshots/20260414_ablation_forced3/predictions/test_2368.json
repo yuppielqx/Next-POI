@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2368",
+  "ranked_loc_ids": [
+    5624,
+    5625,
+    4577,
+    472,
+    5627,
+    2723,
+    5628,
+    4579,
+    4621,
+    3528
+  ],
+  "explanations": {
+    "5624": "This is one of the user’s strongest recurring anchors, very close to the last check-in and fits the tight Crown Heights routine.",
+    "5625": "A highly frequent paired stop in the user’s history, and it sits right in the same immediate neighborhood cluster.",
+    "4577": "The user was just here, so a brief continued presence or immediate return is the most plausible zero-minute transition.",
+    "472": "The user’s mobility is tightly centered on this neighborhood, making a generic neighborhood check-in a strong fallback.",
+    "5627": "This nearby educational institution matches the user’s education-centered pattern and is close enough for a short local move.",
+    "2723": "A nearby school-like anchor in the same Crown Heights area, consistent with the user’s routine local circulation.",
+    "5628": "A frequent local reference point that fits a short southwest-leaning move within the core neighborhood.",
+    "4579": "Very close to the last location and plausible as a quick food stop after synagogue activity.",
+    "4621": "A nearby breakfast/coffee stop that could fit the user’s habitual provisioning pattern, though it is less historically established.",
+    "3528": "A local transit node that could follow a short neighborhood transition, but it is less supported than the user’s main anchors."
+  },
+  "fallback": false
+}

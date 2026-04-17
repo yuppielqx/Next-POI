@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_535",
+  "ranked_loc_ids": [
+    1586,
+    2912,
+    1598,
+    1334,
+    2910,
+    1568,
+    2908,
+    2909,
+    2914,
+    2915
+  ],
+  "explanations": {
+    "1586": "Strong after-work bar choice with multiple Monday and 6–8 PM visits, fitting the user’s evening routine.",
+    "2912": "Another frequent nearby bar with a strong 6–8 PM pattern and similar post-work behavior.",
+    "1598": "A close sports bar in the same corridor that matches the user’s repeated nightlife preferences.",
+    "1334": "A familiar pub option in the Murray Hill area that aligns with the user’s bar/pub chaining.",
+    "2910": "The user’s daytime anchor remains plausible if they are returning to the office before evening plans.",
+    "1568": "A nearby wine bar that fits the user’s compact after-work movement pattern.",
+    "2908": "A nearby pub with a relevant nightlife category and some prior history.",
+    "2909": "A local Irish pub in the broader Midtown East/NoMad orbit that matches evening social behavior.",
+    "2914": "Another nearby pub-like venue consistent with the user’s bar-oriented profile.",
+    "2915": "A nightlife spot in a familiar Manhattan work-to-drinks zone, though slightly less likely than the closer options."
+  },
+  "fallback": false
+}

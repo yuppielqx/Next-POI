@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_375",
+  "ranked_loc_ids": [
+    2247,
+    2248,
+    2253,
+    2255,
+    688,
+    2251,
+    3131,
+    2106,
+    4885,
+    2895
+  ],
+  "explanations": {
+    "2247": "It is the most frequent morning stop, exactly at the last known location, and strongly matches the user’s habitual Astoria routine.",
+    "2248": "This is the other dominant nearby anchor in the user’s history and is only a few steps from Panera, making a quick return very plausible.",
+    "2253": "A nearby everyday errand stop that fits the user’s localized Astoria pattern and could follow a morning café visit.",
+    "2255": "Another frequent food-oriented nearby destination in the user’s core area, especially plausible for a morning transition.",
+    "688": "The user repeatedly pairs nearby food stops with this movie theater, so it remains a strong local follow-up option.",
+    "2251": "A close Astoria transit point that fits the morning commute-like behavior seen in similar users and the user’s occasional mobility.",
+    "3131": "Very close to the last stop and thematically similar to Panera as a morning coffee destination.",
+    "2106": "The Museum of the Moving Image is near the current cluster and aligns with the user’s repeated leisure-oriented Astoria movement.",
+    "4885": "A nearby grocery stop that fits the user’s small-radius morning errand pattern in central Astoria.",
+    "2895": "This is close to the user’s current area, but its nightlife orientation makes it less likely for a 7:32 AM visit."
+  },
+  "fallback": false
+}

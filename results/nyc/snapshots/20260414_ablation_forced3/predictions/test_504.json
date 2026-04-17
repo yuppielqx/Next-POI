@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_504",
+  "ranked_loc_ids": [
+    4412,
+    2327,
+    1371,
+    5208,
+    1092,
+    2794,
+    137,
+    842,
+    4675,
+    586
+  ],
+  "explanations": {
+    "4412": "Best match for a Saturday evening bar stop near the current Penn Station area, aligning with the user’s nightlife rhythm.",
+    "2327": "A nearby beer garden fits the user’s late-day social pattern and the strong central-Manhattan dining/drinks prior.",
+    "1371": "Casual evening food-and-drinks option very close to the last location and consistent with a nearby-new-place move.",
+    "5208": "The user just ate sushi and may continue with another food stop in the same area before heading deeper into nightlife.",
+    "1092": "A major nearby venue that could plausibly be the next destination if the user is meeting others or attending an event.",
+    "2794": "A bar in the Midtown West corridor matches the user’s preference for nightlife and central Manhattan venues.",
+    "137": "Strong historical transition frequency makes staying at the current Penn Station location possible, though less likely for Saturday evening.",
+    "842": "The user may be transiting onward from Penn Station, especially given the north-west movement trend.",
+    "4675": "A late-evening quick food stop is possible, but it is weaker than the bar and lounge options.",
+    "586": "Herald Square is nearby and sometimes serves as a connector, but it is less directly aligned with the user’s nightlife behavior."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_761",
+  "ranked_loc_ids": [
+    3589,
+    960,
+    1637,
+    1277,
+    3586,
+    3588,
+    3590,
+    2308,
+    2377,
+    2035
+  ],
+  "explanations": {
+    "3589": "The evening time prior strongly favors this gym, and the user has a repeated 6–8 PM pattern here.",
+    "960": "This is the user’s dominant anchor location and a very plausible return point in their West Village routine.",
+    "1637": "A frequent nearby lunch/food stop that fits the user’s localized Manhattan circuit and Tuesday history.",
+    "1277": "Another habitual nearby Vietnamese option that matches the user’s food-oriented returns in Greenwich Village.",
+    "3586": "The user repeatedly visits this sushi spot near their core area, making it a strong local dining candidate.",
+    "3588": "It is the last known location and sits directly in the user’s familiar cluster, though evening revisits are less typical.",
+    "3590": "Vietnamese food is a strong part of the profile, but this specific location is far outside the usual West Village pattern.",
+    "2308": "This nearby restaurant is plausible as an early-evening stop within the same neighborhood, though less established in history.",
+    "2377": "An occasional evening social destination that fits the time of day but is less consistent with the user’s core routine.",
+    "2035": "A nearby nightlife spot that could fit an evening outing, but it is more episodic than the user’s usual pattern."
+  },
+  "fallback": false
+}

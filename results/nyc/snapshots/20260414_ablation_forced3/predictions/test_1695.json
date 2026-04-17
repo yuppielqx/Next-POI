@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1695",
+  "ranked_loc_ids": [
+    3023,
+    3122,
+    3490,
+    289,
+    5095,
+    5097,
+    1196,
+    5099,
+    3493,
+    4063
+  ],
+  "explanations": {
+    "3023": "This is the strongest habitual late-night anchor in the user’s history and fits the Sunday 04:46 return-to-frequent-place pattern in the Lower East Side corridor.",
+    "3122": "It is the current anchor and a major nightlife repeat spot, making a stay or immediate return highly plausible at this hour.",
+    "3490": "A nearby nightlife venue with some Sunday history, fitting a late-night northward drift from Chelsea/Flatiron.",
+    "289": "The user repeatedly uses Canal Street coffee stops and often returns to familiar Chinatown-area routines.",
+    "5095": "Strong Chinatown-area habit and part of the user’s recurring Canal Street cluster, though less likely at this hour than food/nightlife.",
+    "5097": "A highly familiar salon in the user’s core area, but the late-night timing makes it less likely than dining venues.",
+    "1196": "The user often operates within this neighborhood cluster, and it remains a plausible generalized destination.",
+    "5099": "A familiar food stop in the user’s Chinatown routine, though less aligned with the very late hour.",
+    "3493": "Another lower Manhattan late-night dining option that matches the user’s food-oriented patterns reasonably well.",
+    "4063": "A Chinatown food venue that fits the geographic cluster, but it is less consistent with the user’s nightlife timing than the higher-ranked options."
+  },
+  "fallback": false
+}

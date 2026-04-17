@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1091",
+  "ranked_loc_ids": [
+    58,
+    173,
+    53,
+    2067,
+    647,
+    820,
+    4157,
+    274,
+    329,
+    878
+  ],
+  "explanations": {
+    "58": "This is the strongest historical evening return anchor, with many Tuesday 6–8 p.m. visits and a commuter-hub profile matching the target time.",
+    "173": "A major transportation hub with heavy Tuesday recurrence, making it a plausible commute-related stop if the user is heading back north.",
+    "53": "The Times Square transit hub fits the evening return-commute pattern and is consistent with a transfer-oriented movement chain.",
+    "2067": "The user frequently makes short coffee stops during workdays, and this nearby Midtown café fits a routine evening pause.",
+    "647": "A repeat weekday errand/food stop that aligns with the user’s practical, non-social movement style.",
+    "820": "Very close to the last location and strongly associated with transition behavior, making it a likely next move.",
+    "4157": "The user has Tuesday history here, and it matches a quick dinner or convenience stop near Flatiron.",
+    "274": "A plausible Midtown destination on a short south-to-north or local loop, especially after a daytime stop in the Flatiron area.",
+    "329": "This nearby park-like location has strong transition behavior and could be part of a brief local movement sequence.",
+    "878": "Extremely close to the current area and consistent with a short, low-friction movement within the Flatiron corridor."
+  },
+  "fallback": false
+}

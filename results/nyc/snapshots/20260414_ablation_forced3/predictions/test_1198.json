@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1198",
+  "ranked_loc_ids": [
+    3300,
+    4509,
+    2660,
+    3128,
+    4514,
+    4507,
+    3801,
+    317,
+    5191,
+    5202
+  ],
+  "explanations": {
+    "3300": "This is the user’s dominant commute anchor and the strongest evening return destination after a southeastern Queens errand.",
+    "4509": "It is very close to the last stop and fits the user’s Queens-base return pattern after moving southeast.",
+    "2660": "A nearby transit hub that matches the commute-oriented profile and could be the next transfer point.",
+    "3128": "The user is already in the Valley Stream area, and a quick shopping stop is plausible before heading back.",
+    "4514": "Similar users and the current shopping context make another nearby retail stop possible.",
+    "4507": "The user has occasional evening leisure visits here, so a 19:00 movie stop is possible though less likely.",
+    "3801": "A return or continued stay at the same shopping complex is possible immediately after the last known location.",
+    "317": "This nearby wholesale club fits the ongoing errand pattern and is adjacent to the user’s current area.",
+    "5191": "It is nearby in Rosedale and could serve as a brief intermediate stop on the way back toward Queens.",
+    "5202": "A short convenience stop is plausible before the user resumes their return commute."
+  },
+  "fallback": false
+}

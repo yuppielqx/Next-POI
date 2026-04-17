@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1492",
+  "ranked_loc_ids": [
+    114,
+    1252,
+    4594,
+    489,
+    62,
+    2092,
+    4661,
+    656,
+    2006,
+    63
+  ],
+  "explanations": {
+    "114": "It is the closest strong transit hub and matches the user’s bridge-and-commute movement pattern during a late-night transfer.",
+    "1252": "The user is already at this exact location, and similar users often move from here to another nearby transit point.",
+    "4594": "This nearby Brooklyn destination fits a short continuation of the northwest movement from the last known point.",
+    "489": "The Brooklyn Bridge is a nearby bridge landmark that aligns with the user’s recurring bridge corridor behavior.",
+    "62": "The Brooklyn-Battery Tunnel is a transportation link consistent with the user’s route-based travel style.",
+    "2092": "The Brooklyn Heights Promenade is close by and could be reached during a brief late-night nearby move.",
+    "4661": "A nearby Manhattan/Brooklyn-side stop is plausible, though it is less consistent with the user’s transit-heavy pattern.",
+    "656": "This central Manhattan food stop is reachable from the current area but is less likely than a transportation node.",
+    "2006": "Another transit station that fits the user’s commute-oriented profile, though it is slightly less directly aligned than the bridge options.",
+    "63": "Strongly characteristic of the user overall, but the current northwest movement and location make it less likely than nearby Brooklyn-Manhattan options."
+  },
+  "fallback": false
+}

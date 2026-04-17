@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_674",
+  "ranked_loc_ids": [
+    679,
+    689,
+    681,
+    700,
+    5642,
+    3348,
+    291,
+    290,
+    3347,
+    1303
+  ],
+  "explanations": {
+    "679": "Strong historical campus sequence and the most likely next intra-campus academic stop after returning to St. John's University.",
+    "689": "Very close to the last location and frequently transitions from St. John's University in the user’s routine.",
+    "681": "The user is anchored on campus and may simply remain at the same core location at this time.",
+    "700": "Nearby academic building that fits the user’s habitual campus-centered movement pattern.",
+    "5642": "Immediate campus-adjacent building with high spatial compatibility despite no prior visits.",
+    "3348": "A repeated afternoon dining stop, but less likely than another academic building right after class-time movement.",
+    "291": "Matches the user’s coffee-shop behavior, though it is farther and less likely than staying on campus.",
+    "290": "Plausible if the user makes a short off-campus errand, but the pattern favors remaining at St. John’s.",
+    "3347": "A known Queens College-related stop with some afternoon history, but it is farther from the current campus cluster.",
+    "1303": "A transit-oriented move is possible, but the user’s strongest tendency is campus-to-campus rather than long-distance travel."
+  },
+  "fallback": false
+}

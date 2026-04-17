@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2424",
+  "ranked_loc_ids": [
+    320,
+    59,
+    3036,
+    119,
+    3119,
+    2742,
+    3597,
+    3186,
+    2273,
+    4518
+  ],
+  "explanations": {
+    "320": "The user’s strongest pattern is returning to Midtown on Friday mornings, and it is the last known location with zero distance from the current position.",
+    "59": "It is the closest similar-user morning Midtown anchor and fits a nearby workday-start transition.",
+    "3036": "A very close Midtown dining option that could plausibly follow a morning return within the same cluster.",
+    "119": "Another adjacent Midtown restaurant matching the user’s compact movement radius and morning proximity.",
+    "3119": "A nearby Midtown nightlife/commercial stop that aligns with the user’s frequent Midtown-centered routine.",
+    "2742": "This Midtown office landmark fits a weekday morning transition toward a work-oriented destination.",
+    "3597": "A nearby Midtown shop that is plausible for a brief morning errand in the same core area.",
+    "3186": "Close to Midtown and consistent with the user’s repeated short hops within the area.",
+    "2273": "The user has repeated Friday activity in the Chelsea corridor, making it a secondary fitness/studio destination.",
+    "4518": "Strong historical frequency makes the gym a plausible morning stop, though it is less likely than an immediate Midtown return."
+  },
+  "fallback": false
+}

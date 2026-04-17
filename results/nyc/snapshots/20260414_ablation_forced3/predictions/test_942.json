@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_942",
+  "ranked_loc_ids": [
+    4017,
+    1805,
+    468,
+    4018,
+    2272,
+    2266,
+    2986,
+    3322,
+    2277,
+    2285
+  ],
+  "explanations": {
+    "4017": "This is the user’s dominant hub with the strongest historical frequency and the time slot strongly favors a Meadowlands return.",
+    "1805": "It is one of the user’s core Manhattan anchors and is extremely close to the last known location.",
+    "468": "A highly recurrent nearby plaza check-in that fits the user’s Upper West Side routine.",
+    "4018": "The user often pairs Manhattan visits with nearby food errands, making this a plausible short hop.",
+    "2272": "A nearby frequent retail/food stop that matches the user’s clustered movement style.",
+    "2266": "Close to the current area and consistent with the user’s recurring dining-oriented pattern.",
+    "2986": "The user has repeated fitness-related stops in this neighborhood, making a daytime gym visit plausible.",
+    "3322": "A familiar coffee stop near the user’s Manhattan cluster and reasonable for an afternoon transition.",
+    "2277": "Another recurring nearby dining spot that aligns with similar users’ lunchtime-to-afternoon behavior.",
+    "2285": "The last known location itself remains possible if the user lingers before making the next move."
+  },
+  "fallback": false
+}

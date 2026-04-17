@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_632",
+  "ranked_loc_ids": [
+    3236,
+    1570,
+    97,
+    3234,
+    344,
+    2889,
+    3237,
+    3239,
+    2209,
+    3238
+  ],
+  "explanations": {
+    "3236": "A nearby bar fits the strong evening transition from dinner to nightlife and matches the user’s repeated post-work social pattern in the same Manhattan corridor.",
+    "1570": "This is extremely close to the last location and aligns well with a dinner-to-drinks move within the Union Square/Gramercy area.",
+    "97": "A lounge/bar is a natural next stop after Rosa Mexicano at night, especially given the user’s history of nearby social venues.",
+    "3234": "Although farther away, it matches the user’s observed preference for bars after evening meals and appears in the favored social set.",
+    "344": "This nearby American restaurant is consistent with the user’s compact movement pattern and could serve as a post-dinner hangout spot.",
+    "2889": "The user frequently returns to gyms, and a late-evening workout or gym visit remains plausible within this tight radius.",
+    "3237": "Another familiar fitness venue, slightly less likely than the nearer options but still strongly supported by the user’s routine.",
+    "3239": "Very close to the current area and consistent with the user’s fitness-centered mobility, though the time favors socializing slightly more.",
+    "2209": "This is a core habitual location for the user and is essentially adjacent, but the late-night timing makes a workout less likely than a bar.",
+    "3238": "A repeated fitness brand fits the profile, but the farther distance and night hour make it a weaker next step than nearby venues."
+  },
+  "fallback": false
+}

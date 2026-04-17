@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_915",
+  "ranked_loc_ids": [
+    921,
+    1545,
+    1439,
+    140,
+    53,
+    2006,
+    618,
+    125,
+    2649,
+    1200
+  ],
+  "explanations": {
+    "921": "This fits the morning south-west commute pattern and is a highly frequented F-line transfer point for this user.",
+    "1545": "A strong intermediate downtown transit hub on the likely route from Midtown toward Brooklyn.",
+    "1439": "The user repeatedly visits this F/G station in the early morning and it matches the south-west trajectory.",
+    "140": "A major frequent anchor for the user, especially on Wednesdays and morning time slots, though it is farther away.",
+    "53": "Very close to the last stop and consistent with a rapid transfer through Times Square-area transit.",
+    "2006": "A plausible downtown subway stop for a commuter moving out of Midtown toward lower Manhattan.",
+    "618": "Frequently visited Brooklyn station that aligns with the user’s transit-heavy mobility.",
+    "125": "A key Brooklyn transit hub with strong morning and Wednesday history, supporting a commuter pattern.",
+    "2649": "The user has substantial morning history in the broader Coney Island corridor, making this a possible farther south destination.",
+    "1200": "A recurring Queens anchor for this user, but less likely than the Brooklyn F-line corridor given the current southwest movement."
+  },
+  "fallback": false
+}

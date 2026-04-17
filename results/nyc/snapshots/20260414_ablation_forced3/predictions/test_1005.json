@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1005",
+  "ranked_loc_ids": [
+    419,
+    3669,
+    515,
+    2206,
+    4170,
+    4168,
+    3215,
+    4861,
+    4682,
+    5682
+  ],
+  "explanations": {
+    "419": "It matches the user’s strongest repeated morning routine, is the last known location, and staying in the same park area is the most likely immediate next step.",
+    "3669": "This is the user’s other major early-morning anchor and a very plausible follow-up to a park stop.",
+    "515": "It is essentially next door to the current park area and fits the user’s daytime errand-oriented pattern.",
+    "2206": "Very close to the last location and consistent with a morning stop around Grand Army Plaza.",
+    "4170": "It is nearby in the same Brooklyn cluster and has been visited before, making it a credible repeat stop.",
+    "4168": "A frequent neighborhood errand destination that fits the user’s practical daytime routine.",
+    "3215": "A nearby coffee option that matches the strong morning caffeine pattern.",
+    "4861": "Close by and aligned with the user’s repeated café/food behavior in Prospect Heights.",
+    "4682": "A nearby breakfast-oriented stop that fits an early morning sequence.",
+    "5682": "Another plausible morning food destination in the immediate neighborhood."
+  },
+  "fallback": false
+}

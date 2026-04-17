@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_737",
+  "ranked_loc_ids": [
+    3510,
+    3509,
+    3511,
+    786,
+    1536,
+    1031,
+    3523,
+    3093,
+    1030,
+    3515
+  ],
+  "explanations": {
+    "3510": "It is the strongest residence-like morning anchor in the user’s history and best fits a return-to-base pattern after the overnight stop.",
+    "3509": "This is the top transit anchor in the user’s routine and a plausible morning commute move from a home base.",
+    "3511": "A heavily repeated transit node with strong Friday presence, making it a likely next stop in the user’s usual commute chain.",
+    "786": "This downtown park is part of the user’s recurring Lower Manhattan loop and can follow an early transit stop.",
+    "1536": "The user is currently in the Brooklyn corridor, so a nearby station is a reasonable morning mobility step.",
+    "1031": "A close bagel shop fits a typical morning errand after waking or before commuting.",
+    "3523": "A nearby neighborhood grocery/bodega is consistent with the user’s short local movement pattern.",
+    "3093": "This nearby restaurant could be a morning food stop, though it is less supported than the user’s usual anchors.",
+    "1030": "A nearby bar is possible by proximity, but the morning timing makes it less likely than transit or home.",
+    "3515": "A strongly recurring food venue for this user, but the early-morning timing makes it a weaker next-step choice."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1326",
+  "ranked_loc_ids": [
+    137,
+    1092,
+    2366,
+    4675,
+    4674,
+    1781,
+    3495,
+    560,
+    1371,
+    566
+  ],
+  "explanations": {
+    "137": "New York Penn Station is the most natural immediate follow-up given the user’s strong Penn Station/Madison Square Garden anchor and the current stay-in-place pattern.",
+    "1092": "The user repeatedly returns to MSG, and it is only a few steps from the last known Penn Station-area stop.",
+    "2366": "This hotel-like Penn Station location fits the user’s late-night linger-and-transit behavior after MSG events.",
+    "4675": "A frequent late-night food stop in the exact same micro-area, especially plausible in the early morning.",
+    "4674": "Another nearby food venue that matches the user’s nighttime Penn Station routine, though they are already there now.",
+    "1781": "Morning timing makes a quick Penn Station breakfast stop plausible, and it is very close to the current location.",
+    "3495": "A nearby pharmacy stop is consistent with short chaining around Penn Station after a long night out.",
+    "560": "Extremely close to the last location and a plausible early-morning snack destination near Penn Station.",
+    "1371": "Close enough to fit the same-area movement pattern, though less aligned with the user’s usual late-night transit-food behavior.",
+    "566": "A nearby Midtown stop that fits the geographic cluster, but is less directly supported by the user’s strongest repeated patterns."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2572",
+  "ranked_loc_ids": [
+    5710,
+    5622,
+    5683,
+    4487,
+    5621,
+    4753,
+    3775,
+    4145,
+    1794,
+    1157
+  ],
+  "explanations": {
+    "5710": "This is the user’s strongest habitual anchor, has the highest same-day pattern fit, and matches the likely Saturday-night return to a familiar bar.",
+    "5622": "It is essentially next door to the last known spot and fits the user’s repeated Saturday-night bar-hopping behavior in the same Clifton corridor.",
+    "5683": "A highly recurrent dive bar in the same tight nightlife cluster, making it a very plausible follow-up after a short northwest-movement pattern.",
+    "4487": "This nearby Clifton bar fits the user’s nightlife profile and could easily be a fresh Saturday-night stop within their usual orbit.",
+    "5621": "A known late-evening bar destination for this user, plausible if they widen the outing beyond the immediate Clifton/Passaic area.",
+    "4753": "Another familiar bar in the same regional nightlife circuit, consistent with the user’s habitual bar-focused Saturday nights.",
+    "3775": "A repeat Saturday bar choice for this user, though it is a bit farther from the current cluster than the top options.",
+    "4145": "The user sometimes starts with food before nightlife, so this restaurant is possible, but it is less likely than a bar at this hour.",
+    "1794": "It is a nightlife venue in Clifton and could serve as a nearby alternative, but it is less established in the user’s history.",
+    "1157": "A known Saturday-night bar in the broader orbit, but it is farther away and therefore less likely than the clustered Clifton options."
+  },
+  "fallback": false
+}

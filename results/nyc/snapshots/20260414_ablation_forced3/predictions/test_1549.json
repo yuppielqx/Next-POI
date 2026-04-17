@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1549",
+  "ranked_loc_ids": [
+    180,
+    92,
+    561,
+    762,
+    4946,
+    578,
+    4947,
+    2600,
+    1314,
+    3906
+  ],
+  "explanations": {
+    "180": "Strongest historical match for Monday early-afternoon visits and the user’s repeated gym-then-errand pattern in this corridor.",
+    "92": "The user just left Fairway and grocery stops are a core part of the same local afternoon loop.",
+    "561": "Another highly recurrent Monday-friendly grocery stop in the same Upper West Side errand cluster.",
+    "762": "A frequent nearby provisioning destination that fits the user’s compact shopping chain behavior.",
+    "4946": "A recurring local errand stop within the user’s tightly bounded neighborhood routine.",
+    "578": "Pharmacy runs are consistent with the user’s daytime errand profile and nearby West 72nd Street pattern.",
+    "4947": "A repeated miscellaneous shop in the same corridor, plausible as part of a short errand loop.",
+    "2600": "Close to the current path and consistent with a westward neighborhood errand continuation.",
+    "1314": "A nearby public space that fits the short-distance westward movement trend, though less routine than shops.",
+    "3906": "A nearby low-friction stop that occasionally fits midday transitions for similar users."
+  },
+  "fallback": false
+}

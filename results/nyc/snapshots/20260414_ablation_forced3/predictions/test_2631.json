@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2631",
+  "ranked_loc_ids": [
+    1400,
+    2246,
+    122,
+    271,
+    272,
+    426,
+    1088,
+    371,
+    4880,
+    2903
+  ],
+  "explanations": {
+    "1400": "It is the immediate next stop in the JFK AirTrain chain and fits the strong return-to-last transit pattern at 18:36.",
+    "2246": "It is the closest nearby light rail continuation from the current station and matches the airport-transit corridor movement.",
+    "122": "This adjacent transit node is another highly plausible continuation within the same JFK/Howard Beach transfer sequence.",
+    "271": "Historical behavior strongly favors JFK in the evening, and the user is still within the airport transit complex.",
+    "272": "Another JFK AirTrain station in the same system, making it a natural chained movement after the last check-in.",
+    "426": "It is a JFK Terminal 4 plane-related location with prior history, so a terminal-adjacent move is plausible.",
+    "1088": "A nearby JFK terminal destination fits the ongoing airport movement, though it is less directly connected than the rail stations.",
+    "371": "Another airport terminal within JFK, consistent with the user remaining in the airport area.",
+    "4880": "This airport amenity is a plausible short-hop destination for an evening traveler staying in the JFK complex.",
+    "2903": "If the user leaves the AirTrain corridor, this nearby transit station is the next most likely local transfer point."
+  },
+  "fallback": false
+}

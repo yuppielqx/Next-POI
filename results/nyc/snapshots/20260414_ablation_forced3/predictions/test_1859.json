@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1859",
+  "ranked_loc_ids": [
+    1235,
+    59,
+    1776,
+    97,
+    560,
+    4893,
+    362,
+    4815,
+    5255,
+    1146
+  ],
+  "explanations": {
+    "1235": "The user’s strongest midday Midtown pattern and prior sequence make this the most likely next stop after Lillie's, especially given the frequent Lillie's → Marriott Marquis corridor.",
+    "59": "This is a top recurring anchor in the user’s routine and fits a short continuation within the same Theater District lunch loop.",
+    "1776": "A major repeat venue for this user during the noon-to-2pm window, and a plausible routine business stop despite being a bit farther south.",
+    "97": "The user often revisits core lunch venues, so an immediate return is possible even if they are already at this location.",
+    "560": "Close by and consistent with a quick lunch-time detour in Midtown, though less central than the main repeat anchors.",
+    "4893": "A nearby Midtown meeting-oriented location that matches the user’s business-hour mobility style.",
+    "362": "Fits the event-space profile, but it is less tightly connected to the user’s strongest repeated corridor.",
+    "4815": "This is a frequent historical destination, but the distance makes it less likely than the Midtown cluster.",
+    "5255": "Another recurring daytime stop in the user’s history, but its uptown location lowers its probability for this short afternoon move.",
+    "1146": "The racetrack pattern appears only episodically and is much less consistent with the user’s lunch-centered Midtown routine."
+  },
+  "fallback": false
+}

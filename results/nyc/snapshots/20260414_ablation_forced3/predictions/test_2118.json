@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2118",
+  "ranked_loc_ids": [
+    4375,
+    4174,
+    5321,
+    398,
+    4376,
+    395,
+    5225,
+    4771,
+    1720,
+    950
+  ],
+  "explanations": {
+    "4375": "This is the user’s strongest anchor and current area, making a same-area return the most likely next move.",
+    "4174": "A nearby shopping/dining hub fits the user’s routine suburban pattern and evening errand/leisure behavior.",
+    "5321": "A close, practical stop matches the user’s daytime-to-evening routine and commuter-like mobility.",
+    "398": "The user has repeated history at this community college, so a return for an evening campus-related visit is plausible.",
+    "4376": "An evening dining stop near Hackensack aligns with the target time and the user’s occasional casual dining pattern.",
+    "395": "Similar users and the user’s dessert/food tendencies make this a reasonable night-time food destination.",
+    "5225": "A nearby restaurant in the same shopping corridor is consistent with a planned dinner outing.",
+    "4771": "A quick local food stop is plausible given the user’s errand-like movement style and proximity.",
+    "1720": "The user’s suburban shopping radius includes Paramus, making this a possible nearby destination.",
+    "950": "A Manhattan dessert-shop outing is less likely than staying local, but it matches the user’s known dessert preference and prior late-evening behavior."
+  },
+  "fallback": false
+}

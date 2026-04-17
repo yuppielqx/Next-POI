@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1749",
+  "ranked_loc_ids": [
+    1833,
+    650,
+    1860,
+    1036,
+    97,
+    2132,
+    338,
+    271,
+    391,
+    2061
+  ],
+  "explanations": {
+    "1833": "The user has a very strong midnight-to-2 a.m. return pattern here and it matches the likely post-Marquee move back toward the Midtown hotel base.",
+    "650": "The last known location was Marquee, so an immediate continued stay or nearby return is the most natural short-term outcome.",
+    "1860": "This fits the user’s repeated nightlife circuit and is a plausible next stop in the Chelsea/Hell’s Kitchen corridor after Marquee.",
+    "1036": "Webster Hall is one of the user’s most frequent midnight venues, making it a strong late-night alternative if they continue club-hopping.",
+    "97": "The user repeatedly cycles through this lounge before nightlife, so a late-night revisit remains plausible.",
+    "2132": "The user has a recurring pattern at The Smith and it matches their East Village/late-evening dining routine.",
+    "338": "Eataly is a regular daytime-to-evening food stop in the user’s Midtown/Flatiron pattern, though less likely at 02:30.",
+    "271": "The user travels frequently and JFK is a major anchor in their history, but the time and location make it less likely than a nearby return.",
+    "391": "Similar-user behavior points to nearby nightlife bars, and this is a reasonable Midtown West fallback after club time.",
+    "2061": "It is very close to the current area and could serve as a nearby hotel return, though it is far less established in the user’s history than Hilton New York."
+  },
+  "fallback": false
+}

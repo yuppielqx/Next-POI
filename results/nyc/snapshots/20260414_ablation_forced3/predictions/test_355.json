@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_355",
+  "ranked_loc_ids": [
+    2165,
+    1238,
+    2164,
+    2163,
+    137,
+    2159,
+    3528,
+    3747,
+    1187,
+    2162
+  ],
+  "explanations": {
+    "2165": "The user has the strongest repeat pattern of morning departures and returns at this station, and the 11:45 Monday slot fits a commute-linked stop here.",
+    "1238": "This is the main daytime anchor after Saratoga Av and is the most likely late-morning destination on a Monday.",
+    "2164": "A repeated food stop in the Upper East Side corridor, making it a plausible next check-in around the user’s usual lunch-adjacent time.",
+    "2163": "This restaurant fits the user’s midday pattern and is a known nearby lunch option in the same Manhattan cluster.",
+    "137": "A frequent Manhattan transit-related outlier that could appear during a commute sequence, though it is less central than the Upper East Side.",
+    "2159": "A transportation hub the user has visited before, making it a possible but less likely transfer point than the primary anchors.",
+    "3528": "Nearby Brooklyn transit behavior makes this a reasonable local movement option if the user briefly shifts within the commute corridor.",
+    "3747": "Another nearby Brooklyn station that could serve as a short-hop transit move, but it has weaker historical support than the main station.",
+    "1187": "A broad, infrequent fallback location that appears in similar commuting traces but is too generic to be likely.",
+    "2162": "The user has airport outlier behavior, but this is much less consistent with the Monday morning routine than the commute-related locations."
+  },
+  "fallback": false
+}

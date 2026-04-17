@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_272",
+  "ranked_loc_ids": [
+    505,
+    2145,
+    1844,
+    973,
+    1799,
+    1800,
+    1823,
+    1805,
+    1806,
+    626
+  ],
+  "explanations": {
+    "505": "It is an extremely close next-door nightlife option that fits the user’s west-side evening leisure pattern and the current northwesterly drift.",
+    "2145": "A nearby diner/restaurant from similar-user behavior, making it a plausible immediate next food stop along 9th Ave.",
+    "1844": "The user has just been here, so a brief repeat or lingering check-in is possible despite being the current stop.",
+    "973": "A close Midtown nightlife venue that matches the user’s lounge-and-drinks preference for late-afternoon transitions.",
+    "1799": "This is a strong historical anchor for the user and sits in the same Central Park South corridor.",
+    "1800": "Another frequent user favorite in the immediate neighborhood, consistent with an upscale meal continuation.",
+    "1823": "A nearby repeat food venue that fits the user’s dining-heavy Midtown movement.",
+    "1805": "Close enough to the current cluster and aligned with the user’s Manhattan entertainment/studio-area pattern.",
+    "1806": "A nearby Lincoln Center-area sandwich stop that matches the current westward movement.",
+    "626": "A highly plausible next entertainment destination for this user, though slightly less immediate than the closest nearby options."
+  },
+  "fallback": false
+}

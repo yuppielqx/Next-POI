@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2018",
+  "ranked_loc_ids": [
+    416,
+    2044,
+    5393,
+    3797,
+    3688,
+    1235,
+    5329,
+    4707,
+    5394,
+    586
+  ],
+  "explanations": {
+    "416": "It is the user’s strongest historical anchor in Midtown and fits the afternoon return pattern from Herald Towers.",
+    "2044": "This is a frequent midday support stop very close to the last location and matches the user’s coffee routine.",
+    "5393": "The user is already there, so a brief stay or immediate re-check-in is plausible.",
+    "3797": "It is a nearby recurring Midtown venue within the user’s tight 33rd/34th Street cluster.",
+    "3688": "This nearby sports bar fits the user’s occasional social/food stops in the Midtown corridor.",
+    "1235": "A nearby Midtown destination that could attract a short movement north-west from Herald Towers.",
+    "5329": "A close-by food stop that aligns with the user’s midday activity and current Midtown presence.",
+    "4707": "Another nearby café option consistent with the user’s coffee/food-oriented afternoon pattern.",
+    "5394": "Although farther away, it is a repeated residence-hall anchor and part of the user’s broader routine.",
+    "586": "Herald Square is a very nearby public square that fits a short north-east movement from the last known point."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1426",
+  "ranked_loc_ids": [
+    4811,
+    4809,
+    4810,
+    289,
+    2006,
+    4812,
+    2186,
+    235,
+    5265,
+    1196
+  ],
+  "explanations": {
+    "4811": "It is the last known location, matches the user’s Saturday training pattern, and the 11:43 morning time strongly suggests they may still be there or nearby.",
+    "4809": "The user just made a nearby food stop recently, so a quick return for food in Lower Manhattan is plausible after training.",
+    "4810": "This is one of the user’s strongest martial arts anchors and fits the training-centered routine, though it is slightly less immediate than staying at Five Points.",
+    "289": "A nearby coffee stop is consistent with a late-morning break after a gym session.",
+    "2006": "If the user is transitioning within Lower Manhattan, Canal Street station is a natural nearby waypoint.",
+    "4812": "This is a major recurring weekday destination, but Saturday late morning makes it less likely than a local Lower Manhattan stop.",
+    "2186": "The user has a history of quick lunch/errand stops here, and it remains a plausible nearby food option.",
+    "235": "It appears in the user’s routine around daytime hours, though it is more office-oriented than Saturday training behavior.",
+    "5265": "Another martial arts dojo nearby, making it a reasonable alternative if the user is switching training venues.",
+    "1196": "The user is already in the area, so a neighborhood-level move within Chinatown is possible even if the exact stop is unclear."
+  },
+  "fallback": false
+}

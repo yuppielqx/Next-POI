@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1829",
+  "ranked_loc_ids": [
+    1522,
+    1539,
+    3951,
+    144,
+    142,
+    120,
+    2653,
+    2652,
+    75,
+    564
+  ],
+  "explanations": {
+    "1522": "It is the closest major transit transfer point to the last stop and fits the user’s corridor-based late-night movement pattern.",
+    "1539": "The user is already at this hub area, so a nearby subway continuation is highly likely.",
+    "3951": "A natural uptown or cross-town transit follow-on from the 14th Street corridor, especially at night.",
+    "144": "This is another nearby major transportation hub in Midtown that matches short-hop sequential travel.",
+    "142": "The user often uses the west-side corridor, and this major 1-line hub is a plausible northbound transfer.",
+    "120": "Strong historical affinity for the 1 line makes an uptown return believable, though less immediate than a nearby transfer.",
+    "2653": "This is the user’s strongest home-area anchor and a common late-night endpoint on the 1 line.",
+    "2652": "Historical same-slot relevance and its role as a transit hub keep it in play as a nearby corridor destination.",
+    "75": "A less likely non-transit stop, but it appears in the user’s history as an occasional evening errand/shopping destination.",
+    "564": "An uptown progression along the 1 line is plausible, though the jump is larger than the immediate nearby options."
+  },
+  "fallback": false
+}

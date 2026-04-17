@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1124",
+  "ranked_loc_ids": [
+    3689,
+    3690,
+    2990,
+    4357,
+    4379,
+    3280,
+    3107,
+    5135,
+    3085
+  ],
+  "explanations": {
+    "3689": "This is the user’s strongest habitual evening stop on Roosevelt Island and fits the common post-commute pattern on Fridays.",
+    "3690": "The last known location is the station, and commuting users often reappear here for return travel or another transfer.",
+    "2990": "A nearby Roosevelt Island destination that matches the user’s highly local movement radius and occasional exploratory behavior.",
+    "4357": "A Roosevelt Island residence is plausible for an evening return after a weekday commute, especially given the user’s home-base pattern.",
+    "4379": "The Roosevelt Island Tram is a nearby transport node and a reasonable next step if the user is transitioning off the island.",
+    "3280": "Friday evening and the user’s food-and-drink pattern make a nearby nightlife venue a credible alternative.",
+    "3107": "A practical neighborhood stop that could follow a commute before dinner or an evening return home.",
+    "5135": "A nearby restaurant is possible given the evening slot and the user’s occasional dining behavior.",
+    "3085": "A Friday evening movie outing is plausible, though less consistent with the user’s strong Roosevelt Island routine."
+  },
+  "fallback": false
+}

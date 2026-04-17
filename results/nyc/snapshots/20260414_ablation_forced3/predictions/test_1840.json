@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1840",
+  "ranked_loc_ids": [
+    5237,
+    5238,
+    5239,
+    5246,
+    5243,
+    5241,
+    5240,
+    5245,
+    5244,
+    3947
+  ],
+  "explanations": {
+    "5237": "It is the current location, has strong same-hour repeat history, and best fits an immediate short-loop stay at the end of a late-night neighborhood circuit.",
+    "5238": "A frequent late-night stop in the same Brooklyn cluster, and the user often alternates between fast food and coffee venues nearby.",
+    "5239": "This pharmacy is a common practical errand destination for the user and is very close to the current Nostrand corridor.",
+    "5246": "The user was just there moments before McDonald's, making it a strong candidate for an immediate return within the same local loop.",
+    "5243": "The Downstate Student Center sits inside the user's habitual Brooklyn anchor zone and matches the nearby campus-style movement pattern.",
+    "5241": "Another repeated food venue in the same area, consistent with the user's short-range late-night dining pattern.",
+    "5240": "This nearby professional location fits the user's tightly clustered Brooklyn movement, though it is less behaviorally dominant than the food stops.",
+    "5245": "SUNY Downstate Medical Center aligns with the user's repeated proximity to medical and institutional sites around Kings County Hospital.",
+    "5244": "A nearby anchor-area facility that matches the user's core geographic cluster, though it is less likely than food or pharmacy stops.",
+    "3947": "The user occasionally makes broader Brooklyn institutional trips, and this is the closest non-immediate candidate outside the core Nostrand cluster."
+  },
+  "fallback": false
+}

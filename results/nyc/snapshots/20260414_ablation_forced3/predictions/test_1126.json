@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1126",
+  "ranked_loc_ids": [
+    2653,
+    4382,
+    4380,
+    4385,
+    4392,
+    4384,
+    613,
+    2674,
+    1393,
+    114
+  ],
+  "explanations": {
+    "2653": "This is the strongest habitual transit anchor in the user’s core corridor and fits a Sunday evening return after nearby errands.",
+    "4382": "It is extremely close to the last stop and is one of the user’s most frequent neighborhood anchors for quick food.",
+    "4380": "The user repeatedly chains grocery trips with nearby local errands, and this is a common stop in the same tight loop.",
+    "4385": "Since this was the last known location, a brief return or continued presence here remains plausible.",
+    "4392": "This nearby government building has been visited before and fits the user’s localized errand pattern.",
+    "4384": "It is within the same Upper Manhattan cluster and could be a short neighborhood stop after errands.",
+    "613": "The user’s movement is highly localized around the Harlem/Washington Heights corridor, making a neighborhood-level move likely.",
+    "2674": "This nearby park is within the same area and could be a brief stop if the user transitions from errands to a local outing.",
+    "1393": "It is a plausible retail errand destination, though less aligned than the core 145th Street cluster.",
+    "114": "The user has occasional broader subway movement, but this is less likely than nearby routine destinations."
+  },
+  "fallback": false
+}

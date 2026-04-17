@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2237",
+  "ranked_loc_ids": [
+    2507,
+    3752,
+    1678,
+    5554,
+    1269,
+    1265,
+    2281,
+    3324,
+    5552,
+    5553
+  ],
+  "explanations": {
+    "2507": "This is the strongest early-morning weekday anchor in the user’s history and matches the 06:28 Friday commute pattern.",
+    "3752": "The user repeatedly pairs this office destination with Starbucks during the same morning commute window, making it the next most likely stop.",
+    "1678": "This major transit hub sits inside the user’s regular Financial District commute chain and is a common bridge between coffee and work.",
+    "5554": "The last known location is already at this nearby Liberty Plaza food stop, so a short continuation here remains plausible.",
+    "1269": "Zuccotti Park is a nearby Financial District waypoint that fits the user’s downtown morning movement cluster.",
+    "1265": "Another nearby breakfast/coffee option in the same commute zone, though less favored than Starbucks.",
+    "2281": "This nearby lower Manhattan stop fits the user’s compact downtown travel pattern and morning routine area.",
+    "3324": "The Bronx home-base station is a strong structural anchor, but it is less likely than the downtown work cluster at this time.",
+    "5552": "This is the user’s Bronx origin station and could be the next transit point if the commute resets northward.",
+    "5553": "The user has an occasional Brooklyn deviation to City Tech-related locations, but it is a weaker match for this Friday morning pattern."
+  },
+  "fallback": false
+}

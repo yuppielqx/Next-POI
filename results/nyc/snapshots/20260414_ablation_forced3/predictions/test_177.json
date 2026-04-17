@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_177",
+  "ranked_loc_ids": [
+    1316,
+    5301,
+    4990,
+    5302,
+    2472,
+    4956,
+    5600,
+    4638,
+    5181,
+    1317
+  ],
+  "explanations": {
+    "1316": "The last known location is a parking facility and the strongest prior says the user is likely to remain in or return to the Jersey City commuter area late at night.",
+    "5301": "This nearby NJCU academic building is very close to the last point and fits a short on-campus or adjacent-area move.",
+    "4990": "As a nearby auto-related stop, it aligns with the practical, utilitarian travel pattern and is only a short distance away.",
+    "5302": "The student center is close to the last location and is a plausible nearby campus destination in the same corridor.",
+    "2472": "A transit stop near NJCU fits the commuter-oriented profile and late-night return movement.",
+    "4956": "A nearby fast-food option is plausible for a late-night practical stop, though not as strong as direct return behavior.",
+    "5600": "This nearby restaurant could be a casual food stop, but it is less consistent with the user’s usual early-morning routine.",
+    "4638": "The Richard Street Light Rail Station fits the transportation-heavy pattern and remains within the Jersey City side of the user’s range.",
+    "5181": "A convenience store is a reasonable late-night errand stop, though there is no direct history for it.",
+    "1317": "The user’s repeated breakfast/coffee visits make this a behavioral match, but the Saturday night timing makes it less likely than nearby Jersey City options."
+  },
+  "fallback": false
+}

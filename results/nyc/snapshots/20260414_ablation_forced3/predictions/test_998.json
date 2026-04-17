@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_998",
+  "ranked_loc_ids": [
+    1975,
+    5162,
+    3274,
+    1035,
+    1231,
+    3266,
+    993,
+    2697,
+    4158,
+    639
+  ],
+  "explanations": {
+    "1975": "It is immediately adjacent to the last known bar stop and fits the strong evening nightlife pattern with a likely short hop south-east.",
+    "5162": "Very close to Black Sheep Pub, making it a plausible quick nearby food stop after drinks even though it is less aligned with the bar-heavy profile.",
+    "3274": "A return to the same pub within an hour is plausible given the user’s repetitive evening patterns and the strong local cluster behavior.",
+    "1035": "This nearby transit hub fits the user’s Brooklyn corridor and could plausibly follow an evening move, especially if heading elsewhere.",
+    "1231": "The user has stadium/leisure tendencies, and this very close venue is consistent with an evening shift toward entertainment.",
+    "3266": "A nearby bagel stop in the same Brooklyn cluster is possible, though less likely at 19:49 than a bar or transit-related move.",
+    "993": "A repeat nightlife venue in Brooklyn that matches the user’s bar-oriented behavior, though it is farther than the immediate nearby options.",
+    "2697": "A highly recurrent Lower Manhattan bar for this user, making it a strong general evening candidate despite being less consistent with the current Brooklyn position.",
+    "4158": "The user’s weekday commuter pattern heavily centers on this office location, but the evening time and current Brooklyn area make it less likely.",
+    "639": "Another familiar Lower Manhattan bar that fits the social profile, but it is farther from the last stop than the more local Brooklyn options."
+  },
+  "fallback": false
+}

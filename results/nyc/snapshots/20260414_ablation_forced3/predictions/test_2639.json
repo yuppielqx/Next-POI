@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2639",
+  "ranked_loc_ids": [
+    571,
+    5441,
+    4016,
+    5714,
+    1079,
+    5738,
+    37,
+    3887,
+    301,
+    4572
+  ],
+  "explanations": {
+    "571": "It is one of the user’s strongest recurring Thursday stops in the East Village/NoHo corridor, matching the habitual return pattern and mid-afternoon timing.",
+    "5441": "This CVS pharmacy has frequent visits and a documented 3–5pm pattern, making it a very plausible routine errand stop.",
+    "4016": "FIT is a strong weekday academic destination for this campus-linked user, and the afternoon timing fits a class or building visit.",
+    "5714": "Another FIT campus building with multiple Thursday visits, consistent with the user’s repeated academic loop.",
+    "1079": "The user has visited this place multiple times in the 3–5pm window, and it fits the Union Square/Greenwich Village academic core.",
+    "5738": "This is a frequently visited SoHo shop in the user’s compact Manhattan activity area, and Thursday recurrence makes it credible.",
+    "37": "A heavily repeated gourmet stop in the user’s core route, likely to be revisited during an afternoon errand run.",
+    "3887": "The user has multiple pharmacy visits here, and pharmacy errands are consistent with their practical daytime routine.",
+    "301": "This sits directly in the user’s preferred Union Square corridor and matches a habitual food/errand pattern.",
+    "4572": "A routine breakfast/food stop in the same compact East Village/Union Square zone, slightly less likely at this hour but still plausible."
+  },
+  "fallback": false
+}

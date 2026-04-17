@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1755",
+  "ranked_loc_ids": [
+    2132,
+    1833,
+    338,
+    97,
+    1860,
+    650,
+    1036,
+    974,
+    271,
+    2159
+  ],
+  "explanations": {
+    "2132": "Strong temporal and behavioral match for a Monday evening dining stop in the user’s East Village/Flatiron corridor.",
+    "1833": "The hotel is the user’s main Midtown anchor and a very common return point after travel.",
+    "338": "A frequent daytime-to-evening food stop near Midtown/Flatiron that fits the post-airport Manhattan pattern.",
+    "97": "A strong 6–8 p.m. lounge/bar option that matches the user’s evening social routine.",
+    "1860": "The user has a pronounced nightlife pattern, and this music venue aligns with evening entertainment behavior.",
+    "650": "Another highly plausible nightlife destination in the user’s Chelsea-to-midtown club circuit.",
+    "1036": "Fits the East Village nightlife cluster and the user’s repeated late-night entertainment behavior.",
+    "974": "A plausible East Village dinner stop given the user’s Manhattan food-and-nightlife routing.",
+    "271": "Less likely as the next move after being there already, but still highly frequent in the user’s history.",
+    "2159": "A nearby JFK terminal/transit node that could follow an airport check-in if the user remains in the airport complex."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_848",
+  "ranked_loc_ids": [
+    3747,
+    2165,
+    5024,
+    1701,
+    3528,
+    3750,
+    1641,
+    819,
+    3749,
+    2016
+  ],
+  "explanations": {
+    "3747": "The target time is only 8 minutes after the last check-in, and this is the user’s strongest recurring transit anchor in Brooklyn.",
+    "2165": "It is the closest nearby transit option and fits the user’s pattern of short hops between Brooklyn train stations.",
+    "5024": "This nearby Atlantic Ave (L) station matches the user’s strong transit orientation and could be the next transfer point.",
+    "1701": "Another nearby rail hub that fits a southeast Brooklyn movement from the current station area.",
+    "3528": "This is a frequent Brooklyn corridor stop for the user and a plausible next leg from East Flatbush/Brownsville.",
+    "3750": "The user repeatedly uses this central Brooklyn transfer node, especially in afternoon travel.",
+    "1641": "Broadway Junction is a major nearby transportation hub and a common kind of transition point for this user.",
+    "819": "A historically common destination in the user’s Brooklyn transit chain, especially along central routes.",
+    "3749": "The user has a repeating convenience-stop habit near transit, making this a plausible short errand stop.",
+    "2016": "A known Brooklyn station in the user’s broader corridor, though less likely this soon than nearer hubs."
+  },
+  "fallback": false
+}

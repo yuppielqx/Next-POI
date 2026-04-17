@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1577",
+  "ranked_loc_ids": [
+    1791,
+    5621,
+    697,
+    557,
+    88,
+    4975,
+    108,
+    4607,
+    4977,
+    1713
+  ],
+  "explanations": {
+    "1791": "The strongest prior is a same-place revisit to the current community college anchor in the same corridor at this midday time.",
+    "5621": "It is extremely close to the last known spot and fits a short nearby transition from campus into a local bar/errand stop.",
+    "697": "This nearby Lyndhurst entertainment venue is a plausible short-radius move from the college area, especially before the user’s evening spike.",
+    "557": "The user frequently uses major cross-Hudson transit hubs, and this is a natural corridor node if he is shifting westward.",
+    "88": "A common Manhattan transit anchor in his history, likely if he is beginning a longer cross-city chain.",
+    "4975": "Gas stations are a strong behavioral fit for this car-based traveler and this Edgewater anchor is recurrent in his pattern.",
+    "108": "A nearby transit station is plausible for corridor-based movement, even if slightly less aligned than the main tunnel nodes.",
+    "4607": "Similar users at this time often chain to a quick errand location, making a pharmacy stop a reasonable midday choice.",
+    "4977": "Grocery-style stops fit his mixed errand behavior and can occur during daytime corridor travel.",
+    "1713": "A coffee stop in the Edgewater corridor is consistent with a brief daytime pause before his later-night travel pattern."
+  },
+  "fallback": false
+}

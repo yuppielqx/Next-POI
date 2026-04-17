@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2650",
+  "ranked_loc_ids": [
+    2552,
+    769,
+    3046,
+    2198,
+    1480,
+    1303,
+    1666,
+    713,
+    1853,
+    5743
+  ],
+  "explanations": {
+    "2552": "This is the strongest historical anchor in the user’s weekday Queens commute and is especially plausible for a Friday morning return.",
+    "769": "The user repeatedly uses this major transfer hub on morning trips between Flushing and western Queens.",
+    "3046": "It sits in the preferred Long Island City corridor and matches the user’s occasional 9–11 AM errand pattern.",
+    "2198": "A recurring morning food stop in Astoria that fits the time window and corridor movement.",
+    "1480": "Close to the commuter route and consistent with a quick breakfast or transitional stop in LIC.",
+    "1303": "The 7 line is central to the user’s Flushing-to-Queens commute, though this specific Jackson Heights stop is less likely than Queensboro Plaza.",
+    "1666": "Another 7-line station tied to the user’s Queens transit pattern, but less directly aligned with the current westbound movement.",
+    "713": "A Flushing-area coffee stop fits the user profile, though it is farther from the current trajectory.",
+    "1853": "A known Flushing drink stop that fits the user’s routine but is less consistent with the northeastward movement.",
+    "5743": "This is a recurrent Flushing breakfast option, but it is lower probability given the current location and direction."
+  },
+  "fallback": false
+}

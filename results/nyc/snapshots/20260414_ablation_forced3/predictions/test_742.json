@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_742",
+  "ranked_loc_ids": [
+    3543,
+    3542,
+    3540,
+    1953,
+    203,
+    3548,
+    3462,
+    1997,
+    137,
+    3445
+  ],
+  "explanations": {
+    "3543": "It matches the strong Saturday midday lunch prior and the user’s repeated noon-to-2pm food pattern in the Union Square/Flatiron corridor.",
+    "3542": "Another highly consistent lunch stop for this user, with multiple noon-to-2pm visits and a location aligned to their usual downtown core.",
+    "3540": "Although Saturday afternoon work visits are less likely, it is the user’s dominant hub and remains a plausible return after the morning gym.",
+    "1953": "A recurring midday sandwich stop in the same general neighborhood, fitting the lunch-time transition after the gym.",
+    "203": "This is a familiar Saturday-friendly quick lunch option in the user’s preferred lower Manhattan area.",
+    "3548": "A nearby casual food stop that fits the user’s habitual quick-eat behavior after a morning workout.",
+    "3462": "The user was just there in the morning, so a return is possible if they are extending the workout or socializing nearby.",
+    "1997": "A common transitional stop for this user, especially around midday, though less targeted than the lunch venues.",
+    "137": "Penn Station is a plausible transit-related move, but it is less supported than the lunch and neighborhood-repeat options.",
+    "3445": "The user likes nightlife venues, but the afternoon timing makes an early bar visit less likely than a lunch stop."
+  },
+  "fallback": false
+}

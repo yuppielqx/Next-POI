@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_599",
+  "ranked_loc_ids": [
+    144,
+    47,
+    586,
+    566,
+    3340,
+    4606,
+    519,
+    3570,
+    4721,
+    106
+  ],
+  "explanations": {
+    "144": "The user is already in the 34th Street–Herald Square transit cluster and this major subway hub is the strongest next-step match for a short northbound move.",
+    "47": "It is the last known location and a plausible brief continuation within the same shopping/transit stop.",
+    "586": "Herald Square is essentially adjacent to Macy's and fits the user's pattern of moving through nearby nodes rather than making a large jump.",
+    "566": "This is very close by in the same Herald Square corridor and matches the current shopping-heavy sequence.",
+    "3340": "A nearby retail stop in the same block-scale area, consistent with the user’s northward mall/shopping drift.",
+    "4606": "Another adjacent Herald Square retail option that fits the current Midtown browsing pattern.",
+    "519": "This nearby clothing store is part of the same shopping cluster and could easily follow Macy's.",
+    "3570": "It is in the immediate vicinity and plausible for a quick retail hop on foot.",
+    "4721": "This nearby cosmetics store fits a short, local continuation from Macy's and the Herald Square shopping zone.",
+    "106": "The user has a transit-heavy history and may next head toward a major hub, though it is less likely than the nearby Midtown options."
+  },
+  "fallback": false
+}

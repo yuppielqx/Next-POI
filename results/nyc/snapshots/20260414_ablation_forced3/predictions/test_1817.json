@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1817",
+  "ranked_loc_ids": [
+    1318,
+    766,
+    625,
+    5086,
+    3829,
+    3896,
+    814,
+    1547,
+    5129,
+    558
+  ],
+  "explanations": {
+    "1318": "Strongest time-conditioned match in the user’s usual Columbus Circle anchor zone and a frequent 6–8pm revisit.",
+    "766": "Very close to the last location and highly consistent with the user’s repeated evening grocery/errand pattern near Columbus Circle.",
+    "625": "A regular nearby shopping stop in the same Midtown cluster, matching the user’s polished retail behavior.",
+    "5086": "Extremely close and one of the user’s repeated dining venues, making an Italian dinner return plausible.",
+    "3829": "A familiar nearby bar that fits the user’s strong late-day and nightlife-oriented habits.",
+    "3896": "Another recurring Hell’s Kitchen nightlife stop that aligns with the user’s evening social pattern.",
+    "814": "A known repeat nightlife venue nearby, likely if the user continues the post-dinner bar sequence.",
+    "1547": "Close to the current area and consistent with the user’s bar-heavy evening movement.",
+    "5129": "Nearby and behaviorally plausible as a dessert follow-up after an early evening meal.",
+    "558": "A nearby Midtown destination that fits the user’s recurring central Manhattan evening routing."
+  },
+  "fallback": false
+}

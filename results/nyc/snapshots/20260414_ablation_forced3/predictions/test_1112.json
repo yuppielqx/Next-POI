@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1112",
+  "ranked_loc_ids": [
+    1100,
+    1894,
+    841,
+    3279,
+    2006,
+    1196,
+    571,
+    4355,
+    131,
+    59
+  ],
+  "explanations": {
+    "1100": "It is extremely close to the last known Williamsburg location and fits a late-night Saturday food-and-social continuation.",
+    "1894": "A nearby bar strongly matches the nighttime outing pattern and is a plausible next social stop after Williamsburg.",
+    "841": "The Williamsburg Bridge is a natural next move for crossing out of Williamsburg toward Manhattan in a south-east travel trend.",
+    "3279": "The Queens-Midtown Tunnel is a common transit-linked connector and fits the user’s mobility-heavy late-night pattern.",
+    "2006": "Late-night transit toward Lower Manhattan is consistent with the user’s repeated station-to-venue trip chains.",
+    "1196": "Chinatown is a likely late-night dining or roaming destination for this socially active user.",
+    "571": "East Village aligns with the user’s nightlife-heavy behavior and is a frequent Manhattan evening destination type.",
+    "4355": "A transit hub in Lower Manhattan fits the user’s tendency to move between neighborhoods late at night.",
+    "131": "The Queensboro Bridge is a strong multimodal connector and appears in the user’s midnight-to-2am history.",
+    "59": "A classic late-night Manhattan destination that matches the user’s Saturday evening entertainment and transit patterns."
+  },
+  "fallback": false
+}

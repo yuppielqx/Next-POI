@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2652",
+  "ranked_loc_ids": [
+    2233,
+    5745,
+    4144,
+    5509,
+    1893,
+    5310,
+    1149,
+    5744,
+    1792
+  ],
+  "explanations": {
+    "2233": "This is the user’s strongest anchor grocery store and best matches their routine errand pattern and Saturday midday timing.",
+    "5745": "Another repeatedly visited grocery store in the same Bloomfield-Belleville corridor, making it a plausible routine shopping stop.",
+    "4144": "A familiar grocery venue in Bloomfield that fits the user’s essential-shopping behavior and local loop pattern.",
+    "5509": "A nearby convenience stop that aligns with the user’s frequent quick morning/errand-oriented visits.",
+    "1893": "The user often pairs coffee with errands, and this nearby Dunkin’ fits the strong breakfast/coffee routine.",
+    "5310": "A supermarket destination consistent with the user’s grocery-focused mobility, though less habitual than A&P.",
+    "1149": "The user was last there, so a brief return is possible, but it is less consistent with their usual repeat-grocery pattern.",
+    "5744": "A known deli/bodega in the user’s history that could appear as part of a routine food stop.",
+    "1792": "A nearby grocery option in Clifton that fits the errand category, though it lacks strong personal history."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2504",
+  "ranked_loc_ids": [
+    4980,
+    421,
+    979,
+    1527,
+    4328,
+    4006,
+    3914,
+    2492,
+    2479,
+    5125
+  ],
+  "explanations": {
+    "4980": "The user repeatedly returns to this Upper East Side bagel shop, and the Friday evening prior still fits a familiar neighborhood routine after a day out.",
+    "421": "It is the closest nightlife option to the last known Greenwich Village location, matching the late-evening Friday social pattern.",
+    "979": "A nearby nightclub is a natural continuation from Sullivan Hall at this hour, especially given the strong late-night tendency.",
+    "1527": "This nearby West Village bar fits the user’s nightlife profile and is close to the current location.",
+    "4328": "A recurring burger spot on the Upper East Side is a strong return-to-favorite candidate for a Friday evening meal.",
+    "4006": "This fits the user’s established bar/nightlife behavior and the time-conditioned evening social prior.",
+    "3914": "A familiar Upper East Side diner is plausible for a late dinner or post-nightlife food stop.",
+    "2492": "A known Mexican dinner destination aligns well with the evening dining prior and the user’s casual food preferences.",
+    "2479": "A BBQ dinner stop is consistent with the user’s evening food-and-drink pattern and similar-user behavior.",
+    "5125": "The user often uses Upper East Side coffee stops in routine sequences, though this is less likely at 20:16 than dinner or nightlife."
+  },
+  "fallback": false
+}

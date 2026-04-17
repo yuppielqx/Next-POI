@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2233",
+  "ranked_loc_ids": [
+    2507,
+    1678,
+    3752,
+    1265,
+    5554,
+    5552,
+    3324,
+    4276,
+    5553,
+    5282
+  ],
+  "explanations": {
+    "2507": "This is the strongest habitual morning stop, with heavy 6–8 AM usage and a frequent commute-time transition from One Liberty Plaza.",
+    "1678": "The user repeatedly uses this Financial District station in the morning, and it sits directly along the core commute path from their last known location.",
+    "3752": "It is the user’s main work anchor and was their last known location, making a quick return there very plausible.",
+    "1265": "Another nearby Lower Manhattan coffee stop that fits the user’s early-morning support-stop pattern.",
+    "5554": "This is a nearby food stop close to the user’s downtown work cluster and fits routine commuter behavior.",
+    "5552": "The Bronx home-side station is a strong routine node, though the target time and current trajectory make it less likely than the downtown stops.",
+    "3324": "This is the user’s Bronx base area and a recurrent early-morning location, but it is farther from the current downtown context.",
+    "4276": "The Brooklyn Starbucks has some history, but it is outside the user’s dominant Financial District commute pattern.",
+    "5553": "The user has visited this Brooklyn location before, but it is not central to the commute routine.",
+    "5282": "A plausible Bronx-side convenience stop, but it is much less aligned with the target-time downtown commute than the top options."
+  },
+  "fallback": false
+}

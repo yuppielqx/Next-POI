@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_357",
+  "ranked_loc_ids": [
+    2165,
+    1238,
+    137,
+    2164,
+    2163,
+    3528,
+    3747,
+    2159,
+    271,
+    2166
+  ],
+  "explanations": {
+    "2165": "The user has the strongest repeat pattern of ending evenings and returning to this transit anchor, and it is also the explicit top time-conditioned prior for 20:08.",
+    "1238": "This is the main alternate anchor in the user’s commute pattern, but it is more strongly associated with daytime visits than an evening return.",
+    "137": "A recurring Manhattan transit hub in the user’s history, making it a plausible stop if the evening sequence shifts toward Midtown.",
+    "2164": "The user has repeated midday food-related visits near the Upper East Side, so it remains a possible continuation if they are still in Manhattan.",
+    "2163": "Another lunch/food stop tied to the user’s Manhattan routine, though less likely at this evening time.",
+    "3528": "Nearby Brooklyn transit connectivity makes this a reasonable local movement option, especially if the user is just shifting within the Brooklyn corridor.",
+    "3747": "A nearby Brooklyn subway station with some transition history, so it could be used for a short local transfer.",
+    "2159": "The user has occasional evening activity tied to this transportation hub category, but the airport-like context is less consistent with the core routine.",
+    "271": "A one-off airport destination that fits transit behavior only weakly compared with the user’s regular commute anchors.",
+    "2166": "Another rare airport-related outlier that is possible but much less likely than the routine Brooklyn/Manhattan locations."
+  },
+  "fallback": false
+}

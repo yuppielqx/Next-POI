@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_22",
+  "ranked_loc_ids": [
+    4412,
+    4675,
+    137,
+    1092,
+    200,
+    198,
+    202,
+    199,
+    201,
+    208
+  ],
+  "explanations": {
+    "4412": "The target time is Thursday evening and the user is likely in a nightlife/food mode, making the nearby bar at Penn Station the strongest fit.",
+    "4675": "It is immediately adjacent to the last location and fits a quick casual dinner stop during an evening movement sequence.",
+    "137": "The user was just there earlier in the trip and it is the exact last known area, so a brief revisit is plausible.",
+    "1092": "This is very close to the current position and could easily be the next nearby evening destination for an event or outing.",
+    "200": "A short move north-east aligns with the user’s current trend and their history of frequent daytime coffee-related stops.",
+    "198": "A nearby practical stop fits a small errand between evening activities.",
+    "202": "A casual dinner option in the same general Manhattan corridor matches the time-conditioned food prior.",
+    "199": "This reflects the user’s strong Flatiron/NoMad work-area pattern, though the evening timing makes it less likely.",
+    "201": "Another strong habitual work location for this user, but it is more consistent with daytime visits than 20:44.",
+    "208": "A bar matches the evening context, but it is farther from the current Penn Station area than the top nearby candidates."
+  },
+  "fallback": false
+}

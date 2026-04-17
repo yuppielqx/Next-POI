@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2007",
+  "ranked_loc_ids": [
+    5274,
+    5275,
+    812,
+    274,
+    58,
+    3953,
+    4323,
+    3240,
+    1138,
+    1371
+  ],
+  "explanations": {
+    "5274": "Strongest match to the user’s Midtown academic routine and only a short move from the last known point.",
+    "5275": "This is the user’s most visited anchor and fits a return to the core Berkeley corridor.",
+    "812": "Very close to the current area and plausible for a quick Saturday-night errand or stop.",
+    "274": "A frequent nearby Midtown destination that matches the user’s occasional park visits.",
+    "58": "Remaining at or returning to the last known Grand Central area is still plausible given the short-term continuity.",
+    "3953": "A highly likely commuter-style stop in the immediate vicinity of Grand Central.",
+    "4323": "Fits the user’s coffee-stop pattern and the current transit hub context.",
+    "3240": "A nearby food venue that could fit a late-evening Midtown meal.",
+    "1138": "A known user-history restaurant in Midtown South, consistent with occasional south-west movement.",
+    "1371": "Another prior evening food destination that fits a late-night Midtown outing."
+  },
+  "fallback": false
+}

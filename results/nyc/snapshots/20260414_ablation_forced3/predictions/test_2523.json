@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2523",
+  "ranked_loc_ids": [
+    4895,
+    2818,
+    2820,
+    3762,
+    3354,
+    2978,
+    4216,
+    5169,
+    2819,
+    3365
+  ],
+  "explanations": {
+    "4895": "It is the last known location, exactly matching the user’s clustered return-to-anchor pattern in Midtown.",
+    "2818": "This is a frequent gym stop very close by and fits the user’s habitual gym-plus-follow-up routine.",
+    "2820": "A strong Midtown anchor in the user’s history, and the evening time still fits a nearby arts/work-related return.",
+    "3762": "This nearby Theater District venue matches the user’s performing-arts pattern and is only a short walk away.",
+    "3354": "A recurring performing arts venue in the same Midtown cluster, making it a plausible evening destination.",
+    "2978": "Another nearby theater that aligns with the user’s arts-heavy routine and evening timing.",
+    "4216": "Although only visited once, it is a nearby theater and fits the evening entertainment context.",
+    "5169": "The user often stays within the Theater District, and this theater is an immediate nearby option.",
+    "2819": "A nearby theater tied to Broadway activity, consistent with the user’s arts and performance behavior.",
+    "3365": "This nearby comedy club is a plausible evening entertainment stop within the same Midtown entertainment zone."
+  },
+  "fallback": false
+}

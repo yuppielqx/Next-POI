@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1735",
+  "ranked_loc_ids": [
+    4282,
+    1720,
+    3286,
+    445,
+    4490,
+    1728,
+    1918,
+    4658,
+    1727,
+    490
+  ],
+  "explanations": {
+    "4282": "This is the strongest repeat Saturday leisure destination in the user’s history and fits the short local move from Paramus.",
+    "1720": "A familiar nearby shopping stop that matches the Bergen County retail circuit and the current southward movement.",
+    "3286": "The user frequently pairs shopping with movies, and this cinema is adjacent to the current Garden State Plaza area.",
+    "445": "The user has a strong history here, and it is only a brief move from the last known Paramus location.",
+    "4490": "Early-morning convenience-store behavior is a recurring pattern, making this a plausible Saturday morning stop.",
+    "1728": "The user is already at this location, so it remains a possibility if the check-in reflects lingering or repeated logging.",
+    "1918": "A nearby dining stop inside Garden State Plaza fits a weekend shopping-and-eating pattern.",
+    "4658": "A common mall anchor that aligns with the user’s retail-focused outings.",
+    "1727": "A quick in-mall refreshment stop is consistent with a short Saturday shopping trip.",
+    "490": "The user has a clear comics-shopping signature, though Manhattan is less likely than a local Bergen County stop at this moment."
+  },
+  "fallback": false
+}

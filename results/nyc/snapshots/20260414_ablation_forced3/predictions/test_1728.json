@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1728",
+  "ranked_loc_ids": [
+    3340,
+    5138,
+    213,
+    4667,
+    650,
+    2097,
+    239,
+    1812,
+    391,
+    4504
+  ],
+  "explanations": {
+    "3340": "It matches the user’s strongest repeat Friday evening retail pattern and is a favored Midtown destination within the likely corridor.",
+    "5138": "A familiar Chelsea nightlife spot that fits the user’s Friday evening socializing and Midtown/Chelsea cluster behavior.",
+    "213": "This is a recurring bar in the user’s history and fits the return-to-frequent-place pattern after a nearby bar visit.",
+    "4667": "A bar aligned with the user’s late-evening nightlife profile and Manhattan downtown social circuit.",
+    "650": "A nearby nightlife venue in the Chelsea/Flatiron area that fits the user’s evening entertainment trajectory.",
+    "2097": "Another downtown bar matching the user’s bar-hopping style and Manhattan nightlife preference.",
+    "239": "A repeat music-venue stop in the user’s Lower East Side pattern, consistent with clustered night outings.",
+    "1812": "A nightlife-adjacent restaurant in the Chelsea/Flatiron zone that fits the user’s dinner-to-evening transition.",
+    "391": "Close to the current Midtown area and plausible for an immediate post-bar move in the evening.",
+    "4504": "The user sometimes mixes evening retail with nightlife, and this nearby clothing store fits that secondary shopping tendency."
+  },
+  "fallback": false
+}

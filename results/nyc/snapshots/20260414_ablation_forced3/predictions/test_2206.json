@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2206",
+  "ranked_loc_ids": [
+    1109,
+    2854,
+    908,
+    1115,
+    1110,
+    1106,
+    2377,
+    1900,
+    239
+  ],
+  "explanations": {
+    "1109": "The user has a strong morning fitness routine and this is the closest gym tied to their history, making a return here the best fit for a Thursday morning.",
+    "2854": "Gym visits dominate the user’s pattern, and this Manhattan Crunch location matches their recurring early-morning workout behavior.",
+    "908": "Bars are one of the user’s main categories, and this nearby Brooklyn bar fits their cluster-based movement pattern after the afternoon Calexico stop.",
+    "1115": "The user frequently stays within north Brooklyn, and this very close café is a plausible morning-style stop from a similar-user pattern.",
+    "1110": "Grocery runs appear occasionally in the user’s history, and this Manhattan grocery option is a reasonable errand destination if they leave the Brooklyn cluster.",
+    "1106": "This Brooklyn bar aligns with the user’s nightlife tendencies and their preference for familiar neighborhood venues.",
+    "2377": "The user has visited this venue before, and its Manhattan location matches their occasional Midtown social excursions.",
+    "1900": "The user has prior visits to this Brooklyn pizza place, and it fits the food-and-social portion of their recurring pattern.",
+    "239": "This Lower East Side music venue matches the user’s evening social profile, but it is less likely than gym or nearby Brooklyn options at this morning time."
+  },
+  "fallback": false
+}

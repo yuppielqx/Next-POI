@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_564",
+  "ranked_loc_ids": [
+    1127,
+    797,
+    3423,
+    1405,
+    2884,
+    58,
+    3014,
+    3016,
+    3017,
+    812
+  ],
+  "explanations": {
+    "1127": "A nearby entertainment venue fits the immediate post-Best Buy evening pattern and the user’s occasional leisure stops.",
+    "797": "Another very close movie theater is plausible for a short evening transition from the current Upper East Side location.",
+    "3423": "It is adjacent to the current location and a realistic quick retail stop after electronics shopping.",
+    "1405": "A nearby bookstore could be a brief follow-on errand in the same retail cluster.",
+    "2884": "The user is already here, so an immediate repeat check-in is possible given the zero distance and very recent arrival.",
+    "58": "This is a strong habitual Midtown anchor, but it is farther from the current Upper East Side position.",
+    "3014": "A frequent weekday work anchor is highly plausible once the user returns toward the Grand Central corridor.",
+    "3016": "The commute-oriented profile makes a transit node a likely next step toward Midtown.",
+    "3017": "This familiar office location matches the user’s East Midtown routine and Monday pattern.",
+    "812": "A nearby lunch/errand-style destination in the Grand Central area fits the broader Midtown return trend."
+  },
+  "fallback": false
+}

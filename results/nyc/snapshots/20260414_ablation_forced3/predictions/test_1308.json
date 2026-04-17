@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1308",
+  "ranked_loc_ids": [
+    1220,
+    218,
+    5267,
+    571,
+    1594,
+    1880,
+    14,
+    2492,
+    3488,
+    1522
+  ],
+  "explanations": {
+    "1220": "It is the user's dominant anchor and the most common evening return point after daytime movement elsewhere.",
+    "218": "This is the user's strongest recurring Manhattan destination and fits a habitual weekday evening pattern.",
+    "5267": "It is extremely close to the last known East Village location and matches a likely evening nightlife stop.",
+    "571": "The last stop is in the East Village area, so a short continued stay or nearby revisit is plausible.",
+    "1594": "A nearby classic bar fits the time of day and the user's occasional nightlife behavior.",
+    "1880": "Another very close East Village bar, consistent with a move toward evening social activity.",
+    "14": "The user has prior history here, and dinner-time restaurant behavior is plausible around 19:11.",
+    "2492": "This is one of the user's known dining stops and fits a weekday evening meal pattern in Manhattan.",
+    "3488": "A nearby bar option in lower Manhattan aligns with the user's selective nightlife outings and similar-user patterns.",
+    "1522": "Transit is a strong secondary pattern for this user and could indicate a commute back toward Brooklyn."
+  },
+  "fallback": false
+}

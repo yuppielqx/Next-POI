@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1033",
+  "ranked_loc_ids": [
+    138,
+    4219,
+    4220,
+    4222,
+    2870,
+    1185,
+    2871,
+    701,
+    555,
+    2977
+  ],
+  "explanations": {
+    "138": "This is the user’s dominant morning commute anchor, with the strongest 6–8 a.m. Monday history and the best match to the strong time prior.",
+    "4219": "It is the other main recurring morning stop in the same Brooklyn/Queens corridor and fits the habitual weekday route pattern.",
+    "4220": "It is the last known location and is very close to the user’s usual corridor, making a short follow-up stop plausible.",
+    "4222": "It is nearby, has prior visits, and fits the user’s tendency to make short local food stops around the familiar area.",
+    "2870": "This grocery store is in the same neighborhood and has been visited before, so it is a realistic routine errand destination.",
+    "1185": "It is close to the last location and could be a nearby local stop, though it is less aligned with the morning commute pattern.",
+    "2871": "This pharmacy is nearby and could be visited on a routine local trip, but it has only a single historical visit.",
+    "701": "The user has visited this bakery before, and morning coffee/breakfast behavior makes it a plausible alternative.",
+    "555": "Similar users show morning coffee behavior and the user has prior Manhattan Starbucks visits, but it is less likely than the local commute anchors.",
+    "2977": "It has repeat history and fits a practical errand pattern, though it is not as tightly tied to the Monday morning commute routine."
+  },
+  "fallback": false
+}

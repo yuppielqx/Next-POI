@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1250",
+  "ranked_loc_ids": [
+    4592,
+    137,
+    4596,
+    4593,
+    4397,
+    4595,
+    3778,
+    445,
+    108,
+    88
+  ],
+  "explanations": {
+    "4592": "This is the strongest nearby transit anchor and fits the user’s commuter pattern as a likely evening return toward a familiar NJ hub.",
+    "137": "A very frequent Manhattan commute node, but it is less likely than an NJ-side return given the current southwest movement and evening context.",
+    "4596": "Close to the last known point and consistent with staying in the Montclair area after the dance studio.",
+    "4593": "A plausible nearby errand stop on the way back through the NJ corridor, especially for a transit-heavy user.",
+    "4397": "A nearby practical food stop that matches the user’s casual evening behavior and local travel pattern.",
+    "4595": "Another nearby NJ food option that could plausibly fit a quick stop before heading home.",
+    "3778": "A familiar local dinner destination with prior evening activity, though slightly less aligned than the transit anchors.",
+    "445": "A recurring weekend-style shopping destination, possible but less likely on a Monday evening.",
+    "108": "A key Hoboken transit node, but the current movement and timing favor remaining on the NJ side instead.",
+    "88": "A known late-return transit point, yet it is too Manhattan-centric to be the leading next stop here."
+  },
+  "fallback": false
+}

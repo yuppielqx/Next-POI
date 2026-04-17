@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2395",
+  "ranked_loc_ids": [
+    1850,
+    67,
+    178,
+    1987,
+    477,
+    4447,
+    1978,
+    5064,
+    4450,
+    2188
+  ],
+  "explanations": {
+    "1850": "The user has a strong history of Manhattan evening leisure/shopping trips, and this fits the downtown/central retail pattern best among the candidates.",
+    "67": "Union Square is a known Manhattan destination for this user and aligns well with a Tuesday night move into a lively downtown area.",
+    "178": "The user has prior film/leisure behavior in Manhattan, making a nighttime entertainment stop plausible.",
+    "1987": "A coffee stop is consistent with the current sequence and the user’s flexible evening movement, though it is less distinctive than the Manhattan retail options.",
+    "477": "They are currently at Columbia and could simply remain on campus, but the broader pattern suggests a new destination is more likely.",
+    "4447": "A short internal campus transition is possible given the tiny distance from the last location.",
+    "1978": "Another nearby campus coffee stop fits the immediate context but is less likely than leaving the area.",
+    "5064": "Evening dining/lifestyle activity is plausible, but this user more often anchors in Brooklyn or known Manhattan leisure nodes.",
+    "4450": "A nearby outdoor stop is possible, but the night timing makes it less likely than indoor leisure or retail.",
+    "2188": "This is the user’s strongest historical anchor overall, but the timing and current uptown Manhattan position make it a weaker immediate next step."
+  },
+  "fallback": false
+}

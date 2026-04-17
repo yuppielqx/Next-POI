@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_501",
+  "ranked_loc_ids": [
+    2785,
+    2787,
+    2786,
+    1091,
+    5438,
+    5100,
+    3590,
+    3791,
+    134,
+    5096
+  ],
+  "explanations": {
+    "2785": "It is the user’s dominant late-night anchor and the strongest repeat destination, making a return there most likely at this evening hour.",
+    "2787": "The user repeatedly visits this gym in the evening band, so it is the main alternative if they are following a fitness-related routine.",
+    "2786": "This private residence matches the user’s home base pattern and is a plausible evening return after being out late.",
+    "1091": "It is a nearby Latin American restaurant that fits the user’s strong food-and-nightlife orbit in Jackson Heights.",
+    "5438": "Another nearby Spanish-language dining option that aligns with the user’s repeated evening restaurant behavior.",
+    "5100": "A nearby restaurant in the same local Queens corridor, making it a reasonable but less likely dining stop.",
+    "3590": "A local restaurant option in the surrounding area, but with weaker historical support than the Spanish-focused venues.",
+    "3791": "Convenience stores can fit late-evening movement patterns, though there is no prior visit history here.",
+    "134": "A major transit hub in the same neighborhood that could be used for local evening movement.",
+    "5096": "As a nearby nightlife spot, it is plausible for a Monday evening, but it lacks any user history."
+  },
+  "fallback": false
+}

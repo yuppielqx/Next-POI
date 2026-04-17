@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1340",
+  "ranked_loc_ids": [
+    114,
+    3179,
+    1489,
+    1429,
+    4697,
+    4701,
+    2016,
+    812,
+    4049,
+    3557
+  ],
+  "explanations": {
+    "114": "This is the strongest commute-step match, with heavy Friday morning history and the most likely next waypoint after Kings Highway.",
+    "3179": "The user frequently checks in here during the same transit corridor, especially in the 8:00–8:59 window.",
+    "1489": "This is a core destination in the user’s weekday routine and a very plausible near-arrival stop in Midtown East.",
+    "1429": "The timing strongly fits a Grand Central-area arrival as part of the standard commute chain.",
+    "4697": "This Brooklyn station is a habitual morning transit point and could appear as a nearby route-related check-in.",
+    "4701": "The user has occasional early fitness visits, making this a possible but less likely pre-work stop.",
+    "2016": "Remaining at the departure station is plausible, though the movement pattern suggests progress into the commute.",
+    "812": "A nearby Midtown East stop that fits the work-arrival corridor and morning routine.",
+    "4049": "A common supporting errand in the Midtown work area, but less central than transit or office locations.",
+    "3557": "A plausible Midtown weekday stop, though the time is a bit early for lunch and the commute pattern is stronger."
+  },
+  "fallback": false
+}

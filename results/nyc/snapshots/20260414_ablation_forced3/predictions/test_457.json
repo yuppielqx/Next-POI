@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_457",
+  "ranked_loc_ids": [
+    2631,
+    2632,
+    2636,
+    449,
+    2638,
+    4365,
+    2634,
+    1422,
+    1715,
+    5320
+  ],
+  "explanations": {
+    "2631": "The user is already checked in here at 08:57, and the next timestamp is only one minute later, making continuation at the same dojo most likely.",
+    "2632": "This is the co-located sister venue with extremely strong same-time history, so it is nearly as likely as staying at KRU Martial Arts.",
+    "2636": "The user often makes a pre-training coffee/breakfast stop around morning dojo visits, though the current time suggests training is more likely than an errand.",
+    "449": "Bayonne is the home base and a frequent return point, but a same-minute morning movement away from the dojo is less likely than staying put.",
+    "2638": "This is the broader area containing the KRU locations, so it is plausible as a generic location label for the same session.",
+    "4365": "It is nearby and in the same general northern Bergen County area, but there is no strong behavioral evidence for this destination.",
+    "2634": "The user has an occasional practical errand pattern, but grocery visits are less consistent than martial arts check-ins.",
+    "1422": "A convenience stop fits the user’s routine style, though the history suggests it is more tied to evening homeward travel than this moment.",
+    "1715": "Nearby and practical, but there is no strong history indicating a move here immediately after training.",
+    "5320": "A nearby errand location with low behavioral support, making it a weak but possible alternative."
+  },
+  "fallback": false
+}

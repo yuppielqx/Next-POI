@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1235",
+  "ranked_loc_ids": [
+    3928,
+    3930,
+    4562,
+    4565,
+    4567,
+    2023,
+    1260,
+    1678,
+    4568,
+    147
+  ],
+  "explanations": {
+    "3928": "This is the user’s strongest home-base anchor, highly visited on Sundays and in the relevant morning window, making a Brooklyn return most likely.",
+    "3930": "It matches the user’s Brooklyn transit corridor and Sunday morning pattern, especially if they are moving through nearby G-train connections.",
+    "4562": "A frequent near-home errand stop in Bedford-Stuyvesant, which fits a Sunday late-morning local routine.",
+    "4565": "This is another neighborhood retail anchor with repeated Sunday and morning visits, consistent with a quick Brooklyn errand.",
+    "4567": "The user often makes local grocery-style stops on Sundays, and this Bedford-area supermarket aligns well with that pattern.",
+    "2023": "A plausible Sunday shopping destination in Brooklyn that matches the user’s errands-and-retail behavior.",
+    "1260": "This train-station destination fits the user’s transit-heavy mobility and could follow the recent hub-based movement.",
+    "1678": "The user has a history of transit through this major Brooklyn station, making it a solid next-link in a corridor trip.",
+    "4568": "Although more weekday-work oriented, it remains a frequent Manhattan anchor and could appear if the user is drifting back toward Midtown.",
+    "147": "The user’s Midtown commute pattern gives this station a chance, but the Sunday morning timing makes it less likely than Brooklyn options."
+  },
+  "fallback": false
+}

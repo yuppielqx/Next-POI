@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_520",
+  "ranked_loc_ids": [
+    2861,
+    2782,
+    1007,
+    2855,
+    2850,
+    2858,
+    2856,
+    2857,
+    2852,
+    2849
+  ],
+  "explanations": {
+    "2861": "It is the current location, has the strongest repeat history, and fits the immediate evening continuation in the same LIC cluster.",
+    "2782": "The user is heavily anchored here and often moves between nearby LIC spots during evening hours.",
+    "1007": "This recurring scenic lookout in LIC is a common leisure follow-up and is very close to the last stop.",
+    "2855": "A nearby grocery/errand stop in the same neighborhood fits the user’s practical LIC routine.",
+    "2850": "This is one of the user’s signature LIC dining spots and is plausible for an early evening meal.",
+    "2858": "Another very close LIC restaurant that matches the dinner-time pattern.",
+    "2856": "A recurring LIC café that fits a short local move after EastCoast LIC.",
+    "2857": "This nearby café is part of the user’s repeated LIC habit cluster.",
+    "2852": "A familiar LIC café stop that fits the neighborhood-based evening pattern.",
+    "2849": "A slightly farther but still local LIC dining option consistent with the user’s repeated food-oriented visits."
+  },
+  "fallback": false
+}

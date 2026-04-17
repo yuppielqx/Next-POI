@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2165",
+  "ranked_loc_ids": [
+    6,
+    4206,
+    3115,
+    1026,
+    3185,
+    5500,
+    4684,
+    735,
+    4852,
+    5501
+  ],
+  "explanations": {
+    "6": "This is the user's dominant anchor and a common evening return point, making it the strongest prediction after the afternoon restaurant stop.",
+    "4206": "It is extremely close to the last location and fits the user's recurring nearby dinner/drinks pattern on 2nd Avenue.",
+    "3115": "The user is already there in the current trip context, so a short continuation or repeated check-in is plausible.",
+    "1026": "This nearby Mexican restaurant matches the user's evening dining behavior and keeps them within the Midtown East corridor.",
+    "3185": "Another immediate nearby restaurant option that fits a likely post-work dinner move in the same area.",
+    "5500": "The user has repeated evening visits here, and it is within the broader Upper East Side pattern.",
+    "4684": "A nearby Manhattan dining choice that aligns with the user's occasional Mexican restaurant preference.",
+    "735": "This nearby bar matches the user's after-work nightlife tendency and fits the 7–8 p.m. slot.",
+    "4852": "A known nightlife venue in the user's history, plausible if the evening shifts from dinner to drinks.",
+    "5501": "A recurring nearby nightlife spot that fits the user's social evening pattern, though less likely than the core anchor and closer dining options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2351",
+  "ranked_loc_ids": [
+    5609,
+    4056,
+    1618,
+    1133,
+    12,
+    3334,
+    5611,
+    173,
+    60,
+    58
+  ],
+  "explanations": {
+    "5609": "The user’s strongest recurring evening anchor and the top same-time Wednesday social venue, making it the most likely next stop.",
+    "4056": "It has unusually strong Wednesday afternoon timing matches and fits the expected early-evening food stop pattern.",
+    "1618": "A familiar Upper West Side dining option that matches the user’s clustered local movement and post-work meal routine.",
+    "1133": "This is a frequent Upper West Side anchor for the user and could plausibly precede or follow a nearby evening outing.",
+    "12": "A repeated Upper East Side restaurant visit that fits the user’s Manhattan dining habits and north-east movement trend.",
+    "3334": "A nearby Upper East Side dinner venue that aligns with the user’s preference for familiar evening food stops.",
+    "5611": "The user has prior hospital-related visits here, so a return is possible though less likely than dining or nightlife.",
+    "173": "This transit hub fits the user’s broader movement patterns and could be used en route to a later evening destination.",
+    "60": "A plausible Manhattan coffee stop, but the time and profile favor social dining over another coffee visit.",
+    "58": "Grand Central Terminal is a reasonable transit-linked option, though it is less consistent with the user’s localized UWS/UES evening routine."
+  },
+  "fallback": false
+}

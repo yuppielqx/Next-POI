@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2477",
+  "ranked_loc_ids": [
+    2722,
+    1475,
+    1245,
+    2360,
+    5676,
+    3119,
+    3853,
+    5720,
+    3805,
+    214
+  ],
+  "explanations": {
+    "2722": "It is the user’s most visited morning hotel and fits the north-westward shift from Midtown East toward Times Square.",
+    "1475": "The user is already here and this hotel has the strongest same-time return pattern in their history.",
+    "1245": "A frequent Midtown hotel option that aligns with the user’s hotel-centric behavior and nearby location.",
+    "2360": "This is another nearby hotel in Midtown East, and the user has a documented stay there in the broader history.",
+    "5676": "Prior Queens hotel activity shows occasional out-of-core hotel transitions, though it is much less likely than Midtown options.",
+    "3119": "Very close to the current location, but its nightlife category makes it a weaker match for this morning traveler.",
+    "3853": "A nearby Midtown service stop that could fit a hotel guest’s morning routine, though the user rarely leaves hotels.",
+    "5720": "A plausible quick morning coffee stop near the current hotel cluster, supported by the time slot and proximity.",
+    "3805": "The user has one prior Starbucks observation, but this specific Queens location is far from the current Midtown pattern.",
+    "214": "Nearby and possible for breakfast, but the user’s history is overwhelmingly hotel-focused rather than restaurant-oriented."
+  },
+  "fallback": false
+}

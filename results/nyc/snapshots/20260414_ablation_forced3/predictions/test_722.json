@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_722",
+  "ranked_loc_ids": [
+    1865,
+    3133,
+    3503,
+    2572,
+    3500,
+    3487,
+    3493,
+    2641,
+    59,
+    1092
+  ],
+  "explanations": {
+    "1865": "The user is already on Governors Island and a nearby ferry-terminal return is the strongest short-gap continuation of the current harbor-based chain.",
+    "3133": "They are currently there, so staying on the island fits the immediate 17:57 time prior and minimal movement needed.",
+    "3503": "A nearby leisure spot on the island, plausible for a Saturday evening transition without leaving the harbor area.",
+    "2572": "The ferry hub is a natural next stop if the user is moving between island areas or preparing to depart.",
+    "3500": "A nearby downtown neighborhood that matches an early-evening shift toward food or nightlife after the island excursion.",
+    "3487": "A favored kind of evening dining destination in the user’s broader urban routine, reachable from Lower Manhattan.",
+    "3493": "An Asian restaurant option consistent with the user’s repeated food-and-leisure pattern near downtown Manhattan.",
+    "2641": "A casual bakery stop that fits a light evening transition near the Lower East Side.",
+    "59": "A familiar Manhattan core destination, though less likely so soon after the harbor sequence.",
+    "1092": "A strongly recurrent personal hotspot, but the distance and short time gap make it a lower-probability jump right now."
+  },
+  "fallback": false
+}

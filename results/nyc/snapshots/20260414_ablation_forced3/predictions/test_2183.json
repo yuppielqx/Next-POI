@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2183",
+  "ranked_loc_ids": [
+    1266,
+    2142,
+    4209,
+    1962,
+    5291,
+    67,
+    1613,
+    1302,
+    1954,
+    1997
+  ],
+  "explanations": {
+    "1266": "This is the strongest historical anchor with multiple visits and strong noon-to-2pm overlap, matching the user’s habitual Lower Manhattan routine.",
+    "2142": "A frequent weekday coffee stop in the user’s core Park Row cluster fits an afternoon return well.",
+    "4209": "Repeated lunch-window visits make this a strong casual-dining candidate near the same Lower Manhattan routine zone.",
+    "1962": "The user has a strong education-oriented footprint, and this nearby campus venue fits the midday academic pattern.",
+    "5291": "Another education anchor in the user’s established campus cluster, making it a plausible afternoon destination.",
+    "67": "The user repeatedly visits Union Square, and the area aligns with their northeast movement trend from the last known location.",
+    "1613": "Bookstore behavior is prominent in the profile, and this Union Square bookstore matches the user’s study-and-browsing pattern.",
+    "1302": "A repeated bookstore stop that fits the user’s educational and errand-driven Manhattan movement.",
+    "1954": "A nearby burrito place in the same downtown corridor is consistent with the user’s casual dining routine.",
+    "1997": "A close coffee-shop option near the current area fits the user’s habitual transit-and-coffee behavior, though with less historical strength than the top choices."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1230",
+  "ranked_loc_ids": [
+    2812,
+    4959,
+    633,
+    2815,
+    71,
+    1972,
+    854,
+    4873,
+    930,
+    474
+  ],
+  "explanations": {
+    "2812": "The user’s history is overwhelmingly centered on this anchor destination, and the last-known movement stayed in the same area.",
+    "4959": "It is the closest similar-user-related outdoor spot near Floyd Bennett Field, making it a plausible nearby recreation move.",
+    "633": "A nearby leisure venue in Brooklyn that fits occasional outing behavior after spending time in the southern Brooklyn area.",
+    "2815": "This nearby shopping destination is a reasonable follow-up for a user whose trips are often short-range and purpose-driven.",
+    "71": "Another nearby outdoor/recreation option that matches the user’s leisure-oriented mobility pattern.",
+    "1972": "A gym nearby the user’s anchor area aligns with the recreation/fitness theme in their profile.",
+    "854": "This nearby park fits the user’s tendency toward local outdoor destinations around southern Brooklyn.",
+    "4873": "A grocery stop is a plausible routine errand within the limited local radius of this user’s movement.",
+    "930": "A nearby food venue in Brooklyn is consistent with a short local trip after time spent around the same area.",
+    "474": "A nearby grocery store is a reasonable but less likely routine stop compared with recreation-heavy options."
+  },
+  "fallback": false
+}

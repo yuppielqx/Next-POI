@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1581",
+  "ranked_loc_ids": [
+    1092,
+    3224,
+    274,
+    3566,
+    4044,
+    4622,
+    2721,
+    2819,
+    1138,
+    1136
+  ],
+  "explanations": {
+    "1092": "The user is moving southwest from Eyebeam and this nearby major nightlife/event venue fits a late-night continuation in Chelsea/Meatpacking.",
+    "3224": "A bagel stop is plausible at this hour given the user’s early-morning food-hopping pattern and its close Manhattan proximity.",
+    "274": "This is a nearby Midtown stop that matches the user’s tendency to make short leisure hops between central Manhattan destinations.",
+    "3566": "Theater District venues are consistent with the user’s occasional entertainment-oriented late-night movements.",
+    "4044": "Another nearby theater option that fits the same entertainment-heavy corridor and time window.",
+    "4622": "A revisit is possible because the timestamp is right at the last known location and the user has medium revisit propensity.",
+    "2721": "This Times Square theater is still within a plausible late-night arc for a mobile nightlife-oriented user.",
+    "2819": "The user sometimes moves toward performance venues, making this theater a reasonable but less likely continuation.",
+    "1138": "The user’s strong Indian-restaurant habit keeps this in play, though it is less aligned with the southwest movement from Chelsea.",
+    "1136": "Another Indian dining candidate that matches historical preferences but is less supported by the immediate spatial trend."
+  },
+  "fallback": false
+}

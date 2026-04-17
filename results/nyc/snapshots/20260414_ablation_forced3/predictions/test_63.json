@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_63",
+  "ranked_loc_ids": [
+    525,
+    1300,
+    173,
+    2652,
+    3966,
+    526,
+    3638,
+    98,
+    523,
+    529
+  ],
+  "explanations": {
+    "525": "This is the user's strongest historical anchor and a repeat morning destination, making a return visit plausible despite the current Harlem area.",
+    "1300": "A nearby subway hub fits a weekday morning commute pattern and the current north-east movement trend.",
+    "173": "Harlem 125th Station is a natural next step for a routine-oriented traveler moving through this corridor.",
+    "2652": "The A/B/C/D subway station is a highly plausible transit-based morning stop near the last location.",
+    "3966": "The 4/5/6 train station is another strong commuter-oriented option in the immediate area.",
+    "526": "The user has a prior park visit and this is very close to the current location, though less likely than transit or routine anchors.",
+    "3638": "A grocery stop aligns with similar-user morning errand behavior and the user's practical mobility profile.",
+    "98": "A café fits the morning time prior and the user's history of breakfast/coffee-type stops.",
+    "523": "This is one of the user's known morning places and remains plausible as a repeat weekday stop in Manhattan.",
+    "529": "The user was last at Planet Fitness, so a continued visit or nearby return remains possible even if less favored than transit or errands."
+  },
+  "fallback": false
+}

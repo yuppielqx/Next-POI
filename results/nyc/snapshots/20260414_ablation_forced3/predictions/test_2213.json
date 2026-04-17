@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2213",
+  "ranked_loc_ids": [
+    5538,
+    5539,
+    4011,
+    3533,
+    4015,
+    3823,
+    4864,
+    613,
+    1238,
+    3084
+  ],
+  "explanations": {
+    "5538": "It is the user’s most frequent venue and a very common late-night/early-morning stop in their uptown routine, just a short move from Fine Fare.",
+    "5539": "This is the last known location and sits exactly in the user’s East Harlem anchor cluster, making a short continued stay or return highly plausible.",
+    "4011": "Another core grocery stop in the same habitual neighborhood, with strong evidence of repeat transitions from nearby venues.",
+    "3533": "The nearby pharmacy fits the user’s routine errand pattern and is close enough to follow the uptown return trend.",
+    "4015": "The nearby Latin American restaurant aligns with the late-night neighborhood food pattern seen in similar users and is very close to the current area.",
+    "3823": "A fast-food option that matches the user’s food-heavy routine, though it is slightly farther than the top neighborhood candidates.",
+    "4864": "A likely connector if the user is moving within the East Harlem/Upper East Side corridor after the supermarket stop.",
+    "613": "The northbound movement trend and the user’s occasional Harlem activity make this a plausible broader-area destination.",
+    "1238": "This fits the user’s home-base geography, but it is less specific than the nearby routine venues.",
+    "3084": "Similar users show late-night breakfast behavior, so this is a weak but possible overnight food destination."
+  },
+  "fallback": false
+}

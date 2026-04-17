@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_280",
+  "ranked_loc_ids": [
+    1877,
+    1648,
+    1878,
+    1874,
+    1875,
+    1876,
+    1873,
+    731,
+    1882,
+    1881
+  ],
+  "explanations": {
+    "1877": "Monday morning at 9:03 strongly matches the user’s dominant repeated office arrival pattern in lower Manhattan.",
+    "1648": "This is the most plausible pre-office coffee stop on a weekday morning before heading to Comedy Central.",
+    "1878": "The user has used this as part of a commuter pattern, so it remains a credible morning origin or stop.",
+    "1874": "The user’s last known location and a repeated leisure destination make it a possible short-term return.",
+    "1875": "It is near the last location and fits the current staying-in-area movement trend, though the history is sparse.",
+    "1876": "A morning breakfast spot in New Jersey could fit a pre-commute routine, but it is less consistent than the Manhattan work anchor.",
+    "1873": "This matches the user’s social Jersey footprint, but the Monday morning timing makes it unlikely.",
+    "731": "Another Jersey nightlife/social venue that fits past behavior but not the target time.",
+    "1882": "The user has shown late-night diner behavior, yet this is far less likely for a Monday 9 AM prediction.",
+    "1881": "It matches the user’s bar/restaurant pattern, but it is too leisure-oriented for the strong weekday-morning work signal."
+  },
+  "fallback": false
+}

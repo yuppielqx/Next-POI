@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2081",
+  "ranked_loc_ids": [
+    5434,
+    398,
+    4903,
+    5320,
+    5019,
+    445,
+    3660,
+    1713,
+    4371,
+    399
+  ],
+  "explanations": {
+    "5434": "This is the user’s strongest historical anchor, it was the last known location, and the 10 AM commute-like pattern makes a return here most likely.",
+    "398": "The user repeatedly pairs morning transit with this community college, making a school-bound continuation of the routine highly plausible.",
+    "4903": "A nearby morning coffee stop fits the weekday 10:19 timing and the user’s anchored Englewood-area routine.",
+    "5320": "This is a frequent practical errand destination in the user’s core corridor and is close enough to follow the current Englewood movement.",
+    "5019": "The user shows errand-chaining behavior, and this nearby grocery stop matches a practical morning trip in the same local area.",
+    "445": "The user has recurring retail visits here, so a daytime shopping-related detour remains plausible though less likely than the commute anchors.",
+    "3660": "The recent trip already included a bridge/transit hub, so another regional travel segment is possible, but it is less consistent with the weekday morning routine.",
+    "1713": "The user has occasional early-morning Edgewater coffee activity, but this is farther from the current Englewood-centered flow.",
+    "4371": "A nearby food stop could fit a morning routine, though there is less historical evidence than for the top transit and school anchors.",
+    "399": "It is in the right geographic area and could be reached during a local morning movement, but it is not a primary historical destination."
+  },
+  "fallback": false
+}

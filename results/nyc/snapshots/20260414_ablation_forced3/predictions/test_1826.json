@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1826",
+  "ranked_loc_ids": [
+    5221,
+    3426,
+    4698,
+    1890,
+    1547,
+    137,
+    2066,
+    338,
+    3812,
+    547
+  ],
+  "explanations": {
+    "5221": "Monday afternoon at 14:17 strongly matches the user’s most consistent weekday lunch pattern, and this is the best historical fit.",
+    "3426": "It is a frequent weekday food stop in the user’s routine and remains plausible for a midday Manhattan meal.",
+    "4698": "The user visits this often and it fits a quick weekday stop near their Midtown East circuit.",
+    "1890": "The user has a recurring Chelsea pattern here, and afternoon dining makes it a reasonable alternative.",
+    "1547": "The last known westward movement makes a nearby Hell’s Kitchen bar a possible continuation, though less likely at this hour.",
+    "137": "Penn Station is plausible given commuter-like movement and the user’s transit-adjacent Manhattan behavior.",
+    "2066": "A coffee stop is consistent with the user’s routine, even if this time is later than their peak coffee hours.",
+    "338": "This is a nearby food option in the user’s broader Midtown/Flatiron area pattern and could fit an afternoon lunch errand.",
+    "3812": "The location is very close to the last point and could attract a midday food stop after westward movement.",
+    "547": "It is nearby and restaurant-like, but the user’s historical preference makes it a weaker match than more routine lunch venues."
+  },
+  "fallback": false
+}

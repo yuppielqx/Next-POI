@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1136",
+  "ranked_loc_ids": [
+    769,
+    3310,
+    1672,
+    2782,
+    663,
+    3455,
+    3946,
+    2849,
+    4340,
+    1303
+  ],
+  "explanations": {
+    "769": "This is the strongest nearby transit hub in the user’s recurring Long Island City commute pattern and fits the morning transfer direction.",
+    "3310": "The user repeatedly heads to LaGuardia in weekday morning routines, making this a likely next academic stop after the subway.",
+    "1672": "The user is already at this station area and often uses it as the core morning transit anchor.",
+    "2782": "The last location and current corridor strongly suggest they remain within the Long Island City transit zone.",
+    "663": "A frequent school destination and part of the user’s established weekday routine in this area.",
+    "3455": "This nearby Long Island City LaGuardia-related stop matches the user’s repeated campus pattern and short-distance movement.",
+    "3946": "Very close to the current location, so a brief nearby stop in Long Island City is plausible before a longer commute.",
+    "2849": "A close-by food stop that could occur during a morning transit pause in the Court Square area.",
+    "4340": "A nearby convenience stop that fits a commuter’s morning routine in Long Island City.",
+    "1303": "Another plausible transit continuation from the Court Square corridor as the user moves southeast through Queens."
+  },
+  "fallback": false
+}

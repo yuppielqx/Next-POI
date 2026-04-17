@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2505",
+  "ranked_loc_ids": [
+    116,
+    137,
+    3951,
+    4031,
+    1660,
+    1092,
+    4675,
+    1619,
+    918,
+    888
+  ],
+  "explanations": {
+    "116": "The user’s strongest weekday pattern is the afternoon return commute to Jamaica, and the target time falls exactly in that transition window.",
+    "137": "This is the other dominant anchor in the user’s routine, and they may still be at or immediately around Penn Station before fully departing.",
+    "3951": "Penn Station-area transit is a natural intermediate step for a commuter leaving Midtown in the late afternoon.",
+    "4031": "It is a transit option at Penn Station, though the user’s history makes this far less likely than the core LIRR commute.",
+    "1660": "A train-station visit in Queens is plausible given the commuter corridor, but it appears only rarely in the user’s history.",
+    "1092": "It is adjacent to the last known location and can be a pass-through or brief stop near Penn Station.",
+    "4675": "A nearby food stop is possible during a commute, but there is no strong evidence of habitual visits.",
+    "1619": "A Penn Station diner is another nearby low-probability stop that could occur during transit timing.",
+    "918": "A quick coffee stop fits the area, but the user’s profile is strongly transit-focused rather than café-oriented.",
+    "888": "It is in the immediate vicinity, but there is little behavioral evidence that the user would deviate here during the commute window."
+  },
+  "fallback": false
+}

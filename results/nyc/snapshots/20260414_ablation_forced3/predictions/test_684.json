@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_684",
+  "ranked_loc_ids": [
+    3379,
+    3386,
+    811,
+    1552,
+    1560,
+    1564,
+    3380,
+    3382,
+    2880,
+    3381
+  ],
+  "explanations": {
+    "3379": "The user’s strongest weekday morning routine is returning to this Midtown East coworking space, and the 09:10 Wednesday prior matches its most common time window.",
+    "3386": "It is the current location and the user was last seen here in the same Midtown area, so a short continuation or stay is plausible.",
+    "811": "This nearby Midtown Japanese spot fits the user’s frequent Manhattan corridor and could serve as a quick morning food stop.",
+    "1552": "It is extremely close to the last known location and matches a common coffee-shop movement after a morning work start.",
+    "1560": "The nearby restaurant is in the same building corridor as the user’s current area, making a brief errand or breakfast stop possible.",
+    "1564": "It is adjacent to the current location and within the user’s narrow Midtown pattern, though less routine than work or food.",
+    "3380": "The user strongly favors the gym before work, but the timing and current Midtown East position make a gym return less likely than coworking.",
+    "3382": "This is one of the user’s repeated Midtown lunch spots and is close enough to fit a morning walk, though less likely than work-related destinations.",
+    "2880": "A nearby pharmacy stop is plausible for a practical errand, but it is not a dominant part of the user’s routine.",
+    "3381": "The user does sometimes visit grocery stores, and this aligns with practical behavior, but it is farther and less time-matched than the top options."
+  },
+  "fallback": false
+}

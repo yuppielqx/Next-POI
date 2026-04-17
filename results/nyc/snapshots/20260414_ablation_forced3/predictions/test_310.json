@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_310",
+  "ranked_loc_ids": [
+    1035,
+    2014,
+    130,
+    2023,
+    1231,
+    1629,
+    300,
+    5105,
+    2011,
+    113
+  ],
+  "explanations": {
+    "1035": "The user’s strongest recurring late-afternoon destination in this corridor is the Atlantic Terminal complex, and it is the nearest high-match transit hub from the last known point.",
+    "2014": "This is one of the user’s core transfer points and a highly likely next step after being at Pathmark - Atlantic Center in Downtown Brooklyn.",
+    "130": "The user frequently uses Nevins St. in the same time slot, making it a very plausible transfer stop while moving northeast through the Atlantic corridor.",
+    "2023": "The user may simply remain in or return immediately to the same Atlantic Center complex, given the short time gap and strong local movement pattern.",
+    "1231": "This adjacent nearby landmark fits the user’s transit-heavy Downtown Brooklyn loop and is a realistic next stop from the Atlantic Center area.",
+    "1629": "Starbucks at Atlantic Terminal matches the user’s tendency to pause at familiar hub-adjacent spots during late afternoon travel.",
+    "300": "This nearby retail stop is close to the current location and could be a short shopping errand before continuing transit.",
+    "5105": "A nearby Atlantic Terminal retail destination that fits the user staying within the same small geographic cluster.",
+    "2011": "The user has a history of occasional nightlife/food visits, and this nearby option could align with a brief evening stop.",
+    "113": "DeKalb Ave is a plausible nearby subway transfer for continuing north/east movement through the Downtown Brooklyn transit network."
+  },
+  "fallback": false
+}

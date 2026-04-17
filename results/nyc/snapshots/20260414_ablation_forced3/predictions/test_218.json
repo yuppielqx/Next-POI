@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_218",
+  "ranked_loc_ids": [
+    209,
+    1516,
+    1519,
+    1515,
+    789,
+    941,
+    767,
+    1517,
+    329,
+    338
+  ],
+  "explanations": {
+    "209": "A late-evening food stop fits the user’s social dining pattern and the downtown/westward movement from Shake Shack.",
+    "1516": "The user has sporadic nightlife behavior, and a bar is plausible at 21:13 after a dinner outing.",
+    "1519": "Chinese restaurants are a top category for this user, and it matches a night-food visit in Manhattan.",
+    "1515": "Another downtown food-oriented area that fits an evening excursion and the user’s occasional Lower Manhattan movement.",
+    "789": "A bar in the downtown nightlife corridor aligns with the night-time prior and occasional late-night social behavior.",
+    "941": "Vanessa's Dumpling House fits the user’s Chinese-food preference and a likely evening meal destination.",
+    "767": "A food stop is plausible given the user’s dining-heavy profile, though it is a less direct evening fit than dinner spots.",
+    "1517": "This is a strong history anchor in the Flatiron corridor, but it is less likely as a next stop at night than a food or bar venue.",
+    "329": "Madison Square Park is very close and matches the westward/local movement, but a park visit is less likely at 21:13.",
+    "338": "Nearby and food-related, but it is a weaker late-night choice than restaurants and bars the user has favored."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_384",
+  "ranked_loc_ids": [
+    112,
+    1817,
+    28,
+    2272,
+    2264,
+    1806,
+    1750,
+    2033,
+    86,
+    142
+  ],
+  "explanations": {
+    "112": "The user is already at this station and the strongest short-term signal is to remain in the same immediate transit area.",
+    "1817": "This is the user’s top recurring anchor and the most likely familiar destination in the Lincoln Center corridor.",
+    "28": "The user frequently chains nearby entertainment stops, and this cinema fits their arts-and-entertainment pattern.",
+    "2272": "A common nearby food stop in the same corridor, especially plausible during a late-night neighborhood chain.",
+    "2264": "The Performing Arts Library is within the Lincoln Center complex and matches the user’s arts-focused routine.",
+    "1806": "Europan Café is a walkable sandwich stop near Lincoln Center that fits a nearby food/interlude visit.",
+    "1750": "Another film venue in the user’s core cultural cluster, making it a strong local entertainment option.",
+    "2033": "This nearby public space is part of the user’s habitual Lincoln Center area and supports a short walkable move.",
+    "86": "Avery Fisher Hall aligns with the user’s concert-venue preference and is close to their usual arts corridor.",
+    "142": "If they do move through transit, Columbus Circle is the most plausible nearby hub on their usual Upper West Side path."
+  },
+  "fallback": false
+}

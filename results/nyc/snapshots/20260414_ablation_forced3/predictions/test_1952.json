@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1952",
+  "ranked_loc_ids": [
+    88,
+    557,
+    5005,
+    4704,
+    3561,
+    2735,
+    2743,
+    274,
+    1069,
+    4408
+  ],
+  "explanations": {
+    "88": "This is the user’s strongest commute anchor and the most likely evening return point at 18:22.",
+    "557": "The user’s routine is heavily tied to the Lincoln Tunnel corridor, making it the next most plausible transit-related stop.",
+    "5005": "A frequent supporting stop in the user’s commute pattern and very close to the current Midtown West area.",
+    "4704": "The user is currently here, and a quick same-area follow-on visit is plausible before heading back to the commute corridor.",
+    "3561": "It is extremely nearby in Times Square and fits a quick dinner/snack stop during the early evening.",
+    "2735": "A nearby coffee shop that matches the user’s recurring quick-service food behavior.",
+    "2743": "This close-by pharmacy is a plausible errand stop in the same Midtown cluster.",
+    "274": "The user has visited nearby Midtown public spaces before, so a short north-east move is feasible.",
+    "1069": "The user has some prior nightlife/dining behavior in Midtown, making this a possible evening stop.",
+    "4408": "A nearby restaurant in the same corridor that could fit an evening meal pattern."
+  },
+  "fallback": false
+}

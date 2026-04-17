@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_96",
+  "ranked_loc_ids": [
+    757,
+    751,
+    754,
+    761,
+    758,
+    92,
+    762,
+    28,
+    760,
+    3551
+  ],
+  "explanations": {
+    "757": "It matches the user’s strongest afternoon pattern and recent Riverside-side routine, making it the most likely short-hop return.",
+    "751": "This is the user’s main behavioral anchor and a frequent Sunday destination, so a return here remains highly plausible.",
+    "754": "Sunday afternoon leisure behavior and prior visits to Riverside Park South make this a strong nearby outdoor option.",
+    "761": "It fits the Upper West Side/Riverside corridor and a lunch-to-afternoon transition after a nearby meal stop.",
+    "758": "The user often chains park-related stops in this neighborhood, and the timing suits a scenic walk.",
+    "92": "Grocery errands are a recurring pattern for this user, and this is a classic follow-up stop in their core area.",
+    "762": "Another frequent grocery-style destination that fits the user’s practical afternoon errand pattern.",
+    "28": "The user has repeated cinema behavior in Lincoln Square, though the timing is slightly less direct than library or park visits.",
+    "760": "It is a nearby casual dining option that fits the lunch-to-afternoon movement trend, though it is less historically dominant.",
+    "3551": "A coffee stop is plausible after lunch, but it is less aligned with the user’s core Upper West Side routine."
+  },
+  "fallback": false
+}

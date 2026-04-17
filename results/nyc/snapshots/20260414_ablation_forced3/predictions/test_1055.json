@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1055",
+  "ranked_loc_ids": [
+    4259,
+    3664,
+    823,
+    441,
+    1423,
+    4999,
+    4657,
+    1149,
+    277
+  ],
+  "explanations": {
+    "4259": "This is the user's strongest and most frequent next-step destination after the Secaucus Toll Plaza in the 4:20–4:40 a.m. window.",
+    "3664": "The user has repeatedly checked in here at nearly the same time, so a brief repeat is plausible.",
+    "823": "Walmart is a recurring later-morning stop in the user's routine, though less likely at 4:23 a.m.",
+    "441": "It is nearby in the same Secaucus commercial area, but lacks prior history for this user.",
+    "1423": "Another nearby professional office in the logistics cluster, making it somewhat compatible with the user's work-oriented pattern.",
+    "4999": "A nearby office building that fits the industrial/work context, though there is no direct history.",
+    "4657": "Nearby Secaucus retail space with some practical fit, but not strongly supported by the user's history.",
+    "1149": "The user has visited Clifton before, but it is farther and less consistent with this specific immediate transition.",
+    "277": "This is within a broader past travel range, but it is not well matched to the current early work commute."
+  },
+  "fallback": false
+}

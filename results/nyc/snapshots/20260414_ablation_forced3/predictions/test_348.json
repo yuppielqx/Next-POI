@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_348",
+  "ranked_loc_ids": [
+    2134,
+    1637,
+    2137,
+    2136,
+    1638,
+    1649,
+    1644,
+    1527,
+    1204,
+    2672
+  ],
+  "explanations": {
+    "2134": "Strong habitual behavior and the immediate previous check-ins make another late-night Starbucks visit the most likely choice.",
+    "1637": "It is nearby in the same corridor and fits the user’s pattern of short food stops around Manhattan.",
+    "2137": "Another Starbucks option aligns with the user’s caffeine-centered routine, though it is less proximate than the current store.",
+    "2136": "The user has repeated taco-place visits and it has shown late-evening transitions before.",
+    "1638": "This sandwich place matches the user’s occasional quick-food behavior and is within the same general area.",
+    "1649": "A nearby quick-service food stop that fits the user’s occasional dinner-time food pattern.",
+    "1644": "This nearby food venue could satisfy a late-night meal stop, though it is less consistent with the coffee-heavy routine.",
+    "1527": "Very close to the last location and plausible for late-night movement in the neighborhood, despite limited history.",
+    "1204": "Nearby nightlife makes it a possible late-night destination, but the user’s history favors food and coffee more strongly.",
+    "2672": "A close cocktail bar that could fit a Sunday night outing, though it is weaker than the user’s usual Starbucks routine."
+  },
+  "fallback": false
+}

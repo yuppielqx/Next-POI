@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1266",
+  "ranked_loc_ids": [
+    842,
+    47,
+    3570,
+    114,
+    313,
+    4721,
+    3655,
+    3127,
+    146,
+    666
+  ],
+  "explanations": {
+    "842": "The user is in the Penn Station/Herald Square area and is very likely to continue a nearby transit-based morning move.",
+    "47": "Similar users at this time often continue with retail errands, and Macy's is a highly plausible nearby Midtown shopping stop.",
+    "3570": "The last known location is already here, so a brief continuation or return to the same store is very plausible.",
+    "114": "This is a strong recurring transit anchor in their history, though it is farther than nearby Midtown options.",
+    "313": "It is very close to the last location and fits the user’s leisure-oriented Manhattan patterns.",
+    "4721": "A nearby retail stop in the same shopping corridor fits the morning errand pattern well.",
+    "3655": "Another close Midtown shopping option, consistent with a continuation of the current retail trip.",
+    "3127": "This is a nearby clothing store in a major transit hub, matching the user’s transit-plus-shopping behavior.",
+    "146": "The user has visited it before and may continue toward another bookstore or browsing stop in Midtown.",
+    "666": "A Koreatown food stop is plausible for this user, though it is less likely than immediate nearby retail or transit destinations."
+  },
+  "fallback": false
+}

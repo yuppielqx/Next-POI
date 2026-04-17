@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2222",
+  "ranked_loc_ids": [
+    4076,
+    2487,
+    3165,
+    4711,
+    670,
+    503,
+    4258,
+    3100,
+    4234,
+    4256
+  ],
+  "explanations": {
+    "4076": "The user is already at a bagel shop and the strongest pattern is chaining nearby food stops in the same Manhattan corridor.",
+    "2487": "A very close quick-service dining option that fits a continued food run after the bagel sequence.",
+    "3165": "Nearby pub option that could follow an evening outing, especially if the user shifts from food to social drinking.",
+    "4711": "An adjacent nightlife venue that matches the user’s social late-evening behavior.",
+    "670": "Another close food stop consistent with a nearby new place rather than a major relocation.",
+    "503": "A nearby dinner option that fits the current evening dining context.",
+    "4258": "Strong historical match for this user’s nightlife habits, though it is a bit less likely than a nearby food continuation right now.",
+    "3100": "Another highly plausible karaoke destination given the user’s repeated karaoke pattern in Midtown.",
+    "4234": "Fits the user’s karaoke-heavy profile, but it is slightly farther and less aligned with the immediate bagel-stop chain.",
+    "4256": "A historically relevant venue type for the user, but less likely than food or karaoke at this hour."
+  },
+  "fallback": false
+}

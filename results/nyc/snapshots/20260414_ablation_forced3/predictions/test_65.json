@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_65",
+  "ranked_loc_ids": [
+    530,
+    532,
+    112,
+    1732,
+    4864,
+    5529,
+    1733,
+    3345,
+    1312,
+    531
+  ],
+  "explanations": {
+    "530": "The user’s dominant routine centers on this park, and they were last there, making a same-area morning return the strongest prediction.",
+    "532": "This is another nearby park-like location with prior visits, so it fits the user’s Upper West Side outdoor pattern.",
+    "112": "A nearby transit node is plausible for a commuter-like morning movement while staying in the same corridor.",
+    "1732": "This nearby outdoor/recreation spot aligns with the user’s park-oriented habits and close geographic clustering.",
+    "4864": "A station close to Riverside Park could be used if the user is briefly shifting within the neighborhood.",
+    "5529": "This nearby outdoor-adjacent location is consistent with the user’s local Upper West Side movement.",
+    "1733": "Another nearby green space matches the user’s strong preference for outdoor recreational stops.",
+    "3345": "A morning-friendly food stop on the Upper West Side fits the early-day routine, though less strongly than park visits.",
+    "1312": "A coffee shop is a reasonable morning destination for an early riser in the same neighborhood.",
+    "531": "This is a frequent historical destination, but it is more consistent with later-day patterns than the current morning time."
+  },
+  "fallback": false
+}

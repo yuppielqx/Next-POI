@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_70",
+  "ranked_loc_ids": [
+    180,
+    536,
+    508,
+    248,
+    561,
+    551,
+    563,
+    542,
+    16,
+    558
+  ],
+  "explanations": {
+    "180": "The strongest time-of-day and history match is an evening gym visit, and this is one of the user's most frequent late-day destinations.",
+    "536": "A frequent Upper West Side dinner stop that fits the 19:31 evening prior and nearby northbound movement from Central Park.",
+    "508": "A very close return to the user's recurring anchor point near home is plausible after a park outing.",
+    "248": "This is part of the user's signature park loop and is geographically adjacent to the last known location.",
+    "561": "A routine evening grocery/errand stop in the user's core Upper West Side territory fits the clustered mobility pattern.",
+    "551": "A nearby Upper West Side food stop aligns with the user's local, short-hop behavior even though evening frequency is lower.",
+    "563": "A regular grocery destination in the user's home area could follow an evening park visit or precede heading home.",
+    "542": "This deli/bodega is a plausible quick errand or dinner-adjacent food stop within the broader neighborhood.",
+    "16": "The user repeatedly revisits Central Park in tight morning/evening chains, so a simple park return remains possible.",
+    "558": "The user sometimes travels to Midtown in the evening, but this is less likely than nearby Upper West Side options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1243",
+  "ranked_loc_ids": [
+    142,
+    4580,
+    4587,
+    1255,
+    4359,
+    4581,
+    842,
+    53,
+    1678,
+    4119
+  ],
+  "explanations": {
+    "142": "This is the most likely morning transfer point on their regular north-to-south commute from Inwood toward Lower Manhattan.",
+    "4580": "Their strongest work destination and the single best match for the 08:45 weekday commute pattern.",
+    "4587": "A recurring morning stop in their routine, often appearing just before arrival downtown.",
+    "1255": "A frequent Financial District transit anchor that fits the user’s commute corridor.",
+    "4359": "A South Ferry-area station that matches their Lower Manhattan arrival pattern.",
+    "4581": "A repeated downtown anchor near the user’s likely office destination.",
+    "842": "A plausible Midtown transfer point for this user’s southbound commute.",
+    "53": "Another major transit hub that fits a structured commute through Midtown.",
+    "1678": "A Financial District station consistent with their downtown work trips.",
+    "4119": "A possible coffee-stop alternative in Lower Manhattan during the morning commute."
+  },
+  "fallback": false
+}

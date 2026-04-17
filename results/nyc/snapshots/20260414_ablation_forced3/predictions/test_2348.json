@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2348",
+  "ranked_loc_ids": [
+    12,
+    3334,
+    3156,
+    3675,
+    5027,
+    5611,
+    1618,
+    3619,
+    1133,
+    5609
+  ],
+  "explanations": {
+    "12": "It is the last known location, a same-area Upper East Side lunch spot that fits the strong return-to-last pattern for a Saturday early afternoon.",
+    "3334": "It is a nearby Upper East Side restaurant that fits a daytime meal transition after Cafe D'Alsace.",
+    "3156": "It is very close to the current area and is a plausible Saturday lunch option in the same neighborhood.",
+    "3675": "It is a nearby dessert stop that matches an afternoon outing on the Upper East Side.",
+    "5027": "It is a nearby retail errand destination consistent with a Saturday afternoon neighborhood move.",
+    "5611": "It has Saturday recurrence and fits the user’s occasional hospital-related daytime visits.",
+    "1618": "It is a familiar Manhattan brunch/meal venue, though slightly farther and less directly aligned than closer UES options.",
+    "3619": "It is immediately adjacent to the last location and could attract a short move to a nearby bar area.",
+    "1133": "It matches the user’s recurring Upper Manhattan pattern, but is less likely than a meal or errand at 13:12.",
+    "5609": "It is the user’s anchor venue, but its strongest association is with evening and late-night visits rather than early afternoon."
+  },
+  "fallback": false
+}

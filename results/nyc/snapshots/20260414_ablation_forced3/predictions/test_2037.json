@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2037",
+  "ranked_loc_ids": [
+    3742,
+    971,
+    970,
+    5410,
+    58,
+    5285,
+    2086,
+    3996,
+    2074,
+    557
+  ],
+  "explanations": {
+    "3742": "The user is already checked in here at 18:42, and the strongest time-conditioned pattern suggests they often remain at or return to this ferry terminal in the evening commute window.",
+    "971": "This is a top recurring commute hub for the user and fits the ferry-based return pattern, though it is farther than the current terminal.",
+    "970": "It is very close to the current ferry terminal and still matches the user’s transportation-hub corridor behavior.",
+    "5410": "A frequent breakfast/coffee stop in the user’s routine, but it is less likely this late in the evening commute.",
+    "58": "Grand Central Terminal is a major commuter hub and could plausibly be a transfer point, though it is outside the user’s core ferry corridor.",
+    "5285": "It is nearby and has a nightlife profile, but the user’s behavior is much more transit-focused than social.",
+    "2086": "This is another nearby food stop that fits practical movement, but it has only a single historical visit.",
+    "3996": "A nearby café that could serve an after-commute stop, though there is no prior evidence of this routine.",
+    "2074": "Close to the current area and aligned with west-side waterfront movement, but it is more leisure-oriented than the user’s typical pattern.",
+    "557": "It is in the same general transit corridor and could reflect departure movement, but it is less specific than the ferry-terminal options."
+  },
+  "fallback": false
+}

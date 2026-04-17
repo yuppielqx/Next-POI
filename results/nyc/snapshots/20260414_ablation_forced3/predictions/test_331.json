@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_331",
+  "ranked_loc_ids": [
+    1181,
+    87,
+    28,
+    2076,
+    1471,
+    231,
+    1628,
+    2074,
+    527,
+    2070
+  ],
+  "explanations": {
+    "1181": "It is the current location and the strongest near-term continuation for a morning stop with no need to detour far from the present trajectory.",
+    "87": "Extremely close to the last known point and consistent with a nearby Manhattan errand after visiting Best Buy.",
+    "28": "Also essentially adjacent, and similar users sometimes transition to nearby leisure venues in the morning.",
+    "2076": "A short move north fits the user’s Manhattan pattern, though it is less typical than a coffee or breakfast stop.",
+    "1471": "Nearby Uptown dining is plausible for a Sunday morning food stop.",
+    "231": "A nearby casual food option that fits a short Manhattan outing better than nightlife.",
+    "1628": "A nearby daytime attraction matches the Sunday morning leisure prior.",
+    "2074": "A short westward recreational stop is plausible, though slightly less aligned with the northeast movement trend.",
+    "527": "Strong user-history venue, but the morning timing makes an immediate bar visit less likely.",
+    "2070": "A favorite nightlife spot, but it is mismatched to the late-morning Sunday context."
+  },
+  "fallback": false
+}

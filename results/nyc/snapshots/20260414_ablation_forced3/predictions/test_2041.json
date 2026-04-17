@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2041",
+  "ranked_loc_ids": [
+    476,
+    1977,
+    1358,
+    3029,
+    16,
+    1901,
+    2796,
+    3169,
+    1036,
+    1750
+  ],
+  "explanations": {
+    "476": "Strong Sunday-afternoon history and the stated time-conditioned prior both point to this as the most likely daytime anchor.",
+    "1977": "It has repeated Sunday visits in the user's history and fits a relaxed afternoon café/bar pattern.",
+    "1358": "A daytime Brooklyn recreation spot that matches the user's recreational non-nightlife behavior.",
+    "3029": "Similar-user evidence favors a café around this hour, and it fits the Brooklyn daytime leisure trend.",
+    "16": "A plausible Sunday afternoon park visit based on the user's occasional daytime recreation pattern.",
+    "1901": "The user favors Brooklyn bars, and this is a reasonable afternoon-to-evening social stop.",
+    "2796": "Nightlife is the user's core behavior, though the afternoon timing makes it less likely than daytime options.",
+    "3169": "An East Village bar aligns with the user's bar-heavy profile and is close to the last-known nightlife area.",
+    "1036": "A music venue fits the user's late-night social/entertainment pattern, but it is less likely at this afternoon prior.",
+    "1750": "A movie outing is plausible for a Sunday afternoon, though it is weaker than the user's park and café tendencies."
+  },
+  "fallback": false
+}

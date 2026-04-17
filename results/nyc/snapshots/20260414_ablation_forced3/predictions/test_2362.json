@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2362",
+  "ranked_loc_ids": [
+    577,
+    570,
+    3563,
+    3906,
+    4326,
+    5616,
+    2353,
+    5619,
+    5620
+  ],
+  "explanations": {
+    "577": "This is the strongest match because it is the user’s most frequent nearby errand stop and directly follows the recent Lenny’s-to-pharmacy corridor pattern.",
+    "570": "A very close repeat is plausible since the user often clusters short daytime visits within the same Upper West Side block.",
+    "3563": "The user has a repeated Tuesday afternoon pizza pattern, and it fits the same local food-errand movement style.",
+    "3906": "A nearby practical stop fits the short-distance same-area behavior and daytime routine.",
+    "4326": "This is a nearby Upper West Side service stop that matches the user’s errand-oriented mobility.",
+    "5616": "Less likely than daytime errands, but the user does have occasional bar check-ins and this remains within observed behavior.",
+    "2353": "A return to the home/anchor neighborhood is possible after a local Upper West Side stop.",
+    "5619": "The user has a strong Fort Lee routine, though the current same-area afternoon context makes it less likely than nearby Manhattan stops.",
+    "5620": "A Fort Lee grocery errand is consistent with the user’s practical-stop pattern, but the distance and current trajectory make it a weaker fit."
+  },
+  "fallback": false
+}

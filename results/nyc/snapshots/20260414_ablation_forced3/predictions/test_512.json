@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_512",
+  "ranked_loc_ids": [
+    1839,
+    1830,
+    2830,
+    558,
+    59,
+    1730,
+    1725,
+    1118,
+    2347,
+    1242
+  ],
+  "explanations": {
+    "1839": "It is essentially adjacent to the last stop and fits the strong Midtown hotel pattern after a lunch check-in.",
+    "1830": "Very close to Burgerjoint and aligned with the user’s repeated Central Park South hotel cluster.",
+    "2830": "A frequent Tuesday afternoon destination in the user’s history and consistent with a northeast move into luxury hotels.",
+    "558": "Matches the Midtown commercial corridor the user repeatedly visits and sits along the likely northeast path.",
+    "59": "A highly recurrent Tuesday location that fits the user’s midday-to-afternoon Midtown routine.",
+    "1730": "A nearby Fifth Avenue retail stop that matches the northeast trend and the user’s shopping/hotel pattern.",
+    "1725": "Strong historical fit for this media-office cluster and close enough to follow the current movement.",
+    "1118": "Represents the NBC Studio 1A area, which is consistent with the user’s Midtown media/TV-related movement.",
+    "2347": "Fits the user’s commercial Midtown corridor pattern and remains within the likely northward trajectory.",
+    "1242": "Another plausible Midtown hotel stop that matches the user’s daytime hotel-and-retail behavior."
+  },
+  "fallback": false
+}

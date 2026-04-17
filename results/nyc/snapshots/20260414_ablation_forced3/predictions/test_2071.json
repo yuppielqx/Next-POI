@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2071",
+  "ranked_loc_ids": [
+    5426,
+    137,
+    586,
+    3127,
+    965,
+    338,
+    4074,
+    3508,
+    2203,
+    2002
+  ],
+  "explanations": {
+    "5426": "The user repeatedly returns to this Midtown West anchor, and the Saturday evening prior plus northwest drift make a return here the strongest fit.",
+    "137": "Penn Station/Herald Square is another core anchor in the user’s routine, and it aligns well with a central Manhattan evening return.",
+    "586": "Herald Square is very close to the user’s Midtown core and fits the time-conditioned tendency toward central Manhattan shopping/activity.",
+    "3127": "A plausible Penn Station-area stop for a Saturday evening errand or shopping visit near the user’s frequent corridor.",
+    "965": "A Midtown coffee stop matches the user’s history of café visits and the need for a flexible evening transition location.",
+    "338": "This nearby food venue fits the user’s pattern of Midtown leisure dining and is consistent with the central Manhattan prior.",
+    "4074": "The user has a social dining pattern, and this close Midtown restaurant is a reasonable Saturday evening destination.",
+    "3508": "A transit hub is plausible given the user’s movement style and the need to reposition within Manhattan.",
+    "2203": "The user has gym-related history, and an evening workout near the core is consistent with their mixed routine.",
+    "2002": "This nearby nightlife-adjacent hotel/venue matches the user’s occasional evening social outings, though it is less likely than the Midtown anchors."
+  },
+  "fallback": false
+}

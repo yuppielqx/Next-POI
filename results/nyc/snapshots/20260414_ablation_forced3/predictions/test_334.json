@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_334",
+  "ranked_loc_ids": [
+    67,
+    329,
+    274,
+    59,
+    192,
+    345,
+    586,
+    454,
+    137,
+    47
+  ],
+  "explanations": {
+    "67": "It is the strongest historical Sunday afternoon repeat visit and best matches the user’s usual Midtown South outdoor-leisure pattern.",
+    "329": "This Madison Square Park-area stop fits the user’s frequent 3–5 PM outdoor habit and nearby Flatiron/Union Square corridor.",
+    "274": "A highly recurrent afternoon park destination for this user, aligned with their Midtown-centered daytime wandering.",
+    "59": "The user often revisits Times Square in the afternoon, and it remains a core Manhattan anchor in their history.",
+    "192": "This is another frequent Sunday leisure park in their pattern, especially for afternoon outings in Lower Manhattan.",
+    "345": "The High Line is a recurring outdoor destination for the user and is plausible given the recent west-to-southeast Manhattan movement context.",
+    "586": "Herald Square is a frequent central-Manhattan plaza-style stop that fits the user’s daylight leisure route.",
+    "454": "Hudson River Park matches the user’s preference for outdoor waterfront recreation and nearby Manhattan exploration.",
+    "137": "Penn Station is a plausible transit-linked stop in the Midtown South area, though less likely than the parks and plazas.",
+    "47": "This Midtown retail destination fits the user’s occasional errand/shopping behavior, but it is less consistent than their outdoor favorites."
+  },
+  "fallback": false
+}

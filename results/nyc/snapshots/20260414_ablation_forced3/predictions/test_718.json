@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_718",
+  "ranked_loc_ids": [
+    3472,
+    3471,
+    58,
+    1530,
+    484,
+    1599,
+    137,
+    274,
+    173,
+    3342
+  ],
+  "explanations": {
+    "3472": "This is one of the strongest late-night dining anchors in the user’s history and fits the 03:00 nightlife-to-food pattern best.",
+    "3471": "A repeated favorite restaurant that matches the user’s Latin American dining tendency and late-evening anchor behavior.",
+    "58": "Grand Central Terminal has strong 3–5 a.m. history for this user and fits a post-midnight transit move across Manhattan.",
+    "1530": "Greenwich Village nightlife plus late-night transit makes this a natural Manhattan stop after a cross-borough jump.",
+    "484": "The user has a clear late-night food pattern and this is a classic post-midnight Manhattan restaurant stop.",
+    "1599": "A nightlife-oriented lounge in Manhattan that aligns with the user’s evening-to-late-night movement style.",
+    "137": "Penn Station is a plausible late-night transfer point for a user who frequently couples food stops with transit.",
+    "274": "This is a recurring Manhattan daytime-to-evening destination and remains plausible given the user’s wide Manhattan range.",
+    "173": "Harlem 125th Station fits the user’s rail-linked mobility pattern, though it is less likely than central Manhattan options at 03:00.",
+    "3342": "A late-night Manhattan restaurant option that fits the broader dining pattern, but it is less characteristic than the top food anchors."
+  },
+  "fallback": false
+}

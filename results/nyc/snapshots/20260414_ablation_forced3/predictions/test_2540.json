@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2540",
+  "ranked_loc_ids": [
+    1515,
+    67,
+    192,
+    37,
+    301,
+    2445,
+    5267,
+    1948,
+    1196,
+    776
+  ],
+  "explanations": {
+    "1515": "This is the strongest anchor in the user’s history, immediately matches the current downtown cluster, and a return visit is highly consistent with their repeated short-hop pattern.",
+    "67": "The user frequently orbits through the Little Italy–Village–Union Square corridor, and the early evening timing fits a likely move north for a park stop or meetup.",
+    "192": "This is another core neighborhood stop for this user and is close enough to fit the current eastward downtown drift.",
+    "37": "A nearby gourmet-shop errand in the Little Italy/SoHo area fits the user’s mix of practical daytime stops layered into the same downtown circuit.",
+    "301": "The Monday evening prior and the user’s grocery-errand behavior make this a plausible Union Square-area destination.",
+    "2445": "The user has a strong late-day and nightlife streak, and this Bowery-adjacent spot fits an evening transition from Little Italy.",
+    "5267": "A nearby nightlife stop in the Village/NoHo orbit matches the user’s after-hours chaining behavior.",
+    "1948": "This East Village bar is a reasonable short-hop option from Little Italy given the user’s compact downtown movement.",
+    "1196": "The last trip already included Chinatown and the user often moves within the immediate Lower Manhattan area, so a brief return is possible.",
+    "776": "This nearby bar aligns with the user’s social late-evening pattern and sits within the same Lower Manhattan nightlife corridor."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1723",
+  "ranked_loc_ids": [
+    3286,
+    395,
+    5685,
+    859,
+    1148,
+    2767,
+    3772,
+    3774,
+    863,
+    59
+  ],
+  "explanations": {
+    "3286": "The user’s strongest short-term signal and prior Sunday-afternoon pattern both point to continuing the Clifton/Garden State entertainment outing at a multiplex cinema.",
+    "395": "A nearby dining stop in the same retail-entertainment corridor fits a leisure-heavy Sunday afternoon after being in Clifton the night before.",
+    "5685": "This is another plausible casual meal choice in the Route 3 entertainment cluster, matching the user’s food-plus-outing behavior.",
+    "859": "A quick-service lunch option near the current location fits the afternoon timing and nearby-new-place movement.",
+    "1148": "The user shows a cinema-oriented profile, and another nearby multiplex is a strong entertainment follow-up.",
+    "2767": "A return to the last seen restaurant is possible given the very short spatial radius and weekend dining pattern.",
+    "3772": "The user tends to cluster around shopping and entertainment complexes, making the mall a natural next stop.",
+    "3774": "Afternoon coffee fits the user’s common midday activity window and nearby retail context.",
+    "863": "A casual sit-down restaurant is consistent with the user’s leisure-oriented, food-driven itinerary.",
+    "59": "Although less likely given the current North Jersey trajectory, it remains a historically frequent Midtown anchor in the user’s broader pattern."
+  },
+  "fallback": false
+}

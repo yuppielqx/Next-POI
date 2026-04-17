@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2124",
+  "ranked_loc_ids": [
+    4164,
+    5462,
+    4172,
+    5463,
+    5464,
+    3282,
+    4166,
+    5308,
+    2715,
+    3778
+  ],
+  "explanations": {
+    "4164": "The user has just been at this gym, and the strong evening return pattern makes an immediate continuation there the most likely next step.",
+    "5462": "A residence hall is a very plausible post-gym destination as the user often returns to the campus housing cluster after evening activity.",
+    "4172": "Evening campus circulation often shifts to the Student Center, which is a frequent hub in the user’s Montclair routine.",
+    "5463": "This academic building is part of the tightly clustered campus pattern and is historically paired with the residence hall.",
+    "5464": "Another nearby campus academic building that fits the user’s usual residence-hall-to-class-area movement.",
+    "3282": "The broader campus itself is a strong match for the user’s repeated campus-centered evening transitions.",
+    "4166": "A utilitarian stop in the Little Falls area is plausible, especially after returning from the gym and moving northwest.",
+    "5308": "A late-evening food stop is consistent with the user’s occasional fast-food trips near the campus area.",
+    "2715": "Nearby food options become more likely after an evening workout, even though this is a first-time candidate.",
+    "3778": "This nearby Montclair restaurant is a reasonable but less certain discretionary stop compared with the core campus locations."
+  },
+  "fallback": false
+}

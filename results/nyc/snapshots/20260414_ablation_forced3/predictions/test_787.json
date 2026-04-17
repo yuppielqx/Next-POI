@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_787",
+  "ranked_loc_ids": [
+    3642,
+    3641,
+    3643,
+    3646,
+    3644,
+    3645,
+    3647,
+    2902,
+    3802,
+    3799
+  ],
+  "explanations": {
+    "3642": "The user was just here and has an extremely strong habit of lingering or returning within the same tiny home-area cluster.",
+    "3641": "This is one of the user's most frequent repeat stops and sits directly in the core neighborhood cluster.",
+    "3643": "The user regularly chains quick errands here, and it is a nearby staple for food and convenience needs.",
+    "3646": "A likely residential anchor very close to the last location, making it a plausible next check-in.",
+    "3644": "Another heavily repeated neighborhood Chinese restaurant that fits the user's strong local dining pattern.",
+    "3645": "This nearby post office has been visited before and fits the user's short-range routine around Sutter Ave.",
+    "3647": "A rare but established local deviation that the user has visited before in the afternoon.",
+    "2902": "A nearby food stop with no history, but its proximity makes it a possible local errand destination.",
+    "3802": "Close by and plausible for a quick meal, though less consistent with the user's usual history.",
+    "3799": "Nearby fast food is possible, but it is less aligned with the user's typical neighborhood-specific pattern."
+  },
+  "fallback": false
+}

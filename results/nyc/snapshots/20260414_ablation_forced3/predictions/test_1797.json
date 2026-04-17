@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1797",
+  "ranked_loc_ids": [
+    4555,
+    5182,
+    5183,
+    5184,
+    3661,
+    5185,
+    4944,
+    4882,
+    4791,
+    465
+  ],
+  "explanations": {
+    "4555": "It is the strongest campus-linked midday destination in the user’s history and matches the expected afternoon continuation from the morning Teleport/CollegeBound cluster.",
+    "5182": "The user is already there in the morning pattern, and this office building is the most likely immediate return within the same tight cluster.",
+    "5183": "Last known location was here, so a continued stay or quick revisit is highly plausible given the repetitive campus routine.",
+    "5184": "This adjacent CSI academic building fits the user’s repeated pattern of moving among nearby campus locations after arrival.",
+    "3661": "A nearby familiar food stop could fit an afternoon break before returning to the academic cluster.",
+    "5185": "The user has visited this venue before, and it is a plausible lunch/afternoon dining option on Staten Island.",
+    "4944": "Similar users frequent this CVS-area stop, making it a reasonable nearby errand-like destination.",
+    "4882": "An afternoon coffee stop aligns with a structured commuter/student day and the nearby Staten Island cluster.",
+    "4791": "This is a known user venue and could represent an occasional daytime shopping stop.",
+    "465": "The user has visited this leisure venue before, though it is less likely than the campus-linked options for this time."
+  },
+  "fallback": false
+}

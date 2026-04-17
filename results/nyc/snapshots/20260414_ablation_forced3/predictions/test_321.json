@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_321",
+  "ranked_loc_ids": [
+    2037,
+    416,
+    2038,
+    214,
+    2044,
+    3797,
+    1976,
+    222,
+    3100,
+    2995
+  ],
+  "explanations": {
+    "2037": "It is the exact last known location and a dominant repeated Tuesday noon anchor, making an immediate stay the most likely outcome.",
+    "416": "The user repeatedly pairs this with Coty ESB at the same midday timestamp, so they are very likely still alternating within this core work area.",
+    "2038": "This is a frequent noon-to-lunch stop very close to the anchor, fitting the user’s short-range midday routine.",
+    "214": "A nearby Korean lunch option with strong noon and Tuesday history, making it a plausible short break from the office core.",
+    "2044": "The user has a coffee-stop pattern around 34th Street, and this is an easy nearby midday move.",
+    "3797": "It is very close to the last location and could serve as a quick lunch option despite no prior visits.",
+    "1976": "Another nearby Midtown food stop that fits the user’s Koreatown-area lunch behavior.",
+    "222": "Close by and consistent with a short, convenient midday refreshment stop in the same corridor.",
+    "3100": "It is nearby, but its nightlife-oriented nature makes it less likely at 12:10 on a Tuesday.",
+    "2995": "Also nearby in Koreatown, but it is a weaker match than the more established lunch and coffee destinations."
+  },
+  "fallback": false
+}

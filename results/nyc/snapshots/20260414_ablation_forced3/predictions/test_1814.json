@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1814",
+  "ranked_loc_ids": [
+    5211,
+    530,
+    112,
+    4864,
+    5527,
+    1322,
+    4830,
+    3639,
+    2119,
+    602
+  ],
+  "explanations": {
+    "5211": "The user has a strong repeat routine at this gym, and the evening time slot matches their usual post-afternoon workout pattern.",
+    "530": "It is the current location, so a short continuation or lingering stay is still plausible despite the stronger gym habit.",
+    "112": "The user is moving southwest and nearby transit is a natural next step before a longer trip back toward the Bronx.",
+    "4864": "Another close transit option that fits a likely departure from the Riverside Park area.",
+    "5527": "A bus hub nearby could be used to continue south or transfer toward the Bronx after the park stop.",
+    "1322": "The user has visited this food venue before, and it is a reasonable nearby leisure/dining destination from the Upper West Side.",
+    "4830": "This prior restaurant visit makes it a plausible post-park dinner stop in the same general neighborhood.",
+    "3639": "A nearby restaurant fits the user’s occasional social-after-activity pattern, though it is less favored than their gym routine.",
+    "2119": "Another gym option in the area, but it lacks the strong repeat history that Planet Fitness has.",
+    "602": "The user has visited here before and it remains a Bronx-oriented destination, but it is less likely than a direct return to the gym."
+  },
+  "fallback": false
+}

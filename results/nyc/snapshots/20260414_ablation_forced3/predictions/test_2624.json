@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2624",
+  "ranked_loc_ids": [
+    2203,
+    5730,
+    5047,
+    2154,
+    2932,
+    3815,
+    3544,
+    4230,
+    4084,
+    1036
+  ],
+  "explanations": {
+    "2203": "The user has a repeated evening workout habit in the same Lower Manhattan core area, making this the strongest time-matched return.",
+    "5730": "It is a frequent East Village stop for this user and fits a nearby post-lunch-to-evening food revisit.",
+    "5047": "This is the user’s strongest habitual bakery/coffee destination in the Astor Place/NoHo routine, though it is slightly less tied to this exact evening slot.",
+    "2154": "A prior evening-type deli/bodega revisit that matches the user’s compact neighborhood movement and casual dinner pattern.",
+    "2932": "Extremely close to the last location and consistent with the user’s frequent East Village daily errands and snack stops.",
+    "3815": "The user is already at this noodle house, so a short continuation or immediate revisit remains plausible despite the strong likelihood of moving on.",
+    "3544": "Very close by and aligned with the user’s local nightlife/casual hangout pattern around East Village.",
+    "4230": "A nearby bar that fits the evening prior and the user’s nightlife-heavy lower Manhattan behavior.",
+    "4084": "Another nearby nightlife option that matches the user’s evening social tendencies, though it is less central to their routine.",
+    "1036": "The user sometimes shifts from neighborhood food into nightlife/music venues, but this is a less likely leap than the closer routine spots."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1927",
+  "ranked_loc_ids": [
+    1154,
+    5045,
+    5313,
+    2755,
+    108,
+    5044,
+    4395,
+    1199,
+    2211,
+    1155
+  ],
+  "explanations": {
+    "1154": "It is the exact current cluster anchor, a highly repeated Wednesday transit hub, and the strongest same-area return candidate at this evening commute time.",
+    "5045": "This is another core Journal Square transit stop with strong Wednesday and 6–8pm history, making it a very likely nearby transfer point.",
+    "5313": "The user is already there and often stays within the Journal Square plaza/transit cluster before moving to another nearby node.",
+    "2755": "It is one of the user’s most frequent evening commute destinations, but it is farther away than the Journal Square options.",
+    "108": "This recurring transit station fits the user’s commuting pattern and could be the next leg after Journal Square.",
+    "5044": "The user sometimes pairs transit with practical morning/evening food stops, especially in Jersey City.",
+    "4395": "As another light rail transit hub in the same regional network, it matches the commuter behavior profile.",
+    "1199": "Newport-area transit is consistent with the user’s corridor, though less favored than Journal Square.",
+    "2211": "This is a plausible practical stop for a commuter, but it is less aligned with the immediate current transit cluster.",
+    "1155": "It is nearby enough to be reachable, but it is less consistent with the user’s dominant transit-hub routine."
+  },
+  "fallback": false
+}

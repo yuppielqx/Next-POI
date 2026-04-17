@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_938",
+  "ranked_loc_ids": [
+    1805,
+    468,
+    4018,
+    3322,
+    2277,
+    4022,
+    1078,
+    2367,
+    2986,
+    4017
+  ],
+  "explanations": {
+    "1805": "This is the strongest time-matched historical destination, with very high visit frequency and many afternoon Tuesday check-ins in the user’s main Manhattan hub.",
+    "468": "It is extremely close, part of the same Upper West Side cluster, and matches the user’s repeated Lincoln Center area routine.",
+    "4018": "A frequent nearby food stop in the user’s Manhattan pattern, fitting a short move after Starbucks along Columbus Ave.",
+    "3322": "This coffee/food stop sits squarely in the user’s core Columbus Avenue corridor and is a common errand-style next visit.",
+    "2277": "Another familiar Upper West Side dining spot that fits the user’s clustered neighborhood movement in the afternoon.",
+    "4022": "Very close to the current location and within the same recurring Manhattan activity zone, making it a plausible lunch/afternoon stop.",
+    "1078": "The user could simply remain at or return to the current coffee spot given its zero-distance proximity and routine behavior.",
+    "2367": "This is a nearby Columbus Ave deli in the same habitual corridor, consistent with short local errands or lunch.",
+    "2986": "The user has some fitness-related history, and this nearby gym fits the Upper West Side hub-based pattern.",
+    "4017": "Despite being less aligned with the current Manhattan context, it remains the user’s other dominant anchor and stays relevant as a frequent return destination."
+  },
+  "fallback": false
+}

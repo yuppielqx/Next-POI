@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_49",
+  "ranked_loc_ids": [
+    392,
+    393,
+    395,
+    4371,
+    401,
+    5618,
+    5619,
+    5617,
+    400,
+    399
+  ],
+  "explanations": {
+    "392": "This is the user’s strongest recurring dining anchor and the profile specifically indicates it as the clearest Saturday night destination.",
+    "393": "A repeated social/night venue in the user’s history, making it a plausible late-evening return.",
+    "395": "A known dinner-oriented place that fits a Saturday night outing pattern.",
+    "4371": "A nearby food stop that could plausibly serve as a late meal option if the user stays local.",
+    "401": "Extremely close to the last stop, but less likely than dinner-oriented venues at this hour.",
+    "5618": "A nearby food option that matches a casual evening meal after staying in the same area.",
+    "5619": "A convenient nearby late-night food choice, though less consistent with the user’s repeated habits.",
+    "5617": "Close by and food-related, but more aligned with daytime than late evening.",
+    "400": "A familiar grocery stop in the broader corridor, but weaker for a Saturday night prediction.",
+    "399": "Part of the user’s routine footprint, but far less likely than food or social destinations at this time."
+  },
+  "fallback": false
+}

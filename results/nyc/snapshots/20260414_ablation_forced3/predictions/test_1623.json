@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1623",
+  "ranked_loc_ids": [
+    145,
+    5027,
+    740,
+    5000,
+    3811,
+    747,
+    3320,
+    1546,
+    1539,
+    53
+  ],
+  "explanations": {
+    "145": "The user’s strongest habitual pattern is an afternoon return to the Upper East Side subway corridor, making this the most likely transit stop next.",
+    "5027": "This is one of the user’s most repeated daytime retail destinations and fits the common subway-to-store sequence.",
+    "740": "The user frequently pairs Upper East Side transit with Starbucks visits, especially in the afternoon.",
+    "5000": "This Starbucks on 3rd Ave is very close to the user’s core 86th St routine and matches their coffee-oriented behavior.",
+    "3811": "A familiar Upper East Side food stop that fits the user’s compact, routine neighborhood movement.",
+    "747": "Another repeated Upper East Side coffee location that aligns with the user’s habitual afternoon pattern.",
+    "3320": "This station has strong same-time-slot history, though it is less consistent with the user’s broader Upper East Side-centered routine.",
+    "1546": "The user has a nightlife signature here, but the target time is afternoon and the overall behavior is not nightlife-heavy.",
+    "1539": "This is a plausible transit-linked Manhattan stop, but it is less aligned with the user’s main uptown routine.",
+    "53": "Times Square transit is possible as a Manhattan transfer point, but it is far less consistent than the user’s core Upper East Side destinations."
+  },
+  "fallback": false
+}

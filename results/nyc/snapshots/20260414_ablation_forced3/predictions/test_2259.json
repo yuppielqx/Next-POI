@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2259",
+  "ranked_loc_ids": [
+    557,
+    176,
+    3864,
+    4844,
+    3742,
+    970,
+    1889,
+    1068,
+    598,
+    3660
+  ],
+  "explanations": {
+    "557": "The user was last seen here in the morning, has a strong repeated history of returning to this crossing, and the evening time fits their transit-heavy pattern.",
+    "176": "This is another heavily used Hudson crossing in the user’s history and is a plausible next gateway on a north-westward movement.",
+    "3864": "It is immediately adjacent to the last location in Weehawken, making it a likely brief follow-on stop near the tunnel corridor.",
+    "4844": "This nearby Weehawken waterfront transit/harbor area fits the user’s vehicle-oriented movement and is close to Lincoln Tunnel.",
+    "3742": "A nearby transit hub in the same corridor, it matches the user’s preference for transportation gateways.",
+    "970": "Another close Hudson River terminal that could fit a cross-river transition after the tunnel.",
+    "1889": "Close to the last location and plausible for a brief stop in the Weehawken transit zone.",
+    "1068": "A nearby roadside restaurant in Weehawken, consistent with a driver-oriented evening stop before or after transit.",
+    "598": "A repeated bridge in the user’s history and a plausible later cross-borough transit move, though less likely than Hudson crossings.",
+    "3660": "Also in the user’s bridge-heavy pattern and possible for regional vehicular travel, but farther and less immediate than the top options."
+  },
+  "fallback": false
+}

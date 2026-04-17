@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2185",
+  "ranked_loc_ids": [
+    2046,
+    1890,
+    4327,
+    1520,
+    1059,
+    405,
+    2648,
+    2528,
+    3619,
+    3843
+  ],
+  "explanations": {
+    "2046": "It is the closest nightlife option and fits the user’s strong late-afternoon-to-evening bar-hopping pattern in Manhattan.",
+    "1890": "A nearby restaurant-lounge matches the user’s social, drinks-oriented transition after lunch.",
+    "4327": "This sports bar aligns with the user’s nightlife profile and is close enough for a short move.",
+    "1520": "A previously visited bar in the same general corridor makes it a plausible repeat stop.",
+    "1059": "Another prior nightlife venue that fits the user’s after-dark bar preferences.",
+    "405": "A comedy club is a good early-evening entertainment fit for a nightlife-oriented user.",
+    "2648": "A casual dining stop is possible during the afternoon gap, though less aligned than bars.",
+    "2528": "A known user venue in Manhattan is plausible, but it is farther north than the current cluster.",
+    "3619": "A bar in a nightlife-heavy area matches the profile, though the distance makes it less likely.",
+    "3843": "A restaurant match fits the time window, but it is relatively far from the last location."
+  },
+  "fallback": false
+}

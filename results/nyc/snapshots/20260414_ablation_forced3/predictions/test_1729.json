@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1729",
+  "ranked_loc_ids": [
+    1428,
+    2288,
+    3600,
+    2784,
+    4457,
+    2309,
+    2868,
+    3217,
+    3546,
+    2265
+  ],
+  "explanations": {
+    "1428": "A familiar Midtown bar fits the Friday late-night pattern after dinner and aligns with the eastward drift from Del Frisco's.",
+    "2288": "This is a strong late-evening nightlife option nearby in Midtown West, matching the user's bar-heavy after-work behavior.",
+    "3600": "The user has repeated Friday and 9–11pm visits here, making it a plausible continuation of the night out.",
+    "2784": "Another nearby steakhouse fits the dinner-to-drinks flow, especially given the recent upscale dining sequence.",
+    "4457": "A nearby Midtown American restaurant is consistent with the user's dining-centered evening movement.",
+    "2309": "Close by and frequently compatible with late dinner plans, this is a reasonable Manhattan follow-on.",
+    "2868": "The user has a history of Midtown Chipotle visits, so a quick familiar food stop remains possible.",
+    "3217": "A nearby French restaurant in Midtown could serve as a late dinner or post-dinner stop.",
+    "3546": "This nightlife venue fits the Friday night profile, though it is slightly less directly aligned than the closest bars.",
+    "2265": "A Manhattan evening destination is plausible, but it is less likely than a bar or restaurant at this hour."
+  },
+  "fallback": false
+}

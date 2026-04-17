@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_387",
+  "ranked_loc_ids": [
+    2168,
+    2300,
+    2305,
+    2299,
+    2307,
+    239,
+    2297,
+    1967,
+    167,
+    2310
+  ],
+  "explanations": {
+    "2168": "It is the strongest repeat nightlife anchor in the user’s history and matches the Tuesday late-night return pattern best.",
+    "2300": "Another west-side bar in the same nightlife cluster, with timing and venue type aligned to the user’s late-evening habits.",
+    "2305": "A familiar Meatpacking nightlife spot that fits the user’s frequent bar-focused Manhattan circuits.",
+    "2299": "This sports bar matches the user’s late-night drinking profile and historical Upper West Side/nightlife movement.",
+    "2307": "A Greenwich Village bar that fits the user’s common lower-Manhattan nightlife corridor.",
+    "239": "A music venue in the East Village/LES area, consistent with the user’s social nighttime excursions.",
+    "2297": "A nightclub option in lower Manhattan that matches the user’s strongest evening and midnight activity window.",
+    "1967": "A bar in the East Village that fits the user’s pattern of late-night drinks and nearby food/bar hopping.",
+    "167": "A repeat Asian restaurant in the user’s history that could plausibly be used as a late dinner stop before drinks.",
+    "2310": "A classic post-bar late-night food destination that matches the user’s after-hours snack behavior."
+  },
+  "fallback": false
+}

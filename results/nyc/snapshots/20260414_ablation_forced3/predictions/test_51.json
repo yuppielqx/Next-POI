@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_51",
+  "ranked_loc_ids": [
+    2097,
+    2056,
+    4084,
+    1778,
+    3712,
+    776,
+    2673,
+    2945,
+    406,
+    106
+  ],
+  "explanations": {
+    "2097": "It is a nearby East Village/NoHo bar, matching the user’s evening nightlife pattern and the strong local movement from Bowery.",
+    "2056": "This East Village bar is very close to Think Coffee and fits the user’s tendency to continue the night with another drink spot.",
+    "4084": "A nearby nightlife spot on Bowery, making it a plausible next social stop after a café check-in.",
+    "1778": "This bar is in the same late-night cluster and aligns well with the user’s bar-hopping behavior.",
+    "3712": "A nearby music venue that fits the user’s evening entertainment profile and East Village location.",
+    "776": "A close-by bar on Elizabeth Street, consistent with a short walk to another nightlife venue.",
+    "2673": "A nearby nightclub that matches the user’s nightlife-oriented evening travel, though it is slightly more intense than typical prior stops.",
+    "2945": "A close lounge option that fits the user’s social evening trajectory and could follow a coffee stop.",
+    "406": "This is a historically visited lounge in the broader area, making it a reasonable repeat destination.",
+    "106": "The user has a history of ending late-night outings at PATH, but this is less likely this early at 21:11."
+  },
+  "fallback": false
+}

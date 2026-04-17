@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1842",
+  "ranked_loc_ids": [
+    58,
+    2738,
+    1488,
+    558,
+    3964,
+    5249,
+    2794,
+    3962,
+    2978,
+    59
+  ],
+  "explanations": {
+    "58": "Grand Central Terminal is a likely eastward continuation from Rockefeller Center and fits the user’s recurring Midtown evening movement pattern.",
+    "2738": "This is one of the user’s observed evening Midtown dining destinations and is close to the current location.",
+    "1488": "The user has visited this café in the same evening time window before, making it a plausible nearby stop.",
+    "558": "A brief lingering or return to the same complex is common for short Midtown movements.",
+    "3964": "Starbucks on 47th St is very close and matches the user’s pattern of quick coffee stops.",
+    "5249": "A nearby restaurant option in Midtown that fits an evening dining continuation.",
+    "2794": "An evening bar/restaurant nearby that could follow a holiday Midtown outing.",
+    "3962": "A close fast-food option consistent with the user’s practical food-oriented habits.",
+    "2978": "The user may drift to a nearby entertainment venue after being in the Rockefeller Center area.",
+    "59": "A nearby east/west Midtown destination that fits the broader tourist/entertainment corridor."
+  },
+  "fallback": false
+}

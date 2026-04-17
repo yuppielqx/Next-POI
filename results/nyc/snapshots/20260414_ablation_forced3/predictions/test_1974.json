@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1974",
+  "ranked_loc_ids": [
+    4497,
+    131,
+    2333,
+    5352,
+    1677,
+    2782,
+    290,
+    769,
+    5354,
+    291
+  ],
+  "explanations": {
+    "4497": "This is the strongest Monday mid-afternoon anchor in the user’s history and fits their usual western Queens commute corridor.",
+    "131": "A highly repeated afternoon transit hub that matches the Queensboro Bridge movement pattern seen in similar weekday trips.",
+    "2333": "This bridge-adjacent transportation node is one of the user’s most time-specific afternoon waypoints.",
+    "5352": "The user frequently visits this Sunnyside stop in the 3–5pm window, making it a strong routine-based guess.",
+    "1677": "A recurring western Queens subway stop that aligns with the user’s structured commute behavior.",
+    "2782": "The user often moves through this area in the afternoon as part of the same Queens transit chain.",
+    "290": "The user is currently there and sometimes continues to remain within Flushing before shifting corridors.",
+    "769": "This transit hub fits the user’s bridge-crossing, commute-oriented afternoon pattern.",
+    "5354": "A Sunnyside-area grocery stop that matches the user’s frequent western Queens routine, though less common than the transit nodes.",
+    "291": "A nearby Flushing stop with some transition history, but less consistent with the stronger western Queens afternoon prior."
+  },
+  "fallback": false
+}

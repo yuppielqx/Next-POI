@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_528",
+  "ranked_loc_ids": [
+    2888,
+    4340,
+    2856,
+    2852,
+    524,
+    2849,
+    4338,
+    3946,
+    2889,
+    769
+  ],
+  "explanations": {
+    "2888": "The target time is a Wednesday morning at 08:38, which matches the user's dominant routine of visiting this exact breakfast/coffee stop in the 6–8 a.m. window.",
+    "4340": "A nearby coffee option fits the morning food-and-drink pattern if the user deviates slightly from the usual stop.",
+    "2856": "Another coffee shop close by, making it a plausible alternate breakfast/coffee destination in the same routine corridor.",
+    "2852": "A nearby café that could serve as a substitute morning stop when the user stays within the same neighborhood.",
+    "524": "A convenient nearby food stop that fits the user's habitual breakfast-before-work behavior.",
+    "2849": "A nearby diner could attract a morning meal visit, though it is less consistent with the user's strongest repeated pattern.",
+    "4338": "The user often moves locally and may be heading out after breakfast via this nearby transit hub.",
+    "3946": "A very close nearby building that could be reached as part of the user's regular Midtown/LIC workday movement.",
+    "2889": "This is one of the user's main anchors, but the morning timing makes it less likely than the breakfast stop.",
+    "769": "A nearby major station is a plausible transit-related next stop if the user is commuting after breakfast."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2566",
+  "ranked_loc_ids": [
+    927,
+    3933,
+    1467,
+    263,
+    2172,
+    16,
+    188,
+    1096,
+    3601,
+    749
+  ],
+  "explanations": {
+    "927": "This is the user's strongest repeat transit anchor and best fits a Saturday morning return-to-commute pattern.",
+    "3933": "Another frequent subway waypoint in the user's history, making it a plausible transit follow-up.",
+    "1467": "The user has visited it before and the late-night restaurant/nightlife pattern leaves room for a morning food stop.",
+    "263": "The user has previously checked in here and is still near Manhattan retail territory.",
+    "2172": "A nearby Manhattan transit node that fits the user's subway-centered movement style.",
+    "16": "The user has an occasional recreation pattern, and morning park activity is possible.",
+    "188": "A known exercise-oriented location that could match a Saturday morning outing.",
+    "1096": "Another Central Park trail option that aligns with a morning outdoor transition.",
+    "3601": "A prior nightlife venue in Woodside, but less likely in the morning than transit or food.",
+    "749": "A nightlife spot consistent with the user's occasional evening behavior, but unlikely at 08:11."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1743",
+  "ranked_loc_ids": [
+    3237,
+    5154,
+    420,
+    5128,
+    1642,
+    3484,
+    3223,
+    1771,
+    2434,
+    2337
+  ],
+  "explanations": {
+    "3237": "The target time is a strong Monday early-morning workout slot, and Flywheel is the user’s dominant recurring fitness anchor with the highest same-slot and Monday frequency.",
+    "5154": "Another highly consistent fitness location in the user’s routine, and it fits the same early-morning exercise pattern in Manhattan.",
+    "420": "The user is near the West Village area after nightlife, and an early breakfast stop is plausible right after a morning transition.",
+    "5128": "Very close to the last known location, making it a possible short hop before the user pivots into the day.",
+    "1642": "A nearby quick-food option that could follow a late-night-to-morning movement pattern.",
+    "3484": "Close by and in a food-oriented area, it is a plausible low-commitment stop before heading to workout or work.",
+    "3223": "A nearby downtown dining venue that matches the user’s occasional restaurant visits.",
+    "1771": "A familiar social spot in the user’s broader pattern, though less likely than routine fitness destinations at this time.",
+    "2434": "A nearby bar/restaurant location that fits the user's limited evening social behavior and downtown movement.",
+    "2337": "A Manhattan food spot within the user's habitual corridor, but weaker than the gym-focused options for this Monday morning slot."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1689",
+  "ranked_loc_ids": [
+    3244,
+    2927,
+    1059,
+    1038,
+    2640,
+    728,
+    35,
+    2098,
+    1070,
+    1079
+  ],
+  "explanations": {
+    "3244": "A late-night bar continuation fits the user’s strong nightlife pattern and the short north-east movement from Heathers.",
+    "2927": "Another nearby bar in the East Village/Lower East Side matches the user’s habitual bar-hopping at this hour.",
+    "1059": "This is a repeated midnight-to-2am nightlife spot for the user and is a strong fit for continuing the same outing.",
+    "1038": "Late-night pizza after bars is a common pattern for similar users and it is very close by.",
+    "2640": "A nearby late-night food stop is plausible after a bar, especially given the user’s night-owl behavior.",
+    "728": "A nightlife-adjacent alcohol stop in the same corridor could follow a bar visit, though less likely than another bar.",
+    "35": "Astor Place is a nearby social hub that fits a downtown wandering pattern between nightlife venues.",
+    "2098": "This cocktail bar aligns with the user’s evening social routine, though it is slightly farther away.",
+    "1070": "A cultural stop is possible given the user’s arts-oriented profile, but it is less likely at 02:19 than nightlife.",
+    "1079": "The user has a strong history here, but returning to campus in the middle of the night is less likely than continuing nightlife."
+  },
+  "fallback": false
+}

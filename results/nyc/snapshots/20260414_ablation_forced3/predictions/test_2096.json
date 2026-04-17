@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2096",
+  "ranked_loc_ids": [
+    1914,
+    5449,
+    4235,
+    2974,
+    88,
+    428,
+    2128,
+    5437,
+    607,
+    876
+  ],
+  "explanations": {
+    "1914": "This is the strongest habitual breakfast stop in the user’s weekday 8 a.m. Midtown routine and is extremely close to the last known location.",
+    "5449": "A frequent early-morning café choice in the same West 42nd Street cluster, making it a very plausible next breakfast stop.",
+    "4235": "The user already checked in here and their pattern shows tightly clustered repeat stops in the same micro-area.",
+    "2974": "A common paired errand stop for this user near Port Authority, and it fits the same morning commute circuit.",
+    "88": "The user’s commute pattern strongly centers on this transit hub, which is only a short hop from the current location.",
+    "428": "The user often ends the Midtown morning sequence in Hoboken, though this would be a larger jump than the nearby options.",
+    "2128": "This Port Authority-area stop matches the user’s functional breakfast-and-transit behavior and is nearby.",
+    "5437": "A nearby café option in the same corridor, making it a reasonable alternate breakfast destination.",
+    "607": "A nearby Midtown coffee stop that fits the user’s coffee-heavy morning pattern.",
+    "876": "Another close coffee-shop option in the same morning commute zone, but less strongly supported than the top choices."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_815",
+  "ranked_loc_ids": [
+    3697,
+    3290,
+    1878,
+    862,
+    4269,
+    5690,
+    855,
+    402,
+    88,
+    3698
+  ],
+  "explanations": {
+    "3697": "This is the strongest match because the user has a repeated early-morning weekday gym routine and the last known location was also East Side Fitness.",
+    "3290": "A nearby transport option that fits a Wednesday morning commuter pattern from the South Orange/Maplewood area.",
+    "1878": "Early-morning coffee is consistent with the user’s routine, and this is the closest coffee stop to the current area.",
+    "862": "Another gym nearby that fits the user’s fitness-first morning behavior, though it lacks prior visit history.",
+    "4269": "Medical facilities align with the user’s broader appointment-oriented pattern, and it is within the local travel radius.",
+    "5690": "A plausible weekday morning coffee stop for an early riser, especially before commuting.",
+    "855": "Grocery runs are less likely at this hour but still possible for a morning routine in the local area.",
+    "402": "The user has airport-related mobility, so an early trip is possible though less likely than routine local stops.",
+    "88": "This matches the user’s regional transit behavior, but it is farther and less aligned with the immediate morning pattern.",
+    "3698": "A Manhattan medical appointment is plausible from past behavior, but the early target time and local stay trend make it less likely."
+  },
+  "fallback": false
+}

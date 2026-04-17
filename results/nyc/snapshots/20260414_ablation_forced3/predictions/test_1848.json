@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1848",
+  "ranked_loc_ids": [
+    5253,
+    1715,
+    1723,
+    2636,
+    394,
+    1711,
+    5565,
+    1712,
+    5318,
+    5320
+  ],
+  "explanations": {
+    "5253": "The user’s strongest habit is an early-morning return to this gym, and the last two check-ins were both here at nearly the same time.",
+    "1715": "This is the next most common nearby recurring stop in the user’s history and fits the same tight local radius.",
+    "1723": "It is another gym within the user’s broader area, making it a plausible alternative if they vary their workout spot.",
+    "2636": "A nearby morning-friendly food stop that could follow a workout, though it is not a strong pattern for this user.",
+    "394": "Another gym option, but it is farther away and lacks any prior history for this user.",
+    "1711": "This nearby coffee shop fits the early-morning time window, but the user’s behavior is overwhelmingly gym-focused.",
+    "5565": "Very close by, but entertainment venues do not match the user’s strongly regular exercise routine.",
+    "1712": "A nearby errand location that could be visited during the day, though it is unlikely at this morning hour.",
+    "5318": "A nearby restaurant with some proximity appeal, but it conflicts with the user’s habitual early gym check-ins.",
+    "5320": "A practical nearby stop, but there is little evidence this user’s routine includes pharmacy visits."
+  },
+  "fallback": false
+}

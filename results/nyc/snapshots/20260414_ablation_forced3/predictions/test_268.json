@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_268",
+  "ranked_loc_ids": [
+    398,
+    1788,
+    1789,
+    863,
+    1793,
+    1796,
+    5020,
+    395,
+    4174,
+    1792
+  ],
+  "explanations": {
+    "398": "Monday afternoon strongly fits the user’s recurring community college routine and the time-conditioned prior explicitly favors this anchor.",
+    "1788": "The user’s dominant home base is a frequent Monday midday stop and remains a strong fallback if they are returning home after a short outing.",
+    "1789": "Clifton errands are a major pattern for this user, and Monday afternoons often align with practical shopping or supply runs.",
+    "863": "This is one of the user’s repeat casual dining spots in their core Clifton corridor, making it plausible after a late-morning/early-afternoon transition.",
+    "1793": "The user’s travel is clustered around nearby Bergen County restaurants, and this nearby dining stop matches their casual meal behavior.",
+    "1796": "The user was last seen here and their history shows restaurant chaining, so a continued food stop is possible.",
+    "5020": "Similar users at this time often head to quick lunch spots, and the user’s pattern supports a nearby casual food visit.",
+    "395": "Another nearby restaurant in the same commercial corridor, consistent with midday dining behavior and local movement.",
+    "4174": "A shopping destination in the immediate area that could fit a Monday afternoon errand or browse pattern.",
+    "1792": "Grocery/errand behavior is part of the user’s routine, and this Clifton store aligns with their localized suburban mobility."
+  },
+  "fallback": false
+}

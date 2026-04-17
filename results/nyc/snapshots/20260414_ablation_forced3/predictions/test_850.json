@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_850",
+  "ranked_loc_ids": [
+    815,
+    5367,
+    502,
+    498,
+    3756,
+    1136,
+    1137,
+    2971,
+    931
+  ],
+  "explanations": {
+    "815": "It is the closest nearby new stop to Saturdays Surf NYC and fits a short continuation of late-night retail browsing.",
+    "5367": "A very close café option that matches a brief downtown transition after the last check-in.",
+    "502": "A nearby restaurant in Tribeca fits the user’s strong evening dining pattern and short movement radius.",
+    "498": "The user has a clear history of Indian food crawls, and this East Village spot matches their cuisine preference.",
+    "3756": "Another Indian restaurant in the nearby East Village/NoHo fringe, making it a plausible next dining stop.",
+    "1136": "A strong Indian-restaurant match with a similar distance and category to the user’s repeated late-night food outings.",
+    "1137": "This nearby Indian restaurant aligns with the user’s documented preference for clustered Indian dining.",
+    "2971": "Another Midtown East Indian option that fits the user’s repeated restaurant-hopping behavior.",
+    "931": "A highly repeated personal favorite in the downtown cluster, though slightly less likely on this exact night than a closer immediate stop."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1030",
+  "ranked_loc_ids": [
+    4212,
+    58,
+    5643,
+    1602,
+    555,
+    4211,
+    558,
+    3007,
+    1730,
+    3671
+  ],
+  "explanations": {
+    "4212": "This is the user’s strongest morning commute destination and best matches their repeated 08:48–09:01 routine in Midtown East.",
+    "58": "A very frequent Grand Central-area stop that fits the user’s weekday commute pattern and nearby cluster of habitual locations.",
+    "5643": "It is a nearby office in the same Midtown East corridor, making it a plausible work-related morning arrival.",
+    "1602": "This office location is close to the user’s core cluster and aligns with the routine weekday business pattern.",
+    "555": "A known coffee stop that could naturally occur during the user’s morning commute window.",
+    "4211": "The user has visited this lunch-oriented Midtown East venue before, though it is less likely at 09:48 than the core commute stops.",
+    "558": "Similar users and proximity make this a reasonable Midtown destination, especially for a routine daytime stop.",
+    "3007": "A nearby café could fit a morning coffee/transition behavior, but it is less established in the user’s history.",
+    "1730": "The user is already at this location at the last check-in, so it is possible they remain there briefly despite it being less consistent with their morning commute pattern.",
+    "3671": "This nearby Midtown location is plausible as a short movement endpoint along the user’s tight East Midtown route."
+  },
+  "fallback": false
+}

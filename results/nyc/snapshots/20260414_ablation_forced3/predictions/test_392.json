@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_392",
+  "ranked_loc_ids": [
+    2347,
+    2335,
+    1741,
+    248,
+    88,
+    1860,
+    568,
+    2317,
+    288,
+    2315
+  ],
+  "explanations": {
+    "2347": "Staying in the same area is the strongest immediate signal, and this office-to-nearby transition is most plausible before a later downtown move.",
+    "2335": "It is extremely close to Hearst Tower and fits a short midday/afternoon stop in the same Columbus Circle area.",
+    "1741": "A nearby food option that matches the user’s tendency to shift from office time into dining or errands.",
+    "248": "Close by and plausible for an afternoon break, especially given the user’s comfort with leisure-oriented stops.",
+    "88": "A nearby transit node that fits movement from Midtown offices and short-distance travel patterns.",
+    "1860": "The user’s nightlife orientation makes an entertainment venue plausible, though it is a bit early for their strongest evening pattern.",
+    "568": "A Midtown leisure stop that fits an afternoon-to-evening transition and the user’s entertainment behavior.",
+    "2317": "A bar is consistent with the user’s social routine, but it is slightly less likely this early in the day.",
+    "288": "Another Midtown nightlife option that could follow office-area movement, though it is not as strongly supported as nearby food or transit.",
+    "2315": "This fits the user’s Chelsea/food circuit well, but it is a slightly larger move than the immediate nearby Midtown options."
+  },
+  "fallback": false
+}

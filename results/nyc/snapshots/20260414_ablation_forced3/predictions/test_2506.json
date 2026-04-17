@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2506",
+  "ranked_loc_ids": [
+    602,
+    141,
+    1067,
+    1065,
+    1066,
+    2323,
+    5278,
+    4837,
+    5068,
+    116
+  ],
+  "explanations": {
+    "602": "The user is already at Yankee Stadium and the Saturday evening prior strongly favors staying in the event area or revisiting the same venue.",
+    "141": "After a stadium visit, the most likely next step is exiting through the adjacent subway station.",
+    "1067": "This nearby sports bar is a classic post-game destination and fits the evening sports-night pattern.",
+    "1065": "Another immediate stadium-adjacent bar that matches the likely post-event transition from the stadium.",
+    "1066": "Similar users often moved from Yankees-related venues to this sports bar, making it a strong nightlife follow-up.",
+    "2323": "Close by and restaurant-oriented, it is a plausible stop for food after the stadium.",
+    "5278": "A nearby quick-service food option that fits a practical post-event stop.",
+    "4837": "This nearby deli is a reasonable local grab-and-go option in the Bronx around the stadium.",
+    "5068": "If leaving the immediate stadium area, this nearby subway station is a likely transit continuation point.",
+    "116": "The user's broader history is commute-oriented, but this is less likely than remaining in the Bronx on a Saturday evening."
+  },
+  "fallback": false
+}

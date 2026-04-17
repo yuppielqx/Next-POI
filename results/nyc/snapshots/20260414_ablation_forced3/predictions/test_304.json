@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_304",
+  "ranked_loc_ids": [
+    231,
+    1570,
+    1903,
+    1521,
+    478,
+    1983,
+    1441,
+    1976,
+    59,
+    1981
+  ],
+  "explanations": {
+    "231": "The user repeatedly returns to Shake Shack in the 6–8pm window, making it the strongest match for an evening stop.",
+    "1570": "It is immediately adjacent to the last location and fits a Saturday evening food-and-drink transition.",
+    "1903": "A nearby nightlife option that aligns well with the target time and the user’s evening pattern.",
+    "1521": "A short return is plausible given the very small elapsed time and the user’s tendency to reuse nearby food spots.",
+    "478": "This Midtown coffee stop matches the user’s frequent café-based transitions and remains within the core corridor.",
+    "1983": "A bar fits the Saturday evening context, and it is a reasonable west-side Midtown nightlife move.",
+    "1441": "A nearby casual dining option that stays consistent with the user’s Midtown routine and evening meal pattern.",
+    "1976": "The user has repeated bakery visits, and this remains a plausible southwest move for a quick evening bite.",
+    "59": "The user often loops through the Times Square area, so a short reposition there is possible before the next stop.",
+    "1981": "Though more work-oriented, it is a highly frequent Midtown anchor and remains possible in a tight local movement pattern."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2394",
+  "ranked_loc_ids": [
+    4703,
+    1884,
+    3174,
+    5637,
+    3352,
+    3074,
+    2439,
+    4040,
+    3460,
+    1336
+  ],
+  "explanations": {
+    "4703": "It is the last known location and the strongest return-to-last option only 13 minutes before the target time.",
+    "1884": "This is the user’s clearest habitual anchor in the same Chelsea corridor and is extremely close to the current bar crawl.",
+    "3174": "It is a nearby nightlife spot in the same West Village/Chelsea area and fits a short continuation of the crawl.",
+    "5637": "The user was already there earlier this night, so revisiting a close-by venue is plausible.",
+    "3352": "It is essentially adjacent to the current position and matches the late-night nightlife pattern.",
+    "3074": "A nearby pub in the same neighborhood, consistent with the user’s bar-hopping behavior.",
+    "2439": "This wine bar is close by and fits the late-night social venue pattern.",
+    "4040": "A very nearby sports bar that could be a natural next stop in the same crawl.",
+    "3460": "A close casual restaurant that matches the user’s late-night dining-and-drinking chain behavior.",
+    "1336": "Another nearby food stop that could appear as a late-night continuation after bars."
+  },
+  "fallback": false
+}

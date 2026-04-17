@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2158",
+  "ranked_loc_ids": [
+    2113,
+    4138,
+    5004,
+    5498,
+    5590,
+    2720,
+    5684,
+    2233,
+    3441,
+    2760
+  ],
+  "explanations": {
+    "2113": "This is the user’s strongest repeated post-Dunkin morning destination, and the 24-minute gap from the last coffee stop fits the established routine.",
+    "4138": "The user has frequent morning returns to this exact coffee shop, so a brief linger or repeat stop is plausible even after just visiting.",
+    "5004": "It is very close to the last location and sits within the user’s compact Clifton-area movement pattern, though it is less aligned with the morning routine.",
+    "5498": "A known repeated local food stop in the same corridor, making it a reasonable short-hop destination if the user deviates from the usual path.",
+    "5590": "Extremely close to the current position and in the same commercial strip, so it is a plausible incidental breakfast-related stop.",
+    "2720": "A nearby grocery option that matches the practical, errands-oriented behavior seen in similar users at this hour.",
+    "5684": "Another early-morning food venue in the same cluster, compatible with a commuter breakfast pattern.",
+    "2233": "Similar users often transition from an early food stop to a grocery store, and this is a plausible morning errand destination.",
+    "3441": "A coffee shop option in the broader local corridor, but it is less consistent with the user’s specific Dunkin-centered routine.",
+    "2760": "The user does have a fitness pattern, but this time slot and the immediate post-coffee sequence make it a weaker fit than the food and commute-related candidates."
+  },
+  "fallback": false
+}

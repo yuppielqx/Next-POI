@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2666",
+  "ranked_loc_ids": [
+    4406,
+    1753,
+    710,
+    1742,
+    3657,
+    4452,
+    4594,
+    80,
+    1754,
+    2838
+  ],
+  "explanations": {
+    "4406": "This is a frequent Monday afternoon transition point for the user and is very close to the last DUMBO stop.",
+    "1753": "The user often revisits DUMBO during 3–5pm hours, and staying in the same neighborhood fits the tight mobility pattern.",
+    "710": "A nearby coffee stop matches the user’s routine of moving from DUMBO to a café in the afternoon.",
+    "1742": "Brooklyn Heights is a core part of the user’s usual orbit and is a likely short move northward from DUMBO.",
+    "3657": "The gym is one of the user’s most frequent destinations and remains plausible in a late-afternoon transition window.",
+    "4452": "The residence is a common return point and is close enough to fit a routine local move.",
+    "4594": "This nearby Brooklyn entertainment venue is within the user’s compact travel radius, though less consistent with their usual routine.",
+    "80": "Brooklyn Bridge Park aligns with the neighborhood/outdoor pattern and is close to the current location.",
+    "1754": "A very nearby coffee shop that could fit a short transition after time spent in DUMBO.",
+    "2838": "This is an adjacent local landmark, making it a plausible but less habitual next stop."
+  },
+  "fallback": false
+}

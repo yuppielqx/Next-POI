@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2280",
+  "ranked_loc_ids": [
+    5581,
+    5582,
+    5584,
+    828,
+    123,
+    3348,
+    2246,
+    2159,
+    426
+  ],
+  "explanations": {
+    "5581": "The user repeatedly returns to this home-base residence in the same late-night window, and it is the strongest nearby destination after a gas-station stop.",
+    "5582": "This is the other core eastern Queens anchor in the user's routine, and its close proximity makes a quick overnight detour very plausible.",
+    "5584": "The user is already there at the last known point, so a short stay or immediate return is still highly likely.",
+    "828": "The movement trend is southeast and this nearby Queens area fits a local repositioning without straying far from the home base.",
+    "123": "It appears in the user's history as a recurring Queens destination and can plausibly serve as a late-night waypoint or transit-linked stop.",
+    "3348": "A nearby restaurant in Queens makes sense for an overnight food-related move before heading home.",
+    "2246": "Similar users often transition from late-night stops to transit hubs around this time, and the user's airport-linked history supports this.",
+    "2159": "The user was here earlier in the current trip, so a return to this JFK-related site is possible if the night involves work or airport circulation.",
+    "426": "Another airport-terminal candidate that fits the user's travel-oriented pattern, though it is less likely than closer eastern Queens options."
+  },
+  "fallback": false
+}

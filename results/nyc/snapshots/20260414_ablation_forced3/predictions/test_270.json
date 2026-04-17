@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_270",
+  "ranked_loc_ids": [
+    1788,
+    398,
+    863,
+    1789,
+    4760,
+    2757,
+    1792,
+    1794,
+    1790,
+    1795
+  ],
+  "explanations": {
+    "1788": "The target time is very late night on a Saturday, and the user’s strongest routine is returning home after evening outings.",
+    "398": "The user’s second-strongest anchor is the community college, though this hour makes it less likely than home.",
+    "863": "The user frequently pairs late-night activity with casual dining in Clifton, making this a plausible stop before heading home.",
+    "1789": "This is a heavily visited repeat place in the same localized cluster, though it is less fitting at 3:26 AM than home.",
+    "4760": "The user shows a night-owl dining pattern, and this nearby restaurant fits a late-evening food stop.",
+    "2757": "Diners are common late-night destinations, and this matches the user’s nocturnal routine better than most other nearby options.",
+    "1792": "The user has repeated practical errands in Clifton, and a quick late-night grocery stop is possible.",
+    "1794": "Nightlife fits the hour and the user’s late-night tendencies, though there is limited direct history here.",
+    "1790": "The user has some leisure-oriented movement patterns, but bowling is a weaker fit than home or dining.",
+    "1795": "Fast food is a plausible late-night choice, but it is less consistent with the user’s strongest home-return behavior."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_17",
+  "ranked_loc_ids": [
+    2672,
+    1684,
+    157,
+    171,
+    155,
+    67,
+    167,
+    168,
+    137,
+    166
+  ],
+  "explanations": {
+    "2672": "It is essentially next door to the last known location and fits the user’s early-evening bar/social pattern in the West Village.",
+    "1684": "It is only a few steps away and is a nearby casual dining option consistent with a short move after Wilfie & Nell.",
+    "157": "Very close by and a plausible dinner continuation for a user staying in the West Village around 7 p.m.",
+    "171": "Nearby nightlife venue that matches the user’s occasional evening social behavior and could be a short hop from the last stop.",
+    "155": "A nearby café option that fits the user’s preference for casual food and could be a quick after-dinner stop.",
+    "67": "A short downtown move that aligns with the south-west trend, though it is less likely than a food or bar venue.",
+    "167": "A reasonable downtown dining destination for evening food, but farther than the closest West Village options.",
+    "168": "Also consistent with a dessert/bakery stop, though it requires a larger move than nearby candidates.",
+    "137": "Penn Station is a plausible transit-related continuation, but it is less behaviorally specific than nearby dining choices.",
+    "166": "A café fit for the user’s profile, but its Midtown location makes it a weaker short-interval prediction."
+  },
+  "fallback": false
+}

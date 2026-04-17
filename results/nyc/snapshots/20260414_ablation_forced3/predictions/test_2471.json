@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2471",
+  "ranked_loc_ids": [
+    1489,
+    58,
+    1652,
+    5675,
+    4152,
+    2742,
+    137,
+    1448,
+    4001,
+    1335
+  ],
+  "explanations": {
+    "1489": "The strongest long-term Manhattan anchor and a top Sunday-afternoon destination for this user is the Graybar/Grand Central work-transit cluster.",
+    "58": "This Grand Central-area stop is repeatedly paired with Graybar Building and is one of the user’s most frequent Midtown East check-ins.",
+    "1652": "The Yonkers train-station base is a plausible next move if the user is transitioning back toward their northern anchor.",
+    "5675": "It is the last known location, so a short continuation from the current Bronx area remains possible despite the routine favoring Manhattan.",
+    "4152": "Starbucks on Lexington fits the user’s frequent Midtown East coffee-and-transit pattern near their main work corridor.",
+    "2742": "This is adjacent to the user’s core Midtown East cluster and matches their office-adjacent Manhattan routine.",
+    "137": "Penn Station is a major transit hub that fits the user’s commute-oriented behavior, though it is less central than Grand Central.",
+    "1448": "A Lexington Avenue food stop near Midtown East could reasonably follow a Sunday afternoon return to Manhattan.",
+    "4001": "Another nearby Midtown East café that aligns with the user’s frequent Grand Central corridor activity.",
+    "1335": "A Yonkers-area errand stop is plausible from the current Bronx/Yonkers-side context, but it is less consistent than the Manhattan work cluster."
+  },
+  "fallback": false
+}

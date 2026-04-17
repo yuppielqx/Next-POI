@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1511",
+  "ranked_loc_ids": [
+    4899,
+    4903,
+    4901,
+    3082,
+    2636,
+    396,
+    4370,
+    4371,
+    445,
+    5019
+  ],
+  "explanations": {
+    "4899": "The user’s strongest habit is returning to Starbucks, and the time/location pattern strongly favors another coffee stop.",
+    "4903": "It is the current Starbucks orbit and the last known area, making a repeat visit plausible at this evening time.",
+    "4901": "Grocery errands are the user’s only other repeated routine, so a nearby errand is a reasonable secondary choice.",
+    "3082": "A nearby grocery store fits the user’s neighborhood-errand pattern after a coffee stop.",
+    "2636": "Another coffee shop nearby matches the user’s dominant food-and-caffeine behavior.",
+    "396": "A Starbucks in the broader northern NJ corridor fits the user’s coffee-centric routine and regional mobility.",
+    "4370": "Fast-food outings appear in the user’s history as occasional regional stops, though less likely than coffee.",
+    "4371": "Similar users and the evening timing make a diner stop possible, but it is not a strong personal pattern.",
+    "445": "The user has made sporadic shopping trips, and a Saturday evening retail visit is feasible.",
+    "5019": "Another nearby grocery option aligns with the user’s errand behavior, but the match is weaker than the top grocery candidates."
+  },
+  "fallback": false
+}

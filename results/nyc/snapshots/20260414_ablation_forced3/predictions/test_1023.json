@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1023",
+  "ranked_loc_ids": [
+    512,
+    1386,
+    1393,
+    173,
+    2590,
+    2217,
+    4205,
+    3554,
+    3445,
+    1925
+  ],
+  "explanations": {
+    "512": "The strong Sunday late-morning food pattern and prior visits make this the most likely familiar brunch stop.",
+    "1386": "A Sunday morning errand run fits the user’s pattern and this nearby grocery is a plausible alternative.",
+    "1393": "Similar users at this time often shift into shopping errands, and this matches the time-conditioned prior.",
+    "173": "A transportation-hub visit is credible if the user is continuing a northward Sunday movement or relocating for errands.",
+    "2590": "Morning breakfast behavior and the nearby downtown context make this a plausible food stop.",
+    "2217": "The user repeatedly anchors around this workplace area, so a return there remains possible even on Sunday.",
+    "4205": "Another repeated anchor near the user’s work corridor, though slightly less likely than VaynerMedia HQ at this hour.",
+    "3554": "Close by and food-oriented, it is a reasonable next stop if they stay in the Union Square area after the theater.",
+    "3445": "Evening social tendencies make a bar possible, but the morning timing lowers its likelihood.",
+    "1925": "Another plausible dining/social venue, though it is less aligned with the user’s late-morning Sunday pattern."
+  },
+  "fallback": false
+}

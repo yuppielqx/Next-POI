@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_328",
+  "ranked_loc_ids": [
+    2080,
+    2072,
+    1778,
+    2082,
+    2081,
+    2070,
+    2083,
+    486,
+    2447,
+    3991
+  ],
+  "explanations": {
+    "2080": "This is the strongest repeat Saturday-night bar candidate, matching the user's habitual Lower Manhattan nightlife pattern and the stated time prior.",
+    "2072": "A frequent nightlife stop that fits the user's bar-heavy late-evening behavior and the southwest drift from the last location.",
+    "1778": "Another familiar Lower East Side bar that aligns with the user's recurring evening alcohol-focused outings.",
+    "2082": "A nearby Lower Manhattan bar that matches the user's tendency to chain nightlife venues on Saturday nights.",
+    "2081": "A late-evening food-and-drink spot in the same nightlife corridor, plausible as a social stop after Angry Wade's.",
+    "2070": "A highly recurrent nightlife venue for this user, making it a strong return option despite being a slightly less direct southwest move.",
+    "2083": "A gastropub that fits the user's casual nightlife and bar-adjacent dining preferences.",
+    "486": "A Lower East Side pool hall/bar that matches the user's social nighttime mobility and nearby Manhattan clustering.",
+    "2447": "A nightlife lounge that is plausible given the user's bar-oriented patterns, though it is less supported historically.",
+    "3991": "A nearby bar option consistent with the immediate nightlife chain, but with weaker historical support than the top choices."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2692",
+  "ranked_loc_ids": [
+    2476,
+    137,
+    2479,
+    2485,
+    2486,
+    5290,
+    647,
+    2449,
+    3077,
+    2934
+  ],
+  "explanations": {
+    "2476": "The user’s strongest long-term anchor is their Midtown office routine, and the time prior favors a return to that familiar daytime base.",
+    "137": "This Penn Station anchor is heavily repeated and fits a Saturday evening return within the user’s compact Midtown orbit.",
+    "2479": "It is a frequent nearby Midtown food stop that aligns well with the user’s west 20s/30s neighborhood pattern.",
+    "2485": "This is another repeatedly visited Midtown-adjacent anchor in the same tight Chelsea/Penn South cluster.",
+    "2486": "The user often pairs workday movement with quick coffee stops, and this is a familiar repeat location near their core area.",
+    "5290": "A nearby café in the user’s recurring West 26th Street zone, making it a plausible evening or transitional stop.",
+    "647": "The user has a strong habit of localized food/errand check-ins, and this nearby grocery/café fits that routine.",
+    "2449": "Their history shows frequent nightlife behavior, and this bar is close enough to fit a late-day social move.",
+    "3077": "The user has repeatedly visited similar Greenwich Village bars, making this a credible nightlife continuation.",
+    "2934": "The user is already at this location, but since it is the last known point and a nearby nightlife venue, it remains a low-probability fallback for an immediate repeat or adjacent move."
+  },
+  "fallback": false
+}

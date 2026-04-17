@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1770",
+  "ranked_loc_ids": [
+    4831,
+    4190,
+    736,
+    3462,
+    4149,
+    4869,
+    2313,
+    5168,
+    5165
+  ],
+  "explanations": {
+    "4831": "It is the user's strongest habitual anchor, matches the morning fitness routine, and is the exact last visited place with no need to travel far.",
+    "4190": "A nearby Starbucks fits a Monday morning post-gym coffee stop and is very close to the current Upper East Side base.",
+    "736": "Breakfast timing strongly supports a nearby morning diner stop after the gym.",
+    "3462": "Another fitness option on the Upper East Side aligns with the user's workout-first pattern and similar users' morning gym behavior.",
+    "4149": "A nearby coffee shop is a plausible follow-up to an early-morning gym visit and fits the weekday routine.",
+    "4869": "A local breakfast or brunch-like meal stop is less likely than coffee but remains close and convenient.",
+    "2313": "This nearby restaurant is a possible breakfast or brunch destination, though it is less directly supported than coffee or gym.",
+    "5168": "A short move to another Upper East Side dining spot is possible, but it is less likely than routine morning options.",
+    "5165": "The nearby park could fit an early-morning walk or cooldown, but it is less probable than a return to fitness or coffee."
+  },
+  "fallback": false
+}

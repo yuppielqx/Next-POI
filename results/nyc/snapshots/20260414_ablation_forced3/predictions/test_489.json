@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_489",
+  "ranked_loc_ids": [
+    2731,
+    2730,
+    137,
+    598,
+    2736,
+    2732,
+    2737,
+    116,
+    1660,
+    927
+  ],
+  "explanations": {
+    "2731": "The target time strongly matches this user’s habitual Wednesday morning commute, and this is their most frequent 6–8am transit stop near the last known location.",
+    "2730": "They were last here, and an immediate local road movement before heading out is plausible even in the morning commute window.",
+    "137": "This is their recurring Midtown work destination, but it is farther away and usually follows the station shortly after departure.",
+    "598": "The recent movement trend has included bridge crossings, making another transit route possible, though less likely than the core commute pattern.",
+    "2736": "It is very close to the last location and part of the user’s local errand pattern, though less tied to the 07:54 commute hour.",
+    "2732": "A nearby neighborhood stop that fits local morning behavior, but it is less strongly associated with the commute sequence than the station.",
+    "2737": "This nearby Queens destination has prior visitation and could fit a quick stop, but it is not a dominant morning commute node.",
+    "116": "The user has passed through Jamaica before, and similar users often use transit hubs at this hour, but it is not the strongest anchor here.",
+    "1660": "Another transit-station option in Queens with morning history, though it is less central than Douglaston Station for this user.",
+    "927": "Morning transit behavior makes this conceivable, but its history and sequence fit are weaker than the top Queens commute options."
+  },
+  "fallback": false
+}

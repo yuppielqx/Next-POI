@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_767",
+  "ranked_loc_ids": [
+    660,
+    659,
+    682,
+    683,
+    798,
+    708,
+    4291,
+    2977,
+    4885,
+    3610
+  ],
+  "explanations": {
+    "660": "It is directly adjacent to the current retail corridor and fits the user's short-interval afternoon pattern of continuing to another nearby stop.",
+    "659": "The user is already at this location, so a repeat check-in is the most immediate outcome if they linger or register again.",
+    "682": "Similar users and the current shopping-oriented sequence make another nearby sporting goods stop plausible.",
+    "683": "This is a nearby big-box retail option that matches the user's errand-running behavior around Northern Blvd.",
+    "798": "A home improvement stop is consistent with the same commercial strip and the user's tendency toward practical shopping.",
+    "708": "Another family-oriented retail destination nearby that fits a continued shopping trip.",
+    "4291": "Pharmacy visits are common in similar users' afternoon sequences and are a reasonable next errand.",
+    "2977": "Grocery is the user's strongest long-term habit, though this location is farther and less likely in the immediate sequence.",
+    "4885": "Another grocery option that matches the user's food-shopping tendency, but it is not as tightly aligned to the current corridor.",
+    "3610": "This is the user's most frequent anchor, but a jump back to Brooklyn is less likely than a nearby Queens retail stop."
+  },
+  "fallback": false
+}

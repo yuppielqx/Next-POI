@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_698",
+  "ranked_loc_ids": [
+    208,
+    1556,
+    2487,
+    877,
+    3421,
+    1553,
+    2599,
+    3409,
+    3404,
+    3411
+  ],
+  "explanations": {
+    "208": "The user was last seen here late at night, and at 01:08 they are most likely still at or returning to the same nearby bar.",
+    "1556": "It is the closest nightlife option and fits a short late-night move within the same Midtown South/Flatiron corridor.",
+    "2487": "After bar time, a nearby diner is a plausible next stop for a late-night food break.",
+    "877": "The user often follows nightlife with nearby food stops, and this is an extremely close walk from the last location.",
+    "3421": "A very nearby service stop that could fit a quick late-night errand before heading elsewhere.",
+    "1553": "This nearby gym is in the same local corridor, though it is less likely at 1:08 than food or nightlife.",
+    "2599": "The user strongly favors coffee venues, but this is more consistent with morning routine than this late hour.",
+    "3409": "A late-night pizza stop is plausible given the user's food-focused patterns and nearby Manhattan movement.",
+    "3404": "Another coffee option in the user’s routine area, though the time makes it less likely than nightlife venues.",
+    "3411": "The user frequently visits deli-cafes, but this late-night timing makes it a lower-probability choice."
+  },
+  "fallback": false
+}

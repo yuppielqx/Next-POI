@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1968",
+  "ranked_loc_ids": [
+    5346,
+    573,
+    5349,
+    59,
+    58,
+    3344,
+    5021,
+    5347,
+    1178,
+    3015
+  ],
+  "explanations": {
+    "5346": "The strongest time-conditioned routine match is a habitual midday return to this Midtown gym, which the user visits frequently around noon–2 p.m.",
+    "573": "This is the user’s dominant Midtown anchor and a frequent repeat stop that fits a cross-city daytime jump from the Bronx.",
+    "5349": "A Manhattan pharmacy stop is plausible in the afternoon, especially given the user’s Midtown routine and practical errand pattern.",
+    "59": "The user has a strong Midtown corridor pattern, and Times Square is a reasonable nearby anchor following a transit-heavy Bronx departure.",
+    "58": "Grand Central Terminal fits the user’s transit-oriented mobility and could be a daytime connector on a long-distance jump.",
+    "3344": "A pharmacy visit in Midtown aligns with the user’s errand-oriented daytime movement and nearby Manhattan cluster.",
+    "5021": "A quick Midtown food stop is possible during the early afternoon window, though it is less supported by history than the top candidates.",
+    "5347": "The user is heavily transit-oriented, but returning to this Bronx station is less likely than a Midtown destination after several hours.",
+    "1178": "Another familiar Bronx transit node, though the temporal prior and south-west trend make a Manhattan return more probable.",
+    "3015": "The last-known transportation hub remains possible as a brief continued transit stay, but it is most likely just a stepping stone rather than the next true destination."
+  },
+  "fallback": false
+}

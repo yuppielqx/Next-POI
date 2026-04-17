@@ -1,0 +1,24 @@
+{
+  "traj_id": "test_2201",
+  "ranked_loc_ids": [
+    4557,
+    4499,
+    4921,
+    1577,
+    1291,
+    3708,
+    2508,
+    652
+  ],
+  "explanations": {
+    "4557": "The user’s strongest historical anchor is this Japanese restaurant, and the evening time slot matches their repeated dinner visits.",
+    "4499": "Another Japanese dinner option fits the user’s cuisine preference and the current Manhattan evening context.",
+    "4921": "This Japanese restaurant aligns with the user’s sushi-heavy profile and a later-night Manhattan outing.",
+    "1577": "Similar users at this time often move into bars/lounges, and the user has a history of Manhattan nightlife.",
+    "1291": "A nearby restaurant in the current area fits a continued dining pattern before any borough return.",
+    "3708": "This is close to the last location and offers a natural dinner-to-drinks progression in FiDi.",
+    "2508": "Another nearby food venue could capture a spontaneous follow-up meal in the same area.",
+    "652": "The user often uses the ferry gateway, so a return trip toward Staten Island remains possible later in the evening."
+  },
+  "fallback": false
+}

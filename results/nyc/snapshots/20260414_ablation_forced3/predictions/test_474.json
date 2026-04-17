@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_474",
+  "ranked_loc_ids": [
+    2708,
+    2718,
+    2707,
+    2709,
+    2706,
+    2630,
+    2956,
+    4490,
+    1721,
+    1720
+  ],
+  "explanations": {
+    "2708": "The user’s strongest anchor is Location 2708, and the 06:30 morning prior plus their repeated early-day returns make a direct revisit most likely.",
+    "2718": "This is the main work-related destination in the user’s routine, and a morning commute from the home anchor frequently lands here.",
+    "2707": "It sits in the same tight Paramus corridor and has a strong transition history, making it a plausible nearby stop in the commute pattern.",
+    "2709": "The user regularly visits nearby dining venues in this cluster, and Bonefish Grill is a recurring, close-by option.",
+    "2706": "Another frequent nearby restaurant in the core activity area, likely to appear as a short-radius meal stop.",
+    "2630": "Close to the last location and consistent with a practical morning errand pattern, though less supported by past history.",
+    "2956": "Similar users favor nearby food stops around this time, and it matches the user’s restaurant-oriented local movement style.",
+    "4490": "Similar-user behavior at 06:30 points to quick convenience stops, and this is a nearby low-friction option.",
+    "1721": "A plausible morning food destination near the user’s corridor, but with no direct history to strengthen it.",
+    "1720": "The user sometimes makes short local excursions, but this is less routine than the core office/home cluster."
+  },
+  "fallback": false
+}

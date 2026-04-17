@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1654",
+  "ranked_loc_ids": [
+    109,
+    4350,
+    347,
+    106,
+    5053,
+    5054,
+    105,
+    1158,
+    1923,
+    2382
+  ],
+  "explanations": {
+    "109": "This is the strongest commute gateway in the user’s routine and is the most likely next step after the 7:00 Hamilton Dog Park check-in.",
+    "4350": "The user stays tightly clustered around the Hamilton Park area, and a brief return to the nearby park is still plausible before commuting.",
+    "347": "The Holland Tunnel toll plaza fits the southeast movement trend and the user’s transit-oriented corridor toward Manhattan.",
+    "106": "The user regularly connects to Lower Manhattan, and this is the most likely Manhattan-side transit destination.",
+    "5053": "Despite just visiting, the park is the user’s dominant anchor location and could be revisited in the morning routine.",
+    "5054": "It sits near the Grove Street corridor and could plausibly be a quick pre-commute stop in Jersey City.",
+    "105": "A nearby neighborhood errand stop that fits the user’s local, routine-oriented behavior.",
+    "1158": "The user’s movement is highly local, so a generic nearby Jersey City location remains possible.",
+    "1923": "Lower Manhattan transit-adjacent movement is consistent with the user’s commute pattern, though less likely than PATH.",
+    "2382": "A nearby Lower Manhattan landmark is possible, but it is less aligned with the user’s habitual morning commute."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2065",
+  "ranked_loc_ids": [
+    88,
+    586,
+    329,
+    4129,
+    823,
+    2468,
+    2469,
+    104,
+    3253,
+    437
+  ],
+  "explanations": {
+    "88": "This is the strongest historical anchor, matches the user’s cross-Hudson transit pattern, and is especially plausible for a Sunday late-morning jump back toward Manhattan.",
+    "586": "Herald Square fits the Midtown Manhattan corridor near Port Authority and is a plausible nearby follow-on destination for transit-linked movement.",
+    "329": "Madison Square Park is another Manhattan destination in the same general corridor and could follow a bus-terminal arrival.",
+    "4129": "The user’s errand-heavy profile makes a Manhattan pharmacy stop plausible after arriving back in Midtown.",
+    "823": "Walmart is a repeated anchor in the user’s history and remains a realistic suburban retail option despite the Manhattan bias.",
+    "2468": "This Jersey City restaurant aligns with the user’s prior Jersey City meal pattern and could fit a late-morning food stop.",
+    "2469": "A quick-service Jersey City food stop is consistent with the user’s practical, chain-oriented behavior.",
+    "104": "The user has a Jersey City shopping history, and a mall visit is compatible with their retail-focused trip chains.",
+    "3253": "Sam’s Club matches the user’s bulk-shopping behavior, though it is slightly less time-specific than the top options.",
+    "437": "The last-known location makes this a continuity possibility, but it is less likely than the habitual corridor shift toward transit and shopping destinations."
+  },
+  "fallback": false
+}

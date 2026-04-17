@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1613",
+  "ranked_loc_ids": [
+    1641,
+    5024,
+    46,
+    2165,
+    3747,
+    3528,
+    3750,
+    36,
+    4433
+  ],
+  "explanations": {
+    "1641": "It is the last known location only 4 minutes before the target time and is the strongest same-hub continuation candidate.",
+    "5024": "It is very close to the last stop and fits the user’s recent Brooklyn transit corridor movement.",
+    "46": "It is nearby and matches the user’s transit-heavy pattern with short-hop station transfers.",
+    "2165": "It is a frequent weekday afternoon station in the user’s history and fits the northward Brooklyn transit route.",
+    "3747": "It is a plausible next Brooklyn station along the commuter corridor and has prior user visits.",
+    "3528": "It is a recurring Brooklyn transit node for this user and fits the expected daytime transfer behavior.",
+    "3750": "It is a repeatedly visited Brooklyn station that aligns with the user’s habitual transit patterns.",
+    "36": "Similar users often transition to this major Brooklyn terminal, making it a reasonable next hop.",
+    "4433": "It is a nearby transit option favored in similar-user transitions and remains consistent with the route direction."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2028",
+  "ranked_loc_ids": [
+    1468,
+    1483,
+    4881,
+    5172,
+    3562,
+    4686,
+    1294,
+    1467,
+    2198,
+    3241
+  ],
+  "explanations": {
+    "1468": "It fits the strong Saturday-evening shift toward nearby nightlife after a daytime gym visit and is very close to the user’s current Astoria location.",
+    "1483": "The user has a heavy gym habit, and this is the most convenient alternate gym nearby, though the evening leisure pattern makes it less likely.",
+    "4881": "A repeat visit is plausible given it is the user’s dominant anchor, but the target time strongly favors a social outing instead.",
+    "5172": "It matches the user’s history of evening bar visits and the Manhattan nightlife preference, though it is farther than nearby options.",
+    "3562": "A historically relevant Saturday-evening nightspot for this user, making it a strong leisure repeat candidate despite the distance.",
+    "4686": "This aligns well with the user’s bar/restaurant tendency and weekend evening behavior in Manhattan.",
+    "1294": "A nightlife spot in a dense entertainment corridor, fitting the user’s social evening pattern.",
+    "1467": "A nearby casual dining option that could fit an evening food stop before or instead of nightlife.",
+    "2198": "A plausible late-afternoon-to-evening food destination for a leisure-oriented traveler in Astoria.",
+    "3241": "Another nearby gym option, but it is less likely than the user’s primary gym or an evening social venue."
+  },
+  "fallback": false
+}

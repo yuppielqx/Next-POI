@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1966",
+  "ranked_loc_ids": [
+    5344,
+    5342,
+    4613,
+    4977,
+    4374,
+    4090,
+    3051,
+    4913,
+    1720,
+    176
+  ],
+  "explanations": {
+    "5344": "It matches the user’s strong evening dining pattern and is one of their most frequently revisited late-day destinations in the North Bergen corridor.",
+    "5342": "This ice cream shop is a top repeat venue, especially in the 3–5pm/early evening window, and fits the user’s food-and-leisure loop.",
+    "4613": "The public park is the user’s most visited category overall and is a plausible evening leisure stop near their current area.",
+    "4977": "It is the closest nearby keep and fits a practical errand transition from late-night/early-evening movement in Edgewater.",
+    "4374": "The user has a known retail/errand pattern and prior visits to this store make it a believable next stop.",
+    "4090": "A nearby food/convenience stop that fits the user’s car-oriented mobility and repeat corridor behavior.",
+    "3051": "Similar users and the user’s own history suggest a park-to-food/leisure sequence, making this a viable nearby outdoor stop.",
+    "4913": "This transportation-route stop has repeated Sunday/afternoon presence in the user’s history and fits their broader mobility pattern.",
+    "1720": "The user frequently ventures to Paramus retail areas, and this mall aligns with their evening shopping behavior.",
+    "176": "A familiar corridor hub in the user’s travel footprint, making it a reasonable lower-probability movement waypoint."
+  },
+  "fallback": false
+}

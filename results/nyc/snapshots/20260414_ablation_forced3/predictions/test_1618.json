@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1618",
+  "ranked_loc_ids": [
+    487,
+    1573,
+    3491,
+    540,
+    4074,
+    743,
+    4924,
+    2344,
+    239,
+    1547
+  ],
+  "explanations": {
+    "487": "A nearby nightlife lounge fits the strong Sunday-night outing pattern and is a natural next hop from Boxers.",
+    "1573": "Another close nightlife spot, making it highly plausible for a late-evening chain of bars/lounges.",
+    "3491": "This nearby lounge matches the user’s nightlife-oriented history and the tendency to move to another social venue.",
+    "540": "The user may briefly remain at the current sports bar, especially if meeting friends or watching an event.",
+    "4074": "A nearby social dining spot could be a transition stop before continuing nightlife plans.",
+    "743": "A known nightlife spot in the user’s broader history, though farther than the closest Midtown options.",
+    "4924": "Strong historical nightlife match and a plausible evening destination despite being a bit farther away.",
+    "2344": "Fits the user’s nightlife/social venue preferences and prior history, but less aligned with the current south-west movement.",
+    "239": "A classic nightlife venue from the user’s history, though geographically less likely than closer options.",
+    "1547": "Similar-user behavior supports a nightlife hop, but it is a weaker fit than the more local lounge/bar choices."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2094",
+  "ranked_loc_ids": [
+    88,
+    1914,
+    4235,
+    2974,
+    5449,
+    2128,
+    3228,
+    5283,
+    607,
+    2155
+  ],
+  "explanations": {
+    "88": "The user’s strongest commute anchor is the Port Authority/Midtown morning corridor, and this is the most natural next step from the current cluster.",
+    "1914": "This is the user’s most frequent 6–8 a.m. breakfast stop and is only a short move away, making it the top repeat-visit candidate.",
+    "4235": "The user often chains convenience-store errands after breakfast, and this spot is a very close Midtown follow-on.",
+    "2974": "A pharmacy stop fits the user’s habitual breakfast-and-errands pattern and is extremely near the last known location.",
+    "5449": "The user has many early-morning café visits, and this nearby breakfast option matches the current time and routine.",
+    "2128": "It sits at the current location and fits the user’s tightly clustered stop-chain behavior in Midtown West.",
+    "3228": "This nearby office building is a plausible eastward drift destination within the same Midtown corridor.",
+    "5283": "Another very close Port Authority food stop, consistent with the user’s strong morning transit-zone routine.",
+    "607": "A nearby café aligns with the user’s coffee-heavy weekday morning pattern and eastward movement.",
+    "2155": "This close-by café is less historically dominant than the top options, but still fits the user’s Midtown breakfast corridor."
+  },
+  "fallback": false
+}

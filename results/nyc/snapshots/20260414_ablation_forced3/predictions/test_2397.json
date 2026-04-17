@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2397",
+  "ranked_loc_ids": [
+    53,
+    1032,
+    5485,
+    5640,
+    120,
+    1522,
+    88,
+    112,
+    1709,
+    5591
+  ],
+  "explanations": {
+    "53": "It is the last known location, has the strongest same-area continuity, and matches the user’s frequent weekday morning transit pattern.",
+    "1032": "This is one of the user’s most repeated morning commute stops and fits their Upper Manhattan transit corridor routine.",
+    "5485": "The user repeatedly checks in here in the same Washington Heights/Inwood cluster, making it a very plausible morning transfer point.",
+    "5640": "It is very close to the current area and has a strong 6–8 a.m. pattern in the user’s history, suggesting a possible quick morning stop.",
+    "120": "The user sometimes moves through Harlem on commute days, and this station fits the broader transit-network behavior.",
+    "1522": "Although farther downtown, it is a plausible subway transfer location for a commuting user with citywide transit habits.",
+    "88": "This major nearby transportation hub could fit a weekday morning movement between transit nodes.",
+    "112": "It is another transit-oriented stop consistent with the user’s subway-centered movement style.",
+    "1709": "The user has used pharmacies in the morning before, so a brief errand stop remains possible.",
+    "5591": "The user has a strong gym routine, but the target time favors commute behavior more than another workout visit."
+  },
+  "fallback": false
+}

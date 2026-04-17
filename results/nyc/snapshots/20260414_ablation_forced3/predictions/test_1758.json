@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1758",
+  "ranked_loc_ids": [
+    1833,
+    1036,
+    2132,
+    271,
+    650,
+    1860,
+    97,
+    974,
+    1341,
+    1294
+  ],
+  "explanations": {
+    "1833": "The strongest pattern is a late-night return to the Midtown hotel after nightlife, and this is the most visited location by far at the target hour.",
+    "1036": "It is the last known location and a very strong same-night continuation candidate given the user’s heavy midnight-to-2am history here.",
+    "2132": "This is extremely close to Webster Hall and fits the user’s repeated East Village dining and lounge pattern on Thursday nights.",
+    "271": "The user frequently cycles through JFK, so an airport movement remains plausible despite the late hour being less ideal.",
+    "650": "A core nightlife venue in the user’s circuit, and the late-night timing supports another club stop if they are still out.",
+    "1860": "Another high-match nightlife venue from the user’s history, though it is less immediately consistent than returning to the hotel.",
+    "97": "The user has repeated lounge behavior and this remains a feasible after-hours stop before heading back to Midtown.",
+    "974": "A nearby East Village food stop that matches the user’s clustered movement style, though it is less likely at 02:30.",
+    "1341": "The Studio at Webster Hall is adjacent to the current spot and could be a continuation within the same entertainment complex.",
+    "1294": "The Village Pourhouse is nearby and fits the nightlife context, making it a lower-probability but plausible nearby diversion."
+  },
+  "fallback": false
+}

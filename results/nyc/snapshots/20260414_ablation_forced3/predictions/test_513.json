@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_513",
+  "ranked_loc_ids": [
+    1337,
+    5451,
+    2838,
+    714,
+    114,
+    1753,
+    4594,
+    1388,
+    1140,
+    1754
+  ],
+  "explanations": {
+    "1337": "The target time is late Thursday night and Copia best matches the user’s occasional nightlife pattern within their Brooklyn-to-Manhattan leisure routine.",
+    "5451": "It is a nearby music venue in the DUMBO/Fort Greene nightlife corridor, fitting a late-night entertainment move.",
+    "2838": "This is a very close outdoor landmark in the same corridor and could plausibly be a nearby nighttime wander spot.",
+    "714": "A prominent event space near the current area, making it a strong late-evening cultural destination.",
+    "114": "The user is moving northwest and this station is a common transition point for shifting to another nearby destination.",
+    "1753": "The user is already in the immediate neighborhood, so a short move within DUMBO is highly plausible.",
+    "4594": "This nearby entertainment venue is in the right area for a nighttime check-in despite limited history.",
+    "1388": "A nearby food stop that fits a late-night practical or leisure-related outing.",
+    "1140": "The user has a dessert-shop tendency, and this nearby option aligns with that preference.",
+    "1754": "A nearby coffee shop/venue that could serve as a casual late-night stop in the same Brooklyn corridor."
+  },
+  "fallback": false
+}

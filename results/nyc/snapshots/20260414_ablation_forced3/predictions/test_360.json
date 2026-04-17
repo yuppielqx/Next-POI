@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_360",
+  "ranked_loc_ids": [
+    1209,
+    2186,
+    2185,
+    1958,
+    3399,
+    4381,
+    125,
+    3040,
+    2837,
+    3947
+  ],
+  "explanations": {
+    "1209": "This is the strongest historical anchor with repeated morning visits and fits the user’s routine-oriented downtown corridor pattern.",
+    "2186": "It is the current stop and a highly plausible short-hop continuation of the morning coffee routine.",
+    "2185": "The user has already repeated this coffee stop before, making a quick return very plausible.",
+    "1958": "Nearby hotel options are consistent with the user’s hotel-heavy profile and morning travel pattern.",
+    "3399": "A close-by errand stop is plausible after a café visit in the same downtown Brooklyn area.",
+    "4381": "The user shows corridor-based movement, and a transit hub is a natural next step eastward.",
+    "125": "Another nearby transit station fits the movement trend and the short-distance downtown mobility pattern.",
+    "3040": "Similar to the current café context, this is a reasonable morning food stop in the MetroTech area.",
+    "2837": "The user’s movement could continue to a nearby public space within the same cluster of locations.",
+    "3947": "A nearby institutional destination is possible, but it is less directly supported than hotel or café options."
+  },
+  "fallback": false
+}

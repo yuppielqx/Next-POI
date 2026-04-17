@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1879",
+  "ranked_loc_ids": [
+    4480,
+    2305,
+    2097,
+    3976,
+    3923,
+    2445,
+    4253,
+    5266,
+    3297,
+    218
+  ],
+  "explanations": {
+    "4480": "This is a repeated nightlife venue in the user’s preferred Greenwich Village corridor and fits the strong late-night Sunday return pattern.",
+    "2305": "A frequent, highly consistent nightlife stop for this user that matches the after-dark time and downtown leisure routine.",
+    "2097": "The user revisits this bar often, and it aligns well with an evening move toward the East Village/nightlife cluster.",
+    "3976": "A nightlife spot in the user’s habitual lower Manhattan range that fits the late-night social outing pattern.",
+    "3923": "This lounge matches the user’s bar/lounge preference and the target time strongly favors a nightlife destination.",
+    "2445": "A beer-garden/nightlife option in the Bowery area that is spatially consistent with the user’s eastward drift.",
+    "4253": "An East Village nightlife venue that fits the user’s repetitive bar-going behavior and northeast movement trend.",
+    "5266": "A previously visited downtown burger/pub spot near Union Square that could plausibly be part of a late-night food-and-drink circuit.",
+    "3297": "A downtown bar in the user’s usual Manhattan nightlife zone, though less strongly reinforced by prior visits.",
+    "218": "Close to the user’s frequent nightlife node and geographically consistent, but less likely than the bar-specific options."
+  },
+  "fallback": false
+}

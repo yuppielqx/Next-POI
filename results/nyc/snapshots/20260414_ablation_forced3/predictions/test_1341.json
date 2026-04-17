@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1341",
+  "ranked_loc_ids": [
+    114,
+    3179,
+    1489,
+    1429,
+    4697,
+    2016,
+    4696,
+    3917,
+    4699,
+    3557
+  ],
+  "explanations": {
+    "114": "This is the strongest recurring morning transit checkpoint in the user’s history and fits the north-east commute continuation from the last known location.",
+    "3179": "The user was just here and often records this exact corridor location during the same 8:21 commute window.",
+    "1489": "A highly frequent weekday work destination that matches the user’s usual Brooklyn-to-Midtown arrival pattern.",
+    "1429": "This is a major Midtown transfer hub near the user’s work area and appears often in their morning routine.",
+    "4697": "A very frequent southern Brooklyn station in the user’s history that could appear in their transit chain, though it is less likely given the current north-east movement.",
+    "2016": "A core home-area origin station in the commuter pattern, but the current trip direction makes a return here unlikely next.",
+    "4696": "This Brooklyn stop is strongly time-patterned in the user’s history, yet it is not the best fit for a midpoint commute continuation.",
+    "3917": "A Manhattan breakfast deviation that matches the morning slot and nearby Midtown geography, but with less overall consistency than transit hubs.",
+    "4699": "A plausible Midtown breakfast stop near the commute corridor, though it has far fewer visits than the main stations and work site.",
+    "3557": "A reasonable Midtown lunch-oriented detour near the work area, but it is less aligned with the immediate morning transit sequence."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1636",
+  "ranked_loc_ids": [
+    4354,
+    1414,
+    5038,
+    5039,
+    5037,
+    1660,
+    1658,
+    137,
+    116,
+    88
+  ],
+  "explanations": {
+    "4354": "It is the user’s current location, their strongest anchor, and the most likely immediate next check-in in a commuter-focused trip.",
+    "1414": "The user repeatedly pairs Manhasset station visits with Starbucks as part of a habitual pre- or post-commute stop.",
+    "5038": "It is extremely close to the current location in Manhasset and could plausibly be a brief nearby detour.",
+    "5039": "A nearby Manhasset restaurant stop is plausible given the user’s occasional non-transit food check-ins.",
+    "5037": "Another nearby dining option in the same corridor, fitting a short local movement after the station.",
+    "1660": "Woodside Station is another rail hub in the user’s broader transit pattern, though it is farther and less likely than local Manhasset stops.",
+    "1658": "This nearby Queens LIRR station fits the user’s rail-centered mobility style and Northeast movement trend.",
+    "137": "New York Penn Station is a major commuter node in the user’s history, but it is much farther from the current Manhasset location.",
+    "116": "A key transfer hub for LIRR trips, it aligns with the user’s commuter behavior despite being a more substantial move.",
+    "88": "It is a frequent transit node in the user’s broader history, but it is less directly tied to the current Manhasset-based trip."
+  },
+  "fallback": false
+}

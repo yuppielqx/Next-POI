@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2530",
+  "ranked_loc_ids": [
+    642,
+    4126,
+    235,
+    5370,
+    5371,
+    4506,
+    3702,
+    2508,
+    1094,
+    1683
+  ],
+  "explanations": {
+    "642": "It is the user’s dominant morning commute hub, was the last known location two minutes earlier, and strongly fits the Tuesday 9:41 a.m. persistence pattern.",
+    "4126": "This nearby Financial District office stop is the most likely immediate follow-up if the user has already begun the short work-arrival transition.",
+    "235": "A nearby office location in the same Lower Manhattan work corridor makes it a plausible brief move after arriving downtown.",
+    "5370": "It is very close to the last location, but as a private residence it is less consistent with the user’s weekday commuter routine.",
+    "5371": "A nearby coffee stop fits a morning arrival pattern, though the user’s history favors transit and office destinations over cafés.",
+    "4506": "Close by and lunchtime-oriented, but it is less likely this early unless the user is making an unusually early food stop.",
+    "3702": "This nearby dining venue is plausible in the Financial District, but the user’s profile suggests work-related movement rather than breakfast dining.",
+    "2508": "The user has visited it before and it is near the core route, but a return this minute is less likely than staying at the transit hub.",
+    "1094": "It is nearby and within the same general area, but it is more leisure-oriented than the user’s typical utilitarian pattern.",
+    "1683": "It is a commuter transport node that matches broader travel behavior, but it is too far and less likely than remaining in Lower Manhattan."
+  },
+  "fallback": false
+}

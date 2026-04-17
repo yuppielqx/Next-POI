@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1072",
+  "ranked_loc_ids": [
+    4282,
+    445,
+    2775,
+    4283,
+    4281,
+    1722,
+    3286,
+    2628,
+    2625,
+    2620
+  ],
+  "explanations": {
+    "4282": "This is the user’s dominant habitual anchor and a Sunday early-afternoon return fits their routine-based pattern best.",
+    "445": "The user often uses Paramus mall retail/entertainment as a secondary hub and it is very close to the last location.",
+    "2775": "This matches the user’s bookstore/comics interest and prior visits in the same corridor make it a strong repeat candidate.",
+    "4283": "Similar users at this time frequently visit this food stop, and the user’s weekend errand pattern supports a quick repeat.",
+    "4281": "A nearby casual dining stop fits the user’s suburban errand-and-lunch behavior in Paramus.",
+    "1722": "The user has a known Paramus shopping pattern, and department-store errands are plausible on a Sunday afternoon.",
+    "3286": "Weekend afternoon leisure and the mall context make a cinema visit reasonably likely.",
+    "2628": "This is a typical shopping errand destination within the user’s compact Bergen County radius.",
+    "2625": "The user was just at a ShopRite nearby, so a grocery/pharmacy-related repeat is possible even without history.",
+    "2620": "A local errand stop in Fair Lawn fits the user’s highly localized movement style, though it is less likely than the main anchors."
+  },
+  "fallback": false
+}

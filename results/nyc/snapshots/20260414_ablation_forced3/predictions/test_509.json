@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_509",
+  "ranked_loc_ids": [
+    583,
+    537,
+    1821,
+    1019,
+    2821,
+    817,
+    4308,
+    2565,
+    527,
+    2825
+  ],
+  "explanations": {
+    "583": "It is the last known location, perfectly matches the user’s nightlife-heavy pattern, and a same-place follow-up after a late Friday night is the strongest option.",
+    "537": "It is directly adjacent to the last stop and fits the user’s tendency to move within a tight Hell’s Kitchen nightlife corridor.",
+    "1821": "This nearby sushi restaurant is only a few steps away and is plausible for a Saturday afternoon food stop after late-night activity.",
+    "1019": "The user repeatedly visits this nearby nightlife spot, making it a strong candidate for another familiar evening-corridor check-in.",
+    "2821": "This is a close, previously visited lounge that fits the user’s repeated bar/lounge sequence behavior.",
+    "817": "A highly visited familiar nightlife venue in the same cluster, consistent with the user’s strong spatial loyalty.",
+    "4308": "A nearby food option that could plausibly fit a midday Saturday transition from nightlife to a casual meal.",
+    "2565": "This seafood restaurant is within the user’s core area and matches the occasional restaurant stop pattern.",
+    "527": "A recurrent nightlife venue in the same Midtown West cluster, though slightly less directly aligned with an afternoon move.",
+    "2825": "A familiar performing arts venue in the user’s core area, supported by their arts-and-entertainment history."
+  },
+  "fallback": false
+}

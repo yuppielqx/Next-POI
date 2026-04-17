@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_366",
+  "ranked_loc_ids": [
+    2218,
+    2209,
+    2213,
+    67,
+    301,
+    2103,
+    2203,
+    2212,
+    37
+  ],
+  "explanations": {
+    "2218": "The user has the strongest repeat pattern for this gym, and the midday timing plus nearby Union Square/Chelsea clustering make a return here most likely.",
+    "2209": "This is another highly recurring fitness stop in the same corridor and fits the user’s late-morning to lunch workout routine.",
+    "2213": "A familiar wellness venue in the same neighborhood, likely as an alternative to their usual gym-based pattern.",
+    "67": "The user has a known midday pattern around Union Square and often pairs workouts with nearby outdoor or errand stops.",
+    "301": "This fits the workout-and-refresh loop and is very close to the user’s recurring fitness locations.",
+    "2103": "A repeated food stop in the same area, consistent with the user’s post-workout lunch or snack behavior.",
+    "2203": "Another fitness venue in the user’s history that matches the strong exercise-oriented profile, though it is less central than Crunch or SoulCycle.",
+    "2212": "The juice bar aligns with the user’s wellness routine and nearby Chelsea location after a workout.",
+    "37": "A familiar gourmet food stop for this user, plausible as a midday errand or refuel destination after exercise."
+  },
+  "fallback": false
+}

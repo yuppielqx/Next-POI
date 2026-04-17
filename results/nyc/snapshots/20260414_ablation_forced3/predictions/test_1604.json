@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1604",
+  "ranked_loc_ids": [
+    4749,
+    5008,
+    4752,
+    5010,
+    1149,
+    5006,
+    5011,
+    5009,
+    2233,
+    4754
+  ],
+  "explanations": {
+    "4749": "It is the user’s strongest repeat destination, matches the Sunday afternoon errand pattern, and is explicitly favored by the time-conditioned prior.",
+    "5008": "This is a frequent Sunday stop for the user and fits a local morning-to-afternoon provisioning circuit in Bloomfield.",
+    "4752": "The user repeatedly visits Dunkin’ and similar users often transition from coffee/snack stops to other errands around this time.",
+    "5010": "A convenient nearby errand stop that fits the user’s localized, practical movement style and could easily follow the gas station.",
+    "1149": "The user has a history of big-box retail visits, and Sunday afternoon aligns well with a compact shopping trip.",
+    "5006": "A close, necessity-oriented stop that matches the user’s pharmacy and quick errand behavior in the same corridor.",
+    "5011": "The user’s routine includes service errands, and this nearby location is consistent with a localized practical outing.",
+    "5009": "A plausible Sunday afternoon treat stop that fits the user’s occasional dessert visits after errands.",
+    "2233": "Another grocery destination in the same area, but with weaker historical support than ShopRite.",
+    "4754": "Remaining near the current gas station is possible, but repeat likelihood is low compared with the user’s typical retail and grocery pattern."
+  },
+  "fallback": false
+}

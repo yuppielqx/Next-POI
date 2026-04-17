@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_459",
+  "ranked_loc_ids": [
+    116,
+    2656,
+    134,
+    1668,
+    1666,
+    1232,
+    2657,
+    927,
+    2647,
+    1660
+  ],
+  "explanations": {
+    "116": "This is the strongest recurrent anchor in the user’s history and best fits a late-night return to a major transit hub in Queens.",
+    "2656": "A nearby Jamaica transfer node that matches the user’s transit-heavy pattern and the current Queens corridor.",
+    "134": "A major Queens interchange that fits the northeast movement trend and could serve as a connector toward Jamaica.",
+    "1668": "Very close to the last location and consistent with short-hop evening movement within the Queens/7-line corridor.",
+    "1666": "A previously visited nearby anchor in the same corridor, making it a plausible loop back destination.",
+    "1232": "The last known location itself is a likely brief revisit or immediate continuation point in this transit-heavy chain.",
+    "2657": "Close to the current path and repeatedly associated with transitions, making it a realistic off-peak Queens stop.",
+    "927": "A familiar station on the user’s Queens transit route, plausible for continued movement along the 7 line.",
+    "2647": "A Queens rail stop that fits the user’s commuter-like behavior and late-night transfer pattern.",
+    "1660": "A Woodside-area train station that aligns with the user’s repeated station-to-station chaining in western Queens."
+  },
+  "fallback": false
+}

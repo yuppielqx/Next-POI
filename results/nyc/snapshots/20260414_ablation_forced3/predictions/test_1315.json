@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1315",
+  "ranked_loc_ids": [
+    2734,
+    3610,
+    123,
+    841,
+    2106,
+    3131,
+    688,
+    5751,
+    2895,
+    4404
+  ],
+  "explanations": {
+    "2734": "This matches the strong Queens morning errand prior and the user’s repeated anchor in Jackson Heights.",
+    "3610": "A frequent grocery stop in their history, fitting a weekday morning provisioning pattern.",
+    "123": "The target time and northeast movement make a practical Queens shopping trip very plausible.",
+    "841": "This repeated user-history anchor is likely if they are chaining through familiar transit-connected stops.",
+    "2106": "The nearby Astoria art museum is a realistic morning cultural stop given the user’s mixed leisure behavior.",
+    "3131": "A morning coffee stop is plausible before errands or shopping.",
+    "688": "Another nearby entertainment venue that could fit a daytime outing, though less likely than errands.",
+    "5751": "A nearby casual food stop is possible, but it is less consistent with the morning errand prior.",
+    "2895": "It is the last location, but repeating a beer garden on Monday morning is unlikely.",
+    "4404": "Grocery behavior supports it, but Manhattan is a weaker fit than the Queens-focused prior."
+  },
+  "fallback": false
+}

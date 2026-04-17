@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1700",
+  "ranked_loc_ids": [
+    4356,
+    558,
+    1350,
+    88,
+    1805,
+    538,
+    3007,
+    933,
+    3420,
+    550
+  ],
+  "explanations": {
+    "4356": "It is the current gift shop stop and the most likely immediate continuation given the user’s tight Midtown sequence and short time gap.",
+    "558": "The user is already in the Rockefeller Center area, making this a highly plausible nearby continuation from the gift shop.",
+    "1350": "This is essentially the same immediate Midtown complex as the last stop and fits the short-range northeast movement.",
+    "88": "Port Authority is the strongest historical anchor and a repeated transit hub, so a quick return remains possible.",
+    "1805": "The user has visited ABC-TV before and it matches their Midtown/Upper West Side work-oriented pattern.",
+    "538": "This nearby indoor connector is a natural follow-on within the same Rockefeller Center cluster.",
+    "3007": "A short lunch or coffee stop is plausible at this Saturday midday time in the same building complex.",
+    "933": "Another nearby tourist/commercial stop in Midtown that fits the user’s current location cluster.",
+    "3420": "A nearby food stop is consistent with a brief daytime pause in Rockefeller Center.",
+    "550": "Columbus Circle is within the broader Midtown/Upper West Side corridor and is a reasonable nearby next move."
+  },
+  "fallback": false
+}

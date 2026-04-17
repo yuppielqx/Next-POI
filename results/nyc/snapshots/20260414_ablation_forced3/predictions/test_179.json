@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_179",
+  "ranked_loc_ids": [
+    1323,
+    1304,
+    1320,
+    570,
+    1322,
+    508,
+    1321,
+    1472,
+    3922,
+    363
+  ],
+  "explanations": {
+    "1323": "This is the strongest evening habitual stop in the user’s history and fits the west-to-east Manhattan movement trend.",
+    "1304": "A major anchor in the user’s routine, and an early-evening return here is highly consistent with past patterns.",
+    "1320": "It is a frequent West Side social stop and close enough to Bull Moose Dog Run for a plausible post-park evening visit.",
+    "570": "A nearby food stop that matches the user’s neighborhood errand-and-eat pattern, though it has weaker history.",
+    "1322": "The user has visited this Upper West Side dining spot before, making it a reasonable evening follow-up from the park.",
+    "508": "Another nearby Central Park West location from prior outings, but less directly tied to evening routines.",
+    "1321": "A return visit is always possible because it is the dominant location in the history, even though the 18:21 timing suggests a transition.",
+    "1472": "A plausible nearby dinner choice on the West Side, but with no direct personal history.",
+    "3922": "A nearby food option that fits the corridor, but it is not strongly supported by the user’s past check-ins.",
+    "363": "A generic nearby restaurant choice that could follow an evening outing, though it has minimal behavioral support."
+  },
+  "fallback": false
+}

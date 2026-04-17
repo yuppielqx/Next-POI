@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1179",
+  "ranked_loc_ids": [
+    186,
+    4474,
+    1314,
+    1322,
+    1820,
+    15,
+    4475,
+    370,
+    16,
+    530
+  ],
+  "explanations": {
+    "186": "Saturday morning strongly matches the user’s repeated Upper West Side wellness routine and this is their most frequent time-aligned destination.",
+    "4474": "It is a heavily repeated Saturday morning stop in the same neighborhood and fits a post-yoga breakfast/cafe pattern.",
+    "1314": "The user often stays within the Upper West Side corridor, and this nearby plaza fits a short morning neighborhood stop.",
+    "1322": "This is another recurring Upper West Side eatery that aligns with the user’s habitual daytime food routine.",
+    "1820": "A breakfast spot with a plausible morning fit, especially if the user is continuing a casual Saturday food run.",
+    "15": "This Upper West Side restaurant matches the user’s local dining pattern and is close to their usual cluster.",
+    "4475": "The user has pet-related repeat behavior, making this a reasonable morning errand stop in the same area.",
+    "370": "Another pet store option consistent with the user’s errands-oriented Upper West Side activity.",
+    "16": "The user sometimes spills into nearby park spaces, and a Saturday morning outing could include a walk here.",
+    "530": "It fits the user’s Hudson-side Manhattan pattern and is a plausible nearby outdoor destination after a morning routine."
+  },
+  "fallback": false
+}

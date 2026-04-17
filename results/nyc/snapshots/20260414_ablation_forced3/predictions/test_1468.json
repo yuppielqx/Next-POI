@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1468",
+  "ranked_loc_ids": [
+    1326,
+    735,
+    4849,
+    4576,
+    2313,
+    3146,
+    3333,
+    2312,
+    796,
+    3742
+  ],
+  "explanations": {
+    "1326": "It is directly adjacent to the last known location and fits the user’s strong late-night pub pattern.",
+    "735": "This is the closest bar option and matches the user’s repeated after-hours nightlife behavior on the Upper East Side.",
+    "4849": "The user has visited this bar in the midnight–2am window before, making it a strong late-night repeat candidate.",
+    "4576": "A nearby pub in the same nightlife cluster, consistent with the user’s bar-hopping trajectory and northeast movement.",
+    "2313": "It is essentially next door to the last stop and fits the user’s BBQ-to-southern food evening pattern.",
+    "3146": "This nearby dinner spot is plausible as a continuation from the current after-social-hours dining context.",
+    "3333": "A very close Italian restaurant that aligns with the user’s frequent evening restaurant visits in this neighborhood.",
+    "2312": "The user was just here, so a return is possible if they are lingering in the same nightlife/dining corridor.",
+    "796": "The user frequently revisits Equinox, and a late-night return remains possible given their fitness anchor behavior.",
+    "3742": "The profile and similar-user patterns support a transit-oriented move, though it is less likely than nearby nightlife options."
+  },
+  "fallback": false
+}

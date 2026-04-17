@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_345",
+  "ranked_loc_ids": [
+    2110,
+    2111,
+    2762,
+    2108,
+    3000,
+    5646,
+    2766,
+    4203,
+    5106,
+    5521
+  ],
+  "explanations": {
+    "2110": "The user’s strongest time-matched history and similar-user pattern both point to an evening dessert stop, making this the best fit.",
+    "2111": "A casual food stop fits the user’s outing style, and it is a plausible alternative to dessert in the evening.",
+    "2762": "A popular dinner destination matches the early evening timing and the user’s preference for practical leisure outings.",
+    "2108": "This prior seafood restaurant visit makes a return possible, especially for a compact evening meal outing.",
+    "3000": "A nearby restaurant is consistent with the user’s food-oriented evening behavior and southwest movement.",
+    "5646": "An errand stop is plausible given the user’s purposeful mobility and daytime-to-evening activity pattern.",
+    "2766": "A café aligns with the user’s food/beverage tendencies, though it is less likely than dessert or dinner.",
+    "4203": "Another café option that fits a short, practical stop during the evening window.",
+    "5106": "BBQ dining is compatible with a meal stop, but there is weaker historical support than for the top choices.",
+    "5521": "The user sometimes combines practical errands with outings, but this is less likely than a food-related destination."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2008",
+  "ranked_loc_ids": [
+    3663,
+    144,
+    2006,
+    1260,
+    2681,
+    1072,
+    1184,
+    1845,
+    4012,
+    289
+  ],
+  "explanations": {
+    "3663": "The strongest historical anchor is this Brooklyn metro station, and the user’s profile and Sunday afternoon prior both favor a transit revisit there.",
+    "144": "This Sunday-linked major transit hub has a strong same-day and same-weekday pattern, making it a plausible Manhattan reset stop.",
+    "2006": "It is the closest transit option to the last Chinatown position and fits the user’s transit-dominant movement style.",
+    "1260": "Union Square is a major Manhattan transfer point that matches the user’s repeated late-afternoon station-to-station behavior.",
+    "2681": "The user has a prior taxi check-in and is in a dense Manhattan area where a quick mode switch is plausible.",
+    "1072": "Similar-user behavior and the current northwestern drift make a nearby Manhattan neighborhood stop reasonable.",
+    "1184": "Union Square is a familiar errand zone for this user, and it fits the transit-plus-errand pattern.",
+    "1845": "The academic history makes a college-related Manhattan stop possible, though less likely than transit nodes.",
+    "4012": "Pharmacy errand behavior appears in the history, but this is farther from the current location cluster.",
+    "289": "A coffee stop near the current point is plausible, but the user’s stronger pattern is transit movement rather than lingering."
+  },
+  "fallback": false
+}

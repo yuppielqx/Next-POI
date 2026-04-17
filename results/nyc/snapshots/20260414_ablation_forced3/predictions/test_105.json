@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_105",
+  "ranked_loc_ids": [
+    114,
+    820,
+    821,
+    819,
+    2599,
+    3720,
+    664,
+    3407,
+    2867,
+    696
+  ],
+  "explanations": {
+    "114": "This is the user's strongest Friday evening commute anchor and the most likely southbound transfer point from Midtown back toward Brooklyn.",
+    "820": "The user often moves along the same Manhattan commute corridor, and this nearby subway station fits a likely intermediate transit step.",
+    "821": "Parkside Ave is a frequent home-area endpoint in the user's history and is a plausible next stop if the return commute is already well underway.",
+    "819": "Prospect Park is another recurring Brooklyn-side anchor associated with the user's evening return pattern.",
+    "2599": "A nearby Manhattan coffee stop is plausible for a short pre-commute pause, though the user usually favors transit nodes over discretionary venues.",
+    "3720": "This nearby office fits the user's Midtown weekday work context, but it is less likely than the subway stations for the next check-in.",
+    "664": "A quick food stop near the current Midtown location is possible, but the user's profile is heavily transit-oriented rather than meal-oriented.",
+    "3407": "This nearby restaurant is a reasonable urban weekday stop, though it is not strongly supported by the user's historical movement pattern.",
+    "2867": "Coffee-and-snack venues are common around commute times, but this is still a weaker match than the subway corridor options.",
+    "696": "The user has occasional longer-distance travel anomalies, but this is much less consistent with the established Friday evening subway commute pattern."
+  },
+  "fallback": false
+}

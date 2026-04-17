@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1448",
+  "ranked_loc_ids": [
+    3818,
+    3822,
+    4542,
+    1238,
+    1386,
+    4147,
+    4009,
+    3620,
+    3821,
+    4825
+  ],
+  "explanations": {
+    "3818": "This is the strongest midday repeat stop in the user’s Upper East Side routine and fits the Tuesday early-afternoon pattern best.",
+    "3822": "The user visits this café very frequently and it matches the nearby Upper East Side habit cluster, though it is more morning-weighted.",
+    "4542": "A recurring grocery-store errand stop in the same corridor, making it a plausible afternoon revisit after being in the area.",
+    "1238": "The user was last known in this area, and a short local movement to another point within the neighborhood is highly consistent.",
+    "1386": "This is another nearby grocery option that fits the user’s repeated practical errands in the Upper East Side.",
+    "4147": "The user often pairs local routine stops with gym visits, and the location remains close enough for an afternoon workout or check-in.",
+    "4009": "A very nearby bar that aligns with the user’s occasional social pattern, though the time is less typical than evening.",
+    "3620": "This is one of the user’s known local nightlife spots and remains a plausible neighborhood return.",
+    "3821": "A nearby pharmacy stop could fit a quick local errand, but there is weaker evidence than for the core recurring venues.",
+    "4825": "The user has checked in here before and it is still within the same general area, but hotel revisits are less common than their routine local stops."
+  },
+  "fallback": false
+}

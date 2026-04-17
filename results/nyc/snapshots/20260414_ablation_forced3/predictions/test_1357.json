@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1357",
+  "ranked_loc_ids": [
+    2939,
+    917,
+    4712,
+    4248,
+    952,
+    3370,
+    3425,
+    865,
+    4711,
+    4265
+  ],
+  "explanations": {
+    "2939": "A nearby coffee shop fits the user’s midday pattern and the strong tendency to make a practical East Village/Gramercy stop after an errand or ice cream.",
+    "917": "The user has repeated midday coffee behavior, and this is a familiar neighborhood choice in their core corridor.",
+    "4712": "A frequent weekday errand stop in the home area, and the noon-to-afternoon timing supports a practical grocery visit.",
+    "4248": "This matches the user’s recurring midday spa pattern and remains close to the current East Village/Gramercy movement.",
+    "952": "A casual lunch option very near the last location, making it plausible for an afternoon food stop.",
+    "3370": "A neighborhood diner that fits a routine lunch/afternoon meal in the user’s usual area.",
+    "3425": "Another familiar nearby lunch/dinner restaurant, consistent with the user’s dining-heavy local pattern.",
+    "865": "A close-by sit-down lunch spot in the same corridor, reasonably likely after earlier errands.",
+    "4711": "Strongly recurrent overall, but it is somewhat more associated with later social hours than a 12:45 daytime stop.",
+    "4265": "A nearby nightlife venue that fits the user’s social tendencies, though it is less likely at midday than food or coffee options."
+  },
+  "fallback": false
+}

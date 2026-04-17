@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2320",
+  "ranked_loc_ids": [
+    1154,
+    1199,
+    1665,
+    106,
+    5599,
+    5180,
+    108,
+    1664,
+    4639,
+    3947
+  ],
+  "explanations": {
+    "1154": "The user is already at Journal Square PATH Station and this transit hub is the strongest immediate continuation point for a commuter moving northeast.",
+    "1199": "A very common Jersey City transfer point for this user, and a plausible next hop after Journal Square in the afternoon commute window.",
+    "1665": "Exchange Place is a frequent transit stop in the user’s corridor and fits a short cross-Jersey City move from the current hub.",
+    "106": "The user repeatedly travels into Lower Manhattan, and PATH continues to be a strong next-step option from Journal Square.",
+    "5599": "City Tech in Downtown Brooklyn matches the user’s academic pattern and afternoon weekday behavior.",
+    "5180": "This is the dominant home-base station and a likely later return destination even if not the very next stop.",
+    "108": "Hoboken PATH Station is another transit-oriented node that fits the user’s commuter-style mobility.",
+    "1664": "A nearby PATH-related transfer point that aligns with the user’s strong Jersey City transit corridor.",
+    "4639": "A Bayonne-area rail stop consistent with the user’s frequent light-rail routines and return movement.",
+    "3947": "A recurring academic destination that remains plausible if the user is heading to or from coursework."
+  },
+  "fallback": false
+}

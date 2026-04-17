@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2458",
+  "ranked_loc_ids": [
+    944,
+    2748,
+    1579,
+    155,
+    252,
+    55,
+    1518,
+    4766,
+    2118,
+    303
+  ],
+  "explanations": {
+    "944": "Strongest recurring weekday work anchor in the user’s SoHo routine and the best fit for a Wednesday afternoon return.",
+    "2748": "A repeated Wednesday-friendly sandwich stop in the Flatiron orbit that matches their daytime lunch/work pattern.",
+    "1579": "Another frequent weekday sandwich/lunch destination in the same midtown-downtown corridor.",
+    "155": "A recurring café stop near their lower Manhattan work area, fitting a mid-afternoon coffee break.",
+    "252": "A classic quick coffee/lunch option that aligns with the user’s practical daytime behavior.",
+    "55": "Repeated soup-lunch behavior makes this a plausible afternoon food stop near their routine.",
+    "1518": "Fits the user’s sandwich/quick lunch pattern and sits close to their preferred SoHo/Flatiron movement.",
+    "4766": "A nearby coffee shop consistent with similar-user afternoon coffee transitions and the user’s workday habits.",
+    "2118": "Another midday coffee-shop option that matches the user’s urban professional routine.",
+    "303": "Close to the last location and consistent with a short, practical Lower Manhattan move before returning to work."
+  },
+  "fallback": false
+}

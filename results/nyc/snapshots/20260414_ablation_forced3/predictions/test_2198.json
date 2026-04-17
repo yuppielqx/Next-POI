@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2198",
+  "ranked_loc_ids": [
+    5433,
+    5526,
+    5532,
+    5528,
+    5525,
+    3639,
+    3345,
+    4409,
+    4353,
+    3532
+  ],
+  "explanations": {
+    "5433": "It is one of the user’s most frequent neighborhood stops and fits the strong midday return-to-core-area pattern after a late night.",
+    "5526": "The user often makes short hyperlocal errand runs, and this grocery store matches their daytime food-and-errand routine.",
+    "5532": "The user just visited here, and an immediate follow-up stop at another nearby deli is plausible given the tight local walking pattern.",
+    "5528": "Afternoon visits to Equinox are common for this user, and the target time aligns well with a post-sleep workout.",
+    "5525": "This grocery store is nearby and consistent with the user’s recurring late-to-day grocery pattern.",
+    "3639": "It is a heavily visited nearby venue for the user, though the afternoon timing makes it less likely than food or gym stops.",
+    "3345": "A close neighborhood food stop that fits the user’s frequent casual daytime eating behavior.",
+    "4409": "Pizza is a strong category for this user, and this nearby option is a reasonable midday meal choice.",
+    "4353": "The user often remains within this core area, making a generic return to the neighborhood plausible.",
+    "3532": "A nearby pharmacy errand is possible, but it is less favored than deli, grocery, gym, or bagel stops."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_881",
+  "ranked_loc_ids": [
+    779,
+    5122,
+    2420,
+    3849,
+    3831,
+    192,
+    1104,
+    4256,
+    2216,
+    1696
+  ],
+  "explanations": {
+    "779": "A nearby pub fits the late-Thursday post-gym transition into nightlife and matches the user’s downtown evening drinking pattern.",
+    "5122": "This close gastropub is a natural south-east move from Blink Fitness and suits a late-night social stop.",
+    "2420": "Very close by and nightlife-adjacent, it is plausible for a late evening beverage-related visit in the Village/NoHo area.",
+    "3849": "The nearby nightlife spot could fit a spontaneous late-night food-or-drink stop after the gym.",
+    "3831": "It is one of the user’s repeated downtown venues and sits near the current cluster, making it a credible habitual return.",
+    "192": "The user visited here late at night before, and it is a nearby destination consistent with a brief post-gym wander.",
+    "1104": "This breakfast spot is close and could plausibly serve as a late-night or after-hours food stop in the same corridor.",
+    "4256": "A nearby leisure venue is less likely than a bar but still plausible given the user’s recreational nighttime mobility.",
+    "2216": "A bar fits the evening pattern, though it is farther away and less aligned with the immediate downtown cluster.",
+    "1696": "The user has a history of quick-service food visits, but this specific location is somewhat less likely this late at night than nightlife options."
+  },
+  "fallback": false
+}

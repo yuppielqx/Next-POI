@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_645",
+  "ranked_loc_ids": [
+    402,
+    1719,
+    4298,
+    451,
+    2150,
+    4887,
+    229,
+    1090,
+    1538
+  ],
+  "explanations": {
+    "402": "This is the exact last known location and the strongest continuity choice only 53 minutes later.",
+    "1719": "The user was already checked in at Terminal A, and short-interval airport movement makes a nearby terminal plausible.",
+    "4298": "Terminal B is very close to the last ping and fits continued airport-side transit.",
+    "451": "Terminal C is another adjacent terminal, consistent with moving through EWR rather than leaving it.",
+    "2150": "If departing the airport, the rail station is the most likely transit continuation.",
+    "4887": "A nearby airport transportation hub that fits a ground-transfer step from the terminal.",
+    "229": "Newark Penn Station is a major transit connector and a plausible next leg toward New York City.",
+    "1090": "The New Jersey Turnpike - Newark aligns with northeast-bound road movement out of the airport area.",
+    "1538": "This is the user's most recurrent Manhattan anchor if the airport departure rapidly resolves back into their usual late-night route."
+  },
+  "fallback": false
+}

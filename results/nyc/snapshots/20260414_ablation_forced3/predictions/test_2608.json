@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2608",
+  "ranked_loc_ids": [
+    173,
+    4694,
+    3468,
+    58,
+    3953,
+    1429,
+    1678,
+    5720,
+    5668,
+    5741
+  ],
+  "explanations": {
+    "173": "Strong weekday evening history and frequent transitions make this the most likely next commuter-hub stop after Grand Central.",
+    "4694": "It is the core Bronx-side rail destination in the user’s regular evening commute corridor and strongly fits the target time.",
+    "3468": "The user repeatedly uses Fordham-area commuter rail stations, making this a plausible final Bronx-bound transfer point.",
+    "58": "It is adjacent to the last known Grand Central check-in and remains a common evening anchor in the user’s history.",
+    "3953": "The user was just here, so a brief lingering or immediate revisit is still possible before boarding.",
+    "1429": "This is the most natural transit continuation from Grand Central if the user switches from rail to subway.",
+    "1678": "The user has some history with major transit nodes, though this is less aligned with the Bronx commute pattern.",
+    "5720": "A short evening grab-and-go stop fits the profile, but it is less likely than continuing the commute.",
+    "5668": "Another nearby quick retail option that could occur, though it is not a strong match for the commute-oriented pattern.",
+    "5741": "Track-level rail access near Grand Central could be the immediate next movement if the user boards right away."
+  },
+  "fallback": false
+}

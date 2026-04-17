@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1242",
+  "ranked_loc_ids": [
+    4580,
+    4587,
+    1255,
+    4581,
+    1678,
+    142,
+    842,
+    4352,
+    1432,
+    53
+  ],
+  "explanations": {
+    "4580": "This is the user’s strongest repeated midday work anchor and best fits a Friday early-afternoon return to the Financial District.",
+    "4587": "The user often pairs this café with the commute to work, making it a plausible midday stop near the Financial District.",
+    "1255": "A common transit point in their Lower Manhattan routine, especially when moving around the work area.",
+    "4581": "This park sits in the same Financial District cluster where the user repeatedly visits during workdays.",
+    "1678": "A major downtown subway node that fits the user’s southbound commute pattern.",
+    "142": "A frequent transfer hub in the user’s established Inwood-to-downtown commute corridor.",
+    "842": "Penn Station is a realistic transfer point for the user’s long Manhattan commute.",
+    "4352": "This Inwood-area subway station is a core part of the user’s regular home departure pattern.",
+    "1432": "The user’s likely home base remains a plausible destination if they are making a local stop rather than commuting south.",
+    "53": "Times Square is a possible transit-related stop given the user’s Manhattan travel corridor, though less likely than the others."
+  },
+  "fallback": false
+}

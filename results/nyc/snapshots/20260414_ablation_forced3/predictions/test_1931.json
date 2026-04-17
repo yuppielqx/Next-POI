@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1931",
+  "ranked_loc_ids": [
+    5315,
+    5316,
+    2282,
+    124,
+    2101,
+    2267,
+    2266,
+    4551,
+    2033,
+    1836
+  ],
+  "explanations": {
+    "5315": "This is the strongest habitual anchor in the user’s history and fits the Friday 9 a.m. campus routine.",
+    "5316": "The user is already there in the last known step, making a short continuation or return very plausible.",
+    "2282": "A major Fordham-area destination with repeated historical visits, likely within the same morning campus sequence.",
+    "124": "The user frequently uses this transit node in morning commutes and could next move back toward it.",
+    "2101": "A nearby diner with some Friday pattern match, plausible as a brief morning food stop.",
+    "2267": "This is the Fordham University campus itself, aligning with the user’s academic routine and close proximity.",
+    "2266": "Nearby and accessible, though less consistent with the user’s routine than core campus locations.",
+    "4551": "A nearby educational institution that fits the broader academic geography, but not the user’s established pattern.",
+    "2033": "Very close to the last point, but more of a public-space detour than a routine destination.",
+    "1836": "A nearby café that could fit a morning stop, though it is not strongly supported by history."
+  },
+  "fallback": false
+}

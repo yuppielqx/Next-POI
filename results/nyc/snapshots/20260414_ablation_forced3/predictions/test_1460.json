@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1460",
+  "ranked_loc_ids": [
+    3954,
+    274,
+    2176,
+    1367,
+    1730,
+    58,
+    1384,
+    812,
+    1448,
+    2509
+  ],
+  "explanations": {
+    "3954": "It matches the user’s strong Midtown hotel pattern, has repeated Wednesday visits, and fits the north-east movement from the current Upper East Side location.",
+    "274": "This is a frequent Midtown stop for the user and aligns with the likely next move toward a nearby leisure/public space around Bryant Park.",
+    "2176": "Very close to the last location and consistent with the user’s upscale shopping behavior in the Fifth Avenue luxury corridor.",
+    "1367": "Another nearby luxury retail destination that fits the user’s established preference for high-end Manhattan shopping.",
+    "1730": "Saks Fifth Avenue is a classic Midtown luxury retail anchor and is close enough to fit a short continuation north-east.",
+    "58": "Grand Central Terminal is a plausible Midtown transfer point and fits the user’s broad Manhattan movement pattern.",
+    "1384": "A nearby hotel option in Midtown that matches the user’s repeated interest in hotel and social venues.",
+    "812": "This is a convenient Midtown food stop consistent with the user’s lunch-to-evening transition and nearby travel path.",
+    "1448": "A quick Midtown refreshment stop that fits a short, likely casual movement after shopping.",
+    "2509": "An upscale nearby restaurant that suits the user’s leisure-oriented profile and evening timing."
+  },
+  "fallback": false
+}

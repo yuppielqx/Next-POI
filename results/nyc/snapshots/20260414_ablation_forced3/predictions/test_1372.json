@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1372",
+  "ranked_loc_ids": [
+    597,
+    2847,
+    723,
+    1050,
+    1514,
+    275,
+    4747,
+    946,
+    1247
+  ],
+  "explanations": {
+    "597": "Late Saturday night and the nightlife pattern make this nearby rooftop lounge the strongest match.",
+    "2847": "It is the exact current nightlife spot and could plausibly be the user lingering at the same venue.",
+    "723": "The user’s history includes a lounge at similar evening hours, and this is a nearby nightlife option.",
+    "1050": "Despite the name, it is categorized as a karaoke bar, fitting a late-night social transition.",
+    "1514": "This beer garden/nightlife spot is close by and matches the user’s after-dark leisure behavior.",
+    "275": "The user has visited this multiplex before, and late-night entertainment is a plausible next stop.",
+    "4747": "Work is the dominant anchor overall, but Saturday night makes a return there less likely.",
+    "946": "It fits the user’s compact Manhattan movement, though it is more of a daytime errand destination.",
+    "1247": "Another office-type location in the user’s Manhattan core, but poorly aligned with the late-night context."
+  },
+  "fallback": false
+}

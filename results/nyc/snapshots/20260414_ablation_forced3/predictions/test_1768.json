@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1768",
+  "ranked_loc_ids": [
+    2046,
+    1890,
+    4327,
+    1487,
+    1351,
+    1841,
+    3060,
+    2648,
+    2810,
+    405
+  ],
+  "explanations": {
+    "2046": "It is the closest nightlife option and fits a likely late-night continuation after leaving Il Bastardo.",
+    "1890": "A nearby restaurant-lounge matches the user’s social dining pattern and the late-night time.",
+    "4327": "This sports bar is very close and aligns with a post-dinner nightlife move.",
+    "1487": "The user has history with nightlife venues, and this bar is a plausible next stop despite being slightly farther away.",
+    "1351": "A nearby casual food spot fits the user’s leisure-oriented late-night restaurant behavior.",
+    "1841": "Late-night Thai dining is consistent with the target time and nearby Manhattan nightlife corridor.",
+    "3060": "Sushi is a plausible late-night meal choice in the same Chelsea/Flatiron area.",
+    "2648": "A diner is a common late-night destination and fits an extended evening outing.",
+    "2810": "The user has visited it before, and it is a reasonable repeat dining choice after a restaurant stop.",
+    "405": "A comedy club is a believable entertainment continuation for a weekend night out."
+  },
+  "fallback": false
+}

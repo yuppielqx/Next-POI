@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_417",
+  "ranked_loc_ids": [
+    2444,
+    2303,
+    232,
+    1040,
+    2443,
+    776,
+    2445,
+    1059,
+    2454,
+    2453
+  ],
+  "explanations": {
+    "2444": "It is the strongest historical match with multiple Saturday and 9–11 p.m. visits, fitting the user’s late-night bar-hopping pattern.",
+    "2303": "Another frequent downtown dive bar in the user’s core nightlife corridor, and its Saturday history makes it a strong return candidate.",
+    "232": "This is a nearby East Village bar that matches the user’s downtown Manhattan nightlife preference and the current late-night timing.",
+    "1040": "Very close to the last location and a dive bar, making it a plausible continuation of the evening outing.",
+    "2443": "The user has prior interest in this East Village nightlife spot, and its location fits the south-east movement trend.",
+    "776": "A nearby Manhattan bar that aligns with the user’s bar-focused profile and Saturday night behavior.",
+    "2445": "Close to the current area and nightlife-oriented, it fits a typical late-evening stop for this user.",
+    "1059": "A nearby nightlife spot in the same downtown cluster, consistent with an East Village/LES return pattern.",
+    "2454": "This downtown lounge matches the user’s social nightlife style, though it is less strongly supported than the top bar options.",
+    "2453": "A reasonable late-night pub choice in Manhattan, but it is less favored than the more bar-centric and more frequently visited alternatives."
+  },
+  "fallback": false
+}

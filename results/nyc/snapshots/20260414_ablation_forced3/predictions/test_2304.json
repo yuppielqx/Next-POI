@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2304",
+  "ranked_loc_ids": [
+    3404,
+    1187,
+    4236,
+    5364,
+    935,
+    67,
+    3221,
+    2079,
+    1992,
+    58
+  ],
+  "explanations": {
+    "3404": "The user just checked in here moments earlier, and the morning coffee routine makes a nearby repeat or continuation the most likely next move.",
+    "1187": "The last known location is a generic Manhattan check-in, and staying in the same central area fits the strong morning prior and very short time gap.",
+    "4236": "It is extremely close to the current position, making a quick nearby stop plausible even though it has no prior history.",
+    "5364": "Another immediate nearby option in the same area, likely as a casual follow-on after the coffee stop.",
+    "935": "A close downtown bar is less time-typical for morning, but the user’s broad social pattern keeps nearby food-and-drink venues in play.",
+    "67": "This is a frequent historical area for the user and fits a central Manhattan continuation after the current morning sequence.",
+    "3221": "The nearby Lower Manhattan/NoHo-style option matches the user’s clustered movement pattern and central-city stay.",
+    "2079": "Close by and consistent with the user’s occasional midday wandering, though less likely than a direct coffee/commute continuation.",
+    "1992": "Strong historical nightlife affinity and central location help, but the morning timing makes it a weaker fit.",
+    "58": "Grand Central is a plausible transportation-hub destination for the morning, especially given similar-user patterns, but it is farther and less directly supported than the top choices."
+  },
+  "fallback": false
+}

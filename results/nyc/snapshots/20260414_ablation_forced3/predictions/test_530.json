@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_530",
+  "ranked_loc_ids": [
+    2889,
+    2888,
+    4340,
+    2894,
+    2895,
+    2850,
+    2893,
+    2892,
+    2849
+  ],
+  "explanations": {
+    "2889": "The target time strongly matches the user’s habitual evening workout window, and this is the clearest repeated post-work destination.",
+    "2888": "The user has an extremely strong routine here, though the 20:36 evening timing is less consistent than the morning pattern.",
+    "4340": "A nearby coffee stop is possible given the user’s food-and-drink routine and the short move north-west from the last location.",
+    "2894": "A Manhattan bar fits the evening hour and occasional nightlife behavior, especially after the commute back from Queens.",
+    "2895": "This beer garden is a lower-probability evening social option, but it matches the user’s sparse nightlife category history.",
+    "2850": "A nearby food stop in Long Island City could follow the morning return-to-routine pattern, though it is not a strong time match.",
+    "2893": "A casual dinner stop in Midtown is plausible, but it is much weaker than the gym-based routine.",
+    "2892": "The breakfast spot aligns with the user’s food preferences, but the evening timestamp makes it unlikely for this next step.",
+    "2849": "A nearby diner is a generic fallback option, but it lacks the strong historical and temporal support of the top candidates."
+  },
+  "fallback": false
+}

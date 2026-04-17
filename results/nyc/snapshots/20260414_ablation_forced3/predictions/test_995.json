@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_995",
+  "ranked_loc_ids": [
+    4153,
+    58,
+    5741,
+    3953,
+    3240,
+    1122,
+    274,
+    47,
+    4158,
+    2697
+  ],
+  "explanations": {
+    "4153": "It is the strongest Thursday-night revisit candidate with heavy historical usage and fits the user’s Lower Manhattan routine.",
+    "58": "The last known position is already here, and the user often transitions to nearby commuter nodes at night.",
+    "5741": "This nearby train location is a plausible short hop from Grand Central given the commuting pattern.",
+    "3953": "A very common transition from the current commuter hub and a likely quick evening stop.",
+    "3240": "Close to the current location and a reasonable dinner option around late evening.",
+    "1122": "In the same Midtown cluster and consistent with a nearby evening visit.",
+    "274": "A nearby Midtown destination that similar users and local patterns favor around this hour.",
+    "47": "A plausible short movement within Midtown, especially if the user is doing after-work errands.",
+    "4158": "A key repeated weekday work site that remains a likely return despite being farther south.",
+    "2697": "A familiar Lower Manhattan nightlife venue that matches the user’s evening social pattern."
+  },
+  "fallback": false
+}

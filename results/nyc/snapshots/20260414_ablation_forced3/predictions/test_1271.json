@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1271",
+  "ranked_loc_ids": [
+    274,
+    3382,
+    4563,
+    3168,
+    4235,
+    3964,
+    67,
+    137,
+    2801,
+    114
+  ],
+  "explanations": {
+    "274": "Strong weekday lunch-time anchor in Midtown and the best match for the 13:55 workday prior.",
+    "3382": "Repeated noon-to-2 p.m. visits in Midtown make this a very plausible lunch stop after the commute.",
+    "4563": "Fits the user's established Midtown café lunch pattern and the target afternoon time.",
+    "3168": "A Midtown lunch spot with prior user history, aligning with a quick workday food stop.",
+    "4235": "Nearby Midtown convenience stop that matches a short lunch-break errand.",
+    "3964": "Another Midtown food/café option near the user's usual 42nd Street corridor.",
+    "67": "Plausible daytime Manhattan stop given similar-user patterns and the user's occasional Union Square activity.",
+    "137": "A transit-adjacent Manhattan destination that could follow the commute before a Midtown move.",
+    "2801": "Very close to the last location and feasible for a brief errand, though less consistent with the lunch pattern.",
+    "114": "The strongest transit node in the user's history, though a return there is less likely than a Midtown lunch stop."
+  },
+  "fallback": false
+}

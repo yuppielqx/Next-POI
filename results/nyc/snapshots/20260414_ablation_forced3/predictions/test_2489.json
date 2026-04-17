@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2489",
+  "ranked_loc_ids": [
+    323,
+    513,
+    1028,
+    293,
+    467,
+    930,
+    474,
+    633,
+    2560,
+    2740
+  ],
+  "explanations": {
+    "323": "This is the user’s strongest habitual stop and best matches a Saturday morning coffee routine in southern Brooklyn.",
+    "513": "A frequent Saturday morning breakfast spot close to the user’s Brooklyn activity cluster and highly consistent with an early errand/coffee run.",
+    "1028": "It is the current location, so a short continuation or nearby repeat stop remains plausible.",
+    "293": "A routine local errand location that fits the user’s practical, neighborhood-based movement pattern.",
+    "467": "Another familiar pharmacy stop in the user’s core Bensonhurst/Gravesend area and consistent with morning errands.",
+    "930": "A nearby repeat food stop in southern Brooklyn that aligns with the user’s local dining pattern.",
+    "474": "A grocery run is plausible after a morning coffee stop, especially given the nearby southern Brooklyn radius.",
+    "633": "The user has visited this leisure venue before, and it is near the current Brighton Beach/Sheepshead Bay area.",
+    "2560": "A practical shopping destination in the user’s routine-oriented behavior set, though less likely than the main coffee stops.",
+    "2740": "The user does visit this Manhattan Starbucks, but it is a weaker fit than the southern Brooklyn morning routine."
+  },
+  "fallback": false
+}

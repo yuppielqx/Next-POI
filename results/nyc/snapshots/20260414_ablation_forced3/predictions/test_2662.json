@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2662",
+  "ranked_loc_ids": [
+    5749,
+    1264,
+    351,
+    879,
+    5750,
+    4720,
+    2860,
+    5475,
+    329,
+    878
+  ],
+  "explanations": {
+    "5749": "It is one of the user’s strongest repeat nearby food stops and fits the common return-to-frequent-place pattern from the current Flatiron corridor.",
+    "1264": "It is the exact last location and a highly repeated convenience stop right in the user’s core neighborhood.",
+    "351": "This is another heavily visited snack spot within a few blocks of the current position and matches the user’s food-heavy routine.",
+    "879": "The user repeatedly returns to this public square, and it is adjacent to the current location cluster.",
+    "5750": "A frequent nearby lunch/early-evening food destination that fits the user’s clustered Manhattan habits.",
+    "4720": "A very close service stop that aligns with the user’s errand-style movements around Flatiron.",
+    "2860": "This nearby restaurant is plausibly part of the same short-range food loop around 23rd Street.",
+    "5475": "A nearby sandwich place in the same small corridor, but with less demonstrated repeat frequency than the top options.",
+    "329": "Madison Square Park is close enough to fit a short walk from Flatiron and matches the user’s occasional public-space visits.",
+    "878": "Similar-user evidence and extreme proximity make this a plausible nearby stop, though it is less supported by the user’s own history."
+  },
+  "fallback": false
+}

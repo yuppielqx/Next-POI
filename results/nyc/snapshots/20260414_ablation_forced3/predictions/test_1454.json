@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1454",
+  "ranked_loc_ids": [
+    4001,
+    58,
+    70,
+    173,
+    4827,
+    3920,
+    4829,
+    1258,
+    45,
+    3468
+  ],
+  "explanations": {
+    "4001": "This is the strongest time-aligned historical match for a Friday morning, and it fits a familiar Midtown East commute stop from the Upper East Side home base.",
+    "58": "Grand Central Terminal is a highly plausible morning transit anchor near the predicted corridor, especially given the user’s commuter-style weekday movement.",
+    "70": "The Grand Central USPS/Post Office stop is another nearby weekday errand or transit-adjacent destination consistent with the user’s morning routine.",
+    "173": "Harlem 125th Station matches the user’s recurring Bronx/Metro-North pattern and could be part of an early morning rail-connected trip.",
+    "4827": "Although they were last seen here, home remains a possible short-term revisitable anchor if the morning trip has not fully started yet.",
+    "3920": "This Grand Central-area food stop is consistent with the user’s preference for morning commercial errands in Midtown East.",
+    "4829": "A nearby Upper East Side gourmet shop that fits a routine morning food-related stop before heading farther east or north.",
+    "1258": "This nearby subway station is a credible access point for a commuter leaving the Upper East Side in the morning.",
+    "45": "Another close coffee stop on the Upper East Side, plausible for a morning caffeine routine.",
+    "3468": "The user’s history strongly features Metro-North movement, making this a lower-probability but still credible rail destination."
+  },
+  "fallback": false
+}

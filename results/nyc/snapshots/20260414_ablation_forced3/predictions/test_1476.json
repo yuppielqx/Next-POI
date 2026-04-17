@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1476",
+  "ranked_loc_ids": [
+    1695,
+    4734,
+    3424,
+    1928,
+    3629,
+    4860,
+    1699,
+    1094,
+    4631,
+    1653
+  ],
+  "explanations": {
+    "1695": "The user’s strongest recurring weekday anchor is this office, and the time plus “staying in the same area” pattern make a return here most likely.",
+    "4734": "A nearby morning coffee stop fits the 11:04 weekday timing and the user’s repeated lower-Manhattan errand pattern.",
+    "3424": "This nearby pharmacy matches the user’s routine errand behavior around work hours and is a plausible short trip from the office.",
+    "1928": "The user has visited this close-by fast food spot before in the same morning window, making it a realistic nearby alternative.",
+    "3629": "A nearby lunch-oriented stop is possible around late morning, especially given the user’s clustered Lower Manhattan movement.",
+    "4860": "This close Financial District restaurant could fit a short midmorning/early lunch errand without leaving the area.",
+    "1699": "A nearby deli/bodega is consistent with quick routine food stops near the user’s work anchor.",
+    "1094": "The user has shown occasional nearby leisure movement, and this is close enough to the last location to be plausible.",
+    "4631": "This is one of the user’s recurring Midtown shopping destinations, but it is less likely than a local Lower Manhattan return.",
+    "1653": "A Midtown café is a reasonable workday alternative, though the distance from the current anchor makes it less likely than nearby options."
+  },
+  "fallback": false
+}

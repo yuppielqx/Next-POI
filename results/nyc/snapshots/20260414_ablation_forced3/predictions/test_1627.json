@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1627",
+  "ranked_loc_ids": [
+    1302,
+    1630,
+    275,
+    67,
+    1267,
+    745,
+    1925,
+    2081,
+    237,
+    5277
+  ],
+  "explanations": {
+    "1302": "It is essentially next door to the current check-in and fits the user’s bookstore-oriented downtown continuation pattern.",
+    "1630": "The strongest return-to-last-location option just 10 minutes later, especially given the short time gap and same downtown area.",
+    "275": "A nearby Saturday-afternoon entertainment option that matches the user’s leisure-heavy weekend behavior.",
+    "67": "Very close to the last known location and consistent with a brief transition around Union Square.",
+    "1267": "A nearby casual food stop that fits an afternoon stroll or break after browsing.",
+    "745": "Another immediate nearby dining option, and Mexican food aligns with the user’s repeated preference.",
+    "1925": "A plausible nearby lunch-to-early-dinner stop in the Union Square area for a Saturday outing.",
+    "2081": "Close enough for a short walk and consistent with the user’s history of casual restaurant visits.",
+    "237": "A reasonable nearby entertainment destination for a Saturday afternoon move south-west from Union Square.",
+    "5277": "A nearby practical stop that is possible during a downtown errand run, though less behaviorally strong than the leisure options."
+  },
+  "fallback": false
+}

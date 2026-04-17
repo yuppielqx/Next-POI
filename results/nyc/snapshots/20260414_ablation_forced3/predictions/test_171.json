@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_171",
+  "ranked_loc_ids": [
+    325,
+    1272,
+    1619,
+    1264,
+    1274,
+    3825,
+    3668,
+    1271,
+    1275,
+    137
+  ],
+  "explanations": {
+    "325": "The user’s strongest anchor is the hotel and they were last seen there, making a return the most likely next move at this evening hour.",
+    "1272": "Their history shows repeated 9–11pm transitions to this nearby pub, which fits the night-time prior and Midtown corridor pattern.",
+    "1619": "It is immediately adjacent to the last location and a plausible late-evening food stop consistent with short local excursions.",
+    "1264": "This nearby convenience/pharmacy stop matches the user’s tight Midtown routine and high likelihood of a brief errand.",
+    "1274": "Very close to the hotel and previously visited, so it remains a strong nearby repeat option if they head out for dinner.",
+    "3825": "As a nearby fast-food option with no prior visit but excellent proximity, it is a plausible late-night meal choice.",
+    "3668": "Extremely close to the hotel and common in this mobility pattern, though less likely late at night than food or bar venues.",
+    "1271": "This nearby retail stop fits the user’s service-and-errand behavior around Midtown, especially after an evening return.",
+    "1275": "Previously visited and still within the user’s Midtown cluster, though cafes are somewhat less likely at 21:25 than bars or diners.",
+    "137": "Penn Station is close to the hotel and can serve as a transit hub, but the user’s history suggests a stronger tendency to stay anchored at the hotel."
+  },
+  "fallback": false
+}

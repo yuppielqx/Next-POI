@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2660",
+  "ranked_loc_ids": [
+    5749,
+    1264,
+    879,
+    2860,
+    4720,
+    5750,
+    2104,
+    1903,
+    244
+  ],
+  "explanations": {
+    "5749": "It is the closest highly repeated food stop in the same Flatiron cluster, making it the most likely quick late-night follow-up.",
+    "1264": "This nearby convenience/pharmacy stop matches the user’s repeated errand pattern and is common late at night.",
+    "879": "The user often returns to this anchor public square, and it remains the central hub of their movement pattern.",
+    "2860": "Very close by and consistent with an easy food stop in the late evening/night window.",
+    "4720": "A nearby service stop that fits the user’s errand-heavy behavior around the Flatiron area.",
+    "5750": "Another familiar nearby food venue in the same micro-area, supported by the user’s repeated casual dining pattern.",
+    "2104": "A close sandwich option that matches the user’s preference for quick, familiar food spots.",
+    "1903": "The late-night timing makes nightlife plausible, and this bar fits the user’s occasional overnight behavior.",
+    "244": "Similar users went here around this time, and it is a nearby food destination in the same Manhattan core."
+  },
+  "fallback": false
+}

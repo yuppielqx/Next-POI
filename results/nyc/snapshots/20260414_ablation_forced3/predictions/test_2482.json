@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2482",
+  "ranked_loc_ids": [
+    2297,
+    652,
+    4360,
+    2006,
+    3502,
+    2705,
+    3683,
+    5033,
+    5314,
+    5580
+  ],
+  "explanations": {
+    "2297": "Friday night timing and the user’s history strongly favor a return to this nightlife spot in Lower Manhattan.",
+    "652": "It is the current corridor anchor and a Friday-associated transit hub very close to the last known location.",
+    "4360": "This is the exact last known location, so a brief continued stay or immediate return is plausible.",
+    "2006": "Moving south from Whitehall makes Canal Street a natural nearby Lower Manhattan transit connection.",
+    "3502": "The Battery Maritime Building is very close by and fits the Lower Manhattan waterfront route.",
+    "2705": "A nearby downtown food stop is plausible for a Friday evening transition from transit to dining.",
+    "3683": "A casual Friday-night restaurant visit fits the user’s occasional social outing pattern.",
+    "5033": "Pizza is a common evening destination and this downtown location matches the user’s Lower Manhattan corridor.",
+    "5314": "Another nearby Manhattan food option that could follow a transit-heavy Friday evening.",
+    "5580": "A recurring anchor for this user, but it fits less well than nightlife or transit at this late hour."
+  },
+  "fallback": false
+}

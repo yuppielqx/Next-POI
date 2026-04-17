@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2410",
+  "ranked_loc_ids": [
+    5265,
+    5647,
+    5163,
+    211,
+    5649,
+    5161,
+    5173,
+    2393,
+    2678,
+    1436
+  ],
+  "explanations": {
+    "5265": "The user repeatedly returns to this martial arts dojo during their favored evening window, making it the strongest match for the target time.",
+    "5647": "This is one of the user’s most consistent Brooklyn evening destinations and fits the Fort Greene corridor pattern well.",
+    "5163": "A frequent Fort Greene stop that matches the user’s neighborhood-based routine and can plausibly follow an evening outing.",
+    "211": "The user visits this nearby outdoor spot regularly, and it fits their Brooklyn-centered local movement.",
+    "5649": "It is the current last-known area in Brooklyn, so a short continuation nearby remains plausible despite limited history.",
+    "5161": "This nearby Brooklyn restaurant is a reasonable evening food stop given the user’s local, compact movement pattern.",
+    "5173": "A nearby bar in the broader Brooklyn routine, making it a plausible nightlife continuation after Sidecar.",
+    "2393": "Freddy’s Bar is close by and fits the user’s occasional bar/nightlife behavior in the same neighborhood.",
+    "2678": "A nearby diner option that could fit a late-afternoon or evening food stop in the user’s local area.",
+    "1436": "A gym nearby aligns with the user’s fitness-oriented pattern, though it is less directly supported than the dojo."
+  },
+  "fallback": false
+}

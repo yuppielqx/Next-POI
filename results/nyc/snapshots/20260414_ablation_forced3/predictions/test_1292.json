@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1292",
+  "ranked_loc_ids": [
+    1914,
+    3551,
+    88,
+    2974,
+    5283,
+    4235,
+    3825,
+    137,
+    626,
+    557
+  ],
+  "explanations": {
+    "1914": "It is immediately adjacent to the last known location at Port Authority and fits the strong short-hop food/coffee continuation pattern at this time.",
+    "3551": "A very familiar Sunday stop within the same Midtown corridor and only a short walk from Port Authority.",
+    "88": "The user may simply remain at the transit hub given the very short 24-minute gap and its strong transition history.",
+    "2974": "This nearby quick errand stop is plausible for a brief Midtown follow-on visit after arriving at Port Authority.",
+    "5283": "A nearby food stop inside the same complex, matching the user’s tendency to make short utility visits around transit hubs.",
+    "4235": "Close enough for an immediate convenience-store stop and consistent with nearby quick movement.",
+    "3825": "Another nearby fast-food option in the same corridor, fitting the evening short-trip pattern.",
+    "137": "Penn Station is a nearby transportation hub that could be reached during a brief northward move from Port Authority.",
+    "626": "A close entertainment option in Midtown West that could follow an evening transit-area stop.",
+    "557": "The user has a strong transportation-oriented profile, making a further westward transit move possible though less likely than nearby Manhattan stops."
+  },
+  "fallback": false
+}

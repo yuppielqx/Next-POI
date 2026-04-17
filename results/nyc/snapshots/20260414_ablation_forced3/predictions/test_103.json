@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_103",
+  "ranked_loc_ids": [
+    277,
+    4014,
+    823,
+    114,
+    696,
+    820,
+    821,
+    819,
+    4917,
+    5146
+  ],
+  "explanations": {
+    "277": "The user is already there at the last check-in, and the strongest immediate next move is a short continuation or nearby transition within the same venue.",
+    "4014": "It is the closest nearby entertainment venue and fits a same-area continuation after the stadium.",
+    "823": "The prior move toward northwest and the recent shopping-oriented stop make this a plausible nearby errand destination.",
+    "114": "This is the user’s strongest historical transit anchor and the most likely return point toward their usual Brooklyn-Manhattan corridor.",
+    "696": "As a key regional connector, it fits a post-stadium movement back toward the city core.",
+    "820": "This is another frequent Manhattan transit node in the user’s commute pattern, though less central than Manhattan Bridge.",
+    "821": "A highly recurrent home-area subway stop that matches the user’s return-commute behavior.",
+    "819": "Another familiar Brooklyn anchor that often appears in the user’s morning and evening travel sequence.",
+    "4917": "A nearby transportation hub that could plausibly be used for onward travel from the Meadowlands area.",
+    "5146": "A generic nearby convenience stop is possible if the user makes a brief local errand before leaving the area."
+  },
+  "fallback": false
+}

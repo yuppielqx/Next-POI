@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1313",
+  "ranked_loc_ids": [
+    47,
+    586,
+    137,
+    59,
+    1234,
+    593,
+    5393,
+    3451,
+    2757,
+    3253
+  ],
+  "explanations": {
+    "47": "The user was just at Macy's 23 minutes ago and the strongest prior is a short return/revisit to the same Midtown retail stop.",
+    "586": "Herald Square is immediately adjacent to Macy's and fits the same shopping corridor with high transition likelihood.",
+    "137": "Penn Station is a recurring transit anchor for this user and is still very close to the current Midtown retail area.",
+    "59": "A nearby Manhattan shopping/entertainment node that matches the user's Midtown movement and midday pattern.",
+    "1234": "A nearby cafe stop is plausible after shopping, especially given similar users’ midday transfer patterns.",
+    "593": "This repeat train-station anchor fits the user's transit-linked mobility, though it is less likely than staying in Midtown.",
+    "5393": "It is extremely close to the last known location, but as a residence it is less aligned with the user's shopping-oriented pattern.",
+    "3451": "A nearby service stop could follow a retail visit, but there is no strong history tie.",
+    "2757": "The user occasionally punctuates shopping trips with food, but this is farther away and less time-compatible.",
+    "3253": "A strong profile match overall, but the distance makes a same-hour jump from Midtown less likely than nearby Manhattan options."
+  },
+  "fallback": false
+}

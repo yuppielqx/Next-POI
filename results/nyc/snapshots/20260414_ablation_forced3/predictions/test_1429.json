@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1429",
+  "ranked_loc_ids": [
+    3291,
+    626,
+    1125,
+    1092,
+    75,
+    2309,
+    1598,
+    1630,
+    1122
+  ],
+  "explanations": {
+    "3291": "The next check-in is only 10 minutes later, so the strongest signal is that the user simply remains at the current venue.",
+    "626": "A short move into Times Square nightlife fits the user’s entertainment-heavy behavior at this hour.",
+    "1125": "This is a repeated favorite category for the user and sits within the same Midtown late-night orbit.",
+    "1092": "A nearby major venue is plausible given the user’s tendency to chain entertainment stops in Midtown.",
+    "75": "It is close enough for a quick Midtown move and appears in the user’s broader behavioral history.",
+    "2309": "Similar users and the time slot suggest a nearby late-night meal stop is plausible.",
+    "1598": "The user has nightlife affinity, and this nearby bar aligns with their after-midnight social pattern.",
+    "1630": "A short hop to another entertainment-oriented stop in the same corridor is possible.",
+    "1122": "It is nearby, but less likely than the entertainment and dining options above."
+  },
+  "fallback": false
+}

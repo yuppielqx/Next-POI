@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1199",
+  "ranked_loc_ids": [
+    4515,
+    1588,
+    2578,
+    284,
+    2339,
+    3877,
+    2926,
+    3727,
+    3320
+  ],
+  "explanations": {
+    "4515": "This is the strongest historical anchor with many prior visits, and the user’s routine is heavily theater-centered in this exact downtown cluster.",
+    "1588": "A nearby pub that fits the user’s occasional secondary evening stops when they are in the Greenwich Village theater area.",
+    "2578": "The last known location was here, so a continued theater-to-theater movement is plausible despite no prior history at this exact venue.",
+    "284": "The user sometimes uses coffee as a supporting stop, and this nearby coffee shop matches their pre- or post-theater pattern.",
+    "2339": "Another coffee stop consistent with the user’s small set of supporting venues, though less central than the others.",
+    "3877": "A nearby nightlife option that could fit a late-night continuation without requiring a major move.",
+    "2926": "A close cocktail bar that is possible for a late Friday evening, though the user is not strongly nightlife-oriented.",
+    "3727": "Another nearby bar that fits the area and time, but is less supported by the user’s historical pattern.",
+    "3320": "This is part of the user’s commute pattern, but a late-night return to the Bronx is less likely than staying in downtown Manhattan."
+  },
+  "fallback": false
+}

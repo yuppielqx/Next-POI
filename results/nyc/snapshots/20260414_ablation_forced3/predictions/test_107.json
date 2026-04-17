@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_107",
+  "ranked_loc_ids": [
+    826,
+    827,
+    830,
+    598,
+    833,
+    127,
+    825,
+    834,
+    845,
+    4186
+  ],
+  "explanations": {
+    "826": "It is the exact last corridor location, has the strongest revisit history, and fits a continued northwest commute pattern at 19:00.",
+    "827": "It is a highly familiar nearby road in the user’s northeast Queens travel loop and is a natural next connector from Clearview.",
+    "830": "The user frequently moves to bridge-adjacent transport hubs, and this Throgs Neck toll plaza is a close corridor continuation.",
+    "598": "This bridge is tightly linked to the user’s bridge-and-parkway routines and fits the same transport-focused sequence.",
+    "833": "It is a recurrent road in the user’s history and plausibly follows a northbound Queens corridor movement.",
+    "127": "The user often checks in around bridge infrastructure, and this is another nearby crossing consistent with their patterns.",
+    "825": "The user has a small pre-trip habit of stopping for food in northeast Queens, making this a plausible short detour.",
+    "834": "Similar users and the user profile both suggest quick fueling/coffee stops along corridor travel.",
+    "845": "A nearby familiar convenience stop that matches the user’s practical daytime travel style.",
+    "4186": "Very close to the last point and nearby keep behavior makes it a possible but less likely immediate check-in."
+  },
+  "fallback": false
+}

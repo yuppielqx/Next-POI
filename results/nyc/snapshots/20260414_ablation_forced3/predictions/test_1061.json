@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1061",
+  "ranked_loc_ids": [
+    3274,
+    2011,
+    2014,
+    4264,
+    639,
+    630,
+    4255,
+    1049,
+    2445
+  ],
+  "explanations": {
+    "3274": "A nearby bar fits the user’s Sunday afternoon social pattern and the southeast movement from Barclays Center.",
+    "2011": "A sports-bar stop is plausible right after a stadium visit on a Sunday afternoon, especially for a social outing.",
+    "2014": "The user is still near Barclays Center and may be transitioning by subway to a downtown nightlife area.",
+    "4264": "This downtown bar matches the user’s recurring nightlife behavior and the time of day for an early evening start.",
+    "639": "A strong historical anchor for this user, especially for a weekend social outing moving back toward Manhattan.",
+    "630": "A beer garden fits the user’s outdoor/social drinking pattern and lower Manhattan preference.",
+    "4255": "A familiar lounge in the East Village aligns with the user’s repeated nightlife circuit and weekend bias.",
+    "1049": "A music venue is consistent with the user’s late-afternoon to evening entertainment pattern and downtown route.",
+    "2445": "A Bowery beer-garden-style stop is plausible as part of the user’s downtown bar-hopping sequence."
+  },
+  "fallback": false
+}

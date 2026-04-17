@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_226",
+  "ranked_loc_ids": [
+    1484,
+    1553,
+    917,
+    181,
+    1571,
+    1583,
+    1584,
+    590,
+    1567,
+    1556
+  ],
+  "explanations": {
+    "1484": "Strongest same-day, same-weekday, and evening-slot match, and the user’s routine frequently loops back to this gym after lunch-time stops.",
+    "1553": "A very close fitness alternative in the same corridor, with strong evening usage history and high fit to the user’s workout-centric pattern.",
+    "917": "Coffee is one of the user’s most repeated connectors, and a Monday evening coffee stop near Midtown is plausible after the lunch break.",
+    "181": "Very near the last location and a gym category match, making it a credible short-range return to fitness.",
+    "1571": "Sushi is a recurring evening category for this user, and the 6–8pm timing aligns well with dinner.",
+    "1583": "The user was just here at lunch and has repeated evening visits before, so a quick return or adjacent loop remains possible.",
+    "1584": "Another Equinox branch with decent evening alignment and a familiar fitness-node choice in Midtown/Flatiron.",
+    "590": "A further Equinox variant that matches the user’s strong gym habit, though it is less directly aligned than the top Equinox options.",
+    "1567": "Coffee follows workout and lunch patterns for this user, making an evening caffeine stop a moderate possibility.",
+    "1556": "The user also shows nightlife behavior, and a pub visit around 18:31 is plausible though less likely than fitness or food."
+  },
+  "fallback": false
+}

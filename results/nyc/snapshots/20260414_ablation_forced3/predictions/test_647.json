@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_647",
+  "ranked_loc_ids": [
+    445,
+    3286,
+    4658,
+    446,
+    3284,
+    1726,
+    1727,
+    1918,
+    1716,
+    2619
+  ],
+  "explanations": {
+    "445": "The user’s strongest pattern is staying within the same Paramus shopping corridor, and this is the exact last location with high revisit likelihood.",
+    "3286": "They frequently pair Garden State Plaza with the nearby multiplex, making a cinema follow-up highly plausible.",
+    "4658": "A classic in-mall department store stop fits the user’s retail-heavy afternoon behavior and close proximity.",
+    "446": "Another nearby anchor within the same mall corridor, consistent with their department-store shopping pattern.",
+    "3284": "This is one of the user’s most visited places and a strong Paramus retail repeat destination.",
+    "1726": "Similar users and nearby-search signals favor another in-mall shopping stop, especially electronics/retail browsing.",
+    "1727": "A quick food/drink stop inside the mall matches clustered outing behavior between shopping visits.",
+    "1918": "Casual dining near the mall is a natural next step during a Saturday afternoon shopping trip.",
+    "1716": "The user has a history of casual dining in the same corridor, making this a reasonable nearby lunch/dinner option.",
+    "2619": "Slightly farther but still within their northern New Jersey routine, and their history shows occasional visits here."
+  },
+  "fallback": false
+}

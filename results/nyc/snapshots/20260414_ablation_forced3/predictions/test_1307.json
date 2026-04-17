@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1307",
+  "ranked_loc_ids": [
+    1220,
+    1522,
+    218,
+    2305,
+    495,
+    2168,
+    3879,
+    1120,
+    2492,
+    345
+  ],
+  "explanations": {
+    "1220": "The user’s strongest pattern is an evening return to Williamsburg, and the 18:50 Tuesday prior fits a commute back home base.",
+    "1522": "A transit stop is a very plausible intermediate move from The Standard Hotel when heading back toward Brooklyn.",
+    "218": "This is the current anchor location and remains highly likely if the user lingers for an evening meeting or check-in.",
+    "2305": "The user often stays near the Standard area, and an evening bar visit matches the routine and nearby location.",
+    "495": "A close nightlife option that fits a post-work evening pattern around the same Manhattan anchor.",
+    "2168": "Nearby Meatpacking nightlife is consistent with the user’s selective evening social outings.",
+    "3879": "A nearby casual dining option that could follow a late afternoon Manhattan stay.",
+    "1120": "A nearby nightlife spot in Meatpacking aligns with the user’s occasional evening entertainment behavior.",
+    "2492": "A nearby restaurant in the same district is plausible for an evening meal before returning to Brooklyn.",
+    "345": "The High Line is a frequent nearby Manhattan movement target and fits the west-side trajectory from The Standard Hotel."
+  },
+  "fallback": false
+}

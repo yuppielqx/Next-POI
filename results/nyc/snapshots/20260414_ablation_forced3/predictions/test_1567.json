@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1567",
+  "ranked_loc_ids": [
+    1684,
+    2672,
+    372,
+    421,
+    3692,
+    4522,
+    958,
+    3678,
+    2305,
+    4206
+  ],
+  "explanations": {
+    "1684": "Strong historical anchor for this user’s late Saturday social pattern, and it is very close to the current West Village area.",
+    "2672": "A nearby cocktail bar that matches the user’s evening nightlife preference and the north-westward movement trend.",
+    "372": "Extremely close to the last stop and fits a quick transition from afternoon saloon into early evening bar-hopping.",
+    "421": "The user is already at this nightlife spot location cluster, making a continued stay or immediate nearby revisit plausible.",
+    "3692": "A close lounge option that aligns well with a Saturday pre-nightlife outing in Greenwich Village.",
+    "4522": "Nearby beer garden/nightlife venue that fits the user’s drinking-oriented evening trajectory.",
+    "958": "A nearby bar with strong category fit for the user’s habitual social-drinking pattern.",
+    "3678": "Close Mexican restaurant that matches the user’s bar-and-dinner rotation before later nightlife.",
+    "2305": "A known nightlife anchor for the user, though farther away than the closest Village options.",
+    "4206": "A recurrent social dining spot in the user’s history, but less consistent with the immediate downtown movement."
+  },
+  "fallback": false
+}

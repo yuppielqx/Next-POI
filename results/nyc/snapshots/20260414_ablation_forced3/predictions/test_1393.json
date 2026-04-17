@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1393",
+  "ranked_loc_ids": [
+    4775,
+    948,
+    3458,
+    3742,
+    35,
+    2209,
+    4518,
+    1774,
+    2364,
+    790
+  ],
+  "explanations": {
+    "4775": "Strong weekday anchor and primary workplace, with the 10:15 Thursday timing fitting a return to the office better than a side trip.",
+    "948": "Another Midtown office location in the user’s work cluster, making it a plausible nearby work-related stop after the last evening outing.",
+    "3458": "This is a recurring office-type destination in the same Midtown corridor and matches the user’s work-centered weekday pattern.",
+    "3742": "The user has a known link to Midtown ferry travel, so a transit-related move in the morning remains plausible.",
+    "35": "A nearby Manhattan square that could fit a short errand or transfer while staying within the user’s core downtown/midtown movement.",
+    "2209": "Fitness is a major secondary pattern, but the time slot is less typical than their usual early evening workouts.",
+    "4518": "Very close to the last location and category-aligned with the user’s exercise behavior, though less established in their history.",
+    "1774": "A nearby daytime stop that could fit a coffee/errand break, but it is less consistent than work or fitness venues.",
+    "2364": "A nearby restaurant option that could match a midday meal, though it is not a strong signature destination for this user.",
+    "790": "Proximity makes it possible, but the user’s history and weekday routine make a hotel stop comparatively unlikely."
+  },
+  "fallback": false
+}

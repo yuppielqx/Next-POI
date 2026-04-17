@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1228",
+  "ranked_loc_ids": [
+    4551,
+    608,
+    1318,
+    2033,
+    2267,
+    652,
+    1255,
+    4359,
+    1980,
+    886
+  ],
+  "explanations": {
+    "4551": "Wednesday evening history strongly favors a return to this dominant academic anchor in the Midtown West corridor.",
+    "608": "This is a common convenience stop near NYIT and fits the user’s habitual commuter pattern into Columbus Circle.",
+    "1318": "It is adjacent to the user’s main Manhattan anchor and is a plausible brief stop in the same corridor.",
+    "2033": "Nearby to NYIT and consistent with the user’s frequent movement within the Upper West Side/Midtown West area.",
+    "2267": "A nearby educational institution in the same Manhattan academic corridor makes it a reasonable alternate destination.",
+    "652": "The user often ties Manhattan activity to ferry travel, though this is less likely at this specific evening moment.",
+    "1255": "A transit hub aligned with the user’s ferry-and-subway commute style, but less central than the Columbus Circle core.",
+    "4359": "South Ferry is a plausible lower Manhattan transit link for the user’s Staten Island commute pattern.",
+    "1980": "A routine Manhattan food stop that matches the user’s casual dining behavior and proximity.",
+    "886": "The user has a history of Asian food stops, making this a plausible lower-Manhattan dinner option."
+  },
+  "fallback": false
+}

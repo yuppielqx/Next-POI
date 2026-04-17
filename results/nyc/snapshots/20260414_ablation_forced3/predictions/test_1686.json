@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1686",
+  "ranked_loc_ids": [
+    5089,
+    3869,
+    4265,
+    2443,
+    3537,
+    3384,
+    938,
+    192,
+    2958,
+    2984
+  ],
+  "explanations": {
+    "5089": "This is the strongest return candidate: it is the last known location, a repeated Saturday nightlife anchor, and the target time is only 42 minutes later.",
+    "3869": "It is immediately adjacent to the current bar on Avenue A and fits a late-night bar-hopping move within the same nightlife cluster.",
+    "4265": "Very close by and consistent with the user's pattern of chaining nearby bars during Saturday nights.",
+    "2443": "A nearby nightlife venue in the same East Village corridor that matches the user’s late-night movement style.",
+    "3537": "Another close downtown bar that fits a short-distance continuation of the evening outing.",
+    "3384": "Nearby and plausible for a same-night shift within the East Village/Union Square area.",
+    "938": "A known late-night venue for this user style, slightly farther but still within the same social corridor.",
+    "192": "A recurring user anchor, though less likely at 01:42 than a bar, it remains a plausible nearby stop.",
+    "2958": "Fits the user's nightlife chaining behavior and is within the broader Greenwich Village area.",
+    "2984": "A nearby late-night food option that could follow bar activity, though it is less likely than another drink venue."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_595",
+  "ranked_loc_ids": [
+    1078,
+    1806,
+    87,
+    563,
+    28,
+    3118,
+    2579,
+    1301,
+    59,
+    3116
+  ],
+  "explanations": {
+    "1078": "After a morning at Lincoln Square, a nearby coffee stop fits the short midday transition and the nearby-search signal.",
+    "1806": "This nearby sandwich place is a very plausible lunch stop right after leaving the cinema area.",
+    "87": "The user often mixes nearby retail with midday movement, and this is essentially adjacent to the last location.",
+    "563": "A grocery run in the same Upper West Side corridor matches the nearby new-place pattern.",
+    "28": "A brief continuation or return to the cinema is possible given the zero-distance proximity.",
+    "3118": "A casual midday snack stop is consistent with the user's Manhattan lunch patterns.",
+    "2579": "The movement trend and time of day support staying within the neighborhood rather than making a long trip.",
+    "1301": "A bookstore visit fits the user's occasional retail browsing in central Manhattan.",
+    "59": "This is close enough to remain plausible, though it is less directly aligned than nearby Lincoln Square options.",
+    "3116": "The user's strongest anchor is here, but by early afternoon it is less likely than a nearby lunch or retail stop."
+  },
+  "fallback": false
+}

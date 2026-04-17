@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_496",
+  "ranked_loc_ids": [
+    2758,
+    2759,
+    4589,
+    1149,
+    863,
+    2761,
+    2762,
+    1887,
+    2233,
+    2766
+  ],
+  "explanations": {
+    "2758": "This is the strongest historical match, with many visits and repeated Tuesday late-morning check-ins that fit the target time well.",
+    "2759": "It is another recurring nearby school-area stop and fits the user’s localized movement pattern after leaving the university.",
+    "4589": "It is at the current location, and the short immediate transition suggests the user may remain within the campus area briefly.",
+    "1149": "The user frequently returns to Clifton retail nodes, and Target matches their routine errand-oriented behavior.",
+    "863": "This is a well-matched repeat dining venue that fits the user’s common American-restaurant pattern.",
+    "2761": "A routine department-store errand in the Clifton cluster is plausible for a late-morning weekday movement.",
+    "2762": "It is a nearby diner option that fits the user’s preference for casual, repeatable food stops.",
+    "1887": "This diner in Bloomfield aligns with the user’s broader northern New Jersey dining circuit.",
+    "2233": "A grocery stop is consistent with the user’s practical, localized daytime errands.",
+    "2766": "A nearby café in Newark is a reasonable morning stop, though less likely than the user’s core routine locations."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1573",
+  "ranked_loc_ids": [
+    4973,
+    2717,
+    4972,
+    2716,
+    1168,
+    1177,
+    1253,
+    4974,
+    3739,
+    1250
+  ],
+  "explanations": {
+    "4973": "It is the last known location, exactly matches the strong return-to-last overnight pattern, and has the highest behavioral support.",
+    "2717": "It is the closest food stop with a history of overnight visits, making it a likely immediate continuation from the theater.",
+    "4972": "Very close to the last venue and repeatedly visited in similar late-night/early-morning Bronx trip chains.",
+    "2716": "A nearby anchor in the user’s Bronx routine, plausible as a short hop after the last check-in.",
+    "1168": "Transit access is a strong fit for this user’s movement style and the early-morning timing.",
+    "1177": "Nearby diner category aligns with the user’s compact food-and-errand outing patterns.",
+    "1253": "A nearby quick-service stop that fits an overnight or early-morning transition.",
+    "4974": "Recent grocery activity makes a nearby return or follow-up stop plausible despite the short time gap.",
+    "3739": "Strong historical importance, but the distance from the Bronx makes it less likely than nearby options.",
+    "1250": "A downtown transit hub fits the broader Manhattan pattern, though it is far less likely than local Bronx candidates."
+  },
+  "fallback": false
+}

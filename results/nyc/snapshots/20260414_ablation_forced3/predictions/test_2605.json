@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2605",
+  "ranked_loc_ids": [
+    58,
+    1429,
+    3953,
+    173,
+    3468,
+    5720,
+    5668,
+    2333,
+    1678,
+    176
+  ],
+  "explanations": {
+    "58": "It is the strongest repeat commute anchor near Grand Central and fits the user’s evening return-to-frequent-place pattern.",
+    "1429": "This is a major Midtown transit hub and the user repeatedly uses Grand Central-area transfers during the late afternoon commute window.",
+    "3953": "A highly visited Grand Central stop that commonly appears in the user’s weekday transit routine before continuing onward.",
+    "173": "The user frequently moves through this Harlem/125th Station corridor on Thursdays, matching the established Bronx-bound commute pattern.",
+    "3468": "This is a key endpoint in the user’s recurring rail corridor toward the Bronx, making it a plausible next transit stop.",
+    "5720": "The user has occasional morning and quick grab-and-go visits here, and it remains close enough to fit a short Midtown continuation.",
+    "5668": "A nearby Midtown food stop that could follow the current restaurant location, though it is less consistent with the commute-heavy profile.",
+    "2333": "This nearby transport node is plausible as the user moves northeast through Midtown, but it is less central than Grand Central.",
+    "1678": "A major transit hub that aligns with the user’s transport-oriented behavior, though it is off the core commute corridor.",
+    "176": "The user has some history with bridge-based travel, but this is an outlier compared with the much stronger Grand Central/Fordham pattern."
+  },
+  "fallback": false
+}

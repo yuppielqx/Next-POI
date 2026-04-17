@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_549",
+  "ranked_loc_ids": [
+    271,
+    426,
+    2159,
+    1346,
+    5323,
+    272,
+    1088,
+    371,
+    1357,
+    3616
+  ],
+  "explanations": {
+    "271": "It is the last known location and the strongest immediate return-to-last candidate while the user is still in airport transit.",
+    "426": "Terminal 4 is extremely close to the last point and fits the ongoing JFK airport movement sequence.",
+    "2159": "Terminal 5 is another adjacent JFK terminal that matches the current airport-side trajectory.",
+    "1346": "Terminal 7 is a nearby airport terminal and a plausible next stop within the same JFK complex.",
+    "5323": "The user has been moving through the JFK transit corridor, making this nearby AirTrain stop likely.",
+    "272": "JFK AirTrain - Terminal 4 is a logical continuation of terminal-to-terminal airport movement.",
+    "1088": "A nearby JFK terminal that remains consistent with intra-airport travel.",
+    "371": "Terminal 3 is another close terminal option in the JFK cluster.",
+    "1357": "Terminal 2 is nearby and plausible given the current airport context.",
+    "3616": "As a terminal-area restaurant, it is a reasonable low-probability stop during airport transit."
+  },
+  "fallback": false
+}

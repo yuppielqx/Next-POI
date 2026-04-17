@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2641",
+  "ranked_loc_ids": [
+    58,
+    5741,
+    740,
+    747,
+    145,
+    2982,
+    5027,
+    3150,
+    5742,
+    674
+  ],
+  "explanations": {
+    "58": "This is the user’s strongest recurring Midtown anchor and the most likely routine return after the subway stop.",
+    "5741": "It is paired repeatedly with Location 58 in the morning and remains a highly probable return destination.",
+    "740": "It is extremely close to the last stop and fits a routine quick Midtown coffee or transition.",
+    "747": "Another very nearby coffee stop that matches a short post-transit weekday pause.",
+    "145": "The user is currently here, and a brief continued transit-related check-in is plausible.",
+    "2982": "A nearby coffee shop that fits the user’s commuter pattern and lunchtime/afternoon stop style.",
+    "5027": "The user may make a quick nearby retail stop while moving along the Upper East Side corridor.",
+    "3150": "The user has a fitness-oriented after-work pattern, making this a plausible afternoon stop.",
+    "5742": "It is a repeated lunchtime venue for this user and could still be part of the day’s routine.",
+    "674": "This matches the user’s known evening wellness behavior, though it is less likely at this exact time."
+  },
+  "fallback": false
+}

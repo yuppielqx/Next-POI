@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_572",
+  "ranked_loc_ids": [
+    1194,
+    2529,
+    43,
+    726,
+    3047,
+    1961,
+    3057,
+    4948,
+    2152,
+    75
+  ],
+  "explanations": {
+    "1194": "It is the closest strong-history retail match and fits the user’s ongoing SoHo shopping sequence after Best Buy.",
+    "2529": "A nearby gourmet shop/café that matches the user’s frequent daytime browsing and food-stop pattern in SoHo.",
+    "43": "This is a highly plausible next retail stop in the same Broadway corridor, aligned with the user’s shopping behavior.",
+    "726": "Another nearby clothing store that fits the user’s retail-oriented Saturday afternoon movement.",
+    "3047": "A close-by casual dining option that could naturally follow a shopping errand run in SoHo.",
+    "1961": "The Bobst Library area is nearby and could be reached on a short northeast drift, though it is less pattern-consistent than retail.",
+    "3057": "The user is still in the immediate vicinity, so a revisiting or continued stay is possible though less likely than a new nearby stop.",
+    "4948": "Extremely close to the last point, but it is a weaker behavioral fit than the retail and café candidates.",
+    "2152": "Very near the current location, yet the tech-startup context is less consistent with the user’s usual shopping/leisure pattern.",
+    "75": "Strong historical relevance on Saturdays, but it is farther away than the nearby SoHo options, making it a lower-probability jump."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2340",
+  "ranked_loc_ids": [
+    724,
+    1946,
+    1012,
+    1115,
+    1013,
+    1947,
+    3304,
+    23,
+    1549,
+    195
+  ],
+  "explanations": {
+    "724": "It is the closest strong nightlife option and fits the user's Williamsburg beer-garden/bar pattern after a late Friday night.",
+    "1946": "A direct return is possible given the prior check-in there and the user's repeated bar revisits, though the daytime Saturday prior makes it less likely.",
+    "1012": "Very close to the last location and a plausible midday food stop in North Brooklyn after a bar-heavy night.",
+    "1115": "A nearby Saturday-afternoon café stop fits the target time and the user's weekend wandering behavior.",
+    "1013": "The user often continues into nearby nightlife venues, and this close Brooklyn bar matches their social outing style.",
+    "1947": "Another nearby bar option in the same Williamsburg area, consistent with short hops between drinks-focused venues.",
+    "3304": "A neighborhood breakfast/brunch stop fits Saturday afternoon movement and is very close to the last known location.",
+    "23": "The user has already been in this area, and a return to a similar beer-hall setting is plausible despite the short gap.",
+    "1549": "A nearby music venue aligns with the user's strong nightlife and live-music tendencies.",
+    "195": "Smorgasburg-style food activity is a good weekend Brooklyn fit, though it is a bit less directly supported by the immediate movement chain."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1133",
+  "ranked_loc_ids": [
+    2653,
+    4382,
+    4380,
+    4392,
+    4385,
+    4381,
+    3399,
+    1231,
+    114,
+    125
+  ],
+  "explanations": {
+    "2653": "This is the user’s strongest habitual transit anchor and the time slot matches their frequent 3–5 p.m. return pattern.",
+    "4382": "A top recurring neighborhood stop near the 145th Street corridor that fits the user’s errand-and-food routine.",
+    "4380": "A highly repeated Upper Manhattan grocery stop that commonly appears in the user’s routine afternoon loop.",
+    "4392": "The nearby USPS/Hamilton Grange Station fits the same Upper Manhattan errand corridor and has meaningful afternoon history.",
+    "4385": "Laundry is one of the user’s core recurring activities, and this location is part of their established Harlem routine.",
+    "4381": "Although less habitual overall, transit hubs are consistent with the user’s commuter behavior and afternoon timing.",
+    "3399": "A practical errand stop that aligns with the user’s transit-linked, utility-focused movement style.",
+    "1231": "The user is currently here, so a brief continued stay or immediate nearby return remains plausible.",
+    "114": "The current movement trend is southeast and this station fits a transit transition out of Brooklyn.",
+    "125": "A nearby Brooklyn train station that could serve as the next transfer point in a short transit chain."
+  },
+  "fallback": false
+}

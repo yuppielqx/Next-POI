@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2150",
+  "ranked_loc_ids": [
+    4796,
+    5492,
+    5491,
+    3774,
+    1891,
+    4917,
+    1683,
+    3441,
+    3518,
+    2504
+  ],
+  "explanations": {
+    "4796": "Saturday morning timing and repeated 9–11 AM visits make this the strongest match for a habitual coffee stop in the Clifton commute corridor.",
+    "5492": "It has repeated 9–11 AM history and fits the user’s routine of returning to a familiar morning anchor, though it is less clearly a weekend NJ stop.",
+    "5491": "This is a heavily visited transit hub in the user’s core NJ commute pattern, so it remains a likely morning return point.",
+    "3774": "A familiar Clifton coffee stop aligns well with the user’s morning coffee-and-commute behavior.",
+    "1891": "The user sometimes adds gym visits into their routine, and a Saturday morning makes fitness slightly more plausible.",
+    "4917": "The user regularly uses Rutherford-area transit, so a return to this station fits the northern New Jersey mobility pattern.",
+    "1683": "As another recurring commuting hub, it is plausible if the user is moving through the NJ transit network before heading elsewhere.",
+    "3441": "A local NJ coffee stop is consistent with weekend morning behavior and the user’s coffee preference.",
+    "3518": "This pharmacy is part of the user’s Manhattan daytime cluster, but it is less likely than a NJ morning stop on Saturday.",
+    "2504": "A repeated downtown lunch spot could be next later in the day, though it is less time-aligned than the NJ coffee and transit options."
+  },
+  "fallback": false
+}

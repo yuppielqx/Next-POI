@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1740",
+  "ranked_loc_ids": [
+    5152,
+    134,
+    1303,
+    1669,
+    291,
+    135,
+    895,
+    3350,
+    5153,
+    1673
+  ],
+  "explanations": {
+    "5152": "The user’s strongest late-evening pattern is returning home, and this is their most repeated Tuesday night destination.",
+    "134": "The last known location is a nearby transit hub that fits a short continuation of the current Queens movement before heading home.",
+    "1303": "Being on the 7 train suggests they may stay within the transit corridor briefly, especially given the local southeast movement trend.",
+    "1669": "This is the next logical nearby 7-line stop in the same Queens corridor and matches the user’s transit-heavy pattern.",
+    "291": "Starbucks in Flushing is one of the user’s most frequent anchors and could easily fit an evening transition stop.",
+    "135": "LaGuardia Airport is a recurring user location in the same general area and can align with structured transport-related movement.",
+    "895": "The user has prior visits to Citi Field and it remains plausible as a nearby destination in eastern Queens.",
+    "3350": "Forest Hills is within the user’s regular Queens radius and the coffee-shop pattern makes this a reasonable stop.",
+    "5153": "Rego Park is within the broader home-oriented Queens zone, and a quick food/coffee stop fits the evening pattern.",
+    "1673": "This 7-train station is part of the same transit network the user frequently uses, making it a lower-probability but plausible continuation."
+  },
+  "fallback": false
+}

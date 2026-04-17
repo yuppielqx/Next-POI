@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2354",
+  "ranked_loc_ids": [
+    5113,
+    5614,
+    137,
+    1629,
+    5002,
+    2014,
+    1035,
+    2644,
+    4860,
+    2298
+  ],
+  "explanations": {
+    "5113": "The user has a repeated weekday morning routine at this bakery around 9:20–9:30, making it the strongest match for the Tuesday 09:30 target.",
+    "5614": "It is another downtown food stop in the user’s Financial District cluster, and similar morning patterns suggest a nearby café/breakfast venue.",
+    "137": "Penn Station is a plausible commute-related morning destination, especially given the user’s weekday work-oriented travel and transit usage.",
+    "1629": "Starbucks at Atlantic Terminal fits the morning coffee pattern and is immediately near the last known location in Brooklyn.",
+    "5002": "Applebee's is a nearby casual food option at Atlantic Terminal, consistent with the user’s preference for quick-service dining.",
+    "2014": "The user was already near transit, and a morning commute stop at a major subway hub is plausible.",
+    "1035": "This major hub is adjacent to the last location and could be a logical next stop during a weekday commute.",
+    "2644": "The user recently visited this transportation hub, so a continued transit-linked move is possible despite the morning breakfast prior.",
+    "4860": "It matches the user’s food-heavy Manhattan pattern, though lunch timing fits better than the 09:30 morning slot.",
+    "2298": "This is a known recurring user venue, but its Midtown location and brewery category make it less likely for an early morning visit."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_83",
+  "ranked_loc_ids": [
+    658,
+    657,
+    661,
+    134,
+    1660,
+    660,
+    927,
+    662,
+    123,
+    803
+  ],
+  "explanations": {
+    "658": "This is the strongest habitual anchor, it is the current location, and the short afternoon gap makes a nearby continuation very likely.",
+    "657": "The user repeatedly visits this post office in the same noon-to-afternoon window, making it a natural next errand stop.",
+    "661": "This is the most visited venue in the history and often fits the user’s routine coffee-and-errand chaining pattern.",
+    "134": "The user frequently uses transit nodes and this nearby station fits a short westward move after banking.",
+    "1660": "A nearby train station matches the user’s transit-heavy practical mobility and the current northwest movement trend.",
+    "660": "A coffee stop is consistent with the user’s daytime routine and close-in neighborhood chaining behavior.",
+    "927": "Similar users and the user’s own transit pattern both support a nearby subway transfer after the bank stop.",
+    "662": "This past retail stop fits the user’s shopping/errand profile, though it is less likely than closer routine anchors.",
+    "123": "Another shopping-oriented destination that matches the user’s errand style, but it is more of a one-off than a repeat anchor.",
+    "803": "Similar-user behavior points to this nearby restaurant as a plausible afternoon stop, though it is less supported by the user’s own history."
+  },
+  "fallback": false
+}

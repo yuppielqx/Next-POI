@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_700",
+  "ranked_loc_ids": [
+    3435,
+    3431,
+    3432,
+    3434,
+    3436,
+    2762,
+    1317,
+    3433,
+    2113,
+    3440
+  ],
+  "explanations": {
+    "3435": "It is one of the user's most frequently visited places and has a strong late-night recurrence, making a return the most likely next move.",
+    "3431": "This is the single most visited place in the history and fits the user’s routine-heavy northern New Jersey pattern.",
+    "3432": "It is the current last known stop, so a short continuation or revisit is plausible even though it is less established than the core routine sites.",
+    "3434": "The user often pairs routine stops with nearby errand locations, and this gas station has multiple midnight-to-2am visits.",
+    "3436": "This is a repeated weekday stop in the user’s habitual corridor and remains a plausible local return.",
+    "2762": "The diner is a known repeat destination in the same general area and fits the user’s occasional dining behavior.",
+    "1317": "The user has used Dunkin' locations before, and a late-night coffee/food stop is consistent with the current time window.",
+    "3433": "This residence appears in the user's movement history and could be part of a short local return loop.",
+    "2113": "It has limited history but is in the broader nearby northern New Jersey cluster, so a local errand detour is possible.",
+    "3440": "A nearby café-like stop is conceivable if the user remains in a short local circuit, but it lacks strong prior evidence."
+  },
+  "fallback": false
+}

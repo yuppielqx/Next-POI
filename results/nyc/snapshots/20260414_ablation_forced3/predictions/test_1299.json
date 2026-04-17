@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1299",
+  "ranked_loc_ids": [
+    4648,
+    4649,
+    1527,
+    1204,
+    3135,
+    1709,
+    4650,
+    1522,
+    773,
+    67
+  ],
+  "explanations": {
+    "4648": "It is the user’s strongest repeat destination, was the last known stop, and fits the Sunday afternoon return-to-frequent-place pattern in the West Village.",
+    "4649": "It is adjacent to The Pleasure Chest and matches the user’s repeated Sunday visits to this immediate Village plaza cluster.",
+    "1527": "This nearby West Village nightlife venue aligns with the user’s social pattern and strong concentration around Christopher Street.",
+    "1204": "A close Greenwich Village bar option that fits the user’s bar-heavy weekend behavior and current local movement.",
+    "3135": "A nearby practical errand stop in the same neighborhood, plausible for an afternoon transition between social outings.",
+    "1709": "Another very nearby pharmacy option consistent with short-distance local movement in the Village.",
+    "4650": "A nearby casual meal stop that fits the Sunday afternoon timing better than a late-night-only venue.",
+    "1522": "The user often mixes neighborhood activity with transit, and this station is a logical connector for a short local move.",
+    "773": "A bar in the same broader downtown corridor that matches the user’s social nightlife tendencies.",
+    "67": "A nearby public-space destination that fits a daytime Sunday outing and the user’s tendency to move within lower Manhattan."
+  },
+  "fallback": false
+}

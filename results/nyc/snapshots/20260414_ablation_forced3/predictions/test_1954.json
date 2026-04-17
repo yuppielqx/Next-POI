@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1954",
+  "ranked_loc_ids": [
+    88,
+    557,
+    5005,
+    53,
+    3742,
+    4704,
+    4675,
+    4412,
+    2386,
+    59
+  ],
+  "explanations": {
+    "88": "This is the user’s strongest recurring commute anchor and the most likely evening return point near the Lincoln Tunnel corridor.",
+    "557": "The user is already at the tunnel and often remains within this transit loop around commute hours.",
+    "5005": "A highly repeated post-commute coffee stop that fits the user’s established evening routine.",
+    "53": "Similar users and the user’s transit-heavy pattern support a quick shift to Times Square/42nd St transit access nearby.",
+    "3742": "It is a nearby transportation hub and fits the strong corridor-based mobility pattern.",
+    "4704": "This is a familiar Midtown West food stop that matches the user’s tendency toward brief, routine errands after transit.",
+    "4675": "Another nearby quick-service stop that could follow a commute-related movement.",
+    "4412": "The user has occasional evening social stops, and this Penn Station bar is plausible after work hours.",
+    "2386": "A nearby restaurant option in the same Midtown corridor, consistent with occasional dinner add-ons.",
+    "59": "A common nearby destination for users moving through the 42nd Street/Port Authority area in the evening."
+  },
+  "fallback": false
+}

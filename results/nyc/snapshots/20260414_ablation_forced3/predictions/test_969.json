@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_969",
+  "ranked_loc_ids": [
+    4095,
+    2827,
+    4100,
+    3557,
+    4096,
+    3207,
+    729,
+    2216,
+    3711,
+    815
+  ],
+  "explanations": {
+    "4095": "It is the strongest repeated anchor in the user’s history and fits the midday/afternoon return-to-core pattern best.",
+    "2827": "It sits in the Midtown South core and matches a likely Saturday food stop near the user’s office area.",
+    "4100": "A close Midtown lunch option that aligns with the target time and the user’s clustered Manhattan movement.",
+    "3557": "Another Midtown South food destination that fits a short return trip before an evening outing.",
+    "4096": "The user favors evening nightlife venues, and this Midtown bar is close to their core area.",
+    "3207": "A nearby Midtown bar that matches the user’s bar-heavy after-work behavior.",
+    "729": "This Midtown pub is consistent with the user’s work-adjacent drinking and social routine.",
+    "2216": "A repeated Manhattan bar anchor that could plausibly be visited on a Saturday evening reset.",
+    "3711": "A Lower East Side bar that fits the user’s nightlife history and southward movement trend.",
+    "815": "A recurring SoHo shopping stop that is plausible for a Saturday afternoon branch from the Midtown core."
+  },
+  "fallback": false
+}

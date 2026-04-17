@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2186",
+  "ranked_loc_ids": [
+    5180,
+    1199,
+    5292,
+    5517,
+    4639,
+    4638,
+    1665,
+    856,
+    4956,
+    104
+  ],
+  "explanations": {
+    "5180": "This is the user’s strongest recurring anchor and the last known location, making a return here at the Monday afternoon commuting time most likely.",
+    "1199": "The user repeatedly moves between 22ND St. and Newport/Pavonia, so a corridor-linked transit hop is highly plausible next.",
+    "5292": "Newport is a recurring leisure and transit destination for this user, and afternoon trips often end up there from the Bayonne corridor.",
+    "5517": "Nearby Bayonne light rail movement patterns make 8th St. a reasonable short-hop alternative from 22ND St.",
+    "4639": "Similar Hudson-Bergen corridor behavior and Bayonne-centric movement make another light rail stop a plausible next transit point.",
+    "4638": "Richard Street Light Rail Station fits the user’s Jersey City waterfront transit pattern and could follow a corridor transfer.",
+    "1665": "Exchange Place is another waterfront transit hub that matches the user’s NJ commute and similar-user station-to-station behavior.",
+    "856": "The user has an occasional retail excursion pattern, and this is one of the few non-transit destinations in their history.",
+    "4956": "Late-day food stops appear in the profile, and this Jersey City location fits their transit-linked dining behavior.",
+    "104": "Newport-area shopping/leisure is consistent with the user’s repeated waterfront visits, though it is less central than the plaza or stations."
+  },
+  "fallback": false
+}

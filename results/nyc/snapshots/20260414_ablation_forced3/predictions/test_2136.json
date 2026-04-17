@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2136",
+  "ranked_loc_ids": [
+    1845,
+    1403,
+    5475,
+    3007,
+    4770,
+    3420,
+    3330,
+    1284,
+    2532,
+    1850
+  ],
+  "explanations": {
+    "1845": "Monday morning and the user’s strongest recurring anchor point make this the most likely next stop.",
+    "1403": "A coffee stop near Baruch fits a typical pre-class morning routine.",
+    "5475": "The user often pairs school-area visits with quick food stops, and this matches the gramercy/Kips Bay pattern.",
+    "3007": "A nearby morning coffee option after being at Rockefeller Center the night before.",
+    "4770": "Very close to the current location and a plausible quick morning coffee destination.",
+    "3420": "A nearby breakfast choice in the same Rockefeller Center area.",
+    "3330": "The user was already near this area, so a short continuation remains possible before a larger jump.",
+    "1284": "A nearby midtown stop that fits the user’s bookstore and campus-adjacent behavior.",
+    "2532": "A sandwich stop in Midtown that aligns with the user’s food-and-routine pattern.",
+    "1850": "A nearby retail option, though less likely than school or food destinations this early."
+  },
+  "fallback": false
+}

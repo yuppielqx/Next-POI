@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1262",
+  "ranked_loc_ids": [
+    823,
+    441,
+    3253,
+    4609,
+    4612,
+    1426,
+    4611,
+    557,
+    88,
+    53
+  ],
+  "explanations": {
+    "823": "The user was just there and the strongest short-term pattern is continuing within the Secaucus shopping corridor.",
+    "441": "This fits the ongoing retail trip and is a natural nearby revisit after Walmart.",
+    "3253": "It is an immediate adjacent option in the same shopping complex area and aligns with the northwest movement.",
+    "4609": "A quick nearby stop is plausible for a break during the afternoon shopping run.",
+    "4612": "This is very close to the current location and fits a likely meal stop after shopping.",
+    "1426": "Another nearby dining option that could follow the retail sequence around 3–5pm.",
+    "4611": "A nearby local stop in North Bergen is consistent with a short westward move after Secaucus.",
+    "557": "The user has a very strong cross-river history, so a return toward Manhattan is a high-probability transition.",
+    "88": "This is the user's core Manhattan transit anchor and a likely destination after the tunnel corridor.",
+    "53": "Times Square/42nd Street is a common commuter hub in the user's pattern and a reasonable Manhattan-bound endpoint."
+  },
+  "fallback": false
+}

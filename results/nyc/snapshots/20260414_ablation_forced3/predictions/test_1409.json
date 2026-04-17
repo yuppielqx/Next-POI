@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1409",
+  "ranked_loc_ids": [
+    2448,
+    11,
+    3299,
+    3043,
+    935,
+    2440,
+    78,
+    2343,
+    965,
+    4793
+  ],
+  "explanations": {
+    "2448": "It is the closest strong nightlife option near the current West Village location, fitting a short afternoon continuation in the same corridor.",
+    "11": "The user has just checked in here and a quick repeat is plausible if they are lingering over lunch or meeting up.",
+    "3299": "Very nearby and category-wise consistent with the user’s bar/pub-heavy social pattern.",
+    "3043": "A nearby breakfast/meal stop in the same neighborhood makes sense for a mid-afternoon food-oriented outing.",
+    "935": "A nearby bar that matches the user’s established preference for casual drinks and social stops.",
+    "2440": "Close by and aligned with the user’s frequent pub/bar behavior in lower Manhattan.",
+    "78": "A short move north-west keeps them in a dense food and shopping area that matches their leisure profile.",
+    "2343": "Another nearby dining option with a social atmosphere, suitable for a weekend afternoon stop.",
+    "965": "A café visit fits the user’s strong midday/afternoon timing and Manhattan dining routine.",
+    "4793": "A historically strong repeat dining venue, though slightly farther than the closest neighborhood options."
+  },
+  "fallback": false
+}

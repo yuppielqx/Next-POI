@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_601",
+  "ranked_loc_ids": [
+    3129,
+    3136,
+    772,
+    156,
+    5061,
+    3735,
+    1143,
+    3211,
+    2305,
+    1534
+  ],
+  "explanations": {
+    "3129": "The user’s strongest historical anchor is BAM Offices, and it is the most likely nearby return after an afternoon at BAM Rose Cinemas.",
+    "3136": "The user is already in the BAM complex, making another stay at the same entertainment venue highly plausible for a Friday evening.",
+    "772": "Coffee is the user’s signature habit, and a nearby evening coffee stop is consistent with their repeated routine.",
+    "156": "This BAM venue is essentially co-located with the current area and fits a Friday evening arts-related continuation.",
+    "5061": "The broader BAM campus is a natural same-area destination given the user’s strong clustering around this neighborhood.",
+    "3735": "A nearby restaurant offers a plausible dinner stop in the same Fort Greene/BAM cluster after the cinema visit.",
+    "1143": "A close-by food option fits an evening transition from the BAM area to dinner without leaving the core geography.",
+    "3211": "This nearby diner-style spot matches a simple Friday-night meal pattern in the immediate vicinity.",
+    "2305": "Evening social behavior from similar users makes a bar plausible, though this is less consistent with the user’s core Brooklyn routine.",
+    "1534": "A quick, convenient food stop is possible, but it is farther from the user’s strongest BAM-centered pattern than the top options."
+  },
+  "fallback": false
+}

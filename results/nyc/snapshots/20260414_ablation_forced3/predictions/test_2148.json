@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2148",
+  "ranked_loc_ids": [
+    16,
+    3345,
+    3154,
+    3759,
+    1092,
+    512,
+    511,
+    5459,
+    1779,
+    488
+  ],
+  "explanations": {
+    "16": "It is the strongest historical anchor with many prior visits and fits a familiar Manhattan morning return after the overnight drift.",
+    "3345": "The user has a clear bagel-shop pattern, and this Upper West Side stop matches the morning breakfast prior.",
+    "3154": "Another Manhattan bagel option aligned with the user’s repeated late-night and morning food runs.",
+    "3759": "This Upper East Side café fits a plausible breakfast/cultural stop near the user’s recurring Central Park-area movement.",
+    "1092": "The user has visited this Manhattan venue before, and it remains a plausible midday transit/event destination from Midtown.",
+    "512": "A breakfast-oriented Manhattan stop that matches the time of day and the user’s food preferences.",
+    "511": "A Manhattan bagel shop consistent with the user’s repeated bagel-centered outings.",
+    "5459": "The user has a history of varied Manhattan stops, and a weekday morning library visit is plausible.",
+    "1779": "A Manhattan office location that fits the south-westward shift toward Midtown and prior urban activity.",
+    "488": "A one-time prior visit to the Met area makes this a reasonable but less likely Central Park-adjacent return."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_13",
+  "ranked_loc_ids": [
+    113,
+    130,
+    111,
+    125,
+    114,
+    110,
+    137,
+    120,
+    136,
+    140
+  ],
+  "explanations": {
+    "113": "It is the last known station and matches the strong tendency to continue through familiar transit nodes during late-night corridor travel.",
+    "130": "Very close to the current point, highly transit-oriented, and a frequent late-night Brooklyn transfer station for this user.",
+    "111": "This nearby Brooklyn subway station fits the southeast movement trend and is a repeated user stop on Fridays.",
+    "125": "A nearby busy Brooklyn transfer point that aligns with the user’s rail-centric pattern and short-hop nighttime movements.",
+    "114": "A major familiar corridor station in the user’s history that fits continued Brooklyn-bound subway travel.",
+    "110": "This is a known late-night Manhattan transfer stop for the user and fits the broader commute-like pattern.",
+    "137": "Penn Station is a major transit hub the user has visited before and is plausible in a rail-linking nighttime sequence.",
+    "120": "The user has visited this station in the early-morning slot before, making it a credible late-hour transit stop.",
+    "136": "A transportation corridor option that fits the southeast/eastward networked travel style, though less likely than a subway station.",
+    "140": "A familiar Brooklyn terminal consistent with transit-heavy behavior, but farther from the current location than the top choices."
+  },
+  "fallback": false
+}

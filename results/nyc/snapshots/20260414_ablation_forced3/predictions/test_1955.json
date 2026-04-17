@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1955",
+  "ranked_loc_ids": [
+    88,
+    5005,
+    1914,
+    4235,
+    53,
+    4704,
+    2743,
+    478,
+    2735,
+    59
+  ],
+  "explanations": {
+    "88": "The user is almost certainly still in the core commute node only four minutes after the last check-in, and this is by far the strongest repeated Tuesday morning destination.",
+    "5005": "This is the signature follow-up stop in the user’s morning routine and is just a short walk from Port Authority.",
+    "1914": "It is inside Port Authority and fits the same quick coffee/food pattern during the 8 a.m. commute window.",
+    "4235": "A very nearby forced option that could satisfy a brief convenience stop while the user remains in Midtown West.",
+    "53": "Times Square transit adjacency makes it a plausible short-hop continuation from Port Authority in the same corridor.",
+    "4704": "This nearby deli/bodega matches the user’s supporting food-stop behavior around the terminal area.",
+    "2743": "A common commuter errand stop in the Times Square/42nd Street area and consistent with a fast morning add-on.",
+    "478": "A nearby coffee stop that fits the user’s morning caffeine-oriented pattern.",
+    "2735": "Another close Midtown coffee shop that could serve as an alternate quick stop after the terminal.",
+    "59": "A nearby high-probability area transition from Port Authority given the user’s narrow Midtown West movement pattern."
+  },
+  "fallback": false
+}

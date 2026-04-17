@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1246",
+  "ranked_loc_ids": [
+    4564,
+    2960,
+    1785,
+    1237,
+    4591,
+    59,
+    558,
+    4590,
+    274,
+    1361
+  ],
+  "explanations": {
+    "4564": "This is the strongest habit match for a Wednesday morning coffee stop in Midtown, with the highest visit count and the best same-time-slot pattern.",
+    "2960": "The user often starts early with a gym visit, and similar users show morning gym behavior before moving on.",
+    "1785": "This fits the Midtown West coffee corridor and the user’s repeated morning commute-and-coffee routine.",
+    "1237": "Another plausible Midtown coffee stop near the user’s regular work area and consistent with morning caffeine behavior.",
+    "4591": "The user has prior midday-to-morning overlap here, and it sits squarely in the same Midtown footprint.",
+    "59": "The user was there very recently and it remains a frequent Midtown anchor near the morning route.",
+    "558": "This is a central Midtown destination aligned with the user’s work-area pattern and nearby coffee runs.",
+    "4590": "A prior Midtown lunch/snack stop that could plausibly be revisited during a morning commute window.",
+    "274": "This is within the same Manhattan corridor and fits the user’s broad Midtown routine, though less directly than coffee shops.",
+    "1361": "A Midtown food stop with some contextual fit, but it is less supported than the user’s recurring coffee and gym locations."
+  },
+  "fallback": false
+}

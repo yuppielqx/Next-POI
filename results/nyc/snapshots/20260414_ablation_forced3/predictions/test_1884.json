@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1884",
+  "ranked_loc_ids": [
+    88,
+    59,
+    53,
+    1235,
+    612,
+    58,
+    5274,
+    490,
+    1785,
+    3344
+  ],
+  "explanations": {
+    "88": "This is the user’s strongest recurring anchor and the most likely next transit-oriented stop after being in Times Square.",
+    "59": "The user is already here at the last check-in, so a brief continued presence in the same area is highly plausible.",
+    "53": "The 42nd St-Times Square subway hub fits the user’s commuter pattern and is very close to the current location.",
+    "1235": "A nearby high-transition location that matches the Midtown corridor movement and common walking path from Times Square.",
+    "612": "This nearby Times Square-area stop is behaviorally plausible given the user’s repeated short-range Midtown transitions.",
+    "58": "Grand Central Terminal is a plausible commuter destination, though it is a bit farther than the immediate Port Authority/Times Square cluster.",
+    "5274": "The user has history here, but the current movement away from the campus makes a return less likely than transit-related options.",
+    "490": "A close Midtown destination that fits the area but is less consistent with the user’s transit-focused profile.",
+    "1785": "A nearby quick-stop option, though the user’s history shows little evidence of café-oriented behavior.",
+    "3344": "Nearby and convenient, but the user’s pattern favors transit and campus destinations over retail errands."
+  },
+  "fallback": false
+}

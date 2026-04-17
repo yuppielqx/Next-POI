@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1633",
+  "ranked_loc_ids": [
+    537,
+    1812,
+    349,
+    2046,
+    788,
+    2671,
+    540,
+    282,
+    5122,
+    5033
+  ],
+  "explanations": {
+    "537": "The user has a repeated late-night lounge pattern, and similar users at this hour often move to nightlife venues in the Chelsea/Hell’s Kitchen corridor.",
+    "1812": "It has strong 9–11pm history and fits the user’s habitual evening dining/social routine in Manhattan.",
+    "349": "This is a documented late-evening destination for the user and aligns well with the 23:52 time prior.",
+    "2046": "A nightlife bar that matches the user’s occasional bar behavior and the late-night social context.",
+    "788": "This cocktail bar fits the Greenwich Village nightlife pattern and is close to the user’s current Manhattan position.",
+    "2671": "Another lounge option in the same corridor, consistent with a return to a familiar late-night spot.",
+    "540": "A nightlife venue that could plausibly follow an evening workout or social transition.",
+    "282": "A late-night hotel/lounge-type destination in the downtown Manhattan nightlife network, though less habitual for this user.",
+    "5122": "A nearby gastropub that matches the user’s casual evening food-and-drink behavior.",
+    "5033": "A frequent personal anchor and close by, making it a plausible meal stop even though the late-night temporal prior favors nightlife more strongly."
+  },
+  "fallback": false
+}

@@ -5,7 +5,7 @@ Usage:
   python predict.py [--traj-id TRAJID]
                    [--dry-run]
                    [--workers N]
-                   [--mode {auto,llm,reranker,hybrid}]
+                   [--forced-include-n N]
                    [--recompute]
 """
 from __future__ import annotations
@@ -20,8 +20,9 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 from src.candidate_selector import build_raw_pool
 from src.config import (
+    DATASET_TAG,
+    DATA_DIR,
     FORCED_INCLUDE_N,
-    HYBRID_TOP_N,
     INTENT_CACHE_DIR,
     PREDICTIONS_CACHE_DIR,
     PREFILTER_CACHE_DIR,
@@ -30,16 +31,8 @@ from src.config import (
     TRANSITIONS_CACHE,
 )
 from src.data_loader import DataLoader
-from src.prior_bank import build_or_load_poi_embeddings
 from src.user_similarity import get_similar_users
 from src.utils import Progress, load_json, logger, save_json
-
-try:
-    from src.latent_reranker import build_prefix_embedding, load_or_build_artifacts, score_candidates_with_model
-except Exception:
-    build_prefix_embedding = None
-    load_or_build_artifacts = None
-    score_candidates_with_model = None
 
 try:
     from src.llm_agent import predict_next_poi
@@ -99,32 +92,14 @@ def predict_all(
     workers: int,
     recompute: bool,
     transitions: dict,
-    mode: str,
-    hybrid_top_n: int,
     forced_include_n: int,
 ) -> dict[str, list[int]]:
     PREDICTIONS_CACHE_DIR.mkdir(parents=True, exist_ok=True)
     INTENT_CACHE_DIR.mkdir(parents=True, exist_ok=True)
     PREFILTER_CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
-    reranker = None
-    poi_artifacts = None
-    prior_index = None
-    if load_or_build_artifacts and build_prefix_embedding and score_candidates_with_model:
-        reranker = load_or_build_artifacts(data_loader, force=False)
-        if reranker:
-            poi_artifacts = build_or_load_poi_embeddings(data_loader, force=False)
-            prior_index = reranker.prior_index
-    reranker_ready = bool(reranker and prior_index and poi_artifacts and build_prefix_embedding and score_candidates_with_model)
-
-    if mode == "reranker" and not reranker_ready:
-        logger.error("Prediction mode 'reranker' requires trained reranker artifacts. Run train_reranker.py first.")
-        sys.exit(1)
-    if mode == "hybrid" and not reranker_ready:
-        logger.error("Prediction mode 'hybrid' requires trained reranker artifacts. Run train_reranker.py first.")
-        sys.exit(1)
-    if mode in {"llm", "hybrid"} and (select_candidates is None or predict_next_poi is None):
-        logger.error(f"Prediction mode '{mode}' requires the LLM pipeline, but it failed to import.")
+    if select_candidates is None or predict_next_poi is None:
+        logger.error("LLM prediction pipeline failed to import.")
         sys.exit(1)
 
     to_predict = []
@@ -159,106 +134,6 @@ def predict_all(
         similar_users = get_similar_users(user_id, similarity_index) if user_id else []
         raw_candidates = build_raw_pool(context, user_profile, similar_users, data_loader)
 
-        path_mode = mode
-        if path_mode == "auto":
-            path_mode = "reranker" if reranker_ready else "llm"
-
-        if path_mode == "reranker":
-            prefix_emb = build_prefix_embedding(context, data_loader)
-            scored = score_candidates_with_model(
-                reranker.model,
-                prefix_emb,
-                raw_candidates,
-                context,
-                data_loader,
-                poi_artifacts,
-                prior_index,
-                target_checkin=target_checkin,
-                exclude_traj_id=tid,
-                device=reranker.device,
-            )
-
-            if dry_run:
-                logger.info(f"\n{'='*60}\nLatent reranker preview for {tid}:")
-                for i, cand in enumerate(scored[:10], 1):
-                    logger.info(
-                        f"{i}. {cand['name']} | score={cand['reranker_score']:.4f} | support={cand.get('retrieval_support_count', 0.0):.0f}"
-                    )
-                return tid, []
-
-            ranked = [c["loc_id"] for c in scored[:10]]
-            result = {
-                "traj_id": tid,
-                "ranked_loc_ids": ranked,
-                "mode": "latent_reranker",
-                "top_candidates": scored[:10],
-            }
-            save_json(PREDICTIONS_CACHE_DIR / f"{tid}.json", result)
-            return tid, ranked
-
-        if path_mode == "hybrid":
-            candidates = select_candidates(
-                tid,
-                context,
-                user_profile,
-                similar_users,
-                target_checkin,
-                data_loader,
-                transitions,
-                forced_include_n=forced_include_n,
-                dry_run=dry_run,
-            )
-            prefix_emb = build_prefix_embedding(context, data_loader)
-            reranked = score_candidates_with_model(
-                reranker.model,
-                prefix_emb,
-                candidates,
-                context,
-                data_loader,
-                poi_artifacts,
-                prior_index,
-                target_checkin=target_checkin,
-                exclude_traj_id=tid,
-                device=reranker.device,
-            )
-            hybrid_candidates = reranked[:hybrid_top_n]
-            result = predict_next_poi(
-                tid,
-                context,
-                user_profile,
-                similar_users,
-                hybrid_candidates,
-                target_checkin,
-                data_loader,
-                dry_run=dry_run,
-            )
-
-            if dry_run:
-                logger.info(f"\n{'='*60}\nPrompt for {tid}:\n{result.get('prompt', '')}\n{'='*60}")
-                return tid, []
-
-            result["mode"] = "hybrid"
-            result["hybrid_candidates"] = [
-                {
-                    "loc_id": c["loc_id"],
-                    "name": c["name"],
-                    "reranker_score": c.get("reranker_score"),
-                    "retrieval_support_count": c.get("retrieval_support_count"),
-                }
-                for c in hybrid_candidates
-            ]
-            save_json(PREDICTIONS_CACHE_DIR / f"{tid}.json", result)
-            return tid, result.get("ranked_loc_ids", [])
-
-        if select_candidates is None or predict_next_poi is None:
-            ranked = [c["loc_id"] for c in sorted(raw_candidates, key=lambda x: x.get("dist_km", 999.0))[:10]]
-            if dry_run:
-                logger.info("%s\nFallback candidate ranking for %s: %s\n%s", '=' * 60, tid, ranked, '=' * 60)
-                return tid, []
-            result = {"traj_id": tid, "ranked_loc_ids": ranked, "mode": "distance_fallback"}
-            save_json(PREDICTIONS_CACHE_DIR / f"{tid}.json", result)
-            return tid, ranked
-
         candidates = select_candidates(
             tid,
             context,
@@ -285,6 +160,10 @@ def predict_all(
             logger.info(f"\n{'='*60}\nPrompt for {tid}:\n{result.get('prompt', '')}\n{'='*60}")
             return tid, []
 
+        if not result.get("ranked_loc_ids"):
+            ranked = [c["loc_id"] for c in sorted(raw_candidates, key=lambda x: x.get("dist_km", 999.0))[:10]]
+            result = {"traj_id": tid, "ranked_loc_ids": ranked, "mode": "distance_fallback"}
+
         save_json(PREDICTIONS_CACHE_DIR / f"{tid}.json", result)
         return tid, result.get("ranked_loc_ids", [])
 
@@ -292,7 +171,7 @@ def predict_all(
         return all_predictions
 
     progress = Progress(len(to_predict), "Predictions")
-    if workers > 1 and not dry_run and mode != "reranker":
+    if workers > 1 and not dry_run:
         with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
             futures = {executor.submit(_predict_one, tid): tid for tid in to_predict}
             for future in concurrent.futures.as_completed(futures):
@@ -312,22 +191,16 @@ def predict_all(
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Predict next POI for test trajectories")
+    parser = argparse.ArgumentParser(description="Predict next POI for test trajectories with the llm-only pipeline")
+    parser.add_argument(
+        "--dataset",
+        type=str,
+        default=None,
+        help="Dataset name under datasets/ (e.g., nyc, tky, ca).",
+    )
     parser.add_argument("--traj-id", default=None, help="Predict for a single trajectory (debug)")
     parser.add_argument("--dry-run", action="store_true", help="Print prompt without API call")
     parser.add_argument("--workers", type=int, default=32, help="Parallel prediction workers")
-    parser.add_argument(
-        "--mode",
-        choices=["auto", "llm", "reranker", "hybrid"],
-        default="auto",
-        help="Prediction mode: auto prefers reranker if available, hybrid uses reranker shortlist + LLM final rank.",
-    )
-    parser.add_argument(
-        "--hybrid-top-n",
-        type=int,
-        default=HYBRID_TOP_N,
-        help="In hybrid mode, reranker shortlist size passed to the final LLM ranker.",
-    )
     parser.add_argument(
         "--forced-include-n",
         type=int,
@@ -336,6 +209,7 @@ def main():
     )
     parser.add_argument("--recompute", action="store_true", help="Re-predict even if cached")
     args = parser.parse_args()
+    logger.info(f"Active dataset: {DATASET_TAG} ({DATA_DIR})")
 
     data_loader = DataLoader()
     profiles = _load_profiles(data_loader, args.dry_run)
@@ -360,8 +234,6 @@ def main():
         workers=args.workers,
         recompute=args.recompute,
         transitions=transitions,
-        mode=args.mode,
-        hybrid_top_n=args.hybrid_top_n,
         forced_include_n=args.forced_include_n,
     )
 

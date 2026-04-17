@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1209",
+  "ranked_loc_ids": [
+    3486,
+    2050,
+    4527,
+    938,
+    4523,
+    2450,
+    4522,
+    372,
+    4518,
+    2809
+  ],
+  "explanations": {
+    "3486": "It is essentially adjacent to the last known LES location and fits the Friday night return-to-bar pattern best.",
+    "2050": "A highly recurrent evening venue for this user, and it matches the strong nightlife prior in the same corridor.",
+    "4527": "The user is already in this spot’s immediate area, making another nearby food stop plausible.",
+    "938": "Right next to the last location and a strong late-night social option for a Friday evening.",
+    "4523": "A nearby St Marks bar that aligns with the user’s compact LES nightlife pattern.",
+    "2450": "A familiar American food stop in the East Village that fits a late-night casual dining transition.",
+    "4522": "A nearby beer garden consistent with the user’s nighttime social behavior and neighborhood clustering.",
+    "372": "A known nightlife venue in the user’s history, though slightly farther west than the tight LES cluster.",
+    "4518": "The user has gym/wellness habits, so a later evening workout remains possible after dinner.",
+    "2809": "A frequent neighborhood errand spot, though less likely at night than a bar or venue."
+  },
+  "fallback": false
+}

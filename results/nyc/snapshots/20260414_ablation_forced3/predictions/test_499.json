@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_499",
+  "ranked_loc_ids": [
+    2778,
+    2777,
+    2779,
+    476,
+    1099,
+    1946,
+    724,
+    197,
+    1555,
+    2776
+  ],
+  "explanations": {
+    "2778": "Strongest return-to-home signal on a Sunday evening, and it is the last known location.",
+    "2777": "Very close to 34 Berry and fits the user’s recurring Williamsburg evening nightlife pattern.",
+    "2779": "A likely nearby errand stop in the user’s Brooklyn base, especially after time at home.",
+    "476": "Matches the user’s Williamsburg neighborhood routine and nearby recreational movement.",
+    "1099": "A nearby familiar Williamsburg food stop that fits an evening local outing.",
+    "1946": "A close bar option in the same neighborhood, consistent with the user’s occasional evening social pattern.",
+    "724": "Nearby nightlife venue that aligns with the user’s clustered Williamsburg evening behavior.",
+    "197": "Another close Williamsburg bar, plausible for a Sunday evening detour.",
+    "1555": "Nearby social venue in the Williamsburg corridor, but less tied to prior history than home or groceries.",
+    "2776": "Frequent in the user’s history, but much less likely than a Sunday evening return to Brooklyn."
+  },
+  "fallback": false
+}

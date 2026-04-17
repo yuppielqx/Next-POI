@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1588",
+  "ranked_loc_ids": [
+    126,
+    852,
+    4422,
+    3539,
+    710,
+    4992,
+    106,
+    137,
+    652,
+    4993
+  ],
+  "explanations": {
+    "126": "The strongest same-night continuity signal is that the user was last checked in here only about two hours earlier, making it the most likely place they remain near at midnight.",
+    "852": "It is immediately adjacent to the last known station and fits a late-night food stop if the user left the platform area briefly.",
+    "4422": "This nearby restaurant is a plausible Bayside-area destination following the station arrival and keeps the user in the same corridor.",
+    "3539": "The user’s strongest habitual pattern is frequent Dunkin’ visits, and a late-night convenience stop is consistent with their routine.",
+    "710": "This is another repeated coffee anchor in the user’s history, though it is less likely than staying near Bayside overnight.",
+    "4992": "A familiar Brooklyn food stop that matches the user’s routine errand-and-transit pattern.",
+    "106": "The user heavily favors transit-linked locations, so a station check-in is possible if they begin a longer return trip.",
+    "137": "Penn Station is a major hub that fits the user’s commuting style and could be visited during late-night travel.",
+    "652": "This is another transportation hub that aligns with the user’s corridor-based mobility, though it is less directly supported than nearby Bayside options.",
+    "4993": "The 1st Precinct is within the user’s downtown range and appears in their broader movement set, but it is a weaker fit than transit or food stops."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1327",
+  "ranked_loc_ids": [
+    1092,
+    137,
+    4674,
+    4675,
+    2366,
+    5208,
+    4412,
+    566,
+    1371,
+    59
+  ],
+  "explanations": {
+    "1092": "It is the dominant anchor in the user’s history and the most consistent return point after late-night movement.",
+    "137": "Penn Station is immediately adjacent to Madison Square Garden and fits the user’s repeated transit-linked transitions.",
+    "4674": "The user frequently pairs MSG-area stops with late-night fast food, making this a strong nearby follow-up.",
+    "4675": "Another repeated Penn Station food stop that matches the user’s overnight event-to-snack pattern.",
+    "2366": "Hotel Pennsylvania fits the user’s recurring hotel-like post-event transitions near Penn Station.",
+    "5208": "A very close Penn Station dining option that could plausibly follow an evening return to the same cluster.",
+    "4412": "This nearby bar aligns with the user’s nocturnal, event-oriented mobility and the Penn Station nightlife zone.",
+    "566": "A nearby Midtown West stop that matches the user’s tendency to stay within the Penn Station/Madison Square Garden area.",
+    "1371": "This is another close Midtown West dining venue that could fit a pre- or post-event chain.",
+    "59": "A nearby entertainment district that is a plausible broader Midtown continuation, though less tied to the user than Penn Station."
+  },
+  "fallback": false
+}

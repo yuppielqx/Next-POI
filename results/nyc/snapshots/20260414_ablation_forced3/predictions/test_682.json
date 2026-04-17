@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_682",
+  "ranked_loc_ids": [
+    3374,
+    2681,
+    78,
+    2212,
+    3372,
+    1270,
+    4742,
+    50,
+    2168,
+    3376
+  ],
+  "explanations": {
+    "3374": "Strong Monday-morning history and the best specific Midtown anchor for this time slot.",
+    "2681": "The user has repeated 9–11am taxi/transit behavior, fitting a morning movement transition.",
+    "78": "A frequent Chelsea-area stop with morning check-ins, close to the user’s current west-side cluster.",
+    "2212": "Very near the last location and previously visited in the 9–11am window, making it a plausible quick errand.",
+    "3372": "The strongest overall habitual anchor, though it is more commonly tied to later-day visits.",
+    "1270": "Same-location continuity is possible after the last known stop, especially for a Monday morning errand.",
+    "4742": "Nearby breakfast option that matches a morning food stop pattern despite no prior visits.",
+    "50": "A plausible nearby shopping errand in the user’s compact Manhattan routine.",
+    "2168": "A habitual West Side social venue, but less likely this early on a Monday morning.",
+    "3376": "A known Midtown food anchor, but weaker than Cafe Bonjour for this exact temporal context."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1854",
+  "ranked_loc_ids": [
+    1776,
+    1235,
+    59,
+    97,
+    560,
+    4893,
+    362,
+    1184,
+    4519,
+    3053
+  ],
+  "explanations": {
+    "1776": "This is the strongest habitual daytime destination for the user and fits the common Midtown business-meeting pattern after a short lunch-time hop.",
+    "1235": "A highly recurrent Midtown venue that often appears in the user’s Times Square corridor sequence and matches the current afternoon context.",
+    "59": "The user frequently returns here during the noon-to-2pm window, and it remains the core anchor of their Midtown movement pattern.",
+    "97": "The user is already at this location and often clusters repeated check-ins here within the same lunch period.",
+    "560": "Close to the current Midtown path and plausible for a quick food stop, though less central than the user’s top habitual venues.",
+    "4893": "A Midtown meeting-oriented place that fits the user’s business-hour mobility style and nearby corridor behavior.",
+    "362": "A plausible Midtown event-space destination, but it is less frequent and slightly farther from the established lunch cluster.",
+    "1184": "Very nearby in Union Square and therefore feasible for a short move, though it has little personal history.",
+    "4519": "An adjacent restaurant option that matches the short-hop lunch pattern, but it lacks prior user visits.",
+    "3053": "Nearby and lunch-appropriate, yet less supported by the user’s strong recurrent preferences than the Midtown anchors."
+  },
+  "fallback": false
+}

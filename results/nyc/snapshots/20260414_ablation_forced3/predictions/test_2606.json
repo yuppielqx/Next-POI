@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2606",
+  "ranked_loc_ids": [
+    4694,
+    173,
+    3468,
+    58,
+    1429,
+    3953,
+    4716,
+    613,
+    5720,
+    1678
+  ],
+  "explanations": {
+    "4694": "This is the strongest match because it is the user’s most frequent evening commute stop and a common transition from the current Harlem corridor.",
+    "173": "The user is already at this hub and frequently repeats it around this time, so a short continued stay or immediate return is plausible.",
+    "3468": "The user’s corridor regularly continues north toward the Bronx, and this station is a frequent end point in the evening commute pattern.",
+    "58": "Grand Central is a core Midtown anchor for this user and a common step in the return-to-commute sequence.",
+    "1429": "This major transfer point fits the user’s Midtown-bound commuting behavior and evening timing.",
+    "3953": "A routine commuter stop that often appears as a quick grab-and-go location in the user’s weekday travel chain.",
+    "4716": "This nearby intersection aligns closely with the current Harlem location and the user’s northbound movement trend.",
+    "613": "Similar users and local movement patterns make a nearby Harlem-area continuation possible, though less specific than the transit hubs.",
+    "5720": "The user occasionally visits cafés in the morning and could make a quick stop, but the evening commute makes this less likely.",
+    "1678": "A transit fallback candidate, but it is less consistent with the user’s regular Bronx-bound corridor than the higher-ranked hubs."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2090",
+  "ranked_loc_ids": [
+    1641,
+    36,
+    68,
+    5442,
+    46,
+    5024,
+    1701,
+    4433,
+    3798,
+    5688
+  ],
+  "explanations": {
+    "1641": "The last known point is already this major Brooklyn transit hub, making a continued stay or immediate transfer the strongest next step.",
+    "36": "The user repeatedly funnels through this L-train gateway when returning toward eastern Brooklyn and home.",
+    "68": "This residential Canarsie anchor is one of the user’s most frequent Tuesday destinations and fits the home-bound pattern.",
+    "5442": "The strongest end point in the user’s routine is home in Brooklyn, especially after southeast-bound movement.",
+    "46": "Nearby transit access is plausible given the user’s transit-heavy, transfer-oriented behavior.",
+    "5024": "A close Atlantic Ave L station fits the current Brooklyn movement corridor and similar users’ station-hopping pattern.",
+    "1701": "It is very close to the last location and could be part of a continued southeast transit sequence.",
+    "4433": "This nearby Brooklyn station is consistent with the user’s repeated L-line adjacency and local movement.",
+    "3798": "A quick food stop is possible, but it is less consistent than the user’s usual transit-to-home pattern.",
+    "5688": "A local convenience stop is feasible, though it is a weaker match than the transit and residence options."
+  },
+  "fallback": false
+}

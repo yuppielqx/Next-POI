@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2537",
+  "ranked_loc_ids": [
+    290,
+    1669,
+    1668,
+    5324,
+    895,
+    123,
+    805,
+    692,
+    2368,
+    67
+  ],
+  "explanations": {
+    "290": "The user’s strongest anchor is Queens and they frequently return to Flushing after Manhattan outings, making it the best morning reset location.",
+    "1669": "Junction Blvd is a repeat Queens transit stop that fits the user’s routine, especially for a weekday morning return trip.",
+    "1668": "This station matches the user’s Queens core and has strong evidence for morning-hour check-ins in their history.",
+    "5324": "The user often pairs transit with fitness errands in Queens, and a morning gym visit fits their established pattern.",
+    "895": "Citi Field has multiple Tuesday visits in the user’s history and sits in the same Flushing-area orbit.",
+    "123": "The user shows a leisure/shopping-heavy profile, and this Queens mall is a plausible errand stop near their core area.",
+    "805": "Parks appear in the user’s weekend/holiday leisure pattern, and this Flushing-area park fits a daytime outing.",
+    "692": "The user sometimes ends the day or re-centers in Queens neighborhoods like Woodside, making it a plausible return destination.",
+    "2368": "Morning timing and the user’s coffee-plus-transit habits make a Starbucks stop plausible, even though this specific one is less aligned than Queens options.",
+    "67": "The user does visit Manhattan leisure spots, and a morning stop here is possible though less likely than a Queens return."
+  },
+  "fallback": false
+}

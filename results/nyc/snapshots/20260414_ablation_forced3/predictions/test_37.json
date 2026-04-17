@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_37",
+  "ranked_loc_ids": [
+    329,
+    348,
+    244,
+    879,
+    331,
+    338,
+    352,
+    207,
+    1688,
+    332
+  ],
+  "explanations": {
+    "329": "The user’s strongest habitual anchor is here, it matches the Saturday morning time slot, and they were last observed at the same location.",
+    "348": "Their routine often pairs the main anchor with nearby coffee stops, and this is one of the closest and most frequently visited café options.",
+    "244": "This is a very close, repeatedly used food stop in the same Madison Square cluster and fits a short morning transition.",
+    "879": "It is essentially the same immediate area as the last stop and aligns with the user’s pattern of lingering around the core outdoor destination.",
+    "331": "A nearby coffee shop with prior Saturday and early-morning activity, making it a plausible next routine stop.",
+    "338": "The user has a history of nearby bakery/food visits, and this remains within their compact Flatiron/Madison Square circuit.",
+    "352": "This bakery matches the user’s morning-oriented food pattern and is close enough to fit a small-radius move.",
+    "207": "Very near the anchor and consistent with the user’s preference for convenient daytime food venues around the park.",
+    "1688": "The location is adjacent to the anchor and could reflect a short routine transition within the same work-centered area.",
+    "332": "It is a Saturday-relevant nearby destination that fits the user’s local, daytime, short-distance mobility style."
+  },
+  "fallback": false
+}

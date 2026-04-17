@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_631",
+  "ranked_loc_ids": [
+    756,
+    3233,
+    3229,
+    1345,
+    1935,
+    1931,
+    3232,
+    2451,
+    3230,
+    3227
+  ],
+  "explanations": {
+    "756": "This is the user’s dominant morning anchor and the strong Sunday 08:59 prior makes a return here overwhelmingly likely.",
+    "3233": "It is the closest user-history candidate near the last location and fits a quick Brooklyn food stop after dinner.",
+    "3229": "A frequent-style neighborhood dining option in the same Brooklyn circuit, making it a plausible short hop from the last venue.",
+    "1345": "The user favors local food and drink spots in this area, and it sits well within the compact Brooklyn radius.",
+    "1935": "This aligns with the user’s established Brooklyn nightlife and pub pattern, though the morning timing makes it less likely.",
+    "1931": "Another proven Brooklyn nightlife destination that matches the user’s social outing behavior.",
+    "3232": "A nearby bar in the same neighborhood cluster, consistent with the user’s bar-heavy local movement patterns.",
+    "2451": "A known Brooklyn pub in the user’s wider circuit, but farther from the last location than the top local options.",
+    "3230": "A plausible Brooklyn destination tied to the Prospect Park/Flatbush corridor, though with only one historical visit.",
+    "3227": "The user was just here last night, so a revisit is possible but less likely than returning to the morning anchor."
+  },
+  "fallback": false
+}

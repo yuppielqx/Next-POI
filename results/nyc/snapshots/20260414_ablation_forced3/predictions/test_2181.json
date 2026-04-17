@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2181",
+  "ranked_loc_ids": [
+    4007,
+    2154,
+    1630,
+    728,
+    67,
+    1613,
+    5291,
+    1266,
+    2142,
+    4739
+  ],
+  "explanations": {
+    "4007": "It is immediately adjacent to the last stop and fits the user's strong lunch-to-afternoon food movement pattern in the same East Village/Lower Manhattan cluster.",
+    "2154": "A nearby deli/bodega matches a short post-lunch errand move, and the user often makes brief clustered stops around St. Marks and NYU.",
+    "1630": "This nearby bookstore aligns with the user's strong bookstore/education tendency and is plausible for a Saturday afternoon.",
+    "728": "The user has a recurring Saturday pattern here, and the moderate nearby move fits an afternoon errand or social prep stop.",
+    "67": "This is a frequent Saturday destination within the user's usual Manhattan corridor and is close enough for a short south-to-north drift.",
+    "1613": "A repeat bookstore anchor in the user's profile, likely for an afternoon browsing or study-related visit.",
+    "5291": "The user's history strongly favors educational anchors, and this is one of their most repeated nearby study locations.",
+    "1266": "Despite being slightly farther, it is the strongest repeat anchor overall and a known 3–5pm destination for this user.",
+    "2142": "A coffee stop is consistent with the user's routine, though the direction and distance make it less likely than closer East Village options.",
+    "4739": "A repeat fast-casual choice in the user's pattern, but it is more likely earlier or later than this specific short afternoon transition."
+  },
+  "fallback": false
+}

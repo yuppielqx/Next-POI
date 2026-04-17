@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_422",
+  "ranked_loc_ids": [
+    2476,
+    2477,
+    647,
+    2486,
+    2490,
+    386,
+    2478,
+    329,
+    276,
+    344
+  ],
+  "explanations": {
+    "2476": "Tuesday morning and the user's strongest recurring weekday anchor is their office in Chelsea/Flatiron.",
+    "2477": "A plausible pre-work café stop near the work corridor, especially given the early 08:50 timing.",
+    "647": "Very close to the last location and consistent with a quick morning errand or coffee stop near the office.",
+    "2486": "Another nearby morning grab-and-go food option that fits a commute pattern before work.",
+    "2490": "A nearby food stop in the same area that could fit a breakfast or quick errand before the office.",
+    "386": "This Ainsworth bar is adjacent to the prior cluster, making it a possible nearby continuation despite the morning time.",
+    "2478": "A close-by hotel bar that is geographically plausible but less likely for an early Tuesday morning.",
+    "329": "Madison Square Park is nearby and could be a brief transitional stop in the work area.",
+    "276": "The user has visited practical retail spots near Chelsea, though it is less likely at this hour.",
+    "344": "A nearby lunch/bar venue in the same Manhattan corridor, but the morning timing makes it a weaker fit."
+  },
+  "fallback": false
+}

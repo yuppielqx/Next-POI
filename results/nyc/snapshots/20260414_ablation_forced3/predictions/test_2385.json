@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2385",
+  "ranked_loc_ids": [
+    5270,
+    2342,
+    4350,
+    1347,
+    5271,
+    4930,
+    2886,
+    103,
+    109,
+    5269
+  ],
+  "explanations": {
+    "5270": "It is the strongest late-night anchor in the user’s history and the best match for a Tuesday 23:41 continuation from the downtown Jersey City nightlife circuit.",
+    "2342": "It is the current area’s immediate anchor and a plausible stay/return within the same downtown social cluster.",
+    "4350": "It is extremely close to the last stop and fits a short northwest move without leaving the neighborhood.",
+    "1347": "It is a nearby bar in the same nightlife corridor, making it a natural next social stop after The Hamilton Inn.",
+    "5271": "Another close nightlife venue that fits the user’s evening-oriented pattern and short-distance movement.",
+    "4930": "This nearby lounge matches the user’s late-night social behavior and is within the downtown Jersey City bar network.",
+    "2886": "A nearby food option that fits a late-night post-bar chain in the user’s core Jersey City area.",
+    "103": "The user has a history with liquor-store errands and it is very close to the current location.",
+    "109": "A nearby transit node that fits a possible move toward changing areas after a downtown stop.",
+    "5269": "A nearby late-night food option that could plausibly follow an evening bar visit."
+  },
+  "fallback": false
+}

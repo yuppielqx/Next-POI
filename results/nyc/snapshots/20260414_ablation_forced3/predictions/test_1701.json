@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1701",
+  "ranked_loc_ids": [
+    114,
+    2014,
+    2644,
+    5104,
+    1260,
+    116,
+    2008,
+    67,
+    382,
+    137
+  ],
+  "explanations": {
+    "114": "This is the strongest transit-node match in the user's history and fits the northwest movement toward lower Manhattan during the evening commute window.",
+    "2014": "It is extremely close to the last location and a major transfer hub, making it a natural next step before heading elsewhere.",
+    "2644": "This location is heavily frequented, geographically adjacent to the current stop, and aligns with the user's transit-oriented pattern.",
+    "5104": "As the clearest home anchor, it is a highly plausible evening return destination after a daytime stop in Brooklyn.",
+    "1260": "This frequent Manhattan transit point matches the user's commuting behavior and the evening timing of cross-borough movement.",
+    "116": "The user has substantial history here and the station fits a transit-heavy trip, though it is less aligned with the northwest trend.",
+    "2008": "This Brooklyn station is part of the user's usual corridor and could be visited on a return toward Ditmas Park.",
+    "67": "Evening Manhattan activity sometimes lands here, and it appears in the user's broader pattern as a plausible social/transit stop.",
+    "382": "A nightlife venue is possible at this hour given the Thursday evening prior, but it is less likely than a transit node.",
+    "137": "Penn Station is a viable Manhattan transit destination, but it is weaker than the user's more repeated Brooklyn-bridge corridor stations."
+  },
+  "fallback": false
+}

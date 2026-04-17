@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2625",
+  "ranked_loc_ids": [
+    1914,
+    5047,
+    2932,
+    5730,
+    5731,
+    2203,
+    137,
+    338,
+    421,
+    1036
+  ],
+  "explanations": {
+    "1914": "The user is just at Port Authority and the strongest immediate morning pattern is a nearby coffee/breakfast stop in transit.",
+    "5047": "This best matches the user’s habitual East Village/NoHo morning pastry routine and the Friday morning time prior.",
+    "2932": "A frequent Friday-associated daytime stop in the user’s core neighborhood makes this a strong breakfast/coffee alternative.",
+    "5730": "Another repeated morning food stop near the user’s usual Astor Place/East Village cluster fits the temporal pattern well.",
+    "5731": "The user has visited this coffee shop before, and the morning context makes a café visit plausible despite the Brooklyn distance.",
+    "2203": "The user regularly visits this gym in the evening, but an early-day workout is still possible after the transit stop.",
+    "137": "Similar users often transition to Penn Station from a transport hub, so this nearby Manhattan transit continuation is plausible.",
+    "338": "A bakery-style stop in Manhattan can fit a Friday morning errand/food pattern, though it is less central than East Village options.",
+    "421": "Weekend-night behavior makes nightlife venues plausible in general, but the morning timing makes this unlikely.",
+    "1036": "The user has nightlife tendencies here, but the target time strongly disfavors a music venue this early."
+  },
+  "fallback": false
+}

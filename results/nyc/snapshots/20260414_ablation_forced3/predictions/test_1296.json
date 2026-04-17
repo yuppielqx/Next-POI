@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1296",
+  "ranked_loc_ids": [
+    4648,
+    4649,
+    1527,
+    1204,
+    3135,
+    1709,
+    4650,
+    1522,
+    1538,
+    773
+  ],
+  "explanations": {
+    "4648": "It is the strongest recurring afternoon destination in the user’s West Village core and is only a short move from McCarthy Square.",
+    "4649": "The user is already here, and short dwell/return behavior is plausible given the very small time gap.",
+    "1527": "It is extremely close in the same neighborhood and fits the user’s strong nightlife-oriented Greenwich Village pattern.",
+    "1204": "This nearby Village bar matches the user’s social outing profile and is a natural short-hop from the last location.",
+    "3135": "A nearby practical errand stop in the same local cluster is consistent with the user’s dense downtown movements.",
+    "1709": "Another close pharmacy option in the West Village area, fitting a brief local transition.",
+    "4650": "A nearby casual food stop could follow a plaza visit, especially in an afternoon local outing.",
+    "1522": "The user often uses transit in this corridor, and a station visit would support continued movement west/south.",
+    "1538": "This nearby subway access point is another plausible connector for a short downtown trip.",
+    "773": "A nearby bar in the broader Greenwich Village/SoHo area fits the user’s social, repeat-venue behavior even if it is a bit farther away."
+  },
+  "fallback": false
+}

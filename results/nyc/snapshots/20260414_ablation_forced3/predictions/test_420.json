@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_420",
+  "ranked_loc_ids": [
+    2461,
+    359,
+    2332,
+    4046,
+    3203,
+    9,
+    4071,
+    3527,
+    2460,
+    1602
+  ],
+  "explanations": {
+    "2461": "Strong weekday morning routine makes a return to the user’s dominant SoHo workplace the most likely next stop.",
+    "359": "It was the last known location and has prior Tuesday visits, so a repeat is plausible if the user is continuing the same evening-oriented orbit.",
+    "2332": "It is very close in lower Manhattan and fits the user’s SoHo-area movement pattern, especially if they briefly stop for breakfast or a meeting.",
+    "4046": "This nearby office matches the user’s professional profile and could serve as an alternate work-related destination in the same neighborhood.",
+    "3203": "A coworking space in the immediate area is consistent with the user’s office-centric weekday behavior.",
+    "9": "A café nearby could fit a morning coffee stop before or after returning to the work base.",
+    "4071": "Another close morning coffee option that aligns with a Tuesday 10 AM commute pattern.",
+    "3527": "The user may be in transit within lower Manhattan, and this station supports the compact movement radius.",
+    "2460": "A known leisure stop in the user’s orbit, though less likely at this morning time than a workplace return.",
+    "1602": "Prior visits show it is part of the user’s work network, but it is farther away and less temporally aligned than ICED Media."
+  },
+  "fallback": false
+}

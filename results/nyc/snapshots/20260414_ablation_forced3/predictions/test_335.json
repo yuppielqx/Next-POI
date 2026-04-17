@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_335",
+  "ranked_loc_ids": [
+    59,
+    274,
+    67,
+    329,
+    345,
+    2088,
+    2074,
+    2090,
+    586,
+    2093
+  ],
+  "explanations": {
+    "59": "This is the user’s strongest repeated Midtown afternoon destination and fits a short northward move from the current restaurant.",
+    "274": "A frequent daytime hangout for this user, and it matches their park/square preference near the Midtown corridor.",
+    "67": "Highly consistent with the user’s outdoor leisure pattern, though it is a bit farther south than the current northward trend.",
+    "329": "Madison Square Park is a recurring outdoor stop for the user and is a plausible nearby leisure destination after lunch.",
+    "345": "The High Line matches the user’s affinity for outdoor walking spots and is a solid Manhattan follow-up location.",
+    "2088": "A times-square-area outdoor landmark that fits the user’s repeated Midtown revisits and immediate geography.",
+    "2074": "This park is northbound from the last location and aligns with the user’s interest in waterfront outdoor spots.",
+    "2090": "A practical errand stop near the current area, supported by the user’s occasional routine movement chain behavior.",
+    "586": "Herald Square is a common Midtown square destination that fits the afternoon leisure-and-errand pattern.",
+    "2093": "A nearby grocery stop that matches the user’s mixed errand behavior, though less favored than the outdoor options."
+  },
+  "fallback": false
+}

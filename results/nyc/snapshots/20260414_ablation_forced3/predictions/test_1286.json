@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1286",
+  "ranked_loc_ids": [
+    2289,
+    3712,
+    2158,
+    3716,
+    171,
+    1771,
+    4642,
+    476,
+    2473,
+    2344
+  ],
+  "explanations": {
+    "2289": "Friday evening and strong repeat history make this the most likely downtown live-music destination.",
+    "3712": "Another Friday-favored Lower East Side rock club that fits the user’s nightlife pattern.",
+    "2158": "A frequent music venue in the same LES corridor, consistent with a return-to-familiar-places move.",
+    "3716": "Closely related to the top choice and equally aligned with the user’s live-music routine.",
+    "171": "A downtown nightlife spot that matches the evening music-bar pattern, though with fewer prior visits.",
+    "1771": "A music venue in the user’s preferred Manhattan nightlife cluster, plausible after dinner in Brooklyn.",
+    "4642": "The user has a work/coworking pattern here, but the Friday evening timing makes it less likely than nightlife.",
+    "476": "Strong home-base anchor and nearby, but the late-evening Friday prior favors Manhattan entertainment instead.",
+    "2473": "Very close to the last location and on the south-east trend, but it is more of a practical stop than a likely next destination.",
+    "2344": "A Manhattan evening venue that fits the time of day, though it is less central to the user’s core repeat pattern."
+  },
+  "fallback": false
+}

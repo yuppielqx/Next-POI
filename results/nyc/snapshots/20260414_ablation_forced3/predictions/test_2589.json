@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2589",
+  "ranked_loc_ids": [
+    390,
+    778,
+    1072,
+    3263,
+    1617,
+    1216,
+    2415,
+    1277,
+    67,
+    3691
+  ],
+  "explanations": {
+    "390": "The user has just checked in here and the 7-minute target gap makes lingering or immediate reuse the most likely outcome.",
+    "778": "It is the closest nearby café option in SoHo and fits a short post-meal coffee stop.",
+    "1072": "The user is already in SoHo, and a brief neighborhood-level move is plausible after Balthazar.",
+    "3263": "A nearby low-friction food stop fits the user’s food-oriented routine and the current southward drift.",
+    "1617": "After dining, a quick retail browse in the same immediate block is possible.",
+    "1216": "It is an immediate adjacent point in the same area, though office visits are less consistent with the user’s pattern.",
+    "2415": "A nearby wellness stop is possible but less aligned with the user’s strong food-and-cafe habits.",
+    "1277": "It matches the user’s restaurant tendency, but it is a bit farther than the most likely immediate SoHo options.",
+    "67": "The user often stays within Manhattan corridors, but a park visit is less consistent than another food stop.",
+    "3691": "This matches the user’s dessert habit, but it is farther from the current SoHo trajectory than nearby options."
+  },
+  "fallback": false
+}

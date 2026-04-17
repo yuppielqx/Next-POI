@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1631",
+  "ranked_loc_ids": [
+    5033,
+    1990,
+    1812,
+    537,
+    788,
+    2445,
+    1005,
+    349,
+    1997,
+    282
+  ],
+  "explanations": {
+    "5033": "It is extremely close to the last known location, matches the user’s repeated pizza routine, and fits the southwest movement trend.",
+    "1990": "This is a frequent weekday stop and is only a short distance from the current position, making it a strong habitual return.",
+    "1812": "The user often shifts to late-evening dining, and this is one of their strongest 9–11pm recurring venues in the Chelsea corridor.",
+    "537": "This lounge aligns well with the user’s occasional nightlife pattern and has a history of late-night visits around this hour.",
+    "788": "A nearby cocktail bar that matches the user’s selective nightlife behavior and is well-positioned for a Wednesday night outing.",
+    "2445": "This nearby beer garden fits the late-night social pattern and is close to the user’s current Manhattan corridor.",
+    "1005": "It has some time-slot relevance and sits within the broader nightlife-oriented downtown area the user frequents.",
+    "349": "The user has repeated late-night cinema behavior, and this Chelsea location fits the 22:30 window well.",
+    "1997": "A nearby coffee stop remains plausible given the user’s strong coffee habit, though the late-night timing makes it less likely.",
+    "282": "This nightlife venue is within the user’s broader Manhattan pattern and could attract a late-evening transition, but it is less central than the top choices."
+  },
+  "fallback": false
+}

@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2665",
+  "ranked_loc_ids": [
+    1753,
+    4406,
+    1742,
+    3657,
+    4452,
+    2872,
+    4661,
+    1754,
+    710
+  ],
+  "explanations": {
+    "1753": "The user is already in DUMBO at the target time, and this neighborhood is a dominant repeat stop in their afternoon routine.",
+    "4406": "It is extremely close, frequently visited on Wednesdays in the 3–5pm window, and fits the user’s school/work transition pattern.",
+    "1742": "Brooklyn Heights is part of the same compact core area and is a common next move from DUMBO during late afternoon.",
+    "3657": "The gym is one of the user’s strongest habitual destinations, and an afternoon return there fits their routine-driven behavior.",
+    "4452": "This is the likely nearby return point if the user is ending a short outing and heading back home.",
+    "2872": "The user repeatedly uses Starbucks as a midday-to-afternoon comfort stop within their Brooklyn routine.",
+    "4661": "This is a frequent local dining destination and a plausible afternoon-to-evening stop near the user’s usual cluster.",
+    "1754": "Very close to the last location and sometimes appears in the user’s local neighborhood transitions, making it a plausible short hop.",
+    "710": "This nearby Starbucks is a realistic coffee follow-up within the same DUMBO area and matches the user’s coffee habit."
+  },
+  "fallback": false
+}

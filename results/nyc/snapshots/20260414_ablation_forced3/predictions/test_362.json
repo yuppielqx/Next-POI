@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_362",
+  "ranked_loc_ids": [
+    137,
+    3951,
+    1283,
+    5208,
+    918,
+    962,
+    4675,
+    1264,
+    2195,
+    681
+  ],
+  "explanations": {
+    "137": "It is the current location and the strongest return-to-last candidate, with the user frequently transitioning here.",
+    "3951": "If the user is in the Penn Station cluster, a nearby subway transfer is a very plausible next step.",
+    "1283": "Extremely close to the current spot and a common nearby errand destination in the Penn Station area.",
+    "5208": "A nearby food stop fits the afternoon time and the user’s tendency to make brief campus-or-transit-linked stops.",
+    "918": "Coffee breaks are a likely short stop during an afternoon transit-heavy movement.",
+    "962": "A quick meal option near Penn Station is plausible before continuing movement.",
+    "4675": "Another immediate food option that matches a short-distance, low-commitment next visit.",
+    "1264": "A nearby convenience/pharmacy stop is a realistic quick errand in this area.",
+    "2195": "This nearby fast-food stop fits the user’s likely pattern of short transitional visits.",
+    "681": "The user’s strongest long-run anchor is the university, but the distance makes it less likely than nearby Penn Station options right now."
+  },
+  "fallback": false
+}

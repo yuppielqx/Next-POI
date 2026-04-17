@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_941",
+  "ranked_loc_ids": [
+    1805,
+    468,
+    2267,
+    4018,
+    3322,
+    2272,
+    1078,
+    2277,
+    2367,
+    2986
+  ],
+  "explanations": {
+    "1805": "The last known location is the strongest signal, and the user frequently returns here in the Upper West Side hub.",
+    "468": "It is extremely close to ABC-TV and fits the user’s repeated Lincoln Center/Columbus Avenue movement pattern.",
+    "2267": "This nearby Fordham University stop has strong Wednesday history and is plausible in the same Manhattan cluster.",
+    "4018": "The user often pairs ABC-TV-area visits with nearby food stops, and this is one of their recurring favorites.",
+    "3322": "A frequent coffee-shop style errand spot right in the user’s core Upper West Side zone.",
+    "2272": "Very close to the last location and consistent with short-hop leisure/food checks around Columbus Avenue.",
+    "1078": "Another nearby repeat coffee destination that matches the user’s daytime-to-nighttime routine.",
+    "2277": "A known recurring dining stop in the same neighborhood, likely after or between hub check-ins.",
+    "2367": "This deli is part of the user’s familiar Columbus Avenue cluster and has repeated history.",
+    "2986": "The user was here earlier in the trip, making a return possible even though it is less likely than the Manhattan hub options."
+  },
+  "fallback": false
+}

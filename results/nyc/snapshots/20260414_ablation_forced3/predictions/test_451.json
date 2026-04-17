@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_451",
+  "ranked_loc_ids": [
+    2616,
+    2615,
+    2618,
+    2619,
+    2617,
+    2620,
+    2624,
+    2626,
+    2625,
+    2623
+  ],
+  "explanations": {
+    "2616": "The user’s routine strongly favors a return to home base in the evening, and this is one of the two most likely anchors after a late-night transit stop.",
+    "2615": "This is the other dominant routine anchor and a very frequent destination, making it highly plausible for a Thursday evening check-in.",
+    "2618": "The user repeatedly uses this Fair Lawn diner for practical meals, so it fits an evening stop after travel.",
+    "2619": "A recurring Fair Lawn food stop with prior afternoon/evening presence, making it a plausible routine return.",
+    "2617": "A regular nearby restaurant in the user’s suburban orbit, though it is a bit more morning-leaning than the current time.",
+    "2620": "A practical errand destination that matches the user’s conventional, errand-based pattern.",
+    "2624": "Already visited during the current trip and within the user’s tight local orbit, so a return is possible.",
+    "2626": "Grocery/errand behavior fits the profile, though it is less frequently visited than the core anchors.",
+    "2625": "Another practical suburban errand stop that fits the user’s typical movement style.",
+    "2623": "A common nearby shopping destination in the user’s Bergen County pattern, but less favored than home, church, or routine food stops."
+  },
+  "fallback": false
+}

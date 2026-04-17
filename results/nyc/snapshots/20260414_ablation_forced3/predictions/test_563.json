@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_563",
+  "ranked_loc_ids": [
+    3006,
+    557,
+    1198,
+    107,
+    3013,
+    2794,
+    59,
+    1983,
+    2072,
+    2975
+  ],
+  "explanations": {
+    "3006": "This is the user's strongest habitual nightlife anchor and the most likely evening return point after a Manhattan pub stop.",
+    "557": "The user frequently uses cross-Hudson transit in the evening, and the northwest movement fits a Jersey City-bound return.",
+    "1198": "A Jersey City transit move is plausible as part of heading back toward the user’s habitual home-area routine.",
+    "107": "Newport PATH Station is a strong connector for returning from Midtown to Jersey City after an evening outing.",
+    "3013": "The user is already at a nightlife venue and may simply continue the evening there or linger nearby.",
+    "2794": "A nearby Manhattan bar is consistent with the user’s nightlife-heavy pattern around this time.",
+    "59": "The user has a history of focused Midtown entertainment visits, and this is very close to the last known location.",
+    "1983": "Another Midtown bar fits the user’s evening socializing behavior and Manhattan nightlife corridor.",
+    "2072": "A nightlife stop in Manhattan remains plausible for a Wednesday evening outing before returning to Jersey City.",
+    "2975": "An entertainment venue in the same Midtown area could be part of a broader evening activity sequence."
+  },
+  "fallback": false
+}

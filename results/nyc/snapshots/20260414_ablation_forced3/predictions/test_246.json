@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_246",
+  "ranked_loc_ids": [
+    1666,
+    1675,
+    1669,
+    1668,
+    1674,
+    3456,
+    927,
+    769,
+    1672,
+    134
+  ],
+  "explanations": {
+    "1666": "This is the user’s strongest routine anchor and the best match for an evening return from Citi Field Parking Lot.",
+    "1675": "It is the exact current location and a highly recurrent park-and-ride stop with strong evening-slot history.",
+    "1669": "A nearby 7-line station that fits the user’s short, corridor-based Queens commuting pattern.",
+    "1668": "Close to the current Flushing/Corona corridor and plausible as the next stop on a short east-side transit move.",
+    "1674": "Extremely nearby to the current area and included as a forced nearby keep, though much less routine than transit nodes.",
+    "3456": "Another very close Mets-Willets Point-area nearby keep, but with no prior history making it less likely than transit stops.",
+    "927": "A frequent user location on the 7 line that fits a commute-related transfer pattern, though farther from the current spot.",
+    "769": "A major repeat hub in the user’s history and a plausible commute node, but not as immediate as the eastern Queens anchors.",
+    "1672": "A common Long Island City destination in the user’s pattern, especially for workday corridor travel.",
+    "134": "A broader transit hub that could appear in a transfer sequence, but it is less specific to the user’s core routine."
+  },
+  "fallback": false
+}

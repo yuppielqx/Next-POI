@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_626",
+  "ranked_loc_ids": [
+    181,
+    1581,
+    1583,
+    2604,
+    1562,
+    3217,
+    1730,
+    3213,
+    248,
+    1038
+  ],
+  "explanations": {
+    "181": "It is the strongest Midtown gym anchor in the user’s history and fits a short post-work fitness continuation just south-east of the last Equinox.",
+    "1581": "Another frequent exercise node in the same corridor, making a nearby return to a familiar Equinox location very plausible.",
+    "1583": "A quick healthy food stop near the gym matches the user’s pattern of chaining workouts with food in Midtown.",
+    "2604": "A nearby hotel fits an evening transition in Midtown, especially after a fitness stop and before dinner or social plans.",
+    "1562": "A close gym alternative in Midtown, consistent with the user’s heavy fitness routine and same-area movement.",
+    "3217": "This nearby restaurant is a plausible after-gym dinner destination in the Plaza District/Midtown corridor.",
+    "1730": "Saks Fifth Avenue is close by and could fit a brief retail errand in the same Midtown area after an evening workout.",
+    "3213": "The user has evening social tendencies, and this bar matches the post-gym drink pattern seen in similar users.",
+    "248": "A park visit is plausible given the user’s recreational pattern, though less likely this late and from the current location.",
+    "1038": "A food stop is possible after the workout, but it is farther away and less aligned with the immediate Midtown clustering."
+  },
+  "fallback": false
+}

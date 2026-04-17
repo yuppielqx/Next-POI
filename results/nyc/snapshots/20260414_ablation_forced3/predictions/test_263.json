@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_263",
+  "ranked_loc_ids": [
+    1755,
+    24,
+    2474,
+    908,
+    23,
+    2452,
+    2493,
+    2208,
+    221,
+    1047
+  ],
+  "explanations": {
+    "1755": "It is a cocktail bar very close to the current Williamsburg nightlife cluster and matches the user’s strong evening social pattern.",
+    "24": "Another nearby cocktail bar that fits a Thursday evening venue-to-venue transition in the same Brooklyn nightlife corridor.",
+    "2474": "A nearby bar that aligns with the user’s bar-heavy outing chain and the northward movement trend.",
+    "908": "This nearby bar is consistent with the user’s social drinking pattern and similar-users behavior of moving to another pub after 18:17.",
+    "23": "A beer-focused social venue that matches the user’s prior beer garden history and evening leisure profile.",
+    "2452": "A close food-and-drink spot that fits a short hop to another casual nighttime venue.",
+    "2493": "A nearby Cajun/Creole restaurant with nightlife appeal, plausible for continuing an evening outing.",
+    "2208": "A nearby restaurant option that fits a dinner stop after an early-evening cocktail bar.",
+    "221": "A nearby American restaurant that suits a neighborhood dining transition from the last bar visit.",
+    "1047": "A music venue in the same area, making it a plausible next stop for an evening social outing."
+  },
+  "fallback": false
+}

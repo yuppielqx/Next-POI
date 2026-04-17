@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2182",
+  "ranked_loc_ids": [
+    722,
+    721,
+    725,
+    67,
+    2984,
+    728,
+    980,
+    4007,
+    4209,
+    1266
+  ],
+  "explanations": {
+    "722": "It is the closest nightlife option near the last known location, and the late-night pattern strongly favors staying in the Williamsburg nightlife corridor.",
+    "721": "A very nearby late-night food stop fits a post-bar continuation after Union Pool better than a long cross-town move.",
+    "725": "Re-visiting the current venue is plausible given the short time gap and the user’s repetitive evening social pattern.",
+    "67": "This is the strongest Manhattan late-night anchor in the user’s history and matches the nightlife-to-social corridor signal.",
+    "2984": "A nearby East Village restaurant is consistent with a late-night dining move while trending northeast.",
+    "728": "This fits the user’s evening social profile and is near the Union Square/NoHo nightlife orbit.",
+    "980": "An evening entertainment stop is plausible given the target time and the user’s mixed social/entertainment behavior.",
+    "4007": "Another nearby dinner option that aligns with the user’s repeated food-related evening transitions.",
+    "4209": "The user frequently visits Chipotle, and a quick casual-food return remains possible despite the nightlife bias.",
+    "1266": "Their strong history at Pace University makes it a recurring anchor, though it is less likely at this late-night hour."
+  },
+  "fallback": false
+}

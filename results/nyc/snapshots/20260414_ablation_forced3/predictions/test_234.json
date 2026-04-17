@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_234",
+  "ranked_loc_ids": [
+    1636,
+    1635,
+    890,
+    1648,
+    1638,
+    1649,
+    1637,
+    1644,
+    1633,
+    1631
+  ],
+  "explanations": {
+    "1636": "The user repeatedly visits this coffee stop in the weekday morning window and it is the strongest breakfast-before-work pattern near the current area.",
+    "1635": "This is the user’s primary coworking hub and the most likely destination after a morning gym stop on a Wednesday.",
+    "890": "It is the last known location and the user has a small but relevant history of returning here on Wednesdays.",
+    "1648": "A nearby coffee shop fits the post-gym morning routine and the user’s workday pattern.",
+    "1638": "A frequent nearby lunch/quick-service option that matches the user’s habit of short-range routine stops.",
+    "1649": "Another close food stop consistent with the user’s midday workday errands and quick meals.",
+    "1637": "Very close to the last location and category-matched to the user’s habitual deli/food stop behavior.",
+    "1644": "A nearby food option that could plausibly be chosen during a routine morning-to-midday transition.",
+    "1633": "A lower-Manhattan office/coworking-type venue that fits the user’s work-centered mobility, though it is less historically central.",
+    "1631": "A nearby coffee/tea stop that fits the morning transition pattern but has weaker historical support than the top choices."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2438",
+  "ranked_loc_ids": [
+    2674,
+    2653,
+    613,
+    5223,
+    112,
+    116,
+    137,
+    842,
+    131,
+    139
+  ],
+  "explanations": {
+    "2674": "This is the strongest repeat upper-Manhattan destination in the user’s history and fits the recent move from 145th Street.",
+    "2653": "The user is already at this station and often uses it as part of the Harlem/upper-Manhattan cluster.",
+    "613": "The current trajectory and afternoon timing strongly support a short continuation within the nearby Harlem area.",
+    "5223": "It is very close to the last stop and matches the northbound/upper-Manhattan movement pattern.",
+    "112": "The user frequently stays within Manhattan transit nodes, and this is a plausible southward continuation.",
+    "116": "This is the user’s most common anchor, but it is less likely immediately after moving north to 145th Street.",
+    "137": "Penn Station is a major transit hub that fits the user’s transfer-heavy behavior and Manhattan corridor usage.",
+    "842": "Another likely transfer point for a transit-oriented traveler moving through Manhattan.",
+    "131": "The Queensboro Bridge route is consistent with cross-borough transit movement and bridge usage.",
+    "139": "A Jamaica-bound rail return is possible later in the day, though not the strongest next step right after 145th Street."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1789",
+  "ranked_loc_ids": [
+    4876,
+    2903,
+    125,
+    4381,
+    5177,
+    4441,
+    1500,
+    3969,
+    5176,
+    3394
+  ],
+  "explanations": {
+    "4876": "This is the dominant weekday morning destination in the user’s history and best matches the 10:21 commute timing from Rockaway Boulevard toward Brooklyn Heights.",
+    "2903": "The user was just here and short dwell time or a transfer still makes a station-to-station continuation plausible.",
+    "125": "Jay St-MetroTech fits the Brooklyn commute corridor and is a common transit step before reaching St. Francis College.",
+    "4381": "This major Brooklyn transfer hub is near the college and is a likely intermediate morning stop.",
+    "5177": "The user has repeated morning visits here, and it sits in the same Brooklyn Heights routine as the college.",
+    "4441": "A nearby recurring Brooklyn Heights errand stop that fits a daytime campus-area pattern.",
+    "1500": "La Bagel Delight on Court St matches a common pre-class or between-classes food stop near the school corridor.",
+    "3969": "Another nearby Montague Street lunch option that aligns with the user’s weekday daytime pattern.",
+    "5176": "A Queens metro station is plausible if the user is still chaining through transit from the Rockaway Boulevard origin.",
+    "3394": "This Queens station is a reasonable transit-related alternative given the southeast Queens starting point and morning travel pattern."
+  },
+  "fallback": false
+}

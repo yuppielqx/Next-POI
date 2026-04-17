@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1473",
+  "ranked_loc_ids": [
+    3742,
+    796,
+    4844,
+    3574,
+    2688,
+    735,
+    4576,
+    2313,
+    73,
+    1572
+  ],
+  "explanations": {
+    "3742": "The target time strongly matches the user’s recurring commute pattern, and this is their most frequent same-time anchor in the Midtown waterfront corridor.",
+    "796": "The user repeatedly visits Equinox in the late afternoon/early evening, making a post-work gym stop very plausible.",
+    "4844": "This fits the user’s frequent cross-river commute/waterfront pattern and has strong historical support around this time slot.",
+    "3574": "Another highly repeated gym anchor that matches the user’s after-work fitness rhythm and Manhattan mobility pattern.",
+    "2688": "The user often pairs fitness or commute stops with healthier food visits, and this is one of their recurring anchors.",
+    "735": "The user has a strong evening social pattern, and this bar matches their frequent nightlife behavior.",
+    "4576": "A repeated nightlife venue in the user’s usual Upper East Side social circuit, making it a reasonable evening choice.",
+    "2313": "This aligns with the user’s preference for casual dinner spots in the same neighborhood cluster and after-work dining.",
+    "73": "An American restaurant in the user’s Manhattan corridor that fits a likely dinner transition after late-afternoon movement.",
+    "1572": "Though less history-backed than the top options, it matches the user’s pattern of moving from evening downtown activity into bars and lounges."
+  },
+  "fallback": false
+}

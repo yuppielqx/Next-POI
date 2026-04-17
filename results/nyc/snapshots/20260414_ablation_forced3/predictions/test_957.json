@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_957",
+  "ranked_loc_ids": [
+    4046,
+    1110,
+    4069,
+    4061,
+    4073,
+    4030,
+    1015,
+    716,
+    1293,
+    2203
+  ],
+  "explanations": {
+    "4046": "Monday midday strongly matches the user’s core office routine, and this is their dominant weekday anchor.",
+    "1110": "A grocery stop at Trader Joe’s fits the user’s errand-heavy lunchtime pattern near Union Square.",
+    "4069": "Another Lower Manhattan office destination aligns with a workday return in the same cluster.",
+    "4061": "Taïm Mobile Falafel & Smoothie Truck is a plausible quick lunch choice at this hour near the user’s usual corridor.",
+    "4073": "This sandwich place matches the user’s repeated noon lunch behavior in Lower Manhattan.",
+    "4030": "A frequent nearby lunch option and a past Monday-leaning favorite makes this a solid midday candidate.",
+    "1015": "The wine shop is a familiar nearby stop, though it is less likely than an office or lunch venue at 12:34.",
+    "716": "A very close grocery errand is possible given the user’s compact home-work-errand circuit.",
+    "1293": "The user has nightlife tendencies, but this is less consistent with a Monday afternoon check-in.",
+    "2203": "The gym is part of the user’s routine, but midday weekdays are less indicative than office or lunch destinations."
+  },
+  "fallback": false
+}

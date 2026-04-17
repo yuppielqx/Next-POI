@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2101",
+  "ranked_loc_ids": [
+    1094,
+    4618,
+    2018,
+    576,
+    3713,
+    1083,
+    275,
+    626,
+    67,
+    767
+  ],
+  "explanations": {
+    "1094": "The time prior points to a Thursday afternoon leisure stop in Lower Manhattan, and this is the strongest historical anchor in that area.",
+    "4618": "A casual dessert stop fits the afternoon pattern and the user’s frequent food-oriented exploratory outings in downtown Manhattan.",
+    "2018": "The user has shown repeated interest in East Village dining, and this fits a daytime casual meal move after Yum Yum Too.",
+    "576": "The profile includes occasional shopping stops, and this is a plausible afternoon errand in the kind of leisure itinerary they favor.",
+    "3713": "Broadway-area shopping matches the user’s mixed social-shopping behavior and the lower Manhattan daytime prior.",
+    "1083": "Burger spots are a strong historical preference, making this a solid food choice even though it is farther from the last location.",
+    "275": "Movies are a recurring activity for this user, and afternoon matinee behavior is consistent with their entertainment-heavy pattern.",
+    "626": "Times Square cinema is another plausible entertainment continuation, especially given the user’s history of evening leisure outings.",
+    "67": "The user has daytime park/check-in behavior and Union Square is a recurring spatial anchor in their movement history.",
+    "767": "A quick dessert/food stop in Midtown fits the afternoon leisure style, though it is less anchored than the downtown options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1724",
+  "ranked_loc_ids": [
+    5131,
+    5132,
+    691,
+    5536,
+    1947,
+    2495,
+    5431,
+    1115,
+    2488,
+    2387
+  ],
+  "explanations": {
+    "5131": "This is the user’s strongest historical anchor, matching their repeated evening theatre pattern and the current move back into the familiar Brooklyn leisure zone.",
+    "5132": "A repeated nightlife stop that fits the user’s theatre-plus-bar habit and the Wednesday evening time prior.",
+    "691": "A plausible late-evening food stop in the same Brooklyn radius, especially after a grocery check-in and before nightlife.",
+    "5536": "A nearby restaurant in Brooklyn that fits an evening return-to-food pattern and the user’s compact movement style.",
+    "1947": "A nearby bar that matches the user’s nocturnal, leisure-oriented behavior, though with no prior visit history.",
+    "2495": "A nightlife spot in the right area and time window, making it a credible social-night destination.",
+    "5431": "Another nearby nightlife venue that aligns with the user’s late-evening bar pattern.",
+    "1115": "A café that could serve as an evening meetup or food stop, though it is less aligned than bars/theatre.",
+    "2488": "A nearby restaurant that fits a dinner transition, but is less supported by the user’s history.",
+    "2387": "A nearby food venue that is plausible for an evening outing, but weaker than the more directly matched theatre and nightlife options."
+  },
+  "fallback": false
+}

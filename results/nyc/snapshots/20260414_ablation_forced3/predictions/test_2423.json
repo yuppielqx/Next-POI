@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2423",
+  "ranked_loc_ids": [
+    1234,
+    5574,
+    3343,
+    1235,
+    3261,
+    565,
+    4004,
+    2978,
+    2970,
+    3542
+  ],
+  "explanations": {
+    "1234": "It is the current location, perfectly fits the lunchtime coffee pattern, and similar users often stay in place or make a very nearby follow-up.",
+    "5574": "This is a frequent fitness anchor for the user and a strong Midtown return candidate within a short distance of the last stop.",
+    "3343": "It is essentially next door and matches a quick midday food/coffee-style stop in the Times Square corridor.",
+    "1235": "Extremely close to the last known point and a common transitional location in the same Midtown area.",
+    "3261": "A nearby lunch option in the Theater District that fits the user’s midday food pattern.",
+    "565": "Very close and plausible as a brief movement within Times Square before a meal or errand.",
+    "4004": "A nearby social venue that could follow a midday stop, though it is less likely than food or fitness.",
+    "2978": "Close by and consistent with staying within the same entertainment-heavy Midtown block.",
+    "2970": "A known prior dining place and a reasonable Manhattan lunch destination, though farther away than the top nearby options.",
+    "3542": "A repeat lunch-oriented venue that fits the user profile, but the distance makes it less likely than the central Midtown choices."
+  },
+  "fallback": false
+}

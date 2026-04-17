@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1306",
+  "ranked_loc_ids": [
+    218,
+    5441,
+    1522,
+    1220,
+    4654,
+    2492,
+    2061,
+    14,
+    2639,
+    950
+  ],
+  "explanations": {
+    "218": "This is the strongest habitual Manhattan anchor, and the Friday noon timing strongly matches the user’s repeated Williamsburg-to-Standard commute pattern.",
+    "5441": "Very close to the last subway stop and a frequent transition point, making it a plausible immediate next step before reaching the main destination.",
+    "1522": "The user is moving northwest through transit-heavy territory, and this station fits a continued commute toward the Meatpacking/Chelsea area.",
+    "1220": "The home anchor is highly frequent overall, though the current north-west movement makes an immediate return less likely.",
+    "4654": "A known Manhattan-side lunch spot in the broader routine, and the noon time slot makes a meal stop plausible.",
+    "2492": "Another Meatpacking-adjacent lunch option that fits the midday Manhattan commute context, though with only one historical visit.",
+    "2061": "A Manhattan hotel in the same general corridor that could serve as a secondary habitual stop near the user’s routine area.",
+    "14": "A repeated food stop in the user’s orbit, but it is less aligned with the current northwest commute trajectory than the main Manhattan anchors.",
+    "2639": "They are currently at this station, but the next visit is more likely to be a destination rather than staying put.",
+    "950": "Close by and consistent with a short errand or snack stop, but it is much less supported than the commute-pattern destinations."
+  },
+  "fallback": false
+}

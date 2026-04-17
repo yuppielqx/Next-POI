@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_0",
+  "ranked_loc_ids": [
+    18,
+    17,
+    4,
+    7,
+    21,
+    0,
+    5,
+    16,
+    1078,
+    8
+  ],
+  "explanations": {
+    "18": "It is extremely close to the current Lincoln Square location, matches the user’s repeated Upper West Side evening drinking pattern, and fits a post-movie social stop.",
+    "17": "This nearby wine bar aligns with the user’s preference for evening leisure venues and is a plausible dining-and-drinks continuation from Lincoln Square.",
+    "4": "A Korean dinner spot in the same west Midtown corridor fits the target 21:00 dinner-time prior and the user’s restaurant-heavy evening behavior.",
+    "7": "A favored gastropub anchor for this user, and its classic after-hours social atmosphere makes it a strong uptown evening option.",
+    "21": "A nearby seafood restaurant on the Upper West Side fits the user’s weekend-style leisure dining pattern and evening meal timing.",
+    "0": "This bar is consistent with the user’s nightlife-oriented profile and is geographically close enough for a post-cinema drink.",
+    "5": "Another bar candidate in the user’s common evening category, though slightly less aligned with the immediate Upper West Side pull.",
+    "16": "The user does visit leisure landmarks like parks, but the night timing makes a social venue more likely than a park stop.",
+    "1078": "A nearby coffee stop is possible, but it is less consistent with the user’s late-evening social trajectory than food or drinks.",
+    "8": "It matches the user’s gastropub preference, but it is farther away than the stronger nearby Upper West Side options."
+  },
+  "fallback": false
+}

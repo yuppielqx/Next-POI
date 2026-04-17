@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2680",
+  "ranked_loc_ids": [
+    2889,
+    1820,
+    1110,
+    1521,
+    1104,
+    3558,
+    2337,
+    2071,
+    3412,
+    2216
+  ],
+  "explanations": {
+    "2889": "The user is highly routine and fitness-centered, and a Saturday morning slot strongly favors a return to their dominant gym anchor.",
+    "1820": "This is a nearby breakfast spot that fits the post-workout morning pattern and the user’s history of structured gym-to-breakfast behavior.",
+    "1110": "A grocery stop in the same neighborhood is plausible after a morning gym visit, especially for a practical weekend errand.",
+    "1521": "The user has prior breakfast behavior near the gym, making this a strong alternative morning stop.",
+    "1104": "Another nearby breakfast spot that matches the Saturday morning time window and the user’s routine-oriented profile.",
+    "3558": "Very close to the last location and consistent with a quick morning deli/coffee stop after breakfast or a workout.",
+    "2337": "A nearby dining option in the Flatiron corridor that fits the user’s neighborhood-based movement pattern.",
+    "2071": "The user has BBQ and American dining tendencies, and this nearby spot is a reasonable daytime meal option.",
+    "3412": "A gourmet shop could serve as a quick morning errand stop, though it is less supported than food or fitness venues.",
+    "2216": "A bar is possible given the previous evening’s dining, but the morning timing makes it a weak likelihood overall."
+  },
+  "fallback": false
+}

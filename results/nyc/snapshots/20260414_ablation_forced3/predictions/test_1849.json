@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1849",
+  "ranked_loc_ids": [
+    1235,
+    59,
+    97,
+    1776,
+    5722,
+    1945,
+    626,
+    1724,
+    3740,
+    956
+  ],
+  "explanations": {
+    "1235": "This is the strongest time-matched nearby revisit after Times Square, and the user has a very frequent Times Square → Marriott pattern around 14:00.",
+    "59": "The user is already there, and their movement trend suggests they may remain in the same Midtown corridor.",
+    "97": "A highly recurrent nearby lounge in the user’s lunch routine, though it is a slightly longer move than Marriott.",
+    "1776": "One of the user’s most visited places overall, but it is less tightly paired with the current Times Square-centered sequence.",
+    "5722": "Very close to the last location and consistent with the user’s Midtown hotel/event-space tendency.",
+    "1945": "A nearby theater venue that fits the user’s Midtown entertainment corridor pattern.",
+    "626": "Another close-by entertainment stop that aligns with the Theater District focus.",
+    "1724": "A nearby prominent Midtown venue, plausible given the user’s repeated presence in the Times Square area.",
+    "3740": "A nearby lunch-friendly venue that could fit the user’s midday routine.",
+    "956": "A nearby restaurant option consistent with the user’s lunch-centered, short-hop behavior."
+  },
+  "fallback": false
+}

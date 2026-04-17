@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_515",
+  "ranked_loc_ids": [
+    2843,
+    2441,
+    5704,
+    655,
+    2436,
+    3390,
+    2506,
+    2846,
+    644,
+    628
+  ],
+  "explanations": {
+    "2843": "This is the user’s primary downtown fitness anchor and the strongest same-place return given the very recent visit and early-morning workout pattern.",
+    "2441": "It is a nearby spa-like wellness option that fits the user’s health-oriented routine if they do not return to the exact Equinox.",
+    "5704": "Another close gym option that matches the user’s strong fitness habit and Lower Manhattan location.",
+    "655": "A nearby food stop in the same area that could follow an early workout or morning routine.",
+    "2436": "A nearby coffee shop that fits a post-workout morning stop before the workday.",
+    "3390": "As a nearby transit hub, it is plausible if the user is moving onward after the downtown return.",
+    "2506": "This lounge matches the user’s occasional evening social behavior, though the time and routine make it less likely than fitness.",
+    "2846": "A nearby nightlife/lounge option that aligns with the user’s secondary social pattern.",
+    "644": "A close bar that could be visited after a late-night outing, but it is not the dominant pattern.",
+    "628": "It appears in the user’s history as a nightlife destination, but the distance and time-conditioned routine make it a weaker next step."
+  },
+  "fallback": false
+}

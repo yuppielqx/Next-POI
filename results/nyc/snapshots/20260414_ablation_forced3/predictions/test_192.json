@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_192",
+  "ranked_loc_ids": [
+    1379,
+    1382,
+    1381,
+    1394,
+    145,
+    1387,
+    1393,
+    112,
+    563,
+    58
+  ],
+  "explanations": {
+    "1379": "This is the user’s dominant anchor location, exactly matches the last known area, and fits the strong Saturday evening return-pattern.",
+    "1382": "It is immediately adjacent to the last location and aligns with the user’s frequent errand-chaining behavior around home.",
+    "1381": "The user repeatedly visits this nearby pharmacy, making it a very plausible routine stop after returning to the Upper East Side.",
+    "1394": "This is essentially at the same 96th St/Lexington cluster and fits a brief neighborhood errand or coffee stop.",
+    "145": "A nearby transit hub on the same avenue, plausible for a short local move within the Upper East Side.",
+    "1387": "A nearby Upper East Side café that matches the user’s occasional food-stop pattern in the evening.",
+    "1393": "It is a plausible East Harlem shopping trip from the current neighborhood, though less central than the core routine stops.",
+    "112": "Another nearby subway option on a common cross-town route, but less historically dominant than the 6 train station.",
+    "563": "This fits the user’s grocery-shopping behavior, but it is farther from the current anchor than the top neighborhood options.",
+    "58": "The Midtown commute/work cluster makes this possible, but the immediate context more strongly favors staying near 96th Street."
+  },
+  "fallback": false
+}

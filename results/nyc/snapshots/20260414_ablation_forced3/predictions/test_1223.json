@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1223",
+  "ranked_loc_ids": [
+    3475,
+    565,
+    4004,
+    3013,
+    1235,
+    2978,
+    1245,
+    2721,
+    4548,
+    4547
+  ],
+  "explanations": {
+    "3475": "The user is already checked in here and the strongest temporal prior suggests they are likely to remain at or return to this hotel next.",
+    "565": "This is the closest nearby Times Square destination and fits a short continuation of the current Midtown movement.",
+    "4004": "A nearby nightlife spot aligns with the Friday night timing and the user’s evening bias.",
+    "3013": "Another adjacent pub is plausible for a late-evening stop in the Times Square area.",
+    "1235": "A neighboring hotel fits the current hotel-centered Midtown context and short-range movement.",
+    "2978": "The user could plausibly shift to a nearby theater venue in the entertainment-heavy Times Square corridor.",
+    "1245": "A nearby hotel remains consistent with staying within the immediate Midtown cluster.",
+    "2721": "This nearby theater venue is a reasonable continuation for an evening in Times Square.",
+    "4548": "Bay Ridge is the user’s main anchor, but a same-night cross-borough return is less likely from Midtown.",
+    "4547": "This is a recurring user location, though it is farther south from the current Times Square position than the closest alternatives."
+  },
+  "fallback": false
+}

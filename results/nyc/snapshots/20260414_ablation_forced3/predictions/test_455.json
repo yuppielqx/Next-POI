@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_455",
+  "ranked_loc_ids": [
+    2632,
+    2631,
+    2636,
+    449,
+    2638,
+    1715,
+    5019,
+    1422,
+    2634
+  ],
+  "explanations": {
+    "2632": "It is the last known location and the user’s strongest pattern is immediate same-session dual check-ins at this exact training venue.",
+    "2631": "The user frequently checks into both co-located KRU venues at the same minute during morning training sessions.",
+    "2636": "This is a recurring pre-training stop in the user’s history, especially on morning dojo visits.",
+    "449": "Home-base check-ins are common, but the current timing and location make an immediate return less likely.",
+    "2638": "Similar users sometimes remain within the same local area, though this is a weaker match than the specific KRU venues.",
+    "1715": "Grocery errands occur in the user’s broader pattern, though not typically as an immediate next step from training.",
+    "5019": "Another plausible errand destination for a routine-driven user, but with limited direct support from history.",
+    "1422": "The user has visited convenience/food stops before, yet this is more likely tied to Bayonne than the current Bergenfield session.",
+    "2634": "A secondary grocery option in the user’s broader travel pattern, but far less likely than remaining at KRU."
+  },
+  "fallback": false
+}

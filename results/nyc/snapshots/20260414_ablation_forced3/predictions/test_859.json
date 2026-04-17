@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_859",
+  "ranked_loc_ids": [
+    134,
+    3791,
+    3570,
+    617,
+    67,
+    1613,
+    3294,
+    3439,
+    332,
+    275
+  ],
+  "explanations": {
+    "134": "Friday morning and the user’s strongest Queens-to-Manhattan commute pattern make the transit hub the most likely next stop.",
+    "3791": "This is a frequent early-morning staging point in Queens and fits the user’s habitual commute origin.",
+    "3570": "Old Navy is the user’s clearest anchor with 11 visits and many 6–8 AM check-ins, matching the morning routine.",
+    "617": "The user often reaches Midtown after commuting and Cafe R fits a plausible follow-on breakfast or lunch stop near the routine corridor.",
+    "67": "The user clusters Manhattan leisure stops around Union Square, and this remains a plausible daytime destination after commuting.",
+    "1613": "Their history includes bookstore visits near Union Square, making this a reasonable mid-morning Manhattan stop.",
+    "3294": "Although just visited last night, it is nearby and could be revisited in the morning, but this is less consistent with the user’s commute pattern.",
+    "3439": "The user has downtown/East Village activity history, so this is a possible but less likely next move from the current area.",
+    "332": "Friday morning timing makes a market visit plausible, though it is less strongly supported than the commute anchors.",
+    "275": "A daytime stop in the user’s familiar Union Square cluster is possible, but it is weaker than commute-related options."
+  },
+  "fallback": false
+}

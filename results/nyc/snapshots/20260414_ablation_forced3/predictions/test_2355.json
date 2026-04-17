@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2355",
+  "ranked_loc_ids": [
+    4241,
+    2192,
+    1197,
+    5530,
+    1191,
+    5525,
+    4719,
+    5505,
+    84,
+    5224
+  ],
+  "explanations": {
+    "4241": "It is the user’s strongest habitual destination, matches the afternoon errand pattern, and is closest to the established Upper Manhattan routine.",
+    "2192": "The last movement suggests staying in the same area, and this nearby station is a likely connector for a local daytime errand.",
+    "1197": "The user is already at this exact location, so a short continuation or return visit is plausible despite weaker category signal.",
+    "5530": "This fits the user’s recurring pharmacy-and-errand cadence and is within the same familiar neighborhood cluster.",
+    "1191": "A nearby deli/bodega aligns with the user’s practical shopping pattern and neighborhood-based movement.",
+    "5525": "Another grocery option in the same area, consistent with the user’s strong food-shopping behavior.",
+    "4719": "Pharmacy stops are part of the user’s routine, making this a reasonable nearby errand destination.",
+    "5505": "The user occasionally makes local dining stops, and this is close enough to fit an afternoon outing.",
+    "84": "Friday afternoon can support an entertainment stop, and this theater is one of the user’s recurring venues.",
+    "5224": "A nearby transit point remains possible if the user is continuing a short local trip within Upper Manhattan."
+  },
+  "fallback": false
+}

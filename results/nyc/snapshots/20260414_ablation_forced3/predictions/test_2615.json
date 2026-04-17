@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2615",
+  "ranked_loc_ids": [
+    1509,
+    3949,
+    3817,
+    5724,
+    1611,
+    3811,
+    2224,
+    1238,
+    136,
+    131
+  ],
+  "explanations": {
+    "1509": "The user is already in the immediate vicinity after the ER visit, and East Harlem is one of their strongest repeat weekday zones near the current trajectory.",
+    "3949": "This is a very common nearby destination for the user and fits the short local movement pattern from 96th Street.",
+    "3817": "The user frequently uses transit nodes in northern Manhattan, making this a plausible next stop after the ER.",
+    "5724": "Although far away, it is the user’s main home-base station and a likely return point later in the day.",
+    "1611": "The user often pairs Manhattan movement with practical food stops, and this is close to their current area.",
+    "3811": "A recurring quick-stop venue in the Upper East Side corridor that matches the user’s errand-heavy routine.",
+    "2224": "Pharmacy trips are a known pattern for this user, and this nearby location aligns with a short post-ER errand.",
+    "1238": "The user has repeated activity in this corridor, so a broader neighborhood-level move is still likely.",
+    "136": "The user has bridge-crossing behavior and northwest movement could lead toward this transit corridor.",
+    "131": "This bridge-related transit hub is part of the user’s broader cross-borough pattern, but it is less likely than nearby Manhattan options."
+  },
+  "fallback": false
+}

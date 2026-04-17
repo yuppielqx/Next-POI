@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1120",
+  "ranked_loc_ids": [
+    4365,
+    4366,
+    1161,
+    88,
+    395,
+    1162,
+    4371,
+    4136,
+    4374,
+    557
+  ],
+  "explanations": {
+    "4365": "This is the user’s dominant morning anchor and the most likely return point after a Port Authority transfer around this weekday commute time.",
+    "4366": "A recurring northern New Jersey residence-like stop that fits the user’s Teaneck/Englewood commute corridor.",
+    "1161": "The broader Teaneck area is highly consistent with the user’s morning return pattern from Manhattan.",
+    "88": "The user was just here and it remains a major recurring hub, so another check-in or continued stay is plausible.",
+    "395": "A Bergen County dining stop that matches the user’s suburban errand-and-meal behavior.",
+    "1162": "This Englewood restaurant fits the user’s frequent northern New Jersey casual dining pattern.",
+    "4371": "A nearby Englewood diner aligns with the user’s preference for practical suburban food stops.",
+    "4136": "The user often visits big-box retail locations in northern New Jersey, making this a plausible errand destination.",
+    "4374": "Another common shopping-style destination consistent with the user’s suburban commerce patterns.",
+    "557": "As the key NJ–Manhattan connector, it is a plausible transit continuation after leaving Port Authority."
+  },
+  "fallback": false
+}

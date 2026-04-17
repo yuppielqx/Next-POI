@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2003",
+  "ranked_loc_ids": [
+    5381,
+    4871,
+    513,
+    5078,
+    5385,
+    930,
+    633,
+    2642,
+    474,
+    622
+  ],
+  "explanations": {
+    "5381": "It is the current location, only minutes into the next time step, and matches the user’s strongest late-afternoon routine.",
+    "4871": "The user frequently pairs the dojo with the nearby gym in the same 3–5pm fitness window, making it the most likely nearby follow-up.",
+    "513": "A highly recurring routine stop within walking distance, often linked to their workout pattern in southern Brooklyn.",
+    "5078": "It is close by in Sheepshead Bay and could fit a brief post-training transition, though it is less routine than the fitness spots.",
+    "5385": "A nearby familiar restaurant in the same neighborhood cluster, plausible if the user is heading for food after training.",
+    "930": "This fits the user’s established local food behavior and is a known repeat destination in the same area.",
+    "633": "The user has visited local entertainment venues before, and this is a nearby option for a Saturday afternoon transition.",
+    "2642": "Similar users at this time often move to a transit hub, and it is close enough to fit a quick relocation.",
+    "474": "A nearby errands stop that is plausible in a compact routine, though less strongly supported by history.",
+    "622": "A nearby food establishment that could follow a workout or serve as an alternative casual stop."
+  },
+  "fallback": false
+}

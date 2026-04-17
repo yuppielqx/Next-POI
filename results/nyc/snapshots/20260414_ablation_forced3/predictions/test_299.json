@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_299",
+  "ranked_loc_ids": [
+    597,
+    231,
+    1234,
+    1981,
+    59,
+    274,
+    558,
+    965,
+    1976,
+    1996
+  ],
+  "explanations": {
+    "597": "The target time is only four minutes after the last check-in, so the most likely outcome is that the user is still at the same nightlife venue.",
+    "231": "This is the user’s strongest recurring evening destination in Midtown and fits the late-day cluster around Times Square.",
+    "1234": "The user repeatedly uses Midtown Starbucks locations as short transition stops, and this one is in the right corridor for the evening.",
+    "1981": "The user has a strong Tuesday pattern at this office, and it remains within the core Midtown routine area.",
+    "59": "The user’s movements are tightly anchored to the Times Square core, making a nearby return plausible after a nightlife stop.",
+    "274": "Bryant Park is one of the user’s most common Midtown waypoints and sits well within the same evening movement cluster.",
+    "558": "This matches the user’s habitual Midtown Manhattan circuit and is a frequent anchor in their routine.",
+    "965": "The user has a coffee-transition pattern, and this nearby café could plausibly follow a brief evening move.",
+    "1976": "This is a frequent Midtown food stop for the user and is close enough to fit a short local shift.",
+    "1996": "A late-evening quick-service stop in the Times Square area is consistent with the user’s compact Midtown behavior."
+  },
+  "fallback": false
+}

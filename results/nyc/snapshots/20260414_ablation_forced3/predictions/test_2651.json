@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2651",
+  "ranked_loc_ids": [
+    2233,
+    4144,
+    5745,
+    5509,
+    4166,
+    5744,
+    1893,
+    2720,
+    2113,
+    5357
+  ],
+  "explanations": {
+    "2233": "This is the strongest habitual anchor in the user’s history and best fits a return to a familiar grocery stop later in the day.",
+    "4144": "The user’s pattern strongly favors supermarkets, and this Bloomfield-area grocery option matches the evening utilitarian errand profile.",
+    "5745": "Another repeat grocery destination in the same local corridor, making it a plausible follow-up shopping stop.",
+    "5509": "A nearby convenience stop fits the user’s practical, errand-oriented routine if they are making a quick evening purchase.",
+    "4166": "Grocery-store behavior dominates the profile, and this candidate matches the same everyday-shopping pattern.",
+    "5744": "The user often pairs food stops with grocery runs, so a return to this familiar deli/bodega remains possible.",
+    "1893": "Although the user was just here in the morning, the chain’s routine role keeps it as a lower-probability repeat stop.",
+    "2720": "This nearby grocery option could satisfy the user’s tendency to visit supermarket-type locations in the evening.",
+    "2113": "Similar-user transitions point here, but it is less consistent with the user’s own grocery-centered routine.",
+    "5357": "A practical errand location is possible, but fuel stops are less central than groceries in this user’s history."
+  },
+  "fallback": false
+}

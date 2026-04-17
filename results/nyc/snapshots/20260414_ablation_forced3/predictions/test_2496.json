@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2496",
+  "ranked_loc_ids": [
+    4439,
+    5680,
+    292,
+    5682,
+    3215,
+    2392,
+    459,
+    3214,
+    460,
+    1415
+  ],
+  "explanations": {
+    "4439": "It is the user’s dominant weekday morning anchor and the target time is an exact match to their strongest 8–9am routine.",
+    "5680": "This is the last known location and a repeated Tuesday stop, making a short return visit plausible even though the morning anchor is more likely.",
+    "292": "The user has a secondary morning-road pattern and similar users at this hour sometimes move via transport corridors, though this is less likely than a direct anchor return.",
+    "5682": "A nearby Brooklyn food stop could fit a morning continuation after the juice bar, but it lacks the user’s strong historical frequency.",
+    "3215": "Another morning coffee option in the same area, but there is no prior visit history and it is less aligned with the anchor-building routine.",
+    "2392": "This is a nearby weekday-friendly café option, yet it is unvisited and less consistent with the user’s established check-in pattern.",
+    "459": "It is very close to the current area, but lunch/dinner semantics make it a weaker fit for an 08:12 Tuesday check-in.",
+    "3214": "A morning gym visit is plausible in routine-oriented behavior, but there is no prior evidence tying the user to this place.",
+    "460": "It is nearby, but nightlife-oriented venues are a poor match for this user’s morning weekday pattern.",
+    "1415": "The user has a broader Queens history, but this location is far from the dominant Brooklyn morning routine and unlikely at this time."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_851",
+  "ranked_loc_ids": [
+    4606,
+    519,
+    144,
+    3340,
+    2881,
+    3760,
+    2877,
+    3763,
+    288,
+    1136
+  ],
+  "explanations": {
+    "4606": "It is the closest nearby retail option in Herald Square, fitting the user’s current late-night shopping pattern and immediate proximity.",
+    "519": "The user is already at this location, so a brief continued stay or revisit is the most plausible next check-in.",
+    "144": "The 34th St-Herald Square subway hub is an immediate transit-adjacent move consistent with a quick late-night hop.",
+    "3340": "Another nearby clothing store in the same retail corridor, making it a natural continuation from H&M.",
+    "2881": "This close Midtown shopping stop matches the user’s retail behavior and short-distance movement trend.",
+    "3760": "A nearby theater option aligns with the user’s entertainment-heavy profile and Midtown location.",
+    "2877": "Broadhurst Theatre is within walking distance and fits the user’s repeated theater-district activity.",
+    "3763": "The Majestic Theatre is another close Midtown venue, plausible for a nightlife-to-entertainment transition.",
+    "288": "A late-night bar in Manhattan matches the user’s overnight social pattern, though it is a bit farther away.",
+    "1136": "The user’s strong Indian restaurant preference makes this a plausible Midtown East food stop despite being less directly on the current path."
+  },
+  "fallback": false
+}

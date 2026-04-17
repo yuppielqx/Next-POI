@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1540",
+  "ranked_loc_ids": [
+    557,
+    1797,
+    4796,
+    88,
+    53,
+    229,
+    3951,
+    1211,
+    1149,
+    445
+  ],
+  "explanations": {
+    "557": "Strong evening commute signal and the best match for the south-east movement from Clifton toward Manhattan access points.",
+    "1797": "The user has an unusually strong repeat history here and it remains the dominant routine stop.",
+    "4796": "This sits directly next to the user’s Clifton retail pattern and fits a likely pre-commute coffee stop.",
+    "88": "A major Manhattan gateway that aligns with the user’s recurring NJ-to-NYC travel routine.",
+    "53": "Times Square transit access is consistent with the user’s Midtown-bound evening corridor.",
+    "229": "Another transportation hub that fits commuter-style movement and similar-user transit transitions.",
+    "3951": "Penn Station is a plausible Midtown arrival point after crossing from New Jersey.",
+    "1211": "Bryant Park is a familiar Midtown destination in this user’s Manhattan pattern.",
+    "1149": "Nearby Clifton retail behavior makes another local errand stop plausible before any cross-river trip.",
+    "445": "The user has prior shopping-center behavior in the region, making this a reasonable alternate retail stop."
+  },
+  "fallback": false
+}

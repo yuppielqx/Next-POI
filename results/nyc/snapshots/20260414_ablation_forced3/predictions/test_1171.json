@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1171",
+  "ranked_loc_ids": [
+    209,
+    4068,
+    4466,
+    1516,
+    2911,
+    3711,
+    2934,
+    964,
+    952,
+    237
+  ],
+  "explanations": {
+    "209": "This is the strongest historical anchor with many repeat visits and a proven late-night pattern, making it the most likely return destination.",
+    "4068": "A nearby dive bar fits the user’s evening socializing behavior and the current south-east movement within the Lower East Side.",
+    "4466": "Another close nightlife option in the same corridor, plausible after dessert at night.",
+    "1516": "The user often moves to bars late in the evening, and this nearby bar matches the time and area well.",
+    "2911": "A lively nearby bar is a strong fit for a Wednesday night follow-up stop.",
+    "3711": "Very close to the last location and consistent with a late-night nightlife transition.",
+    "2934": "A nightclub is plausible given the late hour and nearby Lower East Side setting.",
+    "964": "A familiar downtown food stop within the user’s core activity space, though less time-aligned than dinner or drinks.",
+    "952": "A recurring-style dining option in nearby downtown Manhattan that fits late-night eating behavior.",
+    "237": "Similar users at this time often go to movies, so this is a reasonable though less likely secondary pattern."
+  },
+  "fallback": false
+}

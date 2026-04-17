@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_219",
+  "ranked_loc_ids": [
+    1517,
+    1521,
+    1518,
+    69,
+    2337,
+    1570,
+    2833,
+    1513,
+    1903,
+    1519
+  ],
+  "explanations": {
+    "1517": "This is the user’s strongest repeated anchor in the Flatiron/NoMad corridor and fits the morning work-adjacent return pattern at 10:31.",
+    "1521": "The user just checked in here and similar users often transition through bakery/coffee stops around this time.",
+    "1518": "A nearby sandwich spot in the same East 17th–19th St cluster that matches the user’s daytime food-oriented behavior.",
+    "69": "A very close coffee option that fits a Friday morning routine stop.",
+    "2337": "A nearby breakfast/lunch venue in the same neighborhood, consistent with the user’s midday activity band.",
+    "1570": "Extremely close to the last location, though its tapas/bar category makes it less likely than a daytime food stop.",
+    "2833": "Close to the current area and plausible given the user’s occasional retail/plaza movement in Flatiron.",
+    "1513": "A previously visited nearby retail destination that matches the user’s compact Manhattan movement pattern.",
+    "1903": "Very nearby, but the bar/nightlife category is weaker for a 10:31 morning prediction.",
+    "1519": "A favored Chinese restaurant category for the user, though downtown location makes it less likely than nearby Flatiron options."
+  },
+  "fallback": false
+}

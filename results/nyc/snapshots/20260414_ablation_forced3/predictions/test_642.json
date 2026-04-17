@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_642",
+  "ranked_loc_ids": [
+    1935,
+    1975,
+    1932,
+    3270,
+    2447,
+    1113,
+    3266,
+    1345,
+    2392,
+    3136
+  ],
+  "explanations": {
+    "1935": "It is a very close known nightlife stop that fits the user’s strong afternoon-to-evening bar pattern and the south-east movement from Beacon's Closet.",
+    "1975": "A nearby gastropub is a natural early-evening transition after vintage shopping, and it matches the user’s social Brooklyn routine.",
+    "1932": "This close Park Slope pub aligns with their recurring bar circuit and the time prior strongly favors a drink spot over a long trip.",
+    "3270": "A nearby Cobble Hill bar fits the user’s late-afternoon-to-night trajectory and their broader Brooklyn nightlife pattern.",
+    "2447": "This is a plausible evening lounge choice within the user’s preferred Brooklyn nightlife cluster, though slightly farther than the closest options.",
+    "1113": "A familiar nearby bookstore could fit a leisurely early-evening stop, especially given the user’s repeated visits in the same neighborhood orbit.",
+    "3266": "The user has visited this Bergen Bagels spot multiple times, making it a reasonable nearby repeat after Beacon's Closet.",
+    "1345": "This nearby sandwich place fits a short local move and a possible pre-dinner stop in the Park Slope area.",
+    "2392": "A nearby café is behaviorally plausible, but the user is more often seen shifting into social or nightlife venues at this time.",
+    "3136": "An evening cultural outing is consistent with similar-user patterns, but it is less likely than a nearby bar or restaurant."
+  },
+  "fallback": false
+}

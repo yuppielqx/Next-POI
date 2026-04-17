@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2456",
+  "ranked_loc_ids": [
+    3246,
+    3158,
+    2976,
+    2305,
+    777,
+    1596,
+    5664,
+    209,
+    1915,
+    1307
+  ],
+  "explanations": {
+    "3246": "Strong repeat evening anchor and the best match for a Sunday night return to a familiar social spot.",
+    "3158": "A known dessert stop that fits the user’s food-plus-leisure pattern and is plausible after a waterfront transit sequence.",
+    "2976": "Chinatown dining is a recurring late-day behavior for this user, and it fits the evening dinner prior.",
+    "2305": "An evening bar with a strong nightlife fit, making it a natural post-transit social destination.",
+    "777": "A nearby bar in the Union Square/EV corridor that matches the user’s nightlife-heavy Sunday evening tendencies.",
+    "1596": "This nightlife spot sits in the user’s favored lower Manhattan social zone and suits an after-6 p.m. outing.",
+    "5664": "A repeat entertainment venue that fits the user’s social routine, though it is slightly less likely at this exact time than a bar or meal stop.",
+    "209": "A casual evening restaurant option in downtown Manhattan that aligns with the user’s food-oriented outing structure.",
+    "1915": "Dessert after an outing is consistent with the profile, and the location is close to the user’s downtown movement path.",
+    "1307": "Joe's Shanghai is a plausible Chinatown dinner destination given the user’s Asian food preference and southwest movement trend."
+  },
+  "fallback": false
+}

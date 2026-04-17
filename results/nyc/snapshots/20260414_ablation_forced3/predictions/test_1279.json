@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1279",
+  "ranked_loc_ids": [
+    416,
+    2037,
+    2049,
+    3101,
+    587,
+    3688,
+    3797,
+    4083,
+    4631,
+    2574
+  ],
+  "explanations": {
+    "416": "It is the user’s strongest anchor and current location, with multiple Friday midday visits and a high chance of a same-place return during the afternoon.",
+    "2037": "It is immediately adjacent to the last known location and fits the user’s compact Midtown movement pattern with frequent short-range transitions.",
+    "2049": "The user often chains into nearby lunch stops around noon to early afternoon, and this is one of the strongest food matches in the same corridor.",
+    "3101": "This is a recurrent nearby lounge with strong transition history from the Midtown cluster, making it a likely short hop from the Empire State Building.",
+    "587": "The user repeatedly visits casual food spots in the same area, and this pizza place is very close to the current position.",
+    "3688": "A frequent sports bar stop in the immediate 33rd Street zone, consistent with the user’s recurring nightlife and casual dining pattern.",
+    "3797": "This American restaurant is near the current location and aligns with the user’s habit of moving among nearby food venues.",
+    "4083": "A nearby dessert shop with prior noon-to-afternoon visits, fitting an afternoon errand or snack stop.",
+    "4631": "The user has strong retail behavior in Midtown, and this clothing store is a plausible continuation of the shopping corridor pattern.",
+    "2574": "It is one of the user’s deepest retail anchors and remains a strong Midtown target despite being farther than the closest options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2519",
+  "ranked_loc_ids": [
+    4244,
+    2672,
+    777,
+    1594,
+    3537,
+    1778,
+    2190,
+    3246,
+    1342,
+    2911
+  ],
+  "explanations": {
+    "4244": "It is essentially adjacent to the last known location and fits the user’s late-night Lower Manhattan bar-crawl pattern.",
+    "2672": "A frequent cocktail bar for this user, and its very close Greenwich Village location makes it a strong return candidate just after midnight.",
+    "777": "This is one of the user’s most repeated anchors and a classic match for a Sunday midnight revisit in the East Village.",
+    "1594": "Close by, nightlife-oriented, and consistent with the user’s preference for established bars in Lower Manhattan.",
+    "3537": "Nearby in the same nightlife cluster and category-matched to the user’s bar-heavy behavior.",
+    "1778": "A close East Village bar that fits a likely continuation of the existing crawl.",
+    "2190": "Another nearby dive bar that matches the user’s nightlife profile and east-side movement.",
+    "3246": "A plausible nearby pub stop that aligns with the user’s bar/pub preferences.",
+    "1342": "Close to the current area and consistent with the user’s cocktail-bar and gastropub-adjacent venue history.",
+    "2911": "A nearby Lower East Side nightlife spot that matches the user’s established late-night venue cluster."
+  },
+  "fallback": false
+}

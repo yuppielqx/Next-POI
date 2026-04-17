@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_511",
+  "ranked_loc_ids": [
+    758,
+    761,
+    1747,
+    28,
+    2178,
+    564,
+    2831,
+    1830,
+    2347,
+    1835
+  ],
+  "explanations": {
+    "758": "It is the closest nearby continuation from Pier I Cafe and fits the user’s northward movement along the Upper West Side corridor.",
+    "761": "A same-location revisit is plausible given the short time gap and strong immediate proximity.",
+    "1747": "The nearby outdoor recreational space at Riverside Park is consistent with a short northbound move within the same park area.",
+    "28": "This nearby cinema matches the user’s entertainment-heavy Midtown/Upper West Side pattern and evening timing.",
+    "2178": "A close bakery stop fits the user’s frequent food-and-drink behavior and nearby west-side routing.",
+    "564": "The user may be shifting to transit to continue moving north or toward another Midtown West destination.",
+    "2831": "This nearby hotel/bar aligns with the user’s hotel-and-nightlife cluster around Lincoln Square and Central Park South.",
+    "1830": "A luxury hotel stop is consistent with the user’s history and the nearby upscale corridor.",
+    "2347": "This office landmark near Columbus Circle matches the user’s repeated Midtown West commercial pattern.",
+    "1835": "A coffee stop is behaviorally plausible for this user, though less likely than the closer Upper West Side options."
+  },
+  "fallback": false
+}

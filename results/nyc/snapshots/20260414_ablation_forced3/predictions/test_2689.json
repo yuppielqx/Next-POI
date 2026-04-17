@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2689",
+  "ranked_loc_ids": [
+    116,
+    1399,
+    139,
+    5586,
+    2656,
+    1200,
+    2964,
+    5656,
+    2644,
+    1701
+  ],
+  "explanations": {
+    "116": "The user is already at this highly recurrent morning commute endpoint, and the target time is only one minute later.",
+    "1399": "It is immediately adjacent to the current location and fits the same Jamaica transit-hub pattern.",
+    "139": "A nearby platform-level continuation within the same station complex is very plausible at this minute.",
+    "5586": "Another adjacent platform in the Jamaica Station complex, matching a brief intra-station movement.",
+    "2656": "A close transit connection in Jamaica that could be the next intermodal step after LIRR.",
+    "1200": "This is the main nearby subway hub and a natural continuation of the commute corridor.",
+    "2964": "A nearby E-train stop that fits the user’s Jamaica-area transit footprint.",
+    "5656": "A convenient nearby stop at the station complex, consistent with brief dwell behavior at transit hubs.",
+    "2644": "The user has repeated morning transitions through this major transportation hub, making a return plausible.",
+    "1701": "It is part of the user’s repeated morning rail sequence and remains a realistic transit-related fallback."
+  },
+  "fallback": false
+}

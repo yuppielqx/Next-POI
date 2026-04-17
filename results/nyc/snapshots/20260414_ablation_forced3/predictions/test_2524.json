@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2524",
+  "ranked_loc_ids": [
+    2818,
+    4895,
+    2820,
+    3762,
+    3354,
+    2978,
+    5694,
+    5693,
+    781,
+    568
+  ],
+  "explanations": {
+    "2818": "Monday midday strongly matches the user's most common routine and the gym is their highest-frequency anchor.",
+    "4895": "It is a very frequent Midtown stop with multiple noon-to-2pm visits and often follows the gym in their pattern.",
+    "2820": "This Midtown performing-arts building fits their recurring theater/work cluster and has multiple Monday appearances.",
+    "3762": "A nearby Theater District venue that matches the user’s arts-oriented Midtown pattern and midday timing.",
+    "3354": "This performing arts venue sits in the same West 45th–48th Street cluster and is a plausible daytime stop.",
+    "2978": "The user has theater-related history here, and it aligns with the Midtown entertainment anchor pattern.",
+    "5694": "Although the last known location was nearby on Sunday, this is less likely than a Midtown return but still part of the user’s core routine.",
+    "5693": "A familiar indie theater destination that fits the user's arts ecosystem, though it is farther south than the main anchor.",
+    "781": "Another gym-related option that could fit a midday workout pattern, but it has far less history than New York Sports Club.",
+    "568": "A plausible Manhattan entertainment stop, but it is weaker than the user’s core recurring locations."
+  },
+  "fallback": false
+}

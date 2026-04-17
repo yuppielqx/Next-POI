@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2284",
+  "ranked_loc_ids": [
+    540,
+    487,
+    1573,
+    3491,
+    4968,
+    4663,
+    4414,
+    137,
+    814,
+    1163
+  ],
+  "explanations": {
+    "540": "It is the current location and the strongest short-term continuation choice only 20 minutes after the last check-in on a Saturday night.",
+    "487": "A nearby nightlife lounge fits the late-night Manhattan corridor and the user’s nightlife-adjacent pattern better than non-nightlife options.",
+    "1573": "Another immediate nightlife option in the same area, consistent with staying out near the last sports bar.",
+    "3491": "This close lounge is a plausible next stop for a Saturday-night continuation within the same entertainment district.",
+    "4968": "Late-night food is a common follow-on from bars, and this nearby pizza place fits that behavior.",
+    "4663": "A nearby burger spot is another realistic post-bar food stop in the immediate vicinity.",
+    "4414": "Quick late-night dining near the current location makes this a reasonable nearby continuation.",
+    "137": "Penn Station is a plausible transit-oriented move if the user is heading home after nightlife.",
+    "814": "This matches the user’s history for nightlife, though it is less immediately likely than staying near Boxers.",
+    "1163": "A diner is a possible late-night stop, but it is farther away and less aligned than the Manhattan nightlife options."
+  },
+  "fallback": false
+}

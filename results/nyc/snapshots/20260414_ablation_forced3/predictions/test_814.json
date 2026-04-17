@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_814",
+  "ranked_loc_ids": [
+    137,
+    144,
+    962,
+    3686,
+    3688,
+    147,
+    1538,
+    1214,
+    1092,
+    4412
+  ],
+  "explanations": {
+    "137": "It is the user’s most frequent anchor, matches the immediate last known stop, and is the strongest return-to-base option at this late hour.",
+    "144": "A nearby Midtown transit hub with repeated Wednesday and late-evening history makes it the most plausible short move if they leave Location 137.",
+    "962": "It is essentially next door to Penn Station and fits a quick late-night food stop after returning to Midtown.",
+    "3686": "The user often uses transit hubs in this corridor, and it is a nearby connector if they continue moving south-west.",
+    "3688": "This sports bar near Penn Station fits the user’s after-work leisure pattern and proximity to the current base area.",
+    "147": "It is part of the user’s Midtown transit corridor and could be a brief transfer point during evening movement.",
+    "1538": "The user has recently passed through this station, so a return or transfer along the same southbound corridor is possible.",
+    "1214": "A nearby transportation hub that could serve as a late-evening exit point toward New Jersey or a cross-town transfer.",
+    "1092": "It is very close to the last location and aligns with the user’s event-oriented evening travel patterns.",
+    "4412": "A nearby Penn Station bar that suits a late-night stop if the user remains in the Midtown West nightlife cluster."
+  },
+  "fallback": false
+}

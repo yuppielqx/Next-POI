@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_558",
+  "ranked_loc_ids": [
+    3002,
+    2997,
+    3001,
+    3000,
+    229,
+    3003,
+    1166,
+    2762,
+    3005,
+    413
+  ],
+  "explanations": {
+    "3002": "The user was last seen here only 42 minutes before the target time, and the Saturday lunch pattern plus prior repeat visits make a short continuation most likely.",
+    "2997": "This is one of the user's most visited nearby places and fits a brief post-lunch local movement within the Kearny cluster.",
+    "3001": "The user has a repeated errand pattern involving QuickChek after nearby stops, and it is close enough for a quick continuation.",
+    "3000": "Another strongly repeated Latin dining spot in the same home-base area, making it a plausible next meal/errand destination.",
+    "229": "Newark Penn Station fits the user's recurring transit-centered movement pattern and is a common bridge to nearby local stops.",
+    "3003": "This nearby transit hub matches the user's evening-oriented commute signature and regular station-linked movements.",
+    "1166": "A nearby practical errand stop that fits the user's local, utility-oriented travel behavior.",
+    "2762": "A nearby restaurant option that could plausibly follow lunch-area mobility, though it is less historically central than the top dining spots.",
+    "3005": "Grocery/errand behavior is plausible for this user in the afternoon, especially within the same local cluster.",
+    "413": "Close by and reachable in the same area, but there is less evidence that the user would go here at this time."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_560",
+  "ranked_loc_ids": [
+    59,
+    2975,
+    1983,
+    3006,
+    1318,
+    2784,
+    3010,
+    3007,
+    3011,
+    557
+  ],
+  "explanations": {
+    "59": "It is a nearby high-activity Manhattan destination consistent with a Friday evening transition from dinner to entertainment.",
+    "2975": "A close-by concert venue that fits the user’s evening leisure pattern and the northward movement trend.",
+    "1983": "This bar matches the user’s strong nightlife tendency and is a plausible pre-return Manhattan stop.",
+    "3006": "The user’s main Jersey City anchor is a frequent evening endpoint, though it is less likely than another Manhattan stop immediately after Quality Meats.",
+    "1318": "A very nearby Manhattan landmark that fits a continued northward move before a later social outing.",
+    "2784": "Another nearby steakhouse, making it a reasonable dining continuation after Quality Meats.",
+    "3010": "A nearby dinner option in the Theater District that aligns with Friday evening food-oriented movement.",
+    "3007": "Close to the current location and plausible as a quick social or rest stop in Midtown.",
+    "3011": "A reasonable Midtown stop for a short pause, though less aligned with the nightlife-heavy profile.",
+    "557": "A possible route back toward Jersey City, but the timing suggests the user is more likely to stay in Manhattan first."
+  },
+  "fallback": false
+}

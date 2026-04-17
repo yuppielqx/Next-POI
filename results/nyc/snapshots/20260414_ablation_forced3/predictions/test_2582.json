@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2582",
+  "ranked_loc_ids": [
+    1312,
+    2117,
+    358,
+    5527,
+    370,
+    2119,
+    5528,
+    2306,
+    112,
+    2579
+  ],
+  "explanations": {
+    "1312": "It is the exact last known location and the strongest short-term return-to-last candidate at this late Saturday hour.",
+    "2117": "It is immediately adjacent to the current Starbucks and fits a nearby food/coffee stop without requiring a major move.",
+    "358": "This is next door on Broadway and is a plausible quick errand or snack stop in the same immediate area.",
+    "5527": "A transit hop is plausible at night, and it is essentially at the same street-level cluster near the current position.",
+    "370": "It is very close by and could be part of a short local walk while staying in the Upper West Side corridor.",
+    "2119": "The user’s strongest long-term anchor is a gym, but the late-night weekend timing makes a visit less likely than a nearby stop.",
+    "5528": "Another fitness-oriented option in the same neighborhood, though it is less habitual than the user’s usual gym pattern.",
+    "2306": "A nearby restaurant is plausible if the user is transitioning from coffee to late-night food in the Broadway area.",
+    "112": "The user may be heading toward transit after the Starbucks stop, especially given the northward movement trend.",
+    "2579": "A broader neighborhood check-in is less specific, but it remains consistent with lingering in the immediate area."
+  },
+  "fallback": false
+}

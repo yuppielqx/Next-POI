@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_309",
+  "ranked_loc_ids": [
+    130,
+    1035,
+    2014,
+    113,
+    2009,
+    2010,
+    1629,
+    2011,
+    114,
+    2013
+  ],
+  "explanations": {
+    "130": "This matches the user’s strongest Brooklyn transit pattern and the evening timing after a food stop, with a likely short move back toward their usual commute corridor.",
+    "1035": "A major nearby transit hub in the user’s core Brooklyn loop, and evening transfers through Atlantic Terminal are highly consistent with their history.",
+    "2014": "This is one of the user’s most recurrent transit nodes and fits a northwest-moving evening transition in Downtown Brooklyn.",
+    "113": "The DeKalb Ave station is a frequent Brooklyn rail stop for this user and is plausible as a nearby transfer point after Chipotle.",
+    "2009": "The user often returns home late, and although farther away, the home-base pattern makes it a strong end-of-evening candidate.",
+    "2010": "This Bay Parkway bus stop aligns with the user’s Brooklyn transit-heavy routine and has enough weekday history to be a plausible next stop.",
+    "1629": "This Starbucks/Atlantic Terminal-area coffee stop is a reasonable nearby continuation after a food visit in the same Brooklyn corridor.",
+    "2011": "Evening leisure or food follow-ups happen occasionally, and this Brooklyn nightlife/food spot is consistent with a post-dinner outing.",
+    "114": "A bridge-adjacent subway station fits a short northwest transit move, though it is less favored than the Atlantic corridor stations.",
+    "2013": "A repeated Brooklyn food venue with some history, making it a possible but less likely evening destination than transit hubs or home."
+  },
+  "fallback": false
+}

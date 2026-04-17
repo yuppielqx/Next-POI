@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2525",
+  "ranked_loc_ids": [
+    2818,
+    4895,
+    2820,
+    781,
+    3762,
+    3354,
+    2978,
+    1828,
+    5694,
+    189
+  ],
+  "explanations": {
+    "2818": "Monday morning at 9:57 strongly matches the user’s frequent gym routine in Midtown, and this is their highest-history fitness anchor.",
+    "4895": "This Midtown stop is nearly as frequent as the gym and often pairs with it in the user’s routine during the 9–11am window.",
+    "2820": "A repeat morning destination in the same West 45th Street cluster, making it a strong fit for an eastbound return toward Midtown.",
+    "781": "This is another gym-linked option and fits the user’s habitual fitness-oriented morning movement pattern.",
+    "3762": "Theater District travel is a recurring theme for the user, and this prominent theater sits in their core Midtown zone.",
+    "3354": "A performing arts venue in the same theater corridor, consistent with the user’s arts-and-training ecosystem.",
+    "2978": "The user has prior evening theater activity here, and it remains a plausible Midtown destination with strong category alignment.",
+    "1828": "This performing arts venue matches the user’s acting/theater profile and sits within a plausible Manhattan morning route.",
+    "5694": "Although the user was just here, it is part of their recurring arts routine and remains possible if they backtrack within the same network.",
+    "189": "This nearby West Village stop is a low-distance option that could follow the park stop, but it is less consistent than the user’s usual Midtown morning pattern."
+  },
+  "fallback": false
+}

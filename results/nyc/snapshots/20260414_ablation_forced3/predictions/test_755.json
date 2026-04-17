@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_755",
+  "ranked_loc_ids": [
+    3574,
+    4769,
+    3593,
+    7,
+    5673,
+    5670,
+    5151,
+    5671,
+    1026,
+    248
+  ],
+  "explanations": {
+    "3574": "The user’s strongest routine signal is a frequent morning return to this Midtown East gym, and the target time fits that workout pattern well.",
+    "4769": "Similar users often pair a morning gym or commute with coffee, and this is a very close Midtown East option.",
+    "3593": "Another fitness venue nearby, but it is less supported than Equinox by the user’s history and recurring gym-centered behavior.",
+    "7": "It is the last known location and only a short move away, though the morning timing makes a repeat visit less likely than a daytime routine stop.",
+    "5673": "A practical morning food stop near the user’s Midtown base, fitting an after-workout or commute-related pattern.",
+    "5670": "A nearby sandwich place that matches routine daytime urban movement, but it is less likely than the more habitual coffee or gym options.",
+    "5151": "This is a plausible coffee stop in the same neighborhood, especially given similar-user transitions from gym to Starbucks.",
+    "5671": "A nearby lunch-oriented restaurant that could fit a late-morning errand sequence, though it is not a strong match for the user’s fitness-first routine.",
+    "1026": "A nearby restaurant in the right area, but the user’s history favors gym and occasional leisure more than Mexican dining.",
+    "248": "The user has some daytime leisure behavior, but this is farther and less consistent with the strong Midtown East morning routine."
+  },
+  "fallback": false
+}

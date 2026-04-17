@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_553",
+  "ranked_loc_ids": [
+    2979,
+    70,
+    1845,
+    2980,
+    5218,
+    3592,
+    4698,
+    2741,
+    3458,
+    3201
+  ],
+  "explanations": {
+    "2979": "The user has an overwhelming weekday morning routine centered on this Spiritual Center, and the target time matches their strongest historical pattern exactly.",
+    "70": "It is very close to the last location in the same Midtown cluster, making it a plausible short-hop stop near Grand Central.",
+    "1845": "The user has repeated visits here and has previously transitioned there from their morning routine area, so it remains a credible secondary destination.",
+    "2980": "This is another spiritually oriented venue in Manhattan and fits the user’s religious/spiritual activity pattern, though it is less frequently visited.",
+    "5218": "A nearby morning coffee stop is plausible given the early hour and the user’s routine-based weekday behavior.",
+    "3592": "This nearby coffee shop aligns with a morning-time movement pattern and is within the same Midtown East area.",
+    "4698": "Another nearby breakfast/coffee option that fits an early weekday stop in the user’s anchor neighborhood.",
+    "2741": "A close deli/bodega is a reasonable daytime convenience stop near the user’s recurring Midtown location.",
+    "3458": "This nearby office location could be part of the user’s movement through the same commercial corridor, though there is no strong personal history.",
+    "3201": "Similar-user evidence points to this Midtown office area, making it a low-probability but geographically consistent destination."
+  },
+  "fallback": false
+}

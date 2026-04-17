@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_109",
+  "ranked_loc_ids": [
+    826,
+    827,
+    127,
+    833,
+    830,
+    598,
+    137,
+    825,
+    846
+  ],
+  "explanations": {
+    "826": "This is the user’s strongest recurring weekday corridor in northeastern Queens and best matches an evening return from the Belt Parkway.",
+    "827": "The user repeatedly uses this road near home, and it fits the likely return path from southwest Brooklyn back to Queens.",
+    "127": "A frequent bridge crossing for this user, and an evening commute pattern makes a Queens-bound bridge return plausible.",
+    "833": "This corridor aligns closely with the user’s northeastern Queens travel loop and is a common connector back toward their base area.",
+    "830": "Similar users often transition into major transport hubs around this time, and this fits the user’s bridge-approach travel style.",
+    "598": "The user’s profile shows repeated bridge infrastructure usage, and this is a realistic connector if they are circling back through the Bronx/Queens network.",
+    "137": "Penn Station is a known occasional destination for this user and fits a structured late-day transit movement.",
+    "825": "This is a recurring pre-trip stop in the user’s history, though it is more likely in the morning than at 18:30.",
+    "846": "The user has occasional practical destination stops like this, but it is less likely than the core transportation corridors."
+  },
+  "fallback": false
+}

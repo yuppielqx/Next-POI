@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_465",
+  "ranked_loc_ids": [
+    1668,
+    2656,
+    116,
+    1200,
+    134,
+    1666,
+    2657,
+    927,
+    1232
+  ],
+  "explanations": {
+    "1668": "It is nearby, consistent with the southward Queens subway movement, and fits the user’s late-night transit chaining pattern.",
+    "2656": "Jamaica-bound transfer behavior is one of the user’s strongest recurring signatures, and this is a major Queens hub in that corridor.",
+    "116": "This is the user’s dominant historical anchor and a very plausible late-night return or transfer point.",
+    "1200": "Another key Jamaica transit node that matches the user’s repeated Queens rail usage and off-peak mobility.",
+    "134": "This is a major nearby intermodal hub that fits the current Queens transit context and off-peak transfer behavior.",
+    "1666": "A return visit is plausible because it is the last known location and appears in the user’s history as part of repeated station chains.",
+    "2657": "The user was last observed here, so a short follow-up check-in is possible despite it being less typical than a station stop.",
+    "927": "This station aligns with the user’s Queens corridor pattern and is plausible as the next transfer point southbound or westbound.",
+    "1232": "The nearby bus depot location is consistent with the user’s strong transit orientation and close spatial continuity from the last stop."
+  },
+  "fallback": false
+}

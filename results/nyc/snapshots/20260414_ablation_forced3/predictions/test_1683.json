@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1683",
+  "ranked_loc_ids": [
+    1814,
+    330,
+    5215,
+    1655,
+    4783,
+    110,
+    3403,
+    3406,
+    3419,
+    3320
+  ],
+  "explanations": {
+    "1814": "It is the user’s strongest habitual destination, exactly matches the last known location area, and is the most likely continuation of the weekday morning routine.",
+    "330": "This is the adjacent anchor venue in the user’s recurring NYU campus pattern and is almost as likely as the library.",
+    "5215": "It is immediately adjacent to the current NYU cluster and fits the user’s medical-campus routine despite no prior visits.",
+    "1655": "The nearby hospital destination aligns with the user’s healthcare-oriented movement and is only a short step from the last location.",
+    "4783": "It is a nearby major hospital in the same east-side medical corridor, making it a plausible alternative institutional stop.",
+    "110": "The user sometimes uses nearby transit nodes, and this station is a realistic connector within the commute corridor.",
+    "3403": "A morning coffee stop near the NYU campus fits the early weekday timing and practical errand pattern.",
+    "3406": "A nearby breakfast option on the same block as the current location makes it a plausible brief stop during the morning commute.",
+    "3419": "This nearby food stop is consistent with a short morning errand in the Kips Bay area before classes or work.",
+    "3320": "The Bronx origin station is part of the user’s dominant commute pattern, but it is less likely as the immediate next stop given the user is already in Manhattan."
+  },
+  "fallback": false
+}

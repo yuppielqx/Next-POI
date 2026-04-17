@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_19",
+  "ranked_loc_ids": [
+    1930,
+    186,
+    182,
+    184,
+    189,
+    181,
+    92,
+    188,
+    185,
+    183
+  ],
+  "explanations": {
+    "1930": "This is the strongest match because Equinox dominates the user’s history and fits the time-conditioned wellness routine best.",
+    "186": "A recurring fitness venue in the user’s pattern, and an afternoon visit is plausible after a wellness-oriented earlier stop.",
+    "182": "A spa aligns with the user’s recovery-oriented behavior and the afternoon time slot after a morning workout.",
+    "184": "Another established exercise destination for the user, though less likely than Upper West Side options given the geographic pattern.",
+    "189": "It is the current vicinity and a plausible transitional stop, though it lacks the user’s strong historical pull.",
+    "181": "A gym fits the user’s wellness routine, but it is less central to their repeated behavior than Equinox.",
+    "92": "An occasional errand location that could follow a workout, but it is not a primary pattern.",
+    "188": "Fitness-related and Manhattan-centered, but much less supported than the user’s usual studio/gym destinations.",
+    "185": "A possible Manhattan wellness stop, though it appears only once in the history and is less area-consistent.",
+    "183": "A nightlife option that is possible in general, but it is weakly supported by this user’s highly fitness-centered profile."
+  },
+  "fallback": false
+}

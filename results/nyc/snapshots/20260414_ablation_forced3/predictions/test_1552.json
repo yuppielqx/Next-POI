@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1552",
+  "ranked_loc_ids": [
+    1127,
+    1298,
+    4830,
+    3922,
+    0,
+    2068,
+    5609,
+    3560,
+    4686,
+    390
+  ],
+  "explanations": {
+    "1127": "The user already checked in here once and the current context strongly favors a cinema-related continuation after the earlier movie stop.",
+    "1298": "This nearby American restaurant fits the early evening timing and the user’s pattern of moving from entertainment to food.",
+    "4830": "A close American restaurant option in the same Upper West Side cluster makes it a plausible post-cinema dinner stop.",
+    "3922": "The user’s routine includes casual food venues, and this diner is a nearby, convenient evening choice.",
+    "0": "Similar users often transition to bars at this hour, and this is a fitting nearby nightlife spot.",
+    "2068": "A whisky bar matches the evening prior and the user’s occasional bar-oriented behavior.",
+    "5609": "This nearby pub aligns with the strong bar/restaurant bias around the target time.",
+    "3560": "A bar-grill venue is consistent with a Saturday evening outing after the cinema.",
+    "4686": "Strong historical evidence makes this a reasonable downtown-style evening stop despite the current uptown position.",
+    "390": "It is one of the user’s established repeat dining destinations and remains a plausible lower Manhattan evening anchor."
+  },
+  "fallback": false
+}

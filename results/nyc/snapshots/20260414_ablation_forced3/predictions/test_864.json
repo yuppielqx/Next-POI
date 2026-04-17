@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_864",
+  "ranked_loc_ids": [
+    3795,
+    3796,
+    617,
+    3794,
+    3793,
+    566,
+    3688,
+    1634,
+    586,
+    1214
+  ],
+  "explanations": {
+    "3795": "The user’s strongest morning work anchor is this coworking space, and the target time aligns with their repeated 6–8 AM and early-day return pattern.",
+    "3796": "It is the most frequent nearby errand stop and sits directly on the user’s tightly clustered West 32nd Street route.",
+    "617": "This is a core lunch/meal destination in the same Midtown cluster, making it a likely follow-up after arriving at work.",
+    "3794": "The user has recurring quick-food visits here, and it is very close to the established work-and-eat loop.",
+    "3793": "Although less frequent, its early-morning gym pattern and close proximity keep it plausible for a morning stop.",
+    "566": "This nearby retail stop fits the user’s localized Midtown movement and occasional errand behavior.",
+    "3688": "A known nearby repeat venue that could be visited during a break, though it is more consistent with non-work hours.",
+    "1634": "This is another nearby repeat stop within the same corridor, but it is less tied to the morning work routine.",
+    "586": "Herald Square is within the user’s habitual area and could serve as a brief intermediary stop while staying local.",
+    "1214": "It is a nearby transit hub in the same neighborhood, but the user’s pattern favors remaining in the Koreatown work cluster."
+  },
+  "fallback": false
+}

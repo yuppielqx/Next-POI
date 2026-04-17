@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_978",
+  "ranked_loc_ids": [
+    4115,
+    672,
+    2524,
+    4118,
+    4082,
+    4120,
+    3498,
+    3721,
+    4128,
+    200
+  ],
+  "explanations": {
+    "4115": "This is one of the user’s strongest Friday morning repeat stops and is only a short northward walk from TD Bank.",
+    "672": "A highly frequent breakfast/deli destination that fits the user’s habitual home-to-food routine in the same corridor.",
+    "2524": "The user often follows nearby breakfast stops with this building-like destination, making it a strong routine continuation.",
+    "4118": "A recurring nearby weekday food stop that matches the user’s localized Murray Hill/NoMad pattern.",
+    "4082": "Very close to the last location and historically visited often enough to fit a short morning errand or meal stop.",
+    "4120": "Another frequent nearby food venue that aligns with the user’s compact lunch/breakfast pattern.",
+    "3498": "A close office-like destination that could plausibly follow the bank stop on a weekday morning.",
+    "3721": "The user may briefly remain at or return to the same bank location given its exact match to the last check-in.",
+    "4128": "A nearby repeated building/hotel-like stop that fits the user’s narrow neighborhood loop.",
+    "200": "A close coffee stop that is consistent with the user’s early-morning weekday routine."
+  },
+  "fallback": false
+}

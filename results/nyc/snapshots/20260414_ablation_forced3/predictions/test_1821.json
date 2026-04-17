@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1821",
+  "ranked_loc_ids": [
+    5215,
+    3403,
+    330,
+    1814,
+    5218,
+    3427,
+    2599,
+    2049,
+    1690,
+    2128
+  ],
+  "explanations": {
+    "5215": "The user has just been there repeatedly and this is the strongest anchor in their weekday routine, making an immediate return most likely.",
+    "3403": "This is the most frequent coffee stop and fits the user’s habitual Starbucks-to-Skirball loop near the current corridor.",
+    "330": "It is an adjacent nearby medical facility and fits the user’s academic/medical routine with minimal movement from the last location.",
+    "1814": "A very close academic destination that matches a late-evening study/work continuation near Skirball.",
+    "5218": "Another familiar nearby Starbucks in the same East Side pattern, plausible as a quick coffee break stop.",
+    "3427": "A nearby café in the user’s usual Manhattan corridor, consistent with their coffee-shop-centered behavior.",
+    "2599": "This Manhattan Starbucks is another close coffee option and matches the user’s repeated caffeine-oriented movement.",
+    "2049": "The user sometimes makes short food stops in this corridor, so a casual dinner/meal visit remains plausible.",
+    "1690": "A nightlife option in the same general area, but it is less likely than routine daytime anchors despite the Friday night timing.",
+    "2128": "It has a same-time-slot history and could fit a late meal, though it is only a single prior and farther away than the usual anchors."
+  },
+  "fallback": false
+}

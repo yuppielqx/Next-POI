@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_841",
+  "ranked_loc_ids": [
+    3741,
+    642,
+    88,
+    3743,
+    3742,
+    1914,
+    5283,
+    3745,
+    2380,
+    2704
+  ],
+  "explanations": {
+    "3741": "The strong late-evening home pattern and the 21:13 timing make a return to the frequent overnight base most likely.",
+    "642": "A transit hub fits an end-of-day commute transition, especially for a user who moves between Jersey City and Manhattan.",
+    "88": "The user’s commute-driven behavior and proximity to the current office area make this major transportation hub plausible.",
+    "3743": "This is the user’s office anchor and the current area, so a short continuation/stay is still possible despite the late hour.",
+    "3742": "A ferry connection aligns with the Jersey City–Manhattan corridor and evening travel home.",
+    "1914": "Quick food stops near the office fit the user’s pragmatic weekday pattern before commuting.",
+    "5283": "Another nearby grab-and-go food option that matches a routine evening transition around transit.",
+    "3745": "The user has prior food-stop behavior near Midtown, making a quick dinner stop believable.",
+    "2380": "A nearby restaurant could fit an after-work meal, though it is less supported than transit or home.",
+    "2704": "A nightlife venue is possible but less likely given the user’s generally routine, non-nightlife-heavy pattern."
+  },
+  "fallback": false
+}

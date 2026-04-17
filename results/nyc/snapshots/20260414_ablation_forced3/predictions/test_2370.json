@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2370",
+  "ranked_loc_ids": [
+    5628,
+    5625,
+    5624,
+    472,
+    5627,
+    4577,
+    2723,
+    4578,
+    3528,
+    4621
+  ],
+  "explanations": {
+    "5628": "It is the last known location and fits the strong return-to-anchor pattern in the same Crown Heights cluster.",
+    "5625": "This is a repeated paired stop with Ohelei Torah and was just visited moments earlier, making it a very likely nearby revisit.",
+    "5624": "The user’s routine is heavily centered here, and it is one of the strongest historical anchors in their morning pattern.",
+    "472": "The user repeatedly transitions within this neighborhood, and the current movement suggests another local cluster check-in.",
+    "5627": "This nearby educational institution matches the user’s school-oriented routine and sits inside the same mobility radius.",
+    "4577": "Synagogue visits are a major part of the profile, and this is a frequent local religious anchor.",
+    "2723": "This is another close educational site in the same neighborhood, consistent with the user’s repetitive local circuit.",
+    "4578": "A nearby pharmacy in the Crown Heights area, it is plausible for a routine errand within the user’s tight radius.",
+    "3528": "The user may make a short local transit move, and this station is extremely close to the current location.",
+    "4621": "A nearby breakfast spot in the same area, it is a plausible but less likely routine stop than the user’s core anchors."
+  },
+  "fallback": false
+}

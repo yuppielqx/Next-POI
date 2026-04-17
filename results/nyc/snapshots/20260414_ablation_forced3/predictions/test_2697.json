@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2697",
+  "ranked_loc_ids": [
+    2476,
+    137,
+    647,
+    5290,
+    2486,
+    2485,
+    2479,
+    2490,
+    3077,
+    219
+  ],
+  "explanations": {
+    "2476": "This is the strongest morning anchor in the user’s history, and the Saturday 11:21 temporal prior strongly favors a return to their core Midtown/Chelsea routine.",
+    "137": "A highly recurrent daytime stop near the same west 20s corridor, making it the most plausible alternative workplace/transit-related return.",
+    "647": "It sits within the user’s regular Chelsea orbit and fits a late-morning coffee/food reset after the prior night out.",
+    "5290": "A nearby café with repeated visits, consistent with a Saturday morning re-entry into the user’s usual work neighborhood.",
+    "2486": "A familiar morning coffee stop in the same area, and the user often pairs early-day movement with quick food or drink visits.",
+    "2485": "This lies directly in the user’s habitual west 20s cluster and is close enough to be a realistic nearby return destination.",
+    "2479": "A repeated local lunch/dinner venue in the same neighborhood, possible if the user is transitioning from morning into an early meal.",
+    "2490": "Another food stop embedded in the user’s Midtown/Chelsea routine, making it a reasonable low-friction option.",
+    "3077": "The recent nightlife trajectory and westward movement make another bar possible, though the morning time prior makes it less likely.",
+    "219": "Proximity to the last known area keeps it in play, but its nightlife context is weak against the strong Saturday morning office-routine pattern."
+  },
+  "fallback": false
+}

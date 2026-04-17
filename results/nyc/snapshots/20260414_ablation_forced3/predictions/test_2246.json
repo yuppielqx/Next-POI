@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2246",
+  "ranked_loc_ids": [
+    590,
+    3218,
+    3096,
+    1930,
+    3460,
+    958,
+    4074,
+    2499,
+    3536,
+    192
+  ],
+  "explanations": {
+    "590": "It is the strongest Thursday evening repeat anchor, is essentially adjacent to the last stop, and fits the user's gym-heavy night routine.",
+    "3218": "It is at the same immediate location cluster as the last stop and is a plausible quick evening transition to a bar after a food stop.",
+    "3096": "A frequent downtown anchor for this user and a likely return destination within the Greenwich Village/NoHo routine zone.",
+    "1930": "This West Village Equinox matches the user's recurring fitness pattern and evening timing, though it is slightly less proximate than the top option.",
+    "3460": "A known late-evening hangout for the user, consistent with their nighttime social-dining behavior in the same downtown corridor.",
+    "958": "The user's profile supports late-night bar visits, and this Greenwich Village bar fits the Thursday evening social pattern.",
+    "4074": "A nearby Spanish restaurant that matches the user's restaurant tendency and the south-east movement from the last location.",
+    "2499": "Very close to the last stop and within the user's downtown academic/tech routine area, making it a credible short-hop destination.",
+    "3536": "A nearby coffee shop in the same corridor, consistent with the user's midday coffee pattern though less likely at this evening hour.",
+    "192": "A nearby Greenwich Village landmark that fits the user's downtown clustering, but it is less aligned with the evening indoor routine than the other options."
+  },
+  "fallback": false
+}

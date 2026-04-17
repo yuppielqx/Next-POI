@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1667",
+  "ranked_loc_ids": [
+    3438,
+    2463,
+    4342,
+    748,
+    5076,
+    1347,
+    2064,
+    779,
+    5073,
+    5072
+  ],
+  "explanations": {
+    "3438": "Friday night and the user’s history strongly favors this exact late-evening nightlife venue at this time.",
+    "2463": "It is the user’s main anchor and a frequent Friday destination, making a return very plausible even on a night outing.",
+    "4342": "This nearby Hoboken nightlife spot fits the Friday evening shift from the afternoon bank stop.",
+    "748": "A Hoboken bar close to the last location, it matches the user’s nightlife tendency and southwest movement.",
+    "5076": "Another Hoboken sports bar that fits the user’s evening social pattern and compact local circuit.",
+    "1347": "This Jersey City nightlife option is within the user’s usual region and aligns with similar users’ evening entertainment behavior.",
+    "2064": "A Manhattan bar that suits a Friday-night transition and remains consistent with occasional NYC nightlife trips.",
+    "779": "This pub is a plausible late-night stop in Manhattan for a user who sometimes crosses into the city.",
+    "5073": "The user has repeat late-night Lowe’s visits, though it is less natural than a bar on Friday at 9:07 PM.",
+    "5072": "It is the last known location and a recurring stop, but it is less likely to be the next night destination than nightlife venues."
+  },
+  "fallback": false
+}

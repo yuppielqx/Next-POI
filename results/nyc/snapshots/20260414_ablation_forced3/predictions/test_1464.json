@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1464",
+  "ranked_loc_ids": [
+    4838,
+    4839,
+    1988,
+    477,
+    4447,
+    1978,
+    4446,
+    1994,
+    4836
+  ],
+  "explanations": {
+    "4838": "It matches the user’s strongest noon-to-2 PM routine and is a frequent Columbia-area lunch stop.",
+    "4839": "This is a repeated midday Columbia academic destination and fits the current campus-centered trajectory.",
+    "1988": "The user is already there at the last known point, making a continued stay highly plausible.",
+    "477": "A broad campus return is likely given the strong Columbia anchor and midday timing.",
+    "4447": "This nearby campus hub fits a westward move through the Columbia core around lunchtime.",
+    "1978": "A campus coffee stop is plausible for a midday transition within the same Columbia cluster.",
+    "4446": "This nearby academic building aligns with the user’s campus-centric movement pattern.",
+    "1994": "A familiar Upper Manhattan lunch restaurant fits the user’s recurring midday dining behavior.",
+    "4836": "Another nearby lunch option with prior noon-to-2 PM history makes it a reasonable fallback."
+  },
+  "fallback": false
+}

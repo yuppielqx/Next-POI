@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_85",
+  "ranked_loc_ids": [
+    691,
+    677,
+    2645,
+    690,
+    687,
+    696,
+    693,
+    694,
+    685,
+    692
+  ],
+  "explanations": {
+    "691": "The target time is only two minutes after the last check-in, so the most likely action is that the user is still at or immediately near the diner.",
+    "677": "It is extremely close to the current spot and fits the user’s occasional late-night food-related stops.",
+    "2645": "A nearby deli/bodega could be a quick next step if the user leaves the diner briefly.",
+    "690": "A late-night food-and-drink venue in the same southwest corridor is plausible for continued after-hours movement.",
+    "687": "This nearby Queens food stop fits a short late-night transition better than the user’s daytime anchors.",
+    "696": "The user has made occasional cross-region transit moves, and this infrastructure stop is within a plausible southwest trajectory.",
+    "693": "A café-like stop could follow a late-night diner visit, though it is less likely than closer food options.",
+    "694": "A pharmacy stop is possible for a quick errand, but it is less consistent with the immediate diner context.",
+    "685": "This is a reasonable nearby food/drink option, though less likely at 1:31 a.m. than the diner cluster.",
+    "692": "A farther westward Queens move is possible but unlikely given the very short time gap from the last check-in."
+  },
+  "fallback": false
+}

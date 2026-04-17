@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1249",
+  "ranked_loc_ids": [
+    4592,
+    108,
+    137,
+    88,
+    593,
+    4675,
+    1283,
+    3228,
+    4218,
+    274
+  ],
+  "explanations": {
+    "4592": "The Tuesday 08:08 morning prior and strong commute pattern make this the most likely return-to-origin transit stop.",
+    "108": "This fits the next leg of the user’s repeated morning commute sequence toward Hoboken and then Manhattan.",
+    "137": "The user was last here, and their history shows frequent Midtown returns, so an immediate continuation is plausible.",
+    "88": "A major commuter hub that matches the user’s transit-heavy pattern and occasional late-return behavior.",
+    "593": "Similar users at this time often move between major transit nodes, making Secaucus Junction a reasonable commute-related alternative.",
+    "4675": "It is directly adjacent to the last location, so a quick nearby stop is possible before the commute continues.",
+    "1283": "Also immediately adjacent to the current area, making it a plausible short errand stop.",
+    "3228": "This Midtown office destination aligns with the user’s repeated travel pattern near Penn Station/Times Square.",
+    "4218": "A practical nearby breakfast/café stop that fits an early-morning weekday routine.",
+    "274": "Close to the current Midtown cluster and occasionally visited in the user’s Manhattan daytime pattern."
+  },
+  "fallback": false
+}

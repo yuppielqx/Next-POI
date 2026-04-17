@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2398",
+  "ranked_loc_ids": [
+    53,
+    120,
+    1032,
+    5485,
+    112,
+    5640,
+    2386,
+    2609,
+    4650,
+    1709
+  ],
+  "explanations": {
+    "53": "It is the strongest repeat transit node in the user’s history and best fits a Tuesday evening return pattern from Midtown toward uptown.",
+    "120": "This is a frequent weekday commuter stop with solid 6–8pm support and matches a likely northbound trip corridor.",
+    "1032": "The user is strongly anchored here and could be heading homeward to this familiar Washington Heights station.",
+    "5485": "Another core upper-Manhattan transit node that fits the user’s return-to-network evening behavior.",
+    "112": "A plausible uptown transfer point for a commuter moving north from Midtown after a daytime errand.",
+    "5640": "Very close to the last location and a repeated Tuesday stop, making it a reasonable short-hop destination.",
+    "2386": "The user has Tuesday history here and it is near the current Midtown cluster, so a meal stop is possible.",
+    "2609": "It is the last known location and has Tuesday frequency, but it is more likely an intermediate stop than the final evening destination.",
+    "4650": "The user has evening dining patterns, and this diner fits a post-errand meal stop in Manhattan.",
+    "1709": "A practical evening errand stop that aligns with the user’s pharmacy usage, though less likely than transit nodes."
+  },
+  "fallback": false
+}

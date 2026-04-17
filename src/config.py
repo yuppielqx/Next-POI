@@ -1,10 +1,61 @@
+import os
+import sys
 from pathlib import Path
 
-# ── Paths ──────────────────────────────────────────────────────────────────
+# -- Paths -----------------------------------------------------------------
 BASE_DIR = Path(__file__).parent.parent
-DATA_DIR = BASE_DIR / "foursquare_NYC"
-CACHE_DIR = BASE_DIR / "cache"
-RESULTS_DIR = BASE_DIR / "results"
+
+
+def _dataset_from_argv(argv: list[str]) -> str | None:
+    """Extract `--dataset <name>` from argv when present."""
+    for i, token in enumerate(argv):
+        if token == "--dataset" and i + 1 < len(argv):
+            value = argv[i + 1].strip()
+            if value:
+                return value
+        if token.startswith("--dataset="):
+            value = token.split("=", 1)[1].strip()
+            if value:
+                return value
+    return None
+
+
+def _resolve_data_dir() -> Path:
+    """
+    Resolve active dataset directory with priority:
+      1) NEXTPOI_DATA_DIR (explicit full path)
+      2) --dataset <name> CLI argument
+      3) NEXTPOI_DATASET env var
+      4) default datasets/nyc
+    """
+    if os.environ.get("NEXTPOI_DATA_DIR"):
+        return Path(os.environ["NEXTPOI_DATA_DIR"])
+
+    ds = _dataset_from_argv(sys.argv) or os.environ.get("NEXTPOI_DATASET")
+    if ds:
+        return BASE_DIR / "datasets" / ds
+
+    return BASE_DIR / "datasets" / "nyc"
+
+
+DATA_DIR = _resolve_data_dir()
+
+
+def _dataset_tag(path: Path) -> str:
+    """
+    Build a stable cache/results namespace from dataset directory name.
+    Examples:
+      datasets/nyc -> nyc
+      datasets/Gowalla-CA -> gowalla_ca
+    """
+    tag = path.resolve().name.lower()
+    safe = "".join(ch if ch.isalnum() else "_" for ch in tag).strip("_")
+    return safe or "default"
+
+
+DATASET_TAG = _dataset_tag(DATA_DIR)
+CACHE_DIR = BASE_DIR / "cache" / DATASET_TAG
+RESULTS_DIR = BASE_DIR / "results" / DATASET_TAG
 
 TRIPS_TRAIN = DATA_DIR / "trips_train.csv"
 TRIPS_VALID = DATA_DIR / "trips_valid.csv"
@@ -17,13 +68,9 @@ PROFILES_CACHE_DIR = CACHE_DIR / "profiles"
 SIMILARITY_CACHE = CACHE_DIR / "similarity.pkl"
 PREDICTIONS_CACHE_DIR = CACHE_DIR / "predictions"
 TRANSITIONS_CACHE = CACHE_DIR / "transitions.pkl"
-PRIOR_BANK_CACHE = CACHE_DIR / "prior_bank.pkl"
-POI_EMBED_CACHE = CACHE_DIR / "poi_embeddings.pkl"
-RERANKER_MODEL_PATH = CACHE_DIR / "latent_reranker.pt"
-RERANKER_META_PATH = CACHE_DIR / "latent_reranker_meta.json"
 EVALUATION_RESULTS = RESULTS_DIR / "evaluation_results.json"
 
-# ── LLM models ─────────────────────────────────────────────────────────────
+# -- LLM models ------------------------------------------------------------
 PROFILE_LLM_MODEL = "gpt-5.4"
 PREDICTION_LLM_MODEL = "gpt-5.4-mini"
 EMBEDDING_MODEL = "BAAI/bge-m3"
@@ -32,21 +79,21 @@ EMBEDDING_DIM = 1024
 API_MAX_RETRIES = 3
 API_RETRY_BACKOFF = 5
 
-# ── Profile Building ───────────────────────────────────────────────────────
+# -- Profile Building ------------------------------------------------------
 PROFILE_MAX_TRIPS = 10
 PROFILE_MAX_CHECKINS = 8
 
-# ── Similarity ─────────────────────────────────────────────────────────────
+# -- Similarity ------------------------------------------------------------
 GEOHASH_PRECISION = 5
 SPATIAL_WEIGHT = 0.5
 EMBEDDING_WEIGHT = 0.5
 TOP_K_SIMILAR_USERS = 5
 
-# ── Temporal Pattern Mining ────────────────────────────────────────────────
+# -- Temporal Pattern Mining -----------------------------------------------
 HOUR_BUCKET_SIZE = 3
 TOP_TRANSITIONS = 20
 
-# ── Candidate Selection ────────────────────────────────────────────────────
+# -- Candidate Selection ---------------------------------------------------
 SPATIAL_TOP_N = 100
 FORCED_INCLUDE_N = 3
 MAX_CANDIDATES = 100
@@ -56,7 +103,7 @@ CATEGORY_WEIGHT = 0.3
 COLLAB_WEIGHT = 0.2
 REVISIT_WEIGHT = 0.1
 
-# ── Pre-filtering (LLM-based intent filter) ────────────────────────────────
+# -- Pre-filtering (LLM-based intent filter) -------------------------------
 PREFILTER_TOP_N = 30
 INTENT_LLM_MODEL = "gpt-5.4"
 PREFILTER_LLM_MODEL = "gpt-5.4"
@@ -64,18 +111,8 @@ RAW_POOL_SIMILAR_TOP_N = 50
 INTENT_CACHE_DIR = CACHE_DIR / "intent"
 PREFILTER_CACHE_DIR = CACHE_DIR / "prefilter"
 
-# ── Learned reranker ───────────────────────────────────────────────────────
-PRIOR_BANK_TOP_K = 12
-RERANKER_HIDDEN_DIM = 256
-RERANKER_NEGATIVES = 24
-RERANKER_BATCH_SIZE = 32
-RERANKER_EPOCHS = 4
-RERANKER_LR = 2e-4
-RERANKER_MAX_PREFIX_CHECKINS = 8
-
-# ── Prediction ─────────────────────────────────────────────────────────────
+# -- Prediction ------------------------------------------------------------
 MAX_CONTEXT_CHECKINS = 8
-HYBRID_TOP_N = 15
 
-# ── Evaluation ─────────────────────────────────────────────────────────────
+# -- Evaluation ------------------------------------------------------------
 EVAL_K_VALUES = [1, 5, 10]

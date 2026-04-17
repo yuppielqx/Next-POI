@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1652",
+  "ranked_loc_ids": [
+    5053,
+    109,
+    4350,
+    105,
+    347,
+    106,
+    5055,
+    5054,
+    2382,
+    1078
+  ],
+  "explanations": {
+    "5053": "The user’s strongest routine is a morning dog-park visit, and they were just there at 06:36 with the target time only about an hour later.",
+    "109": "This is the most common next step after Hamilton Dog Park in their weekday commute pattern, especially on Monday mornings.",
+    "4350": "It is essentially adjacent to the current routine area and fits a short continued morning walk in the same neighborhood.",
+    "105": "A nearby local stop that could plausibly follow an early dog-walk for a quick errand or coffee/bodega run.",
+    "347": "The Holland Tunnel toll plaza is nearby and matches the corridor-based movement style, though it is less routine than park or PATH.",
+    "106": "Their history includes repeated Lower Manhattan PATH connections, making this a plausible commuter destination after Grove Street.",
+    "5055": "Very close to the current area and within their Jersey City footprint, but it is far less central to the user’s habitual pattern.",
+    "5054": "A nearby Grove Street-area food stop that fits local weekday movement, though the user’s profile is not dining-oriented.",
+    "2382": "A plausible downtown Manhattan destination, but less likely than a transit hub at this early morning time.",
+    "1078": "The user has coffee-related Manhattan deviations, but this is geographically and behaviorally less likely than their core Jersey City routine."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1399",
+  "ranked_loc_ids": [
+    3958,
+    4781,
+    3613,
+    724,
+    4780,
+    683,
+    2261,
+    659,
+    660,
+    5360
+  ],
+  "explanations": {
+    "3958": "The strong 02:05 temporal prior and the user's night-owl fast-food pattern make this the best fit for a late-night jump.",
+    "4781": "Similar late-night fast-food behavior and repeated Jamaica-area visits make this a very plausible alternative.",
+    "3613": "It is a nightlife spot, which matches the user’s occasional late-night outings better than daytime retail stops.",
+    "724": "The user has a history of late-night nightlife activity, making another beer garden/bar-style visit possible.",
+    "4780": "The last known location is already here, and a same-area fast-food continuation remains plausible despite the late hour.",
+    "683": "This is the dominant historical anchor, but its retail nature is less likely at 02:05.",
+    "2261": "The user was just at Old Navy earlier in the trip, so a return nearby is possible if they are chaining retail stops.",
+    "659": "It is extremely close to the last location and fits the user's errand-driven shopping pattern.",
+    "660": "A nearby transit-adjacent stop is plausible for a late-night move in this corridor.",
+    "5360": "Another nightlife option in Queens that could fit a post-evening transition, though it is less directly supported than Jamaica fast food."
+  },
+  "fallback": false
+}

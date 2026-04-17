@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2211",
+  "ranked_loc_ids": [
+    5541,
+    4349,
+    5540,
+    5538,
+    4011,
+    5539,
+    1263,
+    5542,
+    4762,
+    4049
+  ],
+  "explanations": {
+    "5541": "The target time and Saturday pattern strongly favor a return to this recurring Midtown entertainment node.",
+    "4349": "This is the most likely transit connector for reaching the Midtown West theater cluster around the target hour.",
+    "5540": "It matches the user’s repeated Midtown arts pattern and often appears in the same sequence as Ziegfeld.",
+    "5538": "The user frequently uses McDonald’s as a habitual waypoint, and it is a common short-hop option from their East Harlem base.",
+    "4011": "This fits the user’s grocery-routine behavior and is a plausible nearby continuation from the last East Harlem stop.",
+    "5539": "The user was just here, so a brief return is plausible given their clustered, routine-oriented movement.",
+    "1263": "This major hub is a realistic transfer point for a trip between East Harlem and Midtown West.",
+    "5542": "Pharmacy errands are part of the user’s regular local routine and this location is close to their neighborhood anchor.",
+    "4762": "This is a plausible Midtown food stop near the theater district, especially on a Saturday evening.",
+    "4049": "Another practical Midtown service stop that fits the user’s shopping/pharmacy pattern and travel corridor."
+  },
+  "fallback": false
+}

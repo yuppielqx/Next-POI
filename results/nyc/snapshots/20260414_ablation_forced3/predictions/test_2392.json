@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2392",
+  "ranked_loc_ids": [
+    336,
+    3562,
+    1573,
+    1586,
+    2914,
+    1598,
+    2912,
+    1601,
+    1568,
+    114
+  ],
+  "explanations": {
+    "336": "This is the strongest recurring late-night follow-up after bar activity, especially in the 3–5am window on weekend nights.",
+    "3562": "It is the user’s dominant anchor venue and sits extremely close to the last location, making a brief return plausible.",
+    "1573": "A repeated late-night lounge in the same Manhattan cluster, matching the user’s nightlife pattern.",
+    "1586": "The user is already here, so a short dwell or repeat check-in remains possible despite the usual tendency to move on.",
+    "2914": "A nearby nightlife spot that fits the user’s bar-hopping behavior in the Murray Hill area.",
+    "1598": "Another close nightlife venue that could attract a short south-east move from Banc Cafe.",
+    "2912": "Very nearby and nightlife-oriented, making it a natural alternate stop in this corridor.",
+    "1601": "Close by and strongly aligned with late-night drinking patterns, though with no prior visits.",
+    "1568": "A nearby wine bar that could fit an early-morning transition, but it is less historically supported than the main nightlife options.",
+    "114": "The user sometimes ends nightlife sequences with transit, but this option is farther and less consistent than nearby Manhattan stops."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_874",
+  "ranked_loc_ids": [
+    3808,
+    3809,
+    3810,
+    3347,
+    3814,
+    3813,
+    3819,
+    2191,
+    3350,
+    923
+  ],
+  "explanations": {
+    "3808": "The user has very strong repeated history here and lunchtime/afternoon campus dining is highly consistent with the current Queens College context.",
+    "3809": "It is one of the most visited nearby academic buildings and fits a return-to-campus movement pattern after Powdermaker.",
+    "3810": "This Queens College science building is extremely close to the last point and matches the user’s education-centric weekday routine.",
+    "3347": "Another frequent Queens College campus location, making it a plausible next academic stop within the same cluster.",
+    "3814": "Kiely Hall is a recurring campus building and a natural short-hop destination from Powdermaker in the afternoon.",
+    "3813": "Staying at or revisiting the current academic building remains possible given the tight campus movement pattern.",
+    "3819": "The user often relies on the Q64 and other transit links, so a bus move from campus is plausible.",
+    "2191": "This is a frequent transit node in the user’s routine and could appear if they begin a commute back out of Queens.",
+    "3350": "A practical coffee stop near the campus corridor fits the user’s utilitarian, daytime behavior.",
+    "923": "A nearby quick-service food stop is possible, but it is less likely than the core campus destinations."
+  },
+  "fallback": false
+}

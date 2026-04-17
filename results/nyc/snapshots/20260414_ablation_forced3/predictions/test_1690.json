@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1690",
+  "ranked_loc_ids": [
+    82,
+    2640,
+    1038,
+    1059,
+    3244,
+    2927,
+    3025,
+    728,
+    2098,
+    275
+  ],
+  "explanations": {
+    "82": "It is essentially adjacent to the last known Stuyvesant Town stop, making it the strongest immediate continuation at 01:58.",
+    "2640": "A very nearby late-night food option that fits the user’s post-midnight chaining pattern after pizza.",
+    "1038": "The user has just been in a pizza stop, and this close East Village venue matches the same late-night food trajectory.",
+    "1059": "A highly plausible nearby nightlife continuation for this night-owl user in the 1–2 a.m. window.",
+    "3244": "A nearby bar that fits the user’s recurring late-night social behavior and East Village movement.",
+    "2927": "Another close nightlife venue consistent with the user’s bar-hopping pattern after midnight.",
+    "3025": "The user frequently chains into clubs late at night, and this fits the East Village nightlife prior.",
+    "728": "A late-night alcohol-related stop is possible given the user’s social/nightlife profile and proximity.",
+    "2098": "A cocktail bar in the broader downtown nightlife corridor that aligns with the user’s evening-out pattern.",
+    "275": "A plausible nearby cultural stop, though less likely than food or nightlife at this hour."
+  },
+  "fallback": false
+}

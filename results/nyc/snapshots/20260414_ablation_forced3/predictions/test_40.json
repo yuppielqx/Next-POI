@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_40",
+  "ranked_loc_ids": [
+    329,
+    348,
+    244,
+    338,
+    879,
+    331,
+    207,
+    352,
+    1687,
+    1688
+  ],
+  "explanations": {
+    "329": "This is the user’s dominant anchor with the strongest historical and time-slot match, and it is adjacent to the last known location.",
+    "348": "The user frequently pairs the main outdoor anchor with nearby coffee stops, especially around daytime and evening breaks.",
+    "244": "A very close recurring food stop in the same Madison Square micro-area, making it a plausible next quick visit.",
+    "338": "This nearby bakery/food destination fits the user’s convenience-oriented routine and has some supporting visit history.",
+    "879": "It is essentially the same immediate neighborhood and aligns with the user’s tightly clustered movement pattern.",
+    "331": "Another nearby coffee shop that matches the user’s habitual short-radius café behavior.",
+    "207": "A nearby food-truck option that fits an after-work snack pattern and is close to the anchor.",
+    "352": "A nearby bakery with limited but relevant history, making it a plausible alternate food stop.",
+    "1687": "The user’s movement is highly worksite-like, so an adjacent office building remains a possible transition.",
+    "1688": "Another immediate nearby office/conference location that fits the user’s dense local movement pattern."
+  },
+  "fallback": false
+}

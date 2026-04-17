@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1531",
+  "ranked_loc_ids": [
+    951,
+    279,
+    4925,
+    5184,
+    4555,
+    3661,
+    4944,
+    3660,
+    4912,
+    4882
+  ],
+  "explanations": {
+    "951": "The user repeatedly returns to this Staten Island transit hub, and the evening target time strongly favors a habitual transfer back to the North Shore core.",
+    "279": "This is another frequent anchor in the user’s Staten Island loop and fits the same nearby return pattern after a daytime bookstore stop.",
+    "4925": "The user is just here now, so an immediate dwell or short repeat visit is plausible despite the stronger tendency to move onward.",
+    "5184": "A nearby Staten Island academic building is a reasonable short-hop option given the user’s local, repetitive movement around Richmond Ave.",
+    "4555": "The College of Staten Island is close and sits within the same general neighborhood, making it a plausible next stop from Barnes & Noble.",
+    "3661": "A nearby food stop is possible after an afternoon bookstore visit, especially before an evening return trip.",
+    "4944": "The CVS Pharmacy is a common errand-type destination in the immediate area and could follow the current local movement.",
+    "3660": "As a transportation-related location, it loosely matches the user’s transit-oriented behavior, though it is less central than their usual North Shore hub.",
+    "4912": "Grocery/errand behavior is less common for this user, but it remains a plausible local Staten Island stop from the current area.",
+    "4882": "A nearby coffee shop could fit the user’s routine around afternoon transitions, though it is less strongly supported than the transit hubs and bookstore."
+  },
+  "fallback": false
+}

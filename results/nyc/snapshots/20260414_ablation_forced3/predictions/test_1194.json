@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1194",
+  "ranked_loc_ids": [
+    998,
+    2095,
+    1813,
+    4503,
+    4152,
+    58,
+    1569,
+    3571,
+    320,
+    1992
+  ],
+  "explanations": {
+    "998": "The user has a strong post-work gym habit in the same Midtown cluster, and 6–8pm is one of its best-supported time slots.",
+    "2095": "This is the user’s most frequent anchor and the last known location, making a short return within the same East Midtown routine very likely.",
+    "1813": "A nearby Starbucks fits the user’s weekday evening Midtown pattern and the post-work coffee/transition behavior seen in similar routines.",
+    "4503": "Although more morning-oriented, it is a recurrent Midtown café just west of the core and remains a plausible Friday evening stop.",
+    "4152": "This nearby Starbucks/coffee stop aligns with the user’s clustered movement around Lexington Avenue and after-work routine.",
+    "58": "Grand Central is a natural commuter hub for this user and fits a Friday evening transfer within the same corridor.",
+    "1569": "A known Midtown coffee option on Fridays, it matches the user’s office-area behavior and short-radius movement.",
+    "3571": "Similar users show evening social/leisure movement, and this nearby nightlife spot is a reasonable Midtown after-work alternative.",
+    "320": "The user often stays within the broader Midtown area, so a general westward move into the core retail/office district is plausible.",
+    "1992": "This nearby lounge matches the Friday evening prior and similar-user nightlife patterns, though it is less consistent with the user’s routine than the top options."
+  },
+  "fallback": false
+}

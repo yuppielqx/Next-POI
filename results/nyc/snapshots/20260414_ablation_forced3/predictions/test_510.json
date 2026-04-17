@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_510",
+  "ranked_loc_ids": [
+    2178,
+    1830,
+    1725,
+    1835,
+    558,
+    2830,
+    28,
+    2829,
+    2172,
+    2831
+  ],
+  "explanations": {
+    "2178": "The user has a documented late-evening bakery visit pattern and this is the strongest food/dessert match near their Midtown trajectory.",
+    "1830": "It is extremely close to the last location and fits the user's repeated luxury hotel movement in the Central Park South corridor.",
+    "1725": "This is a recurrent Midtown entertainment stop for the user and remains plausible on a Saturday evening in the Rockefeller Center area.",
+    "1835": "A nearby coffee stop aligns with the user's habit of pairing errands with food/drink venues, even later in the evening.",
+    "558": "The user frequently clusters around this Midtown complex and could continue a short, nearby leisure walk there.",
+    "2830": "Another luxury hotel in the user's core Manhattan pattern, very close to the current position.",
+    "28": "Similar users often head to a cinema at this time, and the user's history includes entertainment-oriented evening stops.",
+    "2829": "This is almost adjacent to the last known location and matches the user's repeated hotel-heavy Midtown pattern.",
+    "2172": "A nearby transit move is plausible given the short-distance south-east shift and the user's clustered Manhattan travel.",
+    "2831": "This fits the user's evening hotel/cocktail-bar behavior, though it is a bit farther west than the current position."
+  },
+  "fallback": false
+}

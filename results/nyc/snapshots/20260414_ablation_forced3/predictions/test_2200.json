@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2200",
+  "ranked_loc_ids": [
+    974,
+    4921,
+    4648,
+    3384,
+    2274,
+    3537,
+    571,
+    35,
+    3955
+  ],
+  "explanations": {
+    "974": "The user has a strong Japanese-restaurant tendency and this is a highly plausible nearby dinner choice in Lower Manhattan at the target evening time.",
+    "4921": "Another Japanese-leaning restaurant match, with prior Manhattan nightlife/dinner behavior making this a very strong fit.",
+    "4648": "It is nearby in SoHo/West Village and aligns with the user’s history of distinctive Manhattan evening outings.",
+    "3384": "Nearby nightlife venue that matches the user’s evening social pattern after moving north-east through Manhattan.",
+    "2274": "A nearby entertainment spot that fits a Friday evening continuation from Astor Place into lower Manhattan nightlife.",
+    "3537": "A close bar option consistent with late-afternoon-to-evening activity and the user’s occasional lounge/bar visits.",
+    "571": "East Village is adjacent to the last known position and is a plausible next neighborhood stop during a short Manhattan hop.",
+    "35": "The user is already at Astor Place, so a repeated nearby square check-in remains possible though less informative.",
+    "3955": "A transit move is possible if the user is shifting between nearby Manhattan destinations, but it is less likely than food or nightlife."
+  },
+  "fallback": false
+}

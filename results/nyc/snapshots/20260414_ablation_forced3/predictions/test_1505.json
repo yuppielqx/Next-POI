@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1505",
+  "ranked_loc_ids": [
+    329,
+    4891,
+    750,
+    3418,
+    2919,
+    4890,
+    4892,
+    2377,
+    3691,
+    3564
+  ],
+  "explanations": {
+    "329": "Strong prior history and the most likely south-westward return into the user’s familiar Midtown South leisure corridor.",
+    "4891": "A repeated dessert stop that fits the user’s evening transition pattern and nearby Midtown South territory.",
+    "750": "A familiar lounge in the core Chelsea/NoMad zone, matching the user’s bar-and-lounge preference.",
+    "3418": "A likely casual food stop in the user’s preferred 28th–31st Street corridor after an afternoon outing.",
+    "2919": "A Midtown South pizza option that aligns with the user’s casual meal-plus-nightlife sequencing.",
+    "4890": "One of the user’s strongest recurring nightlife venues in their established Chelsea micro-territory.",
+    "4892": "Another repeated hotel-bar venue in the same compact neighborhood cluster the user favors.",
+    "2377": "A plausible nearby bar/lounge destination consistent with the user’s evening social behavior.",
+    "3691": "A dessert shop that fits the user’s well-documented drink-then-sweet-treat pattern.",
+    "3564": "A repeat bar visit in the user’s core area, but slightly less favored than the strongest dessert and lounge options."
+  },
+  "fallback": false
+}

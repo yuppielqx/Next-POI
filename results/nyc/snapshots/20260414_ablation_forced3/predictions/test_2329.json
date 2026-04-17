@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2329",
+  "ranked_loc_ids": [
+    3622,
+    4410,
+    1802,
+    3189,
+    4127,
+    4040,
+    3559,
+    5604,
+    2410,
+    274
+  ],
+  "explanations": {
+    "3622": "It is a nearby Midtown sports bar that fits the user’s evening social pattern and the southwest drift from Jimmy’s Corner.",
+    "4410": "A close-by lounge in Midtown West, matching the user’s late-evening bar-hopping behavior.",
+    "1802": "A nearby dinner option in Midtown West, plausible for an evening food stop after a bar.",
+    "3189": "The user has visited before and it is a short hop from the current location, fitting a dinner-and-drinks chain.",
+    "4127": "A nearby burger-and-bar venue consistent with the user’s casual nightlife and food preferences.",
+    "4040": "A West 14th Street sports bar that fits the user’s late-night social stop pattern.",
+    "3559": "A very nearby theater option that aligns with the user’s entertainment-oriented evening outings.",
+    "5604": "A close movie theater with the right evening timing, consistent with the user’s food-to-entertainment movement.",
+    "2410": "A movie theater choice that fits the user’s history of evening cinema outings, though it is farther away.",
+    "274": "A nearby outdoor stop that similar users often pair with evening venue-hopping."
+  },
+  "fallback": false
+}

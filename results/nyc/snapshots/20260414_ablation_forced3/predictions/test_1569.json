@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1569",
+  "ranked_loc_ids": [
+    1930,
+    4308,
+    1684,
+    2648,
+    4206,
+    390,
+    2945,
+    2305,
+    2168,
+    2235
+  ],
+  "explanations": {
+    "1930": "This is the strongest history-backed Saturday afternoon anchor and fits the user’s recurring fitness stop pattern in Greenwich Village/Flatiron.",
+    "4308": "A plausible afternoon meal choice with an exact same-time-slot precedent and a nearby Midtown location.",
+    "1684": "A favored downtown repeat venue that matches the user’s established Greenwich Village orbit.",
+    "2648": "A midday diner stop is consistent with the target afternoon time and the user’s occasional daytime food visits.",
+    "4206": "The user just visited this kind of American restaurant, making a short-return dining stop possible.",
+    "390": "A strong SoHo brunch/afternoon option for a leisure-oriented Manhattan traveler.",
+    "2945": "Fits the user’s nightlife-heavy profile and downtown Bleecker Street area.",
+    "2305": "A repeated social venue that aligns with their west-side leisure pattern.",
+    "2168": "Another West Side nightlife spot that matches the user’s bar-hopping behavior.",
+    "2235": "A nearby Mexican restaurant that fits the user’s frequent casual dining and downtown movement."
+  },
+  "fallback": false
+}

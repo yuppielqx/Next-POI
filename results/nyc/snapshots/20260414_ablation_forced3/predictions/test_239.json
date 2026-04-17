@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_239",
+  "ranked_loc_ids": [
+    1635,
+    890,
+    1636,
+    1649,
+    1637,
+    1638,
+    1642,
+    1648,
+    1646,
+    1588
+  ],
+  "explanations": {
+    "1635": "This is the user’s dominant weekday anchor and the most likely return destination after an afternoon food stop.",
+    "890": "An evening workout is plausible given the user’s routine and the similar-user pattern of gym visits around this time.",
+    "1636": "A habitual coffee or snack stop near the work hub fits the user’s repeated morning-to-evening short-radius behavior.",
+    "1649": "Close by and consistent with a quick dinner or late lunch before heading back to the main area.",
+    "1637": "It is immediately adjacent to the last location, making it a natural short-hop food stop in the evening.",
+    "1638": "Another nearby quick-service option that matches the user’s routine-driven, workday-oriented movement.",
+    "1642": "A familiar nearby casual food venue that could fit an after-work bite.",
+    "1648": "A coffee stop in the core Hudson Square area aligns with the user’s repeated routine around work hours.",
+    "1646": "A practical errand stop in the nearby lower Manhattan cluster is plausible before the evening ends.",
+    "1588": "Similar users often shift to a bar/pub around this hour, though it is less consistent with this user’s usual routine."
+  },
+  "fallback": false
+}

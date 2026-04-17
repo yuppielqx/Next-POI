@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_710",
+  "ranked_loc_ids": [
+    167,
+    898,
+    2035,
+    2124,
+    506,
+    1120,
+    3460,
+    3457,
+    1092,
+    168
+  ],
+  "explanations": {
+    "167": "It matches the strong evening dinner pattern, the Flatiron-to-East Village corridor, and a historical same-time precedent.",
+    "898": "A late-evening nightlife stop in Manhattan fits the user’s social profile and similar-user dinner/drinks chaining.",
+    "2035": "This is a classic evening social venue and aligns well with the user’s tendency to choose nightlife-oriented restaurants.",
+    "2124": "A nearby Korean dinner option fits the evening meal prior and the user’s broader Asian-restaurant preference.",
+    "506": "Close by and highly consistent with an upscale dinner outing in the Gramercy/Flatiron area.",
+    "1120": "The user has a strong nightlife history, making another Manhattan bar/clubbing destination plausible for 19:54.",
+    "3460": "A late dinner or post-evening-out food stop fits the user’s past after-hours chaining behavior.",
+    "3457": "A casual nearby food stop is possible if the user wants a quick dinner before continuing the night.",
+    "1092": "Event-oriented behavior makes this a possible evening destination, though less likely than a meal or bar.",
+    "168": "A dessert follow-up is plausible given the user’s prior evening chaining from drinks into sweets."
+  },
+  "fallback": false
+}

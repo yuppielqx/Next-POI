@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_875",
+  "ranked_loc_ids": [
+    3817,
+    3809,
+    3808,
+    3810,
+    2191,
+    3347,
+    3818,
+    1263,
+    3350,
+    923
+  ],
+  "explanations": {
+    "3817": "A frequent Manhattan transit node that fits the user’s commuter pattern and the likely return to the Lexington corridor by early Saturday evening.",
+    "3809": "One of the user’s most visited campus anchors, and the history strongly favors a repeat academic-related stop.",
+    "3808": "Another top-revisit Queens College location that matches the user’s routine, practical campus movement style.",
+    "3810": "A highly frequented Queens College science building that aligns with the user’s repeated campus cluster.",
+    "2191": "A major Queens transfer point on the user’s regular Forest Hills-to-Queens College commute corridor.",
+    "3347": "A known Queens College-related stop with substantial revisit history, making it a plausible routine destination.",
+    "3818": "The user has repeated history here and the time-conditioned prior mentions it as a supported same-weekday destination.",
+    "1263": "A central Manhattan transit hub that fits the user’s established reliance on subway transfers.",
+    "3350": "A plausible routine coffee stop in the Queens commute zone, consistent with the user’s practical daytime mobility.",
+    "923": "A repeat fast-food stop in Flushing that matches the user’s occasional utilitarian dining behavior."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_929",
+  "ranked_loc_ids": [
+    3727,
+    3877,
+    2926,
+    177,
+    1752,
+    2519,
+    2929,
+    218,
+    495,
+    792
+  ],
+  "explanations": {
+    "3727": "It is the closest nightlife option and fits the user’s Thursday evening bar-to-bar progression while staying in the same West Village cluster.",
+    "3877": "Staying put for another drink is plausible given the immediate prior check-in and the user’s evening social rhythm.",
+    "2926": "A very nearby cocktail bar that matches the late-evening shift from a bar to another intimate nightlife venue.",
+    "177": "This nearby West Village bar fits the user’s pattern of casual evening social stops in the neighborhood.",
+    "1752": "A short move to a wine bar aligns with the user’s early-evening transition into relaxed nightlife.",
+    "2519": "A nearby restaurant is plausible if they leave the bar for a light dinner in the same area.",
+    "2929": "The user often pairs evening social outings with dessert, and this is an extremely close, pattern-consistent stop.",
+    "218": "A strong time-based match for evening rooftop/social activity, though it requires a slightly larger move north-west.",
+    "495": "Similar to The Standard Hotel and consistent with rooftop nightlife, but less directly supported than nearby bars.",
+    "792": "Strong historical evening pattern, but it is less consistent with the immediate nightlife trajectory and northwest movement."
+  },
+  "fallback": false
+}

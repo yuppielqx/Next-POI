@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2492",
+  "ranked_loc_ids": [
+    5678,
+    1754,
+    710,
+    3266,
+    5162,
+    1975,
+    3274,
+    3233,
+    1231,
+    814
+  ],
+  "explanations": {
+    "5678": "Friday morning and the user's strongest recurring office anchor make this the most likely return destination.",
+    "1754": "It is a nearby Front Street coffee spot in Brooklyn, fitting a morning transition before office arrival.",
+    "710": "Another plausible coffee stop near the DUMBO work corridor on a Friday morning.",
+    "3266": "The transition pattern and close Brooklyn proximity make this nearby bagel stop a reasonable pre-work possibility.",
+    "5162": "A nearby breakfast/lunch option that could fit a morning stop before heading to work.",
+    "1975": "Close by but less time-appropriate than coffee or office destinations for a Friday morning.",
+    "3274": "Very nearby yet more consistent with social hours than a 09:32 morning visit.",
+    "3233": "Already the last known location, but a return here is less likely than continuing toward the office.",
+    "1231": "Nearby but not strongly supported by the user's office-centered Friday-morning pattern.",
+    "814": "Strong in the user's nightlife history, but the morning time prior makes this unlikely next."
+  },
+  "fallback": false
+}

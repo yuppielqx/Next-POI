@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_132",
+  "ranked_loc_ids": [
+    1030,
+    1031,
+    721,
+    1044,
+    1047,
+    1039,
+    1010,
+    906,
+    993,
+    486
+  ],
+  "explanations": {
+    "1030": "The strongest signal is the user’s established late-night Williamsburg nightlife loop, and this bar is the nearest high-fit venue adjacent to the last diner stop.",
+    "1031": "A very close bagel shop fits the exact post-bar, post-diner after-hours pattern and is only a short move away.",
+    "721": "The user may simply remain at or return to the same late-night food anchor given the 6-minute gap and immediate proximity.",
+    "1044": "This nearby casual eatery matches the user’s late-night food drift and is close enough for a small westward hop.",
+    "1047": "A nearby music venue aligns with the user’s social nightlife behavior and Williamsburg circuit patterns.",
+    "1039": "Another Brooklyn nightlife stop that fits the user’s bar-hopping routine, though it is slightly farther than the closest options.",
+    "1010": "A nearby late-night food option in the same general Brooklyn orbit, plausible after the diner stop.",
+    "906": "Saint Vitus Bar is consistent with the user’s nightlife-heavy profile and can follow a bar-to-bar sequence.",
+    "993": "This is a known user bar destination, but it is less immediate given the current Williamsburg/Greenpoint cluster.",
+    "486": "A plausible nightlife continuation for this user, though it requires a bigger move away from the current Brooklyn micro-pattern."
+  },
+  "fallback": false
+}

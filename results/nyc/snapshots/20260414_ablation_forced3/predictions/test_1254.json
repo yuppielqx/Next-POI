@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1254",
+  "ranked_loc_ids": [
+    88,
+    1914,
+    137,
+    59,
+    3228,
+    274,
+    4218,
+    1822,
+    4235,
+    948
+  ],
+  "explanations": {
+    "88": "It is the current location, has the strongest time-slot and weekday evidence, and the user often lingers or transitions through this Midtown transit hub in the evening.",
+    "1914": "A very plausible transit-adjacent food stop inside Port Authority, matching the user’s practical evening commute pattern.",
+    "137": "New York Penn Station is one of the user’s most frequent Midtown anchors and is close enough for a short cross-corridor move.",
+    "59": "Similar users often move from Port Authority into the nearby Times Square area around this hour.",
+    "3228": "This nearby Midtown office building fits the user’s repeated corridor-based movement around 8–9 PM.",
+    "274": "A short eastward Midtown move is plausible after leaving Port Authority, especially before heading back toward Penn Station.",
+    "4218": "The user has a history of casual, practical dining stops in Midtown, and Cosi is nearby.",
+    "1822": "Another nearby casual food option that fits an evening stop in the Midtown corridor.",
+    "4235": "Extremely close to the last known point and consistent with a quick convenience stop during transit.",
+    "948": "A nearby Midtown building that could be part of a brief stop before continuing the evening commute."
+  },
+  "fallback": false
+}

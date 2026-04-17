@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_949",
+  "ranked_loc_ids": [
+    4041,
+    1584,
+    2335,
+    4036,
+    3198,
+    5123,
+    4401,
+    1799,
+    3334
+  ],
+  "explanations": {
+    "4041": "The user is already at this spa and has a strong wellness routine, making a nearby continuation of the spa visit most likely.",
+    "1584": "Repeated early-morning fitness habits and Upper East Side clustering make a return to Equinox highly plausible after the spa stop.",
+    "2335": "It is very close to the current area and fits the user’s wellness/leisure corridor in Manhattan.",
+    "4036": "Another familiar wellness venue in the same general Upper East Side pattern, consistent with a return-to-routine move.",
+    "3198": "Nearby fitness-oriented option that matches the user’s exercise-heavy profile and morning timing.",
+    "5123": "A reasonable late-morning stop for a routine-oriented user after a spa visit, especially for a light breakfast or lunch.",
+    "4401": "A nearby practical food stop that could follow a morning wellness activity before the rest of the day.",
+    "1799": "Close to the current location and fits the user’s evening/social tendencies, though the time makes it less likely.",
+    "3334": "A nearby sushi restaurant matching the user’s dining preferences, but less likely than wellness or immediate nearby stops."
+  },
+  "fallback": false
+}

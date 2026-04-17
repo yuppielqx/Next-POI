@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2108",
+  "ranked_loc_ids": [
+    1076,
+    1073,
+    4994,
+    4564,
+    1087,
+    1172,
+    735,
+    2531,
+    17
+  ],
+  "explanations": {
+    "1076": "The user has a strong fitness routine and the target time is a Saturday night, making a nearby return to an Equinox the most consistent move.",
+    "1073": "A coffee stop fits the user’s frequent caffeine pattern and this is one of the closest Manhattan options to the last location.",
+    "4994": "Another nearby coffee option that matches the user’s morning/evening café habit and is immediately adjacent to the current corridor.",
+    "4564": "This is a heavily used Starbucks in the user’s history and remains a plausible Midtown fallback despite being farther away.",
+    "1087": "The late-night Saturday timing and proximity make this karaoke/nightlife venue a reasonable social diversion.",
+    "1172": "A nearby dive bar aligns with the user’s occasional nightlife pattern and could follow an evening outing.",
+    "735": "This bar is very close to the last location and fits a low-effort nighttime transition.",
+    "2531": "The user has prior late-night nightlife visits, and this speakeasy matches that occasional social pattern.",
+    "17": "A familiar Italian/wine-bar style stop is consistent with the user’s evening leisure history, though less likely than closer options."
+  },
+  "fallback": false
+}

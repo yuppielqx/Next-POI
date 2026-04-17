@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1634",
+  "ranked_loc_ids": [
+    88,
+    1914,
+    137,
+    5283,
+    4235,
+    1271,
+    59,
+    58,
+    1660,
+    4354
+  ],
+  "explanations": {
+    "88": "The user was last checked in here one minute earlier and the current trend is staying in the same area, making an immediate continuation at the same transit hub most likely.",
+    "1914": "It is inside Port Authority Bus Terminal and fits the user’s repeated transit-plus-coffee pattern, so a quick food stop is a strong next move.",
+    "137": "Penn Station/Midtown West is one of the user’s strongest historical transit areas and is a nearby fallback if they leave Port Authority.",
+    "5283": "A nearby quick-service food stop at the same hub matches the user’s commuter behavior and likely morning transfer timing.",
+    "4235": "This is an adjacent convenience stop near Port Authority, plausible for a brief errand during a transit layover.",
+    "1271": "It is close by in Midtown West and could be reached with minimal movement if the user is still circulating around the transit corridor.",
+    "59": "The user often stays within the Midtown transit/transfer zone, and Times Square is a natural nearby waypoint from Port Authority.",
+    "58": "Grand Central is another major commuter hub that fits the user’s transit-centered pattern, though it is less immediate than staying at Port Authority.",
+    "1660": "Woodside Station aligns with the user’s rail-oriented history and similar-user patterns, but it is farther than nearby Midtown options.",
+    "4354": "The user frequently uses LIRR and Manhasset-linked locations, but this is much less likely on a minute-by-minute continuation from Port Authority."
+  },
+  "fallback": false
+}

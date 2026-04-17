@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2015",
+  "ranked_loc_ids": [
+    1721,
+    2959,
+    1720,
+    3042,
+    2629,
+    3838,
+    2960,
+    3839,
+    2401,
+    176
+  ],
+  "explanations": {
+    "1721": "The strongest signal is immediate continuation from the last known location, and the user has been stationary in the same Paramus area.",
+    "2959": "A nearby familiar coffee stop fits the morning timing and the user's repeated Paramus corridor pattern.",
+    "1720": "It is essentially next door and a natural short-hop destination if the user stays within the current retail cluster.",
+    "3042": "This is an adjacent fast-food option in the same mall area, making it plausible for a quick morning move.",
+    "2629": "A close department store within the same commercial zone could be the next local stop.",
+    "3838": "The morning time and similar-user gym behavior make a nearby workout stop plausible.",
+    "2960": "Similar users moved from a morning food stop to a gym, and this nearby gym matches that pattern.",
+    "3839": "A routine grocery run in the same Paramus corridor is a reasonable continuation of the user's local mobility.",
+    "2401": "This is the user's main historical anchor and a fallback if the day shifts into a habitual Manhattan-based trip.",
+    "176": "A transition point toward Manhattan is possible, but it is less likely than remaining in the Paramus retail area."
+  },
+  "fallback": false
+}

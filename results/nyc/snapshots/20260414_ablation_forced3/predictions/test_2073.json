@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2073",
+  "ranked_loc_ids": [
+    2000,
+    142,
+    1978,
+    3846,
+    3394,
+    4184,
+    4799,
+    1512,
+    924,
+    3273
+  ],
+  "explanations": {
+    "2000": "It is the user's strongest weekday morning anchor and the target time exactly matches their repeated 8:00–9:00 a.m. commute pattern.",
+    "142": "This is a plausible en route transit stop for the commute back to Columbia and has prior morning support.",
+    "1978": "The user often pairs Columbia visits with quick campus coffee stops, making this a strong nearby alternative.",
+    "3846": "A morning coffee stop near Columbia fits the user's recurring weekday routine before arriving on campus.",
+    "3394": "The user has a Queens commuting pattern, so a subway-related movement is possible though less likely at this exact morning time.",
+    "4184": "This aligns with the user's occasional Queens errand pattern, but it is weaker than their Manhattan weekday anchor.",
+    "4799": "A routine morning coffee/donut stop is behaviorally consistent, especially given the user's commuter profile.",
+    "1512": "The user has visited this before, but the timing and weekday morning context make it much less likely than a campus or transit stop.",
+    "924": "Convenience-store behavior appears in the user's history, but it is a weaker match than transit or Columbia-related places.",
+    "3273": "It is the last known area and nearby, but the user's pattern strongly favors returning to Columbia rather than staying in a nightlife/entertainment zone."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2036",
+  "ranked_loc_ids": [
+    3742,
+    971,
+    5410,
+    970,
+    4957,
+    4608,
+    2651,
+    754,
+    4093,
+    58
+  ],
+  "explanations": {
+    "3742": "Strongest time-matched commute pattern places the user back at the Midtown ferry terminal around 06:47 on Friday morning.",
+    "971": "This is the user’s most frequent morning anchor and a core part of the recurring ferry-commute loop.",
+    "5410": "A highly recurrent breakfast stop on weekday mornings, though it usually follows the ferry segment rather than precedes it.",
+    "970": "Another ferry-terminal option in the same commuter corridor, making it a plausible transit-related alternative.",
+    "4957": "Nearby transportation hub that fits the user’s commute-oriented behavior and northwest movement trend.",
+    "4608": "A light-rail station near the current area that could appear in a transit sequence similar to the user’s usual pattern.",
+    "2651": "The user’s movement history and northwest trajectory make this corridor plausible as a transit-adjacent waypoint.",
+    "754": "Nearby Manhattan waterfront location consistent with the user’s west-side corridor travel.",
+    "4093": "A practical morning stop that could occur during a commuter trip, though it is less supported than ferry or coffee venues.",
+    "58": "Grand Central Terminal is a major commuter hub and a reasonable but less likely Manhattan transit destination."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1550",
+  "ranked_loc_ids": [
+    180,
+    92,
+    561,
+    762,
+    4947,
+    4946,
+    578,
+    546,
+    4213,
+    2283
+  ],
+  "explanations": {
+    "180": "This is the strongest historical destination, matches the Monday 3–5 p.m. pattern, and fits the user’s repeated workout-to-errand routine.",
+    "92": "A very frequent Monday afternoon stop in the same Upper West Side corridor, often paired with the user’s gym visits.",
+    "561": "Very close to the last location and strongly aligned with the user’s grocery-errand behavior in the 3–5 p.m. window.",
+    "762": "A repeated afternoon provisioning stop that fits the user’s grocery-heavy, neighborhood-bound routine.",
+    "4947": "A frequent local errand destination in the core cluster, especially plausible after a nearby afternoon outing.",
+    "4946": "Strongly matches the user’s recurring daytime retail pattern and is part of the same short errand loop area.",
+    "578": "A nearby pharmacy stop that fits the user’s habitual practical errands and tight neighborhood movement.",
+    "546": "Another grocery option in the same local shopping corridor, plausible for a post-tea afternoon errand.",
+    "4213": "Similar users at this time often go to a fitness center, and it aligns with the user’s workout-centered habits.",
+    "2283": "The user was just there, so a short repeat or lingering return is possible even though it is less likely than the routine errand spots."
+  },
+  "fallback": false
+}

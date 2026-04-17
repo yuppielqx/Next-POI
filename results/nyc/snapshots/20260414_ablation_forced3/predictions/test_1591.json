@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1591",
+  "ranked_loc_ids": [
+    4993,
+    106,
+    229,
+    3539,
+    710,
+    652,
+    4992,
+    137,
+    489,
+    2939
+  ],
+  "explanations": {
+    "4993": "Strong evening-slot history and a routine Lower Manhattan service stop make this the best fit for a Sunday night return.",
+    "106": "A frequent commuter hub in the user's core corridor and a strong match for an evening transit move.",
+    "229": "The user often uses major transportation hubs on Sundays, and this fits the time-conditioned transit pattern well.",
+    "3539": "A highly habitual coffee stop that aligns with the user's repeated breakfast/errand routine and could still appear in the evening.",
+    "710": "This is one of the user's most repeated Brooklyn anchors and a plausible return to the familiar routine corridor.",
+    "652": "Another Lower Manhattan transit node that fits the user's commute-oriented movement style.",
+    "4992": "A repeated Brooklyn food stop that matches the user's compact home-corridor behavior.",
+    "137": "Penn Station is a classic transit destination and fits the user's broader commuter pattern, though with weaker historical pull here.",
+    "489": "Brooklyn Bridge area movement is plausible given the user's Lower Manhattan/Brooklyn corridor, but it is less strongly recurrent.",
+    "2939": "A coffee-shop stop in the user's usual neighborhood range, but it is less dominant than the main habitual venues."
+  },
+  "fallback": false
+}

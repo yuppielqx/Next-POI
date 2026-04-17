@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1006",
+  "ranked_loc_ids": [
+    4182,
+    117,
+    4817,
+    5288,
+    2238,
+    4171,
+    137,
+    176,
+    2353,
+    2118
+  ],
+  "explanations": {
+    "4182": "A nearby coffee stop fits the morning timing and the immediate Washington Heights transit corridor after the bus terminal.",
+    "117": "The user is already at this exact transit hub, and a brief continuation there is the most direct next step.",
+    "4817": "A close breakfast/coffee-style restaurant is plausible for a Sunday morning follow-up to a transit stop.",
+    "5288": "Nearby casual dining in Washington Heights matches the user’s food-oriented short-hop movement pattern.",
+    "2238": "This is another close food venue, and the user’s history shows frequent casual dining stops rather than long jumps.",
+    "4171": "It is a recurring breakfast spot in the user’s history, though it is farther away than nearby Washington Heights options.",
+    "137": "New York Penn Station is a major transit hub and remains plausible for continuing southeast into Manhattan.",
+    "176": "The bridge corridor is strongly tied to the last known location, though it is slightly less likely than a nearby street-level stop.",
+    "2353": "A generic neighborhood move is possible, but it is less specific than the nearby venues listed above.",
+    "2118": "Morning coffee behavior makes this a reasonable fit, but it is farther than the immediate nearby choices."
+  },
+  "fallback": false
+}

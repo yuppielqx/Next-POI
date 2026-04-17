@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_948",
+  "ranked_loc_ids": [
+    2132,
+    980,
+    1036,
+    2788,
+    194,
+    1568,
+    4037,
+    3259,
+    3680,
+    237
+  ],
+  "explanations": {
+    "2132": "It is the current location and the strongest return-to-last signal given the short time gap.",
+    "980": "It is immediately adjacent and fits the user’s known post-brunch-to-entertainment pattern.",
+    "1036": "Very close by and consistent with nearby leisure movement in the East Village corridor.",
+    "2788": "A nearby seafood restaurant, matching the user’s dining-heavy Manhattan routine.",
+    "194": "Close enough for a short southwest move and plausible as a casual lunch continuation.",
+    "1568": "A favored brunch/wine-bar style stop that fits the user’s recurring casual dining behavior.",
+    "4037": "Sushi is a strong personal category for the user, though it requires a small cross-neighborhood move.",
+    "3259": "Nearby nightlife venue that aligns with the user’s evening leisure tendencies.",
+    "3680": "A plausible nearby bar/restaurant option for a continued Sunday meal.",
+    "237": "Another nearby entertainment stop that matches the user’s recurring movie-theater visits."
+  },
+  "fallback": false
+}

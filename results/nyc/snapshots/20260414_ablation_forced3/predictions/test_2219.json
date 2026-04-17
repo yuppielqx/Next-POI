@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2219",
+  "ranked_loc_ids": [
+    5545,
+    5317,
+    5544,
+    121,
+    5543,
+    120,
+    1191,
+    3640,
+    4815,
+    5546
+  ],
+  "explanations": {
+    "5545": "It is the last known location at 02:44 and the strongest immediate return/continued-stay candidate.",
+    "5317": "It is only steps away and fits the user’s late-night fast-food pattern in the same corridor.",
+    "5544": "This nearby uptown food stop matches the user’s repeated Latin American dining behavior.",
+    "121": "The user often pairs nocturnal outings with quick food stops, and this is adjacent to the current position.",
+    "5543": "Very close and historically visited, making it a plausible short hop in the same neighborhood.",
+    "120": "The user has a transit-oriented late-night pattern and this station fits an uptown movement continuation.",
+    "1191": "A recurring late-night deli/bodega type venue that aligns with the user’s after-hours food routine.",
+    "3640": "Although farther away, it is the user’s dominant nightlife anchor and a frequent Tuesday late-night destination.",
+    "4815": "This is another familiar uptown banking stop within the user’s compact movement corridor.",
+    "5546": "The user has a secondary early-morning transit pattern here, though it is less likely at this moment."
+  },
+  "fallback": false
+}

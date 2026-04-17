@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_757",
+  "ranked_loc_ids": [
+    3051,
+    447,
+    3581,
+    2624,
+    3579,
+    3580,
+    3081,
+    445,
+    2618,
+    1790
+  ],
+  "explanations": {
+    "3051": "This is the user’s strongest historical anchor and the time slot strongly favors a late-night return to their most visited scenic place.",
+    "447": "The user has weekend leisure behavior and this nightlife spot fits a Sunday after-hours stop in the same Bergen County corridor.",
+    "3581": "It is a frequent repeat destination in the user’s history and sits within the same north Jersey cluster as the current movement.",
+    "2624": "The user is already there and has multiple prior visits, so a short-term repeat is plausible despite the late-night timing.",
+    "3579": "This residential stop matches the user’s localized Bergen County pattern and could fit a late-night return to a home-like place.",
+    "3580": "A small airport is consistent with occasional transport-related travel in the user’s history, though it is less likely than the main local anchors.",
+    "3081": "The user has a few gym visits, and late evening can sometimes align with fitness routines.",
+    "445": "Weekend shopping/leisure behavior makes this a possible nearby destination, especially given the user’s past Saturday activity.",
+    "2618": "A diner is a reasonable late-night food option in the Fair Lawn area, but it lacks the user-history strength of the top places.",
+    "1790": "Bowling fits a weekend evening outing, but it is less supported than the user’s core recurring destinations."
+  },
+  "fallback": false
+}

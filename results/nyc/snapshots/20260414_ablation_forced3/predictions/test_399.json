@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_399",
+  "ranked_loc_ids": [
+    2449,
+    5138,
+    5155,
+    3120,
+    2478,
+    1833,
+    2145,
+    5290,
+    2966,
+    59
+  ],
+  "explanations": {
+    "2449": "The user is in Midtown West late in the evening, and similar users often switch from a food stop to a nearby nightlife venue.",
+    "5138": "A cocktail bar fits the evening time, the westward movement, and the user’s leisure-oriented, trip-based pattern.",
+    "5155": "This nearby lounge matches the current nightlife transition and is one of the closest plausible evening destinations.",
+    "3120": "A nightlife spot is strongly aligned with the target time and the user’s recent evening activity sequence.",
+    "2478": "The hotel bar is adjacent to the last known point and fits a short, nearby evening move.",
+    "1833": "The user has a history of prominent Midtown stops, and a hotel-related visit is plausible during an evening itinerary.",
+    "2145": "This nearby food venue continues the Manhattan chain and is consistent with the user’s prior restaurant-heavy travel pattern.",
+    "5290": "A café is possible for a brief transition stop, though it is less likely than nightlife at this hour.",
+    "2966": "Coffee stops appear in the user’s broader behavior, and this is a nearby Midtown option.",
+    "59": "The user frequently visits major Manhattan landmarks, but this is a slightly less direct fit than the closer west-side venues."
+  },
+  "fallback": false
+}

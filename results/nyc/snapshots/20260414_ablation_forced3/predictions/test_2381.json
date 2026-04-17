@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2381",
+  "ranked_loc_ids": [
+    1049,
+    210,
+    968,
+    3269,
+    3718,
+    3715,
+    2083,
+    3714,
+    4251,
+    2480
+  ],
+  "explanations": {
+    "1049": "It is the last known location and a music venue fits the user’s strong evening social pattern.",
+    "210": "A nearby music venue is highly plausible given the Saturday evening timing and the user’s nightlife-oriented history.",
+    "968": "This nearby pub matches the user’s bar/pub preference and the south-east drift from Pianos.",
+    "3269": "A close-by bar is consistent with the user’s nightlife-heavy profile and likely next-step movement.",
+    "3718": "Another nearby bar in the Lower East Side corridor suits an evening outing after Pianos.",
+    "3715": "A lounge is a strong fit for a Saturday night transition from music venue to drinks.",
+    "2083": "This gastropub matches the user’s food-and-drink pattern and remains in the same neighborhood.",
+    "3714": "A restaurant stop is plausible for early evening dinner after the last known venue.",
+    "4251": "A nearby sushi/food venue fits the user’s dining behavior and the current time prior.",
+    "2480": "Though farther away, it is one of the user’s known social dining spots and remains behaviorally compatible."
+  },
+  "fallback": false
+}

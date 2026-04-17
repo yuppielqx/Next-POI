@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1176",
+  "ranked_loc_ids": [
+    4006,
+    3658,
+    777,
+    2894,
+    2794,
+    4034,
+    1718,
+    2505,
+    4010,
+    32
+  ],
+  "explanations": {
+    "4006": "This is the strongest historical nightlife anchor for late-night Sunday movement and fits the user’s repeated midnight-to-2am bar pattern.",
+    "3658": "A nearby Manhattan nightlife spot that matches the user’s bar-crawl behavior and the target late-night time.",
+    "777": "The user has prior nightlife activity in the East Village, making this a plausible next bar stop after a lounge.",
+    "2894": "A Midtown bar that aligns with the user’s frequent Manhattan nightlife corridor and after-midnight outings.",
+    "2794": "Another Midtown nightlife venue consistent with the user’s social late-night pattern and clustered bar hopping.",
+    "4034": "This hotel bar fits the user’s evening entertainment habits and Midtown clustering.",
+    "1718": "A late-night restaurant/bar option in Midtown that matches the user’s mixed bar-and-food sequencing.",
+    "2505": "A nightlife venue in the East Village that fits the user’s recurring social outing style.",
+    "4010": "A strong recurring personal anchor, though less likely than a nightlife stop at this hour.",
+    "32": "The user is currently there, but the broader pattern suggests they are more likely to continue or shift to a more established nightlife venue."
+  },
+  "fallback": false
+}

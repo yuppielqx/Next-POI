@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1318",
+  "ranked_loc_ids": [
+    1252,
+    114,
+    489,
+    2838,
+    1753,
+    710,
+    636,
+    5678,
+    67,
+    301
+  ],
+  "explanations": {
+    "1252": "It is the user’s strongest recurring morning commute anchor, matches the exact weekday morning timing, and is the last known location.",
+    "114": "This station repeatedly appears in the user’s 9–11 a.m. commute pattern and is the nearest high-probability transit continuation.",
+    "489": "It is very close to the current area and fits the user’s Brooklyn/bridge-adjacent movement trend.",
+    "2838": "This nearby bridge-adjacent outdoor spot aligns with the user’s localized Lower Manhattan/Brooklyn corridor.",
+    "1753": "The user’s movement trend is south-east and DUMBO is a natural nearby destination in the same cluster.",
+    "710": "A short, plausible morning stop near the bridge area for a commuter-like user.",
+    "636": "This is another nearby landmark consistent with the user’s tight spatial range around the bridge approaches.",
+    "5678": "It is close to the current location and could reflect a weekday morning office-related stop.",
+    "67": "The user has repeated Union Square activity, making it a plausible but less likely morning destination than the commute anchor.",
+    "301": "This fits the user’s recurring Union Square errand pattern, though it is secondary to the Lower Manhattan commute cluster."
+  },
+  "fallback": false
+}

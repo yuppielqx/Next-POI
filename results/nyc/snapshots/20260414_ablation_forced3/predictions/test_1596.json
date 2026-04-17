@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1596",
+  "ranked_loc_ids": [
+    1231,
+    1035,
+    2014,
+    2644,
+    5002,
+    2023,
+    300,
+    2883,
+    1629,
+    3274
+  ],
+  "explanations": {
+    "1231": "It is the strongest personal anchor in the user’s history and fits the Downtown Brooklyn corridor they are already in.",
+    "1035": "It is immediately adjacent to the last known location and matches the user’s frequent event/transit-centered Brooklyn movement.",
+    "2014": "After an overnight sequence, a subway hub is a very plausible next step for onward movement from Barclays.",
+    "2644": "LIRR - Atlantic Terminal is a major nearby transportation hub and fits the user’s Brooklyn travel pattern.",
+    "5002": "Applebee’s at Flatbush/Atlantic is a known prior stop and is extremely close to the current Brooklyn cluster.",
+    "2023": "This nearby Atlantic Center stop could follow a transit-and-retail pattern in the same corridor.",
+    "300": "A nearby shopping stop in the same retail zone is plausible given the user’s history of mall and shopping visits.",
+    "2883": "P.C. Richard & Son is a nearby electronics store and fits the user’s occasional retail-oriented outings.",
+    "1629": "Starbucks at Atlantic Terminal is a nearby convenience stop that could easily follow the last known location.",
+    "3274": "A nightlife venue near Barclays is plausible for this socially active user, though less likely than the transit and stadium options."
+  },
+  "fallback": false
+}

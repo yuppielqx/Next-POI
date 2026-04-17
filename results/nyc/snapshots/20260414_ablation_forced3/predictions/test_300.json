@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_300",
+  "ranked_loc_ids": [
+    1981,
+    478,
+    1785,
+    274,
+    59,
+    231,
+    558,
+    60,
+    1976,
+    965
+  ],
+  "explanations": {
+    "1981": "This best matches the user’s strong early-morning Monday routine and their repeated 6–8am visits to the Midtown office core.",
+    "478": "A Midtown coffee stop fits the morning transition pattern and the user’s frequent Starbucks-based workday starts.",
+    "1785": "This is very close to the user’s Bryant Park/Times Square core and is plausible for an early commute caffeine stop.",
+    "274": "The user repeatedly anchors around Bryant Park, and the morning prior plus north-east movement make a quick return likely.",
+    "59": "This is in the same dense Midtown cluster and fits a return toward the user’s usual workday corridor.",
+    "231": "The user’s signature lunch/dinner chain is less likely at 06:44, but still a frequent Midtown destination.",
+    "558": "Another core Midtown waypoint that matches the user’s habitual work area and compact movement style.",
+    "60": "A familiar Midtown Starbucks is consistent with the user’s repeated coffee-shop transitions.",
+    "1976": "Close to the last location and within the Midtown routine, though less strongly tied to the early-morning slot.",
+    "965": "Staying at or near the last coffee stop is possible, but the broader pattern favors a return to the Midtown core instead."
+  },
+  "fallback": false
+}

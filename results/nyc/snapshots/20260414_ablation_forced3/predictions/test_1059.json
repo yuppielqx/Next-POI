@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1059",
+  "ranked_loc_ids": [
+    4261,
+    3483,
+    1985,
+    1023,
+    1578,
+    2917,
+    282,
+    495,
+    2516,
+    959
+  ],
+  "explanations": {
+    "4261": "The user’s strongest anchor is their repeated work location, and the 13:48 Thursday prior strongly favors staying at the office.",
+    "3483": "A nearby lunch stop fits the afternoon timing and the user’s pattern of brief neighborhood moves around work.",
+    "1985": "The user frequently uses Starbucks as a convenient daytime stop, making a short coffee break plausible near Midtown West/Chelsea.",
+    "1023": "This Mexican restaurant is a reasonable nearby lunch option given the user’s recurring preference for Mexican food and short workday transitions.",
+    "1578": "A quick meal in the Meatpacking/Chelsea area matches the user’s work-to-lunch movement pattern.",
+    "2917": "A nearby pub is less likely than lunch but still fits a short post-workday or late-afternoon stop in the same area.",
+    "282": "The user has a late-night nightlife pattern here, so it remains a possible though weaker afternoon-to-evening destination.",
+    "495": "Another nightlife venue tied to the user’s history, but less consistent with the 13:48 workday timing.",
+    "2516": "The user has visited Mexican restaurants in Manhattan before, and this remains a plausible downtown lunch diversion.",
+    "959": "Close to the office and consistent with nearby-area movement, but the recreational category makes it less likely than food or work stops."
+  },
+  "fallback": false
+}

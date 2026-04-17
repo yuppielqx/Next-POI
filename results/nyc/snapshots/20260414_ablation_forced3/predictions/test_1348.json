@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1348",
+  "ranked_loc_ids": [
+    114,
+    3179,
+    1429,
+    1489,
+    2016,
+    4697,
+    4701,
+    1488,
+    3359,
+    3557
+  ],
+  "explanations": {
+    "114": "This is the strongest exact repeat for Tuesday 8:16 with overwhelming historical frequency and it matches the user’s inbound commute corridor.",
+    "3179": "The user often checks in here immediately after Manhattan Bridge during the same morning crossing pattern.",
+    "1429": "Their commute typically continues toward Grand Central, making this the most likely downstream Midtown transit stop.",
+    "1489": "The user’s workday anchor is near Grand Central, and this coworking space is a recurring arrival point after the bridge corridor.",
+    "2016": "This is the Brooklyn-origin station in the user’s habitual commute chain and remains plausible if the sequence is being reconstructed from the home-side side.",
+    "4697": "This Brooklyn station-like location has strong morning weekday history and may serve as an alternate home-area transit node.",
+    "4701": "The user has occasional very early fitness visits, and Tuesday mornings make this a plausible deviation before work.",
+    "1488": "Morning commuter behavior plus Midtown East proximity make a coffee stop reasonable after the bridge crossing.",
+    "3359": "This is another nearby weekday coffee destination that fits the user’s narrow work-bound corridor.",
+    "3557": "A routine lunchtime-style Midtown stop is less likely at 08:16, but it remains consistent with the user’s work-area habits."
+  },
+  "fallback": false
+}

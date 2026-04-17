@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_491",
+  "ranked_loc_ids": [
+    1198,
+    2745,
+    108,
+    2746,
+    1207,
+    69,
+    879,
+    137,
+    2748,
+    329
+  ],
+  "explanations": {
+    "1198": "The user was just checked in here at 07:05 and this is their most frequent morning commute starting point, so they are most likely still there or just departing.",
+    "2745": "This is the next logical commuter stop on the user’s repeated Hoboken-to-Manhattan morning route and appears frequently in the same early time window.",
+    "108": "Hoboken PATH Station is a major nearby transit hub and fits the user’s standard progression after the light rail segment.",
+    "2746": "The user has a strong history of arriving here after the commute, making it a plausible next Manhattan destination if they are already moving westbound.",
+    "1207": "This PATH station matches the user’s transit-oriented corridor and is a common Midtown South connection point.",
+    "69": "A brief morning coffee stop fits the user’s early-hour commuting behavior and existing history at this location.",
+    "879": "This is a repeated daytime Manhattan stop in the same corridor, though less directly tied to the immediate commute chain.",
+    "137": "Penn Station is a major transit hub and a plausible Manhattan transfer point, but it is less consistent than the user’s usual PATH/Flatiron pattern.",
+    "2748": "This sandwich place is near the user’s habitual Manhattan work area and could be a breakfast-related stop.",
+    "329": "Madison Square Park is nearby and historically visited, but it is more of an incidental destination than a commute anchor."
+  },
+  "fallback": false
+}

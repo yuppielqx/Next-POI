@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_893",
+  "ranked_loc_ids": [
+    3250,
+    1600,
+    2919,
+    3861,
+    1613,
+    332,
+    1993,
+    3865,
+    3442,
+    565
+  ],
+  "explanations": {
+    "3250": "It is the current location and a matching evening lounge stop, making a short continuation or brief revisit most likely.",
+    "1600": "It is extremely close to the last known point and fits the user’s strong dinner-time Mexican restaurant pattern.",
+    "2919": "Very nearby and consistent with an evening food stop in the same Midtown corridor.",
+    "3861": "A nearby Manhattan Mexican restaurant that matches the user’s dining-heavy evening behavior.",
+    "1613": "The user has a recurring Sunday pattern here and it is plausible as a short follow-on stop in the area.",
+    "332": "Close to the user’s downtown path and consistent with their frequent Union Square area activity.",
+    "1993": "A nearby Brazilian restaurant that fits the user’s preference for restaurant chaining in Manhattan evenings.",
+    "3865": "Another nearby dining option that aligns with the user’s Thai/restaurant trip-chaining style.",
+    "3442": "A frequent neighborhood anchor and a logical continuation from the user’s recent downtown movement.",
+    "565": "A known Sunday evening destination for this user, though it is farther from the current downtown cluster."
+  },
+  "fallback": false
+}

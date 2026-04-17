@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1938",
+  "ranked_loc_ids": [
+    5235,
+    5085,
+    118,
+    1720,
+    445,
+    446,
+    1726,
+    1728,
+    4903,
+    4975
+  ],
+  "explanations": {
+    "5235": "It is the immediate continuation of the current transportation route and the strongest match for a short next-step move.",
+    "5085": "This is the user’s main home anchor and a frequent return point consistent with commuter-style movement.",
+    "118": "A nearby transportation hub fits the transit corridor behavior implied by the George Washington Bridge movement.",
+    "1720": "Similar users at this time often head toward nearby retail areas, and it is a plausible next stop along the northeast trend.",
+    "445": "The user has a practical errand pattern, and this major nearby shopping destination is a strong local magnet.",
+    "446": "A department store inside the nearby mall fits a short commercial continuation after transit.",
+    "1726": "Electronics retail within the same mall corridor is a realistic nearby errand destination.",
+    "1728": "Similar users visited Best Buy around this time, making it a credible retail stop nearby.",
+    "4903": "The user has a prior coffee-shop pattern, and this nearby café is consistent with a routine stop.",
+    "4975": "Gas station visits fit the user’s utilitarian profile and the current transport-oriented context."
+  },
+  "fallback": false
+}

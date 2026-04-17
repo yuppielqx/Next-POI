@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2016",
+  "ranked_loc_ids": [
+    3286,
+    445,
+    4658,
+    2959,
+    1716,
+    5344,
+    1720,
+    2628,
+    2401,
+    176
+  ],
+  "explanations": {
+    "3286": "The user has repeated evening/night visits here, and the target time strongly matches a movie-going pattern in the Paramus entertainment cluster.",
+    "445": "This is the broader retail hub tied to the user’s recurring Paramus trips and fits a Monday-night shopping/leisure jump.",
+    "4658": "It sits inside the same mall complex and is a plausible stop if the user is continuing a Garden State Plaza outing.",
+    "2959": "The user has multiple coffee-shop visits in Paramus, and an evening transit-to-retail transition could include a coffee stop.",
+    "1716": "Casual dining in the same corridor fits the user’s after-work evening tendency and the Paramus destination pattern.",
+    "5344": "Another likely dinner spot in Paramus, consistent with the user’s evening leisure and dining behavior.",
+    "1720": "This is a recurring suburban shopping destination for the user and aligns with the same Bergen County cluster.",
+    "2628": "A practical retail stop in the same area, plausible if the user is making a broader errands trip.",
+    "2401": "It is the user’s dominant anchor overall, but the Monday-night timing makes it less likely than the Paramus leisure cluster.",
+    "176": "The user started the trip in this transit corridor, so a return or nearby movement remains possible though less specific than the retail-entertainment options."
+  },
+  "fallback": false
+}

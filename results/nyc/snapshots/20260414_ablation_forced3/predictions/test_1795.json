@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1795",
+  "ranked_loc_ids": [
+    1590,
+    1406,
+    2876,
+    753,
+    2974,
+    566,
+    1274,
+    2829,
+    78,
+    2382
+  ],
+  "explanations": {
+    "1590": "It is the exact last known location, only 5 minutes before the target time, and the user is still staying in the same area.",
+    "1406": "It is directly adjacent to the last stop and fits the office-adjacent Midtown East pattern.",
+    "2876": "This nearby coffee/food stop is a strong short-hop continuation from the current coffee shop area.",
+    "753": "It is essentially next door and a plausible quick nearby retail errand while staying in Midtown East.",
+    "2974": "A close-by service stop that fits an immediate neighborhood-level movement after coffee.",
+    "566": "A nearby Midtown destination that matches the user's tendency to move between office and retail nodes.",
+    "1274": "A nearby casual food option consistent with the user's evening stop patterns.",
+    "2829": "A plausible Manhattan-side destination within the same general area, though less behaviorally aligned.",
+    "78": "A reasonable Manhattan outing, but farther and less likely than the closer Midtown options.",
+    "2382": "A known Manhattan destination in the user's history, but the cross-town move is less likely this soon."
+  },
+  "fallback": false
+}

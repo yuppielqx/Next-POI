@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1201",
+  "ranked_loc_ids": [
+    142,
+    550,
+    1318,
+    2280,
+    2349,
+    766,
+    28,
+    1530,
+    67,
+    114
+  ],
+  "explanations": {
+    "142": "It is exactly at the last known location and the user’s routine strongly favors subway hubs for evening movement.",
+    "550": "The current position is Columbus Circle, and a short continuation within the same area is very likely at 19:45.",
+    "1318": "It is immediately adjacent to Columbus Circle and fits a brief north-eastward continuation from the last check-in.",
+    "2280": "This nearby outdoor area is a plausible immediate next stop from Columbus Circle.",
+    "2349": "A same-block retail check-in is possible given the zero-distance proximity and nearby-search context.",
+    "766": "The user may make a practical errand stop near Columbus Circle, especially on a Saturday evening.",
+    "28": "A short leisure trip north of Columbus Circle is plausible, and the user has a history of occasional cinema visits.",
+    "1530": "This is a frequent anchor in the user’s transit corridor, though it is farther than the immediate nearby options.",
+    "67": "Similar users and the time prior favor the Union Square corridor, making this a reasonable lower-probability destination.",
+    "114": "A familiar cross-borough transit anchor for this user, but less likely than the closer Manhattan options at this moment."
+  },
+  "fallback": false
+}

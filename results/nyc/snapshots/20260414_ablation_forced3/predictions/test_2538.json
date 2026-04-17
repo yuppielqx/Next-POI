@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2538",
+  "ranked_loc_ids": [
+    1515,
+    67,
+    3152,
+    192,
+    1196,
+    301,
+    3025,
+    1948,
+    776,
+    2445
+  ],
+  "explanations": {
+    "1515": "It is the user’s strongest habitual anchor, fits the downtown orbit, and is the top time-conditioned destination prior for a Friday afternoon.",
+    "67": "It is a frequent daytime stop in the user’s core lower-Manhattan corridor and aligns well with the 3–5 PM pattern.",
+    "3152": "The user repeatedly visits this nearby Friday-friendly neighborhood, making it a strong alternative within the same compact orbit.",
+    "192": "This is one of the user’s core Greenwich Village locations and fits a mid-afternoon downtown loop.",
+    "1196": "It is close to Little Italy and matches the user’s tendency to chain nearby Lower Manhattan stops.",
+    "301": "The user’s profile includes practical daytime errands around Union Square, so this is a plausible afternoon stop.",
+    "3025": "The user has a late-night nightlife pattern, and this location is within their usual downtown social radius.",
+    "1948": "It fits the user’s nightlife behavior and is very close to the East Village area they often frequent.",
+    "776": "Another nearby bar in the user’s preferred downtown nightlife zone, consistent with short urban hops.",
+    "2445": "It is a nearby nightlife venue in the same lower-east/downtown cluster, but slightly less central to the user’s strongest anchors."
+  },
+  "fallback": false
+}

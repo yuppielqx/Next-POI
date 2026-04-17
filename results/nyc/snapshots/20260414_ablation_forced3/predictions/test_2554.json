@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2554",
+  "ranked_loc_ids": [
+    2612,
+    5701,
+    5700,
+    4605,
+    5657,
+    1261,
+    1168,
+    141,
+    3866,
+    5660
+  ],
+  "explanations": {
+    "2612": "It is one of the user’s strongest Bronx home-base locations and fits the late-evening return pattern after a transit stop.",
+    "5701": "This Dwight Place node is heavily repeated in the user’s history and is a near-equivalent frequent home-area destination.",
+    "5700": "The user is strongly anchored in this residential Bronx area, making a return here very plausible after evening travel.",
+    "4605": "The user often pairs home-area movements with this local movie theater, especially in evening leisure routines.",
+    "5657": "Fast-food stops near the Bronx base are a recurring late-night pattern for this user.",
+    "1261": "After arriving at a Manhattan subway stop, the next move could be another transit connection heading back toward the Bronx.",
+    "1168": "This Bronx subway station matches the user’s transit-enabled, homeward-moving behavior.",
+    "141": "The user often uses major Bronx transit hubs during cross-borough return trips.",
+    "3866": "The user has repeated late-evening activity in the Pelham Bay/Bronx area, making it a reasonable nearby destination.",
+    "5660": "This Pelham Bay Park subway station is a plausible final transit step in a return-to-Bronx sequence."
+  },
+  "fallback": false
+}

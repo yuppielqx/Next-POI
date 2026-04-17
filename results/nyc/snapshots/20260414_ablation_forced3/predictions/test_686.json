@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_686",
+  "ranked_loc_ids": [
+    3380,
+    3379,
+    3386,
+    4423,
+    2880,
+    1552,
+    811,
+    1284,
+    1560,
+    333
+  ],
+  "explanations": {
+    "3380": "It best matches the user's strongest Friday morning routine of an early gym visit, with high same-time and transition history.",
+    "3379": "This is the user's main weekday anchor and the most likely next stop if they remain at their coworking routine.",
+    "3386": "A coffee shop at the exact current location, making it a plausible brief morning stop before work.",
+    "4423": "Very close to the current area and a practical breakfast/coffee errand option during the morning commute.",
+    "2880": "Nearby convenience stop that fits a weekday morning routine for quick essentials.",
+    "1552": "Another immediate nearby coffee option, consistent with a pre-work morning pattern.",
+    "811": "A repeated lunchtime favorite in Midtown East, supported by recent visits in the same corridor.",
+    "1284": "Close by in Midtown and a plausible short errand or waiting-stop destination.",
+    "1560": "Nearby restaurant in the same building area, making it a reasonable but less likely morning move.",
+    "333": "A recurring grocery option in the user's corridor, though less likely than gym/work anchors at this time."
+  },
+  "fallback": false
+}

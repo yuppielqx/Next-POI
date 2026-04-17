@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_712",
+  "ranked_loc_ids": [
+    3465,
+    3290,
+    229,
+    2231,
+    3466,
+    3467,
+    862,
+    3697,
+    3464
+  ],
+  "explanations": {
+    "3465": "Strongest behavioral fit as a recurring gym visit after transit activity, and it matches the user’s pattern of evening mobility.",
+    "3290": "It is the current anchor and the movement trend suggests staying in the same area before a nearby transfer.",
+    "229": "A highly recurrent Newark transit hub in the user’s history, fitting their rail-oriented routine and late-afternoon movement.",
+    "2231": "Another major repeated transit node for this user, consistent with their Newark-centered commuting pattern.",
+    "3466": "A nearby one-time food stop in West Orange that could fit a routine errand or post-transit meal.",
+    "3467": "Newark Broad Street Station is a plausible nearby transit-linked transfer point for a commuter-style move.",
+    "862": "A nearby gym candidate that aligns with the user’s fitness-related history and late-day activity pattern.",
+    "3697": "Similar users at this time often moved to a gym, making this a reasonable alternative fitness destination.",
+    "3464": "A plausible quick food stop after transit or before a gym visit, given the user’s routine and time of day."
+  },
+  "fallback": false
+}

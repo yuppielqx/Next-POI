@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1314",
+  "ranked_loc_ids": [
+    4349,
+    2515,
+    4402,
+    28,
+    544,
+    47,
+    332,
+    4478,
+    2934,
+    2187
+  ],
+  "explanations": {
+    "4349": "The user is likely to make a short transit move from the current Midtown grocery stop, and this nearby station best fits the observed long-distance jump pattern.",
+    "2515": "A nearby Asian restaurant is a plausible next stop for an early afternoon meal after the grocery errand, especially given the user's food-oriented routine.",
+    "4402": "This is another immediate nearby food venue in Midtown, matching the user's tendency to chain errands with a quick dining stop.",
+    "28": "The user has a history of entertainment outings in this corridor, and Friday late afternoon is a strong time for a cinema visit.",
+    "544": "A casual food stop in the same general Manhattan area fits the user's dining-heavy behavior and the afternoon timing.",
+    "47": "The user sometimes mixes errands with shopping, and this classic Manhattan retail destination is consistent with a Friday outing.",
+    "332": "Although farther south, it aligns with the user's prior daytime market behavior and the target-time preference for browsing/leisure.",
+    "4478": "The user's profile strongly supports a transition from errands to a social meal or drink venue in lower Manhattan.",
+    "2934": "This nightlife spot matches the user's evening-oriented pattern, though it is somewhat early for a nightclub visit at 16:55.",
+    "2187": "A favored bar from the user's history is a strong later-day option, but it is less likely than nearer Midtown stops at this exact time."
+  },
+  "fallback": false
+}

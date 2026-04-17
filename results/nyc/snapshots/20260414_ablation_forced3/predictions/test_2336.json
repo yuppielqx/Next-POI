@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2336",
+  "ranked_loc_ids": [
+    137,
+    842,
+    229,
+    4315,
+    4563,
+    2231,
+    3003,
+    4398,
+    1092,
+    5645
+  ],
+  "explanations": {
+    "137": "This is the user’s strongest recurrent Midtown/Penn Station anchor and fits their established commute pattern.",
+    "842": "The user repeatedly pairs Penn Station with Location 137, making this a highly likely transit continuation.",
+    "229": "It is the last known location and a major transit hub, so an immediate revisit remains plausible.",
+    "4315": "The user often continues north into Midtown West, and this station matches their habitual corridor.",
+    "4563": "A known repeated café stop in the user’s Midtown routine makes this a credible evening follow-up.",
+    "2231": "The user is currently in the Newark corridor, so a nearby transit move is still possible.",
+    "3003": "This fits the local commuter-travel pattern and nearby transit network around the last location.",
+    "4398": "A direct transit option from Newark aligns with the user’s utilitarian, commute-oriented behavior.",
+    "1092": "It is near Penn Station and occasionally appears in related commuter/event movement patterns.",
+    "5645": "While less likely, it remains a plausible nearby stop if the user shifts to an after-work routine."
+  },
+  "fallback": false
+}

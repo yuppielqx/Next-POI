@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_368",
+  "ranked_loc_ids": [
+    2168,
+    282,
+    218,
+    2215,
+    874,
+    2216,
+    2214,
+    2207,
+    2103,
+    2205
+  ],
+  "explanations": {
+    "2168": "It is essentially adjacent to the last known Le Bain check-in and fits the strong 22:00 nightlife continuation in the Meatpacking District.",
+    "282": "The strongest short-horizon move is to remain at or return within the same venue, especially since the target time is only about two hours later on the same night.",
+    "218": "This is immediately beside the last location and a plausible hotel/nightlife spillover destination in the same Meatpacking area.",
+    "2215": "A nearby lounge that matches the night-out pattern and the downtown West Chelsea cluster.",
+    "874": "Another close Meatpacking hotel that fits a nightlife-oriented transition around 22:00.",
+    "2216": "A bar option in Manhattan that aligns with the user’s occasional evening social outings and the similar-user nightlife pattern.",
+    "2214": "A nightlife spot consistent with late-evening behavior, though it is farther from the current cluster than the top options.",
+    "2207": "Very close to the last point and plausible as a nearby dinner stop before or after nightlife.",
+    "2103": "A familiar food spot from the user’s history, but the night timing makes it less likely than nearby bars.",
+    "2205": "Strong in the user’s history, but the late-night time prior makes a gym visit much less likely than nightlife or nearby hospitality venues."
+  },
+  "fallback": false
+}

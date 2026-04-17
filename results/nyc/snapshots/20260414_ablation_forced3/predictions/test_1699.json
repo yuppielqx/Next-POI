@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1699",
+  "ranked_loc_ids": [
+    3023,
+    2425,
+    5503,
+    2976,
+    242,
+    3493,
+    4063,
+    3122,
+    1196,
+    289
+  ],
+  "explanations": {
+    "3023": "The user was just there twice in the same evening and their strongest habit is to stay at this recurring Orchard Street nightlife venue.",
+    "2425": "It is immediately adjacent to the last known spot and fits a plausible nearby nightlife continuation around the same time.",
+    "5503": "A zero-distance nearby option that could follow a prolonged stay in the Orchard Street area, especially for dessert or a quick stop.",
+    "2976": "This nearby Chinatown food venue matches the user’s strong late-afternoon/evening dining pattern.",
+    "242": "A close Chinatown Asian restaurant that fits the user’s habitual food-focused lower Manhattan movements.",
+    "3493": "Very near the last location and consistent with an evening food stop in the same Chinatown corridor.",
+    "4063": "A nearby Chinatown food venue that aligns with the user’s dense local pattern and possible snack/break behavior.",
+    "3122": "A repeated nightlife restaurant in the user’s history, though it is less likely than staying put at Sticky Rice.",
+    "1196": "The user often remains within the broader Chinatown area, making a neighborhood-level drift plausible.",
+    "289": "A familiar Canal Street coffee stop that fits the user’s recurring Chinatown routines, though it is less likely than food/nightlife options."
+  },
+  "fallback": false
+}

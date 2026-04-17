@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2111",
+  "ranked_loc_ids": [
+    5457,
+    4186,
+    3724,
+    4191,
+    4045,
+    4422,
+    826,
+    834,
+    895,
+    135
+  ],
+  "explanations": {
+    "5457": "It is the user’s dominant anchor, only 20 minutes from the last check-in, and strongly matches their Sunday-night return pattern.",
+    "4186": "Very close by and historically part of the user’s local park circuit, making an immediate adjacent move plausible.",
+    "3724": "It is next to the dog run, has a few evening visits, and fits a short local transition after time in the park.",
+    "4191": "A major recurring node on Sundays, though less likely at this exact night-time moment than the park.",
+    "4045": "This Bayside-area outdoor-related stop is nearby and consistent with the user’s tight northeast Queens routine.",
+    "4422": "A known nearby dining option that could fit a late local outing, but it is less central than the park/church pattern.",
+    "826": "Nearby transportation infrastructure could be passed through during a short local movement, though it is not a habitual destination.",
+    "834": "Close enough for a quick stop, but the user’s history is much more park- and church-focused than errand-oriented.",
+    "895": "A historically visited leisure venue, but it is farther away and poorly aligned with the immediate Sunday-night local stay.",
+    "135": "LaGuardia Airport is within Queens and sometimes relevant for travel, but it is unlikely given the strong neighborhood-staying pattern."
+  },
+  "fallback": false
+}

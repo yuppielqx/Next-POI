@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1807",
+  "ranked_loc_ids": [
+    137,
+    5208,
+    4412,
+    1092,
+    2317,
+    4675,
+    793,
+    918,
+    1371,
+    3951
+  ],
+  "explanations": {
+    "137": "It is the last known location and has an extremely strong historical transition pattern from the user, making an immediate stay most likely.",
+    "5208": "The user was just there at 17:21 and often moves within the same Penn Station cluster, so a brief return or continued presence is highly plausible.",
+    "4412": "This is one of the user’s strongest recurring nearby nightlife spots in the same Penn Station corridor, fitting a short-hop transition.",
+    "1092": "The venue is adjacent to the current area and repeatedly appears in the user’s Midtown cluster, making it a natural next stop.",
+    "2317": "A frequent nearby evening destination for this user, especially within the walkable 34th Street social circuit.",
+    "4675": "It is immediately adjacent to the current position and could be a quick food stop while the user remains in the area.",
+    "793": "Another nearby dining option in the Penn Station complex that fits the user’s tendency to move between close venues.",
+    "918": "A nearby low-friction stop in the same transit/dining hub, plausible for a brief visit.",
+    "1371": "This nearby restaurant fits the dense Midtown pattern and is close enough for a short movement.",
+    "3951": "The user is in a major transit hub, so a subway-related move is plausible even if less likely than staying put."
+  },
+  "fallback": false
+}

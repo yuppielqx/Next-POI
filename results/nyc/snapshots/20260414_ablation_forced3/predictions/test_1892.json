@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1892",
+  "ranked_loc_ids": [
+    1214,
+    144,
+    88,
+    3003,
+    1154,
+    557,
+    47,
+    3340,
+    4456,
+    1976
+  ],
+  "explanations": {
+    "1214": "Strong evening commute signal and the best match for the user’s repeated 6–8 PM transit behavior in the Midtown corridor.",
+    "144": "The 34th St-Herald Square subway hub is extremely close and fits a short post-shopping move toward transit.",
+    "88": "A frequent commuter node for this user, and evening travel patterns make a bus terminal highly plausible.",
+    "3003": "The user often uses PATH in the evening, though this is more likely a downstream destination than the immediate next stop.",
+    "1154": "Another PATH-related transit hub with strong evening support, but less likely than the Manhattan-side departure station.",
+    "557": "A commute-oriented fallback that fits the westward evening travel pattern, though it is less specific than PATH stations.",
+    "47": "The user repeatedly shops in Herald Square and could easily make one more nearby retail stop after H&M and Jamba Juice.",
+    "3340": "Another adjacent retail option in the same shopping corridor, consistent with the user’s clustered Midtown errands.",
+    "4456": "The user has a strong breakfast-café routine, and a food stop remains plausible before heading to transit.",
+    "1976": "Very close to the current position and consistent with quick food/coffee behavior in Midtown."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1897",
+  "ranked_loc_ids": [
+    1214,
+    144,
+    566,
+    47,
+    88,
+    3340,
+    519,
+    1271,
+    4456,
+    523
+  ],
+  "explanations": {
+    "1214": "This is the strongest time-specific match, a frequent evening transit hub for the user and the most likely next step after the southward move through Herald Square.",
+    "144": "The Herald Square subway station is extremely close to the last location and fits a commuter-oriented evening transfer.",
+    "566": "The user is currently there and may linger briefly before moving again within the same shopping/transit cluster.",
+    "47": "A very close, repeatedly visited shopping anchor in the same corridor, making it a plausible continuation of the outing.",
+    "88": "A common evening transportation node for this user, though it requires a slightly less direct move than 33rd St PATH Station.",
+    "3340": "Another immediate nearby retail stop that matches the user’s chain-shopping pattern around Herald Square.",
+    "519": "This fits the user’s repeated Midtown retail routine and is close enough for a short southward or lateral hop.",
+    "1271": "A nearby department-store-style stop in the same shopping district, consistent with the user’s errands-based movement.",
+    "4456": "The user often returns to familiar cafés, and an evening snack/coffee stop remains plausible in this corridor.",
+    "523": "A repeat breakfast/coffee venue that is less time-aligned for evening but still within the user’s highly habitual Midtown pattern."
+  },
+  "fallback": false
+}

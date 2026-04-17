@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_561",
+  "ranked_loc_ids": [
+    3006,
+    696,
+    402,
+    2150,
+    4298,
+    451,
+    104,
+    107,
+    557,
+    339
+  ],
+  "explanations": {
+    "3006": "This is the dominant habitual anchor in the user’s history, especially for Sunday afternoon returns after travel.",
+    "696": "The user frequently moves between Jersey City and Manhattan via this connector, and it fits a return toward their Jersey City core.",
+    "402": "The last known location is the airport, and some similar users remain at or revisit the airport around this time.",
+    "2150": "A plausible next step from EWR if the user is departing the airport area by transit.",
+    "4298": "Terminal B is an immediately nearby airport terminal and could be the next internal movement within EWR.",
+    "451": "Terminal C is another nearby airport terminal, matching short-range airport-to-airport movement.",
+    "104": "The user has occasional retail/shopping behavior in Jersey City, and this is a nearby habitual-area stop.",
+    "107": "Newport PATH Station is a strong Jersey City transport node that fits a return trip from the airport area.",
+    "557": "Another major cross-Hudson connector that aligns with the user’s Jersey City-Manhattan travel pattern.",
+    "339": "A Manhattan dining/nightlife stop consistent with the user’s leisure-oriented outings, though less likely than the Jersey City anchor."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1707",
+  "ranked_loc_ids": [
+    59,
+    3763,
+    1034,
+    2275,
+    3037,
+    4953,
+    1125,
+    313,
+    558,
+    5108
+  ],
+  "explanations": {
+    "59": "It is the closest major continuation point in the same Midtown Theater District crawl and fits the user’s tendency to move through nearby entertainment-heavy spots.",
+    "3763": "The Majestic Theatre is effectively the current area anchor and a same-cluster venue, making it the most natural near-term continuation.",
+    "1034": "It is an extremely close nearby stop that matches the user’s pattern of chaining entertainment with food in Midtown.",
+    "2275": "Birdland is a very short hop away and aligns with the user’s strong preference for live music venues and nightlife-adjacent stops.",
+    "3037": "A nearby Midtown dining option that fits the user’s frequent late-night food-crawl behavior.",
+    "4953": "Another close restaurant/bar choice in the same corridor, consistent with their habit of mixing nightlife and casual dining.",
+    "1125": "This is within easy reach and strongly matches the user’s recurring karaoke-centered outing pattern.",
+    "313": "A nearby karaoke venue that fits both the user’s historical preferences and the current Midtown movement trend.",
+    "558": "A plausible short-hop landmark stop in the same Midtown area, especially for a morning continuation.",
+    "5108": "Despite being a bit farther, it remains a strong behavioral match given the user’s repeated karaoke crawls and Midtown nightlife preference."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_996",
+  "ranked_loc_ids": [
+    4153,
+    4158,
+    4155,
+    3703,
+    2697,
+    639,
+    3708,
+    1698,
+    3992,
+    304
+  ],
+  "explanations": {
+    "4153": "This is the strongest morning commute match, with the most Tuesday and 6–8 a.m. history, fitting the user’s repeated weekday work pattern.",
+    "4158": "A highly habitual weekday morning office anchor and geographically close Lower Manhattan return target.",
+    "4155": "It is the last known location and remains within the same downtown cluster, making a nearby morning revisited stop plausible.",
+    "3703": "Very close to the current area and consistent with the user’s frequent Lower Manhattan routine, though less time-specific.",
+    "2697": "A repeatedly used nearby venue in the Financial District, but more likely for later social hours than early morning.",
+    "639": "Another familiar bar in the same corridor that fits the user’s local movement pattern, albeit not the morning commute profile.",
+    "3708": "A nearby downtown restaurant/bar that aligns with the user’s habitual Lower Manhattan clustering.",
+    "1698": "Close to the last location and in the core Financial District area, so a short local move is possible.",
+    "3992": "In Lower Manhattan and near the user’s usual corridor, but with weaker historical support.",
+    "304": "A plausible nearby leisure destination in Lower Manhattan, though less likely for the Tuesday morning time slot."
+  },
+  "fallback": false
+}

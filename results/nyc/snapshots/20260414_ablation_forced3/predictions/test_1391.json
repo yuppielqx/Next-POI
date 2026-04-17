@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1391",
+  "ranked_loc_ids": [
+    237,
+    97,
+    1929,
+    2916,
+    1767,
+    67,
+    4246,
+    58,
+    3597,
+    1263
+  ],
+  "explanations": {
+    "237": "Late Saturday night strongly favors a discretionary entertainment stop, and this is the best-matching repeated nightlife/movie venue in the user’s history.",
+    "97": "The user has clear late-evening nightlife behavior here, making it a plausible Saturday night lounge destination.",
+    "1929": "Similar-user patterns and the late-night prior both point toward a downtown cocktail bar after shopping hours.",
+    "2916": "A nearby bar in the same Kips Bay/Union Square nightlife corridor fits the night outing pattern well.",
+    "1767": "This lounge matches the user’s occasional upscale evening social behavior and the target time.",
+    "67": "It is in the broader downtown route and could be a transitional stop before nightlife, though less likely at this hour.",
+    "4246": "Another downtown wine-bar option aligned with late-night discretionary movement, but weaker than the main nightlife venues.",
+    "58": "A highly recurrent routine anchor near Grand Central makes it possible if the user returns toward Midtown instead of going out.",
+    "3597": "Close to the last location and part of the user’s familiar Midtown East cluster, though less consistent with late Saturday night.",
+    "1263": "The immediate proximity makes it a viable transit move, but it is more of a connector than a final destination."
+  },
+  "fallback": false
+}

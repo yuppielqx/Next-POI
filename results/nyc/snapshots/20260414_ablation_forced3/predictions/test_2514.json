@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2514",
+  "ranked_loc_ids": [
+    5686,
+    2607,
+    2594,
+    2603,
+    2606,
+    3301,
+    2613,
+    5415,
+    1095,
+    5687
+  ],
+  "explanations": {
+    "5686": "This is the user's strongest repeated anchor and likely home base, and the morning Bronx position plus northeast movement makes a nearby return most probable.",
+    "2607": "The user is already here, and short morning errands often resolve into lingering or immediate repeat presence at the same stop.",
+    "2594": "A transit node directly adjacent to the last stop fits a near-term move while preserving the northeast movement trend.",
+    "2603": "Another nearby transportation option is plausible if the user is shifting out of the immediate Dunkin' area.",
+    "2606": "The user often moves within the Bronx cluster, and a subway-related hop is reasonable for a midday transition.",
+    "3301": "This nearby Woodlawn train station matches the local northward drift and an errand-to-transit pattern.",
+    "2613": "A routine food-and-errand stop is consistent with the user's everyday movement profile in the Bronx.",
+    "5415": "Groceries fit the user's observed routine behavior, though this specific candidate is less historically central than the home anchor.",
+    "1095": "Another Bronx metro station is a plausible waypoint if the user is heading elsewhere after breakfast.",
+    "5687": "The user has a clear recurring lower Manhattan religious destination, but the current Bronx-adjacent trajectory makes it a lower-probability midday jump."
+  },
+  "fallback": false
+}

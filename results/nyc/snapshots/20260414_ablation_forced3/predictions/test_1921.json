@@ -1,0 +1,24 @@
+{
+  "traj_id": "test_1921",
+  "ranked_loc_ids": [
+    2210,
+    1329,
+    5162,
+    2938,
+    206,
+    2437,
+    3757,
+    1648
+  ],
+  "explanations": {
+    "2210": "The user has a strong afternoon gym pattern and this is the best-supported recurring daytime option for a Saturday at 15:01.",
+    "1329": "It is the dominant favorite overall, but its strongest history is late-night rather than mid-afternoon.",
+    "5162": "This is another repeated Brooklyn daytime stop with several 3–5 pm visits, fitting the temporal prior well.",
+    "2938": "A recurring food/ice-cream stop that matches the user’s habit of returning to familiar leisure spots.",
+    "206": "A one-off but plausible quick food stop in the user’s lower Manhattan/Brooklyn routine.",
+    "2437": "A fitness-related daytime venue that fits the user’s health-oriented behavior, though with weaker evidence.",
+    "3757": "A Brooklyn dining option that aligns with the user’s occasional food stops and afternoon timing.",
+    "1648": "A convenient daytime coffee stop is plausible, but it is less consistent with the user’s strongest recurring patterns."
+  },
+  "fallback": false
+}

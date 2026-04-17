@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1503",
+  "ranked_loc_ids": [
+    1146,
+    4889,
+    4888,
+    1335,
+    4828,
+    2594,
+    1652,
+    2597,
+    2607,
+    4694
+  ],
+  "explanations": {
+    "1146": "The user’s strongest anchor is the racetrack, and they were last seen there at 13:03 with a same-day pattern of remaining in the same area.",
+    "4889": "This is the most frequent nearby support stop in the user’s routine and often pairs with racetrack visits.",
+    "4888": "The gas station is another repeated nearby stop in the user’s habitual corridor and fits a quick in-area movement.",
+    "1335": "It has at least one historical visit and is a plausible nearby errand stop within the same travel cluster.",
+    "4828": "A commuter-oriented travel node that could fit the user’s routine-based movement, though with no direct history.",
+    "2594": "This nearby subway station is a plausible transit-related stop if the user briefly shifts from the racetrack corridor.",
+    "1652": "Yonkers Train Station is consistent with the user’s commuter-like profile and nearby geography, but lacks prior visits.",
+    "2597": "Another nearby transit option that matches the user’s structured travel pattern better than leisure venues.",
+    "2607": "A quick early-day food stop is behaviorally plausible, but it is farther from the user’s proven core locations.",
+    "4694": "Bronxville train station is a less likely nearby transit alternative, included because the user’s routine sometimes aligns with transport-oriented stops."
+  },
+  "fallback": false
+}

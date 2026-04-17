@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1990",
+  "ranked_loc_ids": [
+    5370,
+    5371,
+    3362,
+    4039,
+    192,
+    2404,
+    1124,
+    1596,
+    3715,
+    2433
+  ],
+  "explanations": {
+    "5370": "This is the user’s strongest home anchor and the dominant late-night return destination after nightlife outings.",
+    "5371": "A familiar Financial District stop near home that fits a brief late-night or early-morning return pattern.",
+    "3362": "Very close to the last location and consistent with continued late-night socializing on a Saturday night.",
+    "4039": "It is immediately nearby and a plausible next stop if the user continues moving southwest through the West Village nightlife corridor.",
+    "192": "A nearby downtown landmark that fits the user’s frequent Greenwich Village movement pattern.",
+    "2404": "A known downtown nightlife venue for this user, making it a reasonable continuation after The Jane Hotel.",
+    "1124": "A nightlife option aligned with the user’s late-night habits and prior downtown entertainment pattern.",
+    "1596": "Another East Village nightlife venue that matches the user’s after-midnight social behavior.",
+    "3715": "A late-night lounge in the user’s favored downtown entertainment zone, though less likely than the closer options.",
+    "2433": "A recurring downtown food stop that is plausible but less temporally aligned than home or nightlife venues."
+  },
+  "fallback": false
+}

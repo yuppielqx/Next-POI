@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_238",
+  "ranked_loc_ids": [
+    1635,
+    1636,
+    1633,
+    1648,
+    1637,
+    1638,
+    1649,
+    890,
+    1646,
+    1631
+  ],
+  "explanations": {
+    "1635": "Friday morning strongly matches this coworking anchor, which is by far the user’s most frequent weekday work destination.",
+    "1636": "The user repeatedly starts mornings with this coffee/breakfast stop right before heading into the work routine.",
+    "1633": "It is a nearby professional office in the same Union Square/NoHo corridor and fits a Friday morning work-related return.",
+    "1648": "A coffee shop near the user’s lower-Manhattan work cluster is a plausible morning reset stop.",
+    "1637": "This deli/bodega is close to the core route and matches the user’s quick food/errand pattern near work.",
+    "1638": "The user has recurring sandwich-place behavior in this same area, making it a reasonable morning lunch or grab-and-go stop.",
+    "1649": "Another repeated quick-service lunch option near the user’s habitual lower-Manhattan movement.",
+    "890": "The user just visited a gym the prior day, and similar users often follow gym visits with daytime errands or food.",
+    "1646": "A very nearby convenience/pharmacy stop fits a routine weekday morning errand pattern around Union Square.",
+    "1631": "A nearby tea/coffee stop is consistent with the user’s established morning beverage habit before work."
+  },
+  "fallback": false
+}

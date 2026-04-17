@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_140",
+  "ranked_loc_ids": [
+    1079,
+    301,
+    1074,
+    152,
+    252,
+    1085,
+    1073,
+    1076,
+    5323,
+    271
+  ],
+  "explanations": {
+    "1079": "This is the strongest recurring downtown anchor in the user’s 3–5 p.m. window and best matches the time-conditioned return-to-frequent-place pattern.",
+    "301": "Union Square is a highly likely afternoon stop for a familiar grocery/food errand near the user’s downtown routine.",
+    "1074": "Parsons/New School area fits the user’s repeated academic downtown pattern and is close to the most likely Union Square destination cluster.",
+    "152": "A gourmet food stop in the same Manhattan corridor is consistent with the user’s habitual midday-to-afternoon downtown movement.",
+    "252": "A quick coffee/meal stop near Union Square aligns with the user’s structured afternoon transitions and nearby shopping/food behavior.",
+    "1085": "The user was just there earlier in the day, making a return plausible given their cultural institution pattern in Manhattan.",
+    "1073": "The user frequently uses this Upper East Side coffee anchor, though it is less consistent with the current southeast movement than downtown options.",
+    "1076": "This is one of the user’s strongest recurring fitness anchors and remains plausible as an afternoon routine stop.",
+    "5323": "The user is currently at JFK, so an airport-area transition remains possible if they are continuing travel.",
+    "271": "Staying within JFK is less likely than returning to Manhattan, but it remains a valid near-term continuation of the current trip."
+  },
+  "fallback": false
+}

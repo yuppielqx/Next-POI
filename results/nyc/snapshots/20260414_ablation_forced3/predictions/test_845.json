@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_845",
+  "ranked_loc_ids": [
+    3747,
+    3750,
+    2016,
+    819,
+    3528,
+    2642,
+    854,
+    3751,
+    3749,
+    2008
+  ],
+  "explanations": {
+    "3747": "This is the user’s strongest recurring anchor and a common noon-to-afternoon transit stop in their Brooklyn routine.",
+    "3750": "Franklin Avenue is one of the user’s most frequent Brooklyn transfer points, especially around midday.",
+    "2016": "The southeast Brooklyn direction and afternoon timing fit a likely move toward this repeat corridor station.",
+    "819": "Prospect Park is a major hub in the user’s usual Brooklyn chain and a plausible next transfer after a shopping stop.",
+    "3528": "This station matches the user’s core Brooklyn transit pattern and sits on a frequent route from their anchor area.",
+    "2642": "The user often drifts toward southern Brooklyn, and Sheepshead Bay fits the southeast movement trend.",
+    "854": "Sunday leisure patterns make this a credible nearby south Brooklyn destination after the BJ’s stop.",
+    "3751": "The user has a repeated habit of brief Dunkin visits during midday movement windows.",
+    "3749": "A nearby convenience stop with strong habit overlap, though less central than the main transit nodes.",
+    "2008": "This is a plausible continuation along the Brooklyn corridor, but it is less historically dominant than the top stations."
+  },
+  "fallback": false
+}

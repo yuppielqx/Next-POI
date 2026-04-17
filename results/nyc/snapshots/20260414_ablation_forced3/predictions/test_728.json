@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_728",
+  "ranked_loc_ids": [
+    1031,
+    3515,
+    3521,
+    1030,
+    3520,
+    1536,
+    3088,
+    3523,
+    3510,
+    786
+  ],
+  "explanations": {
+    "1031": "It is the current stop and the strongest immediate return-to-last candidate at the exact target minute.",
+    "3515": "The user repeatedly chains to nearby food stops in the same Williamsburg cluster, and this is extremely close.",
+    "3521": "This is another adjacent neighborhood food anchor with a strong midday fit and very short distance from the current bagel shop.",
+    "1030": "It is a nearby same-block nightlife venue that could be a short hop from the current location despite lower routine strength.",
+    "3520": "This bus stop is essentially next door and matches the user's tendency to make short local transit-linked moves.",
+    "1536": "A nearby transit node fits the user's commuter-style mobility and cluster-based movement.",
+    "3088": "A familiar nearby service stop is plausible for a quick errand within the same Brooklyn pocket.",
+    "3523": "This nearby grocery option aligns with the user's routine neighborhood errand pattern and short-distance movement.",
+    "3510": "Although farther away, it is a highly frequent Sunday midday anchor in the user's history.",
+    "786": "This is a very strong habitual Lower Manhattan anchor, but it is less likely than the immediate local Brooklyn options given the one-minute temporal gap."
+  },
+  "fallback": false
+}

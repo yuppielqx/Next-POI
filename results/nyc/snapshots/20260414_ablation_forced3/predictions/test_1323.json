@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1323",
+  "ranked_loc_ids": [
+    814,
+    4671,
+    2381,
+    1240,
+    1547,
+    4665,
+    1092,
+    28,
+    1201,
+    2141
+  ],
+  "explanations": {
+    "814": "Strongest same-time Friday evening return candidate and exact current-location cluster match.",
+    "4671": "Immediate nearby nightlife option in the same Hell’s Kitchen block, fitting a post-Ritz social move.",
+    "2381": "Very close to the last stop and plausible as a pre-nightlife dinner transition on Friday evening.",
+    "1240": "A frequent Friday visit and nearby return fits the user’s recurring Hell’s Kitchen circuit.",
+    "1547": "Adjacent nightlife venue in the same corridor, matching the user’s bar-hopping pattern.",
+    "4665": "Nearby food stop that could precede a longer night out, though less aligned than nightlife spots.",
+    "1092": "A nearby entertainment venue and occasional evening destination consistent with their arts/leisure pattern.",
+    "28": "Plausible evening entertainment choice, though less likely than bars or familiar returns.",
+    "1201": "One of the user’s core gay bars and a natural next nightlife stop, but a bit farther from the current cluster.",
+    "2141": "Another strong nightlife staple for this user, though slightly less favored than the immediate Hell’s Kitchen options."
+  },
+  "fallback": false
+}

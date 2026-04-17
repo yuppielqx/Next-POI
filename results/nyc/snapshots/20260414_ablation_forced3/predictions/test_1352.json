@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1352",
+  "ranked_loc_ids": [
+    966,
+    912,
+    2213,
+    332,
+    1570,
+    4519,
+    204,
+    617,
+    4708,
+    2209
+  ],
+  "explanations": {
+    "966": "It is immediately adjacent to the last known SoulCycle Union Square location and fits a Sunday post-workout coffee or brunch stop in the user’s usual corridor.",
+    "912": "This is essentially next door to SoulCycle Union Square and is a plausible nearby lunch destination after a morning workout.",
+    "2213": "The user has a strong fitness-first routine, and this nearby studio is a natural same-area continuation after SoulCycle.",
+    "332": "On a Sunday afternoon, a market visit near Union Square is highly plausible for an errand or leisure stop.",
+    "1570": "A close Union Square-area restaurant fits the user’s pattern of nearby midday dining after exercise.",
+    "4519": "This nearby New American restaurant matches a post-workout meal or relaxed afternoon food stop in Flatiron.",
+    "204": "A nearby Japanese restaurant is a reasonable lunch choice given the user’s compact Union Square/Flatiron movement pattern.",
+    "617": "Although more often used as a pre-office stop, it remains a highly familiar nearby café in the user’s core weekday corridor.",
+    "4708": "The office is a frequent anchor for the user, but Sunday afternoon makes this less likely than a leisure or food stop.",
+    "2209": "Returning to the same fitness center is possible, but the user has just been there this morning so a different nearby destination is more likely."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2626",
+  "ranked_loc_ids": [
+    2932,
+    1605,
+    777,
+    421,
+    3246,
+    3815,
+    5047,
+    5730,
+    1036,
+    3544
+  ],
+  "explanations": {
+    "2932": "Strong Friday-evening repeat behavior and a close East Village match make this the most likely next stop.",
+    "1605": "The user often shifts from lunch into dinner nearby, and sushi fits the early-evening food pattern in the same corridor.",
+    "777": "Similar users and the user’s nightlife-leaning Fridays make a nearby bar a strong transition from The Penny Farthing.",
+    "421": "A classic evening nightlife destination that aligns with the user’s Friday-night behavior and similar-user transitions.",
+    "3246": "Very close by and consistent with an after-work move into a casual pub around this hour.",
+    "3815": "Ramen Setagaya near St Marks matches the user’s frequent noodle/restaurant pattern and the northeast drift.",
+    "5047": "A frequent personal favorite, though the timing is a bit more dinner-leaning than their usual late-morning pastry visits.",
+    "5730": "Another highly familiar food stop in the core routine area, but less likely after a 13:11 visit than an evening venue.",
+    "1036": "The user has weekend late-night venue behavior, and this nearby music venue fits a Friday evening nightlife trajectory.",
+    "3544": "A plausible nearby hangout or drink stop, but it is less strongly supported than the more repeated food and bar locations."
+  },
+  "fallback": false
+}

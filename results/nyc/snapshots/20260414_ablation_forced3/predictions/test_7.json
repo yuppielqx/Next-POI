@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_7",
+  "ranked_loc_ids": [
+    104,
+    107,
+    105,
+    101,
+    106,
+    103,
+    109,
+    1199,
+    2341,
+    2751
+  ],
+  "explanations": {
+    "104": "This is the strongest fit because it is the user’s most recurrent evening shopping destination and the most likely continuation from Target within the Jersey City retail cluster.",
+    "107": "The user often chains between nearby transportation nodes and shopping stops, and this transit hub is a natural next move after Target.",
+    "105": "A nearby grocery/food stop matches the user’s errand-running pattern and the 6–8 PM shopping routine.",
+    "101": "This aligns with the user’s household-shopping behavior and sits close enough for a logical evening continuation.",
+    "106": "A return to PATH is plausible given the user’s repeated trans-Hudson movement, though it is less likely than staying in Jersey City right now.",
+    "103": "Evening convenience shopping could fit the pattern, especially as a nearby errand destination.",
+    "109": "Another transit option in the same corridor, but it is less directly connected than the Newport cluster.",
+    "1199": "Similar users and the local transit pattern make this a reasonable but secondary transportation stop.",
+    "2341": "A nearby retail stop could follow Target, though there is weaker evidence than for grocery or mall destinations.",
+    "2751": "A close-by convenience shopping option is possible, but it is less consistent with the user’s usual Jersey City-centered routine."
+  },
+  "fallback": false
+}

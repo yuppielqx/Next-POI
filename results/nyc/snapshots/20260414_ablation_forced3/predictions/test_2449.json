@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2449",
+  "ranked_loc_ids": [
+    63,
+    1252,
+    5663,
+    5662,
+    114,
+    489,
+    1950,
+    2838,
+    1753,
+    636
+  ],
+  "explanations": {
+    "63": "This is the user’s strongest recurring anchor and the most likely late-night return point given the habitual Staten Island–Brooklyn transit pattern.",
+    "1252": "It is the immediate last known location and a frequent routine stop, making a short return or nearby continuation very plausible.",
+    "5663": "The user repeatedly starts from this scenic Staten Island anchor, so a backtrack there remains possible despite the late hour.",
+    "5662": "It is a recurring nearby errand stop in the user’s pattern and fits a brief routine detour near the current Manhattan-side cluster.",
+    "114": "The user’s movement is trending northeast and this highly connected transit station matches a late transfer in Lower Manhattan/Brooklyn.",
+    "489": "Similar users at late evening times often end up at bridge-linked landmark locations, making this Brooklyn Bridge-area spot a reasonable match.",
+    "1950": "A transportation hub near the current area fits the user’s transit-oriented behavior and late-night movement tendency.",
+    "2838": "This nearby landmark aligns with the user’s bridge-centric spatial pattern and the current Brooklyn/Manhattan transition zone.",
+    "1753": "The user is already in the immediate DUMBO/bridge corridor, so a neighborhood-level continuation is plausible.",
+    "636": "Another nearby bridge-adjacent landmark that matches the user’s strong preference for crossing corridors and waterfront transit areas."
+  },
+  "fallback": false
+}

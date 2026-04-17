@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_137",
+  "ranked_loc_ids": [
+    998,
+    999,
+    1042,
+    274,
+    728,
+    329,
+    818,
+    179,
+    73,
+    610
+  ],
+  "explanations": {
+    "998": "It is the last known location, strongly recurrent on Saturdays, and fits the daytime fitness routine implied by the target time.",
+    "999": "A highly repeated Midtown daytime base that matches the user’s work/coworking corridor and the northeast movement trend.",
+    "1042": "This is another frequent Midtown stop near Fifth Avenue, making it a plausible quick afternoon errand or lunch-related visit.",
+    "274": "A common midday outdoor destination in Midtown that fits a Saturday afternoon and the nearby travel pattern.",
+    "728": "The user has Saturday history here and it matches a weekend errand in the Union Square/Midtown orbit.",
+    "329": "Madison Square Park is a repeat daytime outdoor stop that is still reasonably close to the user’s Midtown corridor.",
+    "818": "A nearby Midtown anchor that could plausibly be visited while staying in the same area.",
+    "179": "The very close proximity makes it possible, though it lacks prior history and is less consistent with the user’s established routine.",
+    "73": "Another nearby restaurant option that could fit an afternoon stop, but it is not as strongly supported by history.",
+    "610": "Close to the current area and plausible for a casual daytime visit, though it is relatively weakly supported by prior behavior."
+  },
+  "fallback": false
+}

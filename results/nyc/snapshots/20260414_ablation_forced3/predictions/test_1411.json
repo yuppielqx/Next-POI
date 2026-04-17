@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1411",
+  "ranked_loc_ids": [
+    3797,
+    2377,
+    4793,
+    4099,
+    630,
+    2988,
+    886,
+    256,
+    1302,
+    1630
+  ],
+  "explanations": {
+    "3797": "Strongest evening repeat anchor in the user’s history, especially for 6–8pm social outings in Midtown.",
+    "2377": "Fits the user’s Midtown nightlife pattern and is a frequent complementary stop near their Herald Square routine.",
+    "4793": "A repeated dining destination and a plausible southward continuation from Chinatown into the Financial District area.",
+    "4099": "Matches the user’s bar-heavy evening behavior and previous Lower Manhattan nightlife pattern.",
+    "630": "A nightlife venue close to the user’s Financial District/Seaport cluster, fitting a post-dinner evening stop.",
+    "2988": "Another bar option aligned with the user’s social evening habits and Lower Manhattan movement.",
+    "886": "The user was just there, so a lingering Chinatown return or nearby follow-up remains possible despite the evening time shift.",
+    "256": "A wine bar that matches the user’s nightlife preferences and could fit a Tuesday evening social outing.",
+    "1302": "The user has a clear bookstore interest, and this is a plausible evening errand or pre-dinner stop in Manhattan.",
+    "1630": "Another bookstore aligned with the user’s cultural retail pattern, though less likely than dining or bar options at this hour."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1895",
+  "ranked_loc_ids": [
+    519,
+    47,
+    144,
+    586,
+    3340,
+    1271,
+    4456,
+    1976,
+    2882,
+    66
+  ],
+  "explanations": {
+    "519": "The user strongly favors nearby Herald Square retail stops after Macy’s, and this is the best-matching short follow-up shopping destination.",
+    "47": "The last known location is already Macy’s, and a brief continued stay or recheck-in there is very plausible only nine minutes later.",
+    "144": "The user often chains retail with transit in Herald Square, and the 34th St-Herald Square subway hub is extremely close to Macy’s.",
+    "586": "Herald Square itself is a natural adjacent move for this user, fitting the same immediate shopping corridor.",
+    "3340": "Another very nearby 34th Street clothing stop matches the user’s frequent mass-market retail browsing pattern.",
+    "1271": "This is a close Midtown retail option with prior history, and the user has already shown movement through Kmart earlier in the trip.",
+    "4456": "The user has a strong breakfast/café routine in Midtown, making a nearby food stop plausible after shopping.",
+    "1976": "A nearby quick-food stop in the same corridor fits the user’s pattern of chaining errands with casual dining.",
+    "2882": "This nearby Fifth Avenue boutique aligns with the user’s tendency to continue retail browsing northward.",
+    "66": "A slightly farther but still nearby department-store option fits the weekday shopping corridor around Herald Square."
+  },
+  "fallback": false
+}

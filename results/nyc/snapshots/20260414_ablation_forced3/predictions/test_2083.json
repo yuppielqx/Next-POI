@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2083",
+  "ranked_loc_ids": [
+    5437,
+    434,
+    5337,
+    457,
+    5444,
+    5439,
+    1333,
+    3634,
+    2818,
+    666
+  ],
+  "explanations": {
+    "5437": "This is the user’s dominant habitual café anchor and the strongest match for a Monday morning routine.",
+    "434": "The user was last here and is showing a stay-in-place pattern, making a quick return very plausible.",
+    "5337": "A nearby breakfast/bakery option fits the 08:46 morning timing and café-oriented behavior.",
+    "457": "This breakfast spot matches the weekday morning prior and the user’s food-first routine.",
+    "5444": "A nearby coffee/bakery stop is consistent with the user’s habitual morning café pattern.",
+    "5439": "A repeated Manhattan stop in the user’s core area could follow a morning café visit.",
+    "1333": "A familiar Manhattan destination near the user’s usual corridor is plausible after the current coffee stop.",
+    "3634": "A prior history restaurant in the same Manhattan cluster could attract the user later in the morning.",
+    "2818": "The user occasionally visits gyms, and a morning workout is possible before midday activities.",
+    "666": "A recurring food destination in the same Manhattan region is a lower-probability but reasonable next stop."
+  },
+  "fallback": false
+}

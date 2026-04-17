@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_621",
+  "ranked_loc_ids": [
+    2842,
+    1114,
+    1938,
+    3209,
+    788,
+    1295,
+    3207,
+    2148,
+    3210,
+    489
+  ],
+  "explanations": {
+    "2842": "Strongest historical nightlife anchor with repeated late-night visits and the best match to Saturday 23:35 behavior.",
+    "1114": "Nearby Brooklyn nightlife spot that fits the user’s evening social pattern and southwest movement from the morning location.",
+    "1938": "Brooklyn Social Club is a cocktail bar close to the current area and aligns well with late-night drinking behavior.",
+    "3209": "Prior one-time nightlife visit in Manhattan makes it a plausible Saturday-night destination for this user.",
+    "788": "Cocktail bar in a nightlife corridor that matches the user's bar/lounge preference and late-hour timing.",
+    "1295": "Another Manhattan nightlife venue from the user's history that could fit a Saturday night outing.",
+    "3207": "Bar visit history and Manhattan nightlife setting make it a reasonable, though weaker, option.",
+    "2148": "Sports bar/nightlife venue that fits the user’s evening pattern but is less directly supported than the top choices.",
+    "3210": "A past stop in a nightlife-heavy neighborhood, but the restaurant category makes it less likely than bars and lounges.",
+    "489": "Familiar Brooklyn/Manhattan-area landmark with repeat history, though it is less directly tied to the user's nightlife preference."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1711",
+  "ranked_loc_ids": [
+    2098,
+    2139,
+    4479,
+    2026,
+    5115,
+    2029,
+    2030,
+    2569,
+    1036,
+    584
+  ],
+  "explanations": {
+    "2098": "At 03:12, a nearby cocktail bar best fits the strong late-night nightlife prior and the user’s current stay in the Chelsea/Meatpacking corridor.",
+    "2139": "The user was just here at 01:14, and a rooftop venue is the most likely place to remain or return to only two hours later.",
+    "4479": "Very close to the last location and plausible as a late-night nearby restaurant after leaving the rooftop scene.",
+    "2026": "A nearby cafeteria is an easy short hop from Dream Downtown, though less likely at this hour than nightlife spots.",
+    "5115": "This Chelsea Thai restaurant is extremely close and fits a late-night food stop in the same area.",
+    "2029": "A neighboring event space could be part of the same outing, though it is less specifically matched than nightlife or food venues.",
+    "2030": "Another immediate nearby food option that could attract a late-night visit in the same block.",
+    "2569": "A Manhattan late-night meal stop is possible, but it is slightly farther and less aligned with the immediate nightlife pattern.",
+    "1036": "The user has visited before and it matches the night-out profile, though it is farther from the current Chelsea location.",
+    "584": "A plausible nearby dining choice in Manhattan, but weaker than the more immediate Chelsea nightlife and food candidates."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_117",
+  "ranked_loc_ids": [
+    882,
+    883,
+    881,
+    880,
+    5513,
+    3311,
+    3614,
+    927,
+    1324,
+    803
+  ],
+  "explanations": {
+    "882": "This is the dominant recurring Queens anchor and the strongest match for a weekday evening return after the morning Dunkin’ stop.",
+    "883": "It is another nearby routine anchor with repeated Wednesday gym visits, making a fitness-related return plausible.",
+    "881": "The user has a clear gym habit, and an evening workout stop fits their fitness-centered pattern.",
+    "880": "The last known location is a coffee stop in the Queens core, so a quick return or lingering nearby is possible.",
+    "5513": "Evening leisure activity in nearby Elmhurst fits the time of day and local travel pattern.",
+    "3311": "A nearby Woodside outdoor stop is plausible given the short distance and local movement trend.",
+    "3614": "A convenient nearby errand stop fits the user’s routine, anchor-based mobility.",
+    "927": "A transit hub is a likely intermediate destination for a Queens-based commuter pattern.",
+    "1324": "Another nearby station could be visited as part of routine local movement.",
+    "803": "A Queens food stop is consistent with the user’s occasional evening errands and short-range movement."
+  },
+  "fallback": false
+}

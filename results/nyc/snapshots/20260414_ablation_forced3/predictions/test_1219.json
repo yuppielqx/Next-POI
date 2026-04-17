@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1219",
+  "ranked_loc_ids": [
+    330,
+    2920,
+    3405,
+    4546,
+    137,
+    269,
+    2593,
+    1582,
+    2442,
+    1487
+  ],
+  "explanations": {
+    "330": "Friday morning workday patterns overwhelmingly center on this location, making it the strongest repeat destination.",
+    "2920": "The user often stops here just before NYU Langone as a pre-work coffee routine on weekday mornings.",
+    "3405": "This is another recurring East Side morning food stop in the same commute corridor.",
+    "4546": "The user’s history shows medical-campus visits clustered near NYU Langone, and this fits that same routine.",
+    "137": "It has multiple Friday visits and is plausibly the next East Side commuter-linked stop near Penn Station.",
+    "269": "This matches the user’s medical-campus orientation and Manhattan weekday movement pattern.",
+    "2593": "A nearby 34th Street pharmacy stop is plausible in the same morning East Side route.",
+    "1582": "Friday affinity and Manhattan nightlife history make this a secondary but less likely option.",
+    "2442": "It is close to the user’s Manhattan corridor and could fit a meal-related stop after moving west.",
+    "1487": "The user has evening social patterns at bars, though the morning timestamp makes this much less likely."
+  },
+  "fallback": false
+}

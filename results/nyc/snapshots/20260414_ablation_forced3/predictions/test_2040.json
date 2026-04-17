@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2040",
+  "ranked_loc_ids": [
+    971,
+    3742,
+    970,
+    5410,
+    58,
+    557,
+    4607,
+    3996,
+    3888,
+    2698
+  ],
+  "explanations": {
+    "971": "The user’s strongest commute anchor and most frequent evening weekday destination, making it the likeliest return-stop after the ferry ride.",
+    "3742": "A core commute node that fits the ferry-based weekday pattern and remains highly plausible as the next transit point.",
+    "970": "The last known location and a major ferry terminal, so a short continuation or return within the ferry corridor is very likely.",
+    "5410": "A repeated breakfast/coffee stop in the user’s routine, though the evening timing makes it less likely than transit hubs.",
+    "58": "Another transportation hub in the commute corridor, with some history of transitions and a plausible Manhattan return-stop role.",
+    "557": "A nearby transportation node relevant to commuter movement, but less consistent with the user’s ferry-centered history.",
+    "4607": "A practical errand stop in the same corridor that could occur during a commute, though it is not a dominant pattern.",
+    "3996": "A nearby café that matches a brief stop pattern, but it lacks strong evidence from this user’s history.",
+    "3888": "A CVS/pharmacy stop in the area that could fit a convenience visit, but it is weakly supported by past behavior.",
+    "2698": "A nearby hotel that is geographically plausible, but it is far less aligned with the user’s routine commuter profile."
+  },
+  "fallback": false
+}

@@ -1,0 +1,24 @@
+{
+  "traj_id": "test_115",
+  "ranked_loc_ids": [
+    882,
+    883,
+    881,
+    803,
+    880,
+    67,
+    887,
+    192
+  ],
+  "explanations": {
+    "882": "This is the user’s strongest recurring Queens anchor and the most likely return after a DMV stop.",
+    "883": "It is a frequently visited gym in the same central Queens corridor and fits the user’s fitness-heavy routine.",
+    "881": "The user has a strong gym habit, and this Queens fitness center is another plausible return destination.",
+    "803": "A nearby Woodside/Elmhurst-area stop that matches the user’s Queens-based movement pattern.",
+    "880": "A practical Queens errand stop that fits a morning-to-afternoon transition after the DMV.",
+    "67": "The user does occasionally make Manhattan leisure trips, and this is a reasonable afternoon destination.",
+    "887": "A nearby Union Square food stop that could fit a midday outing after the DMV.",
+    "192": "Similar users and the user’s occasional Manhattan excursions make this a low-probability but viable leisure stop."
+  },
+  "fallback": false
+}

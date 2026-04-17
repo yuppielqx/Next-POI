@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_144",
+  "ranked_loc_ids": [
+    476,
+    1109,
+    1111,
+    1112,
+    3842,
+    2779,
+    4003,
+    1106,
+    1305,
+    274
+  ],
+  "explanations": {
+    "476": "This is a top recurring daytime/outdoor anchor for the user in the Greenpoint/Williamsburg core and fits the strong afternoon return-to-familiar-place prior.",
+    "1109": "The user repeatedly visits this gym, and an afternoon return after a long overnight gap is consistent with their exercise-oriented routine.",
+    "1111": "Ferry use is one of the user’s strongest recurring patterns, and this waterfront transit option matches their local mobility habits.",
+    "1112": "As a nearby ferry-related terminal in the same neighborhood, it is a plausible transit stop for a user who regularly uses the East River Ferry.",
+    "3842": "A gym/recreation center close to the current area, it aligns with the user’s fitness-centered daytime behavior.",
+    "2779": "The user has at least some grocery behavior, and a quick practical stop in the neighborhood is plausible in the afternoon.",
+    "4003": "The user has some nightlife/restaurant movement in Williamsburg, and this nearby dining spot could follow the late-morning/afternoon transition pattern.",
+    "1106": "This very close-by bar fits the recent nightlife trajectory, though the target time makes a continued drinking stop less likely than daytime options.",
+    "1305": "Similar users show transitions to Barcade around this time, making it a reasonable social stop despite weaker fit than the user’s outdoor/gym pattern.",
+    "274": "The user has visited Manhattan before, and a daytime leisure trip is possible, but it is less consistent with their Brooklyn-centered routine."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_363",
+  "ranked_loc_ids": [
+    2199,
+    4417,
+    2196,
+    1453,
+    2200,
+    799,
+    2145,
+    2101,
+    771,
+    602
+  ],
+  "explanations": {
+    "2199": "The user is currently at the academic building and the strongest immediate pattern is a short same-area continuation during early afternoon.",
+    "4417": "It is extremely close and fits the campus-centric movement implied by the last stop.",
+    "2196": "The user has a prior visit here and it is adjacent to the current academic area, making it a plausible next campus-related move.",
+    "1453": "The profile shows frequent coffee/quick-service chaining around commute and class transitions, especially around midday.",
+    "2200": "A nearby coffee stop fits the user’s habitual coffee-plus-transit behavior and early afternoon timing.",
+    "799": "This is another nearby quick-service option that matches the user’s food-and-transit routine.",
+    "2145": "A diner nearby is consistent with a lunch-time stop after a morning academic or transit sequence.",
+    "2101": "Another nearby diner is plausible for an early afternoon meal break.",
+    "771": "The user is strongly anchored to this Queens station and may return there after the campus stop.",
+    "602": "This is a recurring anchor in the user’s history, but it is less likely than a nearby campus or food stop at this moment."
+  },
+  "fallback": false
+}

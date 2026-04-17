@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_887",
+  "ranked_loc_ids": [
+    3850,
+    2347,
+    3475,
+    64,
+    6,
+    3185,
+    3853,
+    565,
+    3075,
+    274
+  ],
+  "explanations": {
+    "3850": "It is a strong Friday noon-to-2pm repeat for this user and fits the current Midtown East trajectory without requiring a major detour.",
+    "2347": "A nearby Midtown office stop matches the afternoon corridor and the user’s pattern of chaining central Manhattan venues.",
+    "3475": "This is a plausible short east/west Manhattan continuation with strong Friday relevance and close proximity.",
+    "64": "It is very close to the last stop and fits the user’s midday retail-and-errand behavior.",
+    "6": "The Waldorf-Astoria area is extremely nearby and consistent with a local hotel/anchor stop in Midtown East.",
+    "3185": "It is an adjacent Midtown dining option that fits the lunch-to-early-afternoon timing and nearby movement.",
+    "3853": "A nearby wellness stop is plausible after lunch, especially given the user’s tendency to chain short Manhattan visits.",
+    "565": "Times Square is a common nearby continuation for this user and aligns with their Midtown mobility pattern.",
+    "3075": "Grand Central-area coffee is a reasonable nearby afternoon stop and fits the user’s frequent midday activity window.",
+    "274": "This is a nearby central Manhattan destination that could follow a restaurant visit, though it is less likely than the stronger Midtown anchors."
+  },
+  "fallback": false
+}

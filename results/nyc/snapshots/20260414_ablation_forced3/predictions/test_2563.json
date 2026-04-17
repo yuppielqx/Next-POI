@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2563",
+  "ranked_loc_ids": [
+    5706,
+    3140,
+    756,
+    419,
+    3313,
+    2311,
+    5707,
+    2406,
+    4280,
+    4034
+  ],
+  "explanations": {
+    "5706": "This is the user’s strongest recurring afternoon anchor and the most likely return destination immediately after their last known park visit.",
+    "3140": "It is another repeated Prospect Park-area outdoor spot very close to the last location, making a short intra-park move plausible.",
+    "756": "This nearby Prospect Park-related gym-like location fits the user’s fitness/outdoors pattern and is within easy reach.",
+    "419": "Prospect Park Loop is a nearby park destination that matches the user’s dominant outdoor recreation behavior.",
+    "3313": "Prospect Park Zoo is a nearby recreational option in the same park complex and fits a discretionary afternoon outing.",
+    "2311": "This nearby outdoor venue is in the same park ecosystem and could follow a park-based afternoon.",
+    "5707": "The user frequently visits this Brooklyn gym, and an afternoon workout remains a realistic next step.",
+    "2406": "This nearby Brooklyn restaurant is plausible as a post-park stop, though less consistent than their core outdoor pattern.",
+    "4280": "A Brooklyn coffee shop fits a transitional afternoon move, but it is less central than the park anchors.",
+    "4034": "The user does occasionally go to Manhattan nightlife/social venues, but this is much less likely than staying in Brooklyn."
+  },
+  "fallback": false
+}

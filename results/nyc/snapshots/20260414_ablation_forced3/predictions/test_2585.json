@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2585",
+  "ranked_loc_ids": [
+    492,
+    488,
+    273,
+    1128,
+    4582,
+    28,
+    2704,
+    192,
+    498,
+    1496
+  ],
+  "explanations": {
+    "492": "Similar users at this time often make a short nearby hop to a cultural venue, and the north-east movement plus continued Manhattan exploration fit a move toward the Whitney Museum area.",
+    "488": "The user is already in an uptown Manhattan trajectory, and the Metropolitan Museum of Art is a plausible next stop for a nearby late-night shift in activity.",
+    "273": "Central Park Zoo is another nearby uptown destination that matches the user's broad Manhattan wandering pattern and the short-hop movement trend.",
+    "1128": "The Pond in Central Park fits a quick uptown continuation and aligns with the user's occasional park visits in dense Manhattan areas.",
+    "4582": "Staying at the current medical school location is possible given the nearby-search keep and the medium revisit probability.",
+    "28": "The user has a history of late-night cinema visits, making this an attractive entertainment option after a 00:37 time point.",
+    "2704": "A late-night bar is strongly consistent with the user's night-owl profile and similar-user patterns around this hour.",
+    "192": "This is one of the user's strongest recurring downtown landmarks, and it remains a plausible late-night destination despite the uptown drift.",
+    "498": "The user repeatedly visits this restaurant, so a familiar food stop is still viable even at this late hour.",
+    "1496": "The user's entertainment-oriented mobility makes a Broadway/theater-district venue a reasonable, though less likely, continuation."
+  },
+  "fallback": false
+}

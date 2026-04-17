@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1518",
+  "ranked_loc_ids": [
+    5089,
+    3869,
+    2097,
+    2445,
+    1967,
+    2326,
+    1343,
+    239,
+    2083,
+    4051
+  ],
+  "explanations": {
+    "5089": "It is immediately adjacent to the last known bar and fits the Saturday-night nightlife pattern with the smallest possible move.",
+    "3869": "The user is already here and similar nightlife behavior often stays clustered in the same venue area.",
+    "2097": "A familiar bar in the East Village/Lower Manhattan nightlife circuit and one of the strongest nearby social options.",
+    "2445": "Very close to the current location and in a bar-heavy corridor, making it a natural next stop.",
+    "1967": "Nearby, bar-focused, and consistent with the user’s habit of chaining nightlife venues on weekends.",
+    "2326": "Another close East Village bar that matches the user’s late-evening drinking pattern.",
+    "1343": "A plausible Lower Manhattan nightlife revisit, especially for a Saturday night bar crawl.",
+    "239": "Fits the music-venue nightlife profile and is within the same lower Manhattan social orbit.",
+    "2083": "A nearby gastropub that aligns with casual food-plus-drinks behavior later at night.",
+    "4051": "A very recent nearby food stop that could be revisited as late-night food after the bar."
+  },
+  "fallback": false
+}

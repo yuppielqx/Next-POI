@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2052",
+  "ranked_loc_ids": [
+    1059,
+    1005,
+    2806,
+    3711,
+    548,
+    1043,
+    795,
+    3089,
+    1363,
+    282
+  ],
+  "explanations": {
+    "1059": "This is the strongest late-night nightlife match, very close to the last stop and heavily associated with the user’s midnight-to-2am pattern.",
+    "1005": "It is another downtown nightlife venue with a strong midnight history and fits the short south-westward movement trend.",
+    "2806": "The user is already there in the late evening pattern, and an extended Friday-night stay or immediate continuation is highly plausible.",
+    "3711": "It is extremely nearby in the Lower East Side and matches the user’s bar-hopping behavior late at night.",
+    "548": "A frequent late-night destination for this user, though it is farther west than the current downtown cluster.",
+    "1043": "This is a recurring downtown stop and sits within the same neighborhood circuit, making it a plausible continuation point.",
+    "795": "A familiar downtown fitness anchor that is geographically close, though less likely at 01:58 than nightlife options.",
+    "3089": "It is a nearby bar in the right neighborhood and fits a late-night stop, but it lacks prior history for this user.",
+    "1363": "This nearby 16 Handles stop could fit an after-hours snack pattern, though it is less consistent than bar venues.",
+    "282": "It fits the nightlife profile but requires a bigger cross-neighborhood move and is less aligned with the immediate downtown continuation."
+  },
+  "fallback": false
+}

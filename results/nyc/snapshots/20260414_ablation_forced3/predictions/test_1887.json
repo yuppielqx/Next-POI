@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1887",
+  "ranked_loc_ids": [
+    1220,
+    3939,
+    1260,
+    3925,
+    841,
+    1536,
+    1651,
+    5277,
+    67,
+    1302
+  ],
+  "explanations": {
+    "1220": "The evening prior and strong home-area routine make a return to Williamsburg the most likely next move after the Manhattan daytime stop.",
+    "3939": "If leaving Manhattan now, the L train corridor is the most habitual Brooklyn transit anchor in this user's history.",
+    "1260": "Union Square is a central commuting hub in the user's pattern and is very close to the last known location, making it a plausible intermediary stop.",
+    "3925": "Broadway/G train access in Brooklyn fits the user's frequent transit-linked returns toward home in the evening.",
+    "841": "The Williamsburg Bridge is a natural southbound transition point when the user heads back from Manhattan to Brooklyn.",
+    "1536": "This Brooklyn station matches the user's repeated transit-heavy mobility and evening return behavior.",
+    "1651": "The user often pairs Strand/Union Square with nearby errands, and this is an extremely close adjacent stop.",
+    "5277": "A frequent nearby errand destination around Union Square that aligns with the user's weekday Manhattan routine.",
+    "67": "The user commonly clusters around the Union Square area before shifting to the next nearby stop.",
+    "1302": "Even though it was the last known location, the user's repeated anchoring at Strand keeps it on the board as a possible lingering revisit."
+  },
+  "fallback": false
+}

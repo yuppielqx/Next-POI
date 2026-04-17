@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_488",
+  "ranked_loc_ids": [
+    2730,
+    2731,
+    2732,
+    2737,
+    598,
+    2736,
+    1411,
+    1415,
+    1417,
+    1408
+  ],
+  "explanations": {
+    "2730": "This is the strongest evening return location in the user’s history and fits the short move from Bay Terrace toward their home corridor by 18:16.",
+    "2731": "A very plausible commute-related stop in the same home area, especially if the user is returning by rail rather than stopping on the road.",
+    "2732": "A frequent local errand/food stop near Douglaston Parkway that matches the evening neighborhood pattern.",
+    "2737": "A nearby Queens food stop with some prior history, plausible for a short evening errand before heading home.",
+    "598": "The user has road-infrastructure movements in the region, and this could reflect continued car travel south/east.",
+    "2736": "A local neighborhood errand location consistent with the user’s clustered home-area behavior.",
+    "1411": "The user has visited this Queens food spot before, and it remains a plausible quick dinner stop on the way home.",
+    "1415": "Since this is the last known location, a brief continued stay or nearby re-check-in is still possible.",
+    "1417": "Extremely close to the current position, making it a reasonable short-hop retail stop.",
+    "1408": "Another immediate nearby retail option, but less behaviorally aligned than the top local commuting choices."
+  },
+  "fallback": false
+}

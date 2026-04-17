@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_764",
+  "ranked_loc_ids": [
+    639,
+    4070,
+    3708,
+    2344,
+    303,
+    2290,
+    2436,
+    155,
+    137,
+    3591
+  ],
+  "explanations": {
+    "639": "The last known check-in is here just 7 minutes earlier, making it the strongest return/persistence choice.",
+    "4070": "It is immediately adjacent to Ulysses Folk House on Stone Street and fits a quick lunch move in the same downtown cluster.",
+    "3708": "This is another nearly co-located Stone Street food/drink option, matching the user’s current lower Manhattan bar/restaurant flow.",
+    "2344": "A nearby downtown bar/venue that aligns with the user’s strong late-day dining and drinking pattern.",
+    "303": "A short south/west Manhattan move to a casual food stop fits the user’s café/food-heavy routine.",
+    "2290": "This nearby tapas restaurant matches the immediate post-bar lunch window and stays in lower Manhattan.",
+    "2436": "A nearby TriBeCa café is plausible given the user’s strong coffee-shop history and downtown movement.",
+    "155": "This is the user’s main café anchor, so a return to a familiar breakfast/lunch spot remains possible despite the short time gap.",
+    "137": "Penn Station is a reasonable Manhattan transit pivot, though less likely than nearby dining options.",
+    "3591": "A nearby diner is consistent with midday food behavior, but it is less directly aligned with the current bar-centered sequence."
+  },
+  "fallback": false
+}

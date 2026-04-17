@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2187",
+  "ranked_loc_ids": [
+    2602,
+    5058,
+    5520,
+    2043,
+    583,
+    3896,
+    1861,
+    519,
+    67,
+    481
+  ],
+  "explanations": {
+    "2602": "Sunday morning strongly fits this user’s recurring Upper West Side coffee-and-theater anchor, and this Starbucks has the best morning-slot support.",
+    "5058": "It is the user’s strongest recurring daytime anchor near Broadway and West 78th Street, with multiple 9–11am visits matching the target time.",
+    "5520": "The user frequently visits performance venues in the Midtown theater corridor, and this is another strong morning-compatible arts stop.",
+    "2043": "It is the immediate prior-area venue and a known repeat stop, so a nearby return remains plausible despite the morning context.",
+    "583": "This nearby Hell’s Kitchen nightlife venue fits the user’s theater/nightlife geography and could follow a late-night-to-morning drift.",
+    "3896": "Its extreme proximity to the last known location makes it a reasonable short-hop continuation in the same Hell’s Kitchen cluster.",
+    "1861": "A casual food stop near the last location is plausible as a transition after the previous outing.",
+    "519": "Similar users at this time often move through errands or retail, and this is a nearby daytime-compatible option.",
+    "67": "Sunday morning can support a daytime public-space visit, though it is less aligned than the theater/café anchors.",
+    "481": "It matches the user’s arts-oriented profile and Sunday daytime pattern, but it is farther from the strongest Upper West Side routine."
+  },
+  "fallback": false
+}

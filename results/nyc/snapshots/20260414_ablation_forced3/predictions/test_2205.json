@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2205",
+  "ranked_loc_ids": [
+    716,
+    1110,
+    3383,
+    1554,
+    3380,
+    728,
+    2854,
+    2377,
+    1992,
+    4062
+  ],
+  "explanations": {
+    "716": "The user was just there at 15:02 and the strongest short-interval pattern is a repeat or nearby errand continuation in the same Manhattan corridor.",
+    "1110": "This is another grocery-stop match near Trader Joe's, fitting the user's errand-heavy afternoon pattern and close spatial continuity.",
+    "3383": "A nearby pharmacy is a plausible post-grocery stop for a quick errand while staying in the Union Square area.",
+    "1554": "A short coffee stop fits the afternoon timing and the user's cluster-based habit of chaining routine errands.",
+    "3380": "The nearby gym and pool aligns with the user's strong fitness routine and could follow an afternoon grocery run.",
+    "728": "The immediate proximity and the user's later social profile make a quick adjacent beverage-related stop believable.",
+    "2854": "The user repeatedly anchors mornings around gym visits, and a fitness stop remains possible even in the afternoon.",
+    "2377": "This matches the user's Manhattan social pattern and is a reasonable transition point before evening activities.",
+    "1992": "A Midtown lounge is consistent with the user's upscale Manhattan nightlife behavior, though less likely this early.",
+    "4062": "The user does visit bars regularly, but this LES option is more consistent with evening than a 16:29 afternoon check-in."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_713",
+  "ranked_loc_ids": [
+    137,
+    2049,
+    58,
+    3407,
+    1653,
+    918,
+    1619,
+    962,
+    1092,
+    3951
+  ],
+  "explanations": {
+    "137": "The user is already at this location and their pattern strongly supports short lunchtime transitions within the Midtown/Penn Station corridor.",
+    "2049": "This is a repeated Friday noon-to-2pm lunch stop and fits the current early-afternoon timing well.",
+    "58": "A dominant routine anchor in the user’s history, likely to be revisited within the Midtown commute/work pattern.",
+    "3407": "Another highly frequent Midtown East lunch/breakfast venue that matches the user’s stable weekday routine.",
+    "1653": "A nearby café that fits a fast weekday lunch/coffee stop in the Penn Station area.",
+    "918": "A nearby coffee option consistent with the user’s routine-driven midday movement.",
+    "1619": "A close by diner that could serve as a convenient lunch destination in the same corridor.",
+    "962": "A nearby quick-service lunch choice that matches the user’s midday food-stop behavior.",
+    "1092": "A very close landmark/transit-area destination that is plausible given the current location and northwest movement.",
+    "3951": "The user’s movement history includes transit-linked stops, making a nearby station a possible next check-in."
+  },
+  "fallback": false
+}

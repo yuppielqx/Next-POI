@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2043",
+  "ranked_loc_ids": [
+    2448,
+    11,
+    2504,
+    177,
+    4039,
+    3360,
+    2479,
+    2478,
+    2373,
+    3169
+  ],
+  "explanations": {
+    "2448": "The strongest prior is a short late-night continuation in the same West Village cocktail-bar corridor, and this is the exact last location so a lingering revisit is most plausible.",
+    "11": "It is essentially next door to Employees Only and fits the user’s habit of nearby bar/food hopping during late-night outings.",
+    "2504": "Very close to the last check-in and a reasonable quick stop in the same neighborhood as the user continues moving southwest.",
+    "177": "This nearby West Village bar matches the user’s documented early-morning bar-hopping pattern and is a natural short hop.",
+    "4039": "Another immediate West Village option that fits a late-night social transition without requiring a cross-borough move.",
+    "3360": "A nearby Manhattan nightlife spot that is within the Chelsea/West Village nightlife arc suggested by the current trip.",
+    "2479": "Close enough for a same-night hop and consistent with the user’s bar/restaurant switching behavior.",
+    "2478": "A nearby hotel bar in the same general corridor, plausible for a late-night drink stop after Employees Only.",
+    "2373": "The user has some history with performance venues, making this a possible nightlife-adjacent destination despite being less likely than bars.",
+    "3169": "It fits the East Village late-night pattern seen in the user’s history, but it is a slightly less immediate fit than nearby West Village options."
+  },
+  "fallback": false
+}

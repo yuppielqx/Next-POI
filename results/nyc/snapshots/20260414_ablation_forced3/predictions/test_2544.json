@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2544",
+  "ranked_loc_ids": [
+    631,
+    1069,
+    626,
+    59,
+    3256,
+    1151,
+    270,
+    1355,
+    3652,
+    1785
+  ],
+  "explanations": {
+    "631": "This is the strongest exact late-Friday-night match from the user’s history, and it is immediately adjacent to the current Times Square corridor.",
+    "1069": "A familiar late-night bar in the same Theater District cluster, fitting the user’s post-entertainment pattern.",
+    "626": "Another nearby movie theater that matches the user’s cinema-heavy evening behavior around Times Square.",
+    "59": "The user is already there, and the most likely next move is a short continuation within the same entertainment zone.",
+    "3256": "A previously visited casual dining spot right in the current area, plausible for a night-out meal or post-movie stop.",
+    "1151": "This nearby entertainment venue aligns with the user’s preference for lively Midtown nightlife and arcade-style outings.",
+    "270": "A close Times Square restaurant that fits a same-evening food stop without leaving the corridor.",
+    "1355": "Another adjacent casual dining option in the theater district that matches the user’s restaurant pattern.",
+    "3652": "A very close popular restaurant near Broadway that could serve as a spontaneous late-night stop.",
+    "1785": "A nearby forced candidate that could fit a quick drink or brief transition, though it is less likely than the entertainment venues."
+  },
+  "fallback": false
+}

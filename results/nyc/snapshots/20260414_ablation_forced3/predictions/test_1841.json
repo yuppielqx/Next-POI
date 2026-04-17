@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1841",
+  "ranked_loc_ids": [
+    5243,
+    5238,
+    5239,
+    5237,
+    5240,
+    5245,
+    5241,
+    5244,
+    5246,
+    717
+  ],
+  "explanations": {
+    "5243": "It is the last known location at the exact target time and has repeat late-night usage, making an immediate revisit the strongest signal.",
+    "5238": "It is extremely close to the last point and fits the user's frequent late-evening food/coffee pattern in the same Brooklyn cluster.",
+    "5239": "This nearby pharmacy matches the user's recurring errand behavior and is a common short-hop destination from the anchor zone.",
+    "5237": "The user repeatedly checks in here and it sits in their core Nostrand Avenue routine area, just a short move away.",
+    "5240": "It is very close to the last location and is part of the same local institutional cluster the user often traverses.",
+    "5245": "This adjacent medical-school location is tightly linked to the user’s anchor area and is a plausible immediate neighboring stop.",
+    "5241": "The user’s history includes repeated pizza stops in the same neighborhood, and this is within the familiar local circuit.",
+    "5244": "It aligns with the user’s recurring hospital-area pattern and is a nearby anchor-point destination.",
+    "5246": "This is a known repeat food stop in the broader Brooklyn anchor area and fits the late-night neighborhood movement trend.",
+    "717": "It is less likely than the core anchor venues but remains a plausible nearby coffee stop given the user's food-and-café behavior."
+  },
+  "fallback": false
+}

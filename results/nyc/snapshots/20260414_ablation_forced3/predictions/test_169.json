@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_169",
+  "ranked_loc_ids": [
+    59,
+    1235,
+    1249,
+    46,
+    1168,
+    114,
+    586,
+    1234,
+    1239,
+    1263
+  ],
+  "explanations": {
+    "59": "It is a top historical evening destination for this user and fits the south-west Midtown transit drift from 59th St/Lexington.",
+    "1235": "Strong recurring Times Square-corridor stop that matches the user’s frequent 6–8 p.m. pattern.",
+    "1249": "A heavily used Midtown transit node that aligns with the commute-like chaining of stations.",
+    "46": "One of the user’s most visited transit hubs, making it a plausible next commute-related transfer.",
+    "1168": "Very frequent in the history, though less consistent with the immediate Manhattan evening movement.",
+    "114": "A common bridge transit point in the user’s corridor and compatible with a southeast/west transit sequence.",
+    "586": "Herald Square is a familiar Midtown public square and a reasonable nearby stop in the evening corridor.",
+    "1234": "A nearby repeat café visit that fits a short transit-adjacent pause in Midtown.",
+    "1239": "Close to the Theater District and plausible as a brief evening stop between transit nodes.",
+    "1263": "Staying at the current major hub is still possible given the user’s station-to-station movement pattern."
+  },
+  "fallback": false
+}

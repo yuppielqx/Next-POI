@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1231",
+  "ranked_loc_ids": [
+    3928,
+    4562,
+    4561,
+    4567,
+    4566,
+    4565,
+    3930,
+    3945,
+    4568,
+    147
+  ],
+  "explanations": {
+    "3928": "The user has just checked in here and this is their strongest home-area transit anchor, making an immediate stay or recheck-in most likely.",
+    "4562": "It is adjacent to the last location and matches the user's frequent local home-area food stops right after returning from Manhattan.",
+    "4561": "Very close to Bedford-Nostrand and consistent with the user's nearby Brooklyn errand pattern after commuting home.",
+    "4567": "A short local move from the station fits a routine post-commute grocery run in the home neighborhood.",
+    "4566": "This nearby pharmacy matches the user's tendency for practical evening errands around Bedford-Stuyvesant.",
+    "4565": "Another close neighborhood shop that fits a quick stop after arriving back in Brooklyn.",
+    "3930": "The G-line corridor makes this a plausible short transit continuation if the user is still moving locally in Brooklyn.",
+    "3945": "A Brooklyn subway transfer point that aligns with corridor-based movement, though it is less immediate than the home station cluster.",
+    "4568": "The user works here and has a strong commute tie, but the timing and current return-to-home pattern make this less likely than Brooklyn stops.",
+    "147": "A major Midtown anchor in the user's routine, but it is far less likely immediately after the evening return to Bedford-Nostrand."
+  },
+  "fallback": false
+}

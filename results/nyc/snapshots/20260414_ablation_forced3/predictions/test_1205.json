@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1205",
+  "ranked_loc_ids": [
+    114,
+    1530,
+    1252,
+    2801,
+    4406,
+    2800,
+    4594,
+    1196,
+    489,
+    3793
+  ],
+  "explanations": {
+    "114": "This is the user’s strongest recurring anchor, and the weekday morning timing fits a routine return to the same transit hub.",
+    "1530": "Another major subway node in the user’s regular Manhattan corridor, making it a plausible next transfer point.",
+    "1252": "It is extremely close to the last known location and similar users show strong transition behavior involving this point near the bridge.",
+    "2801": "A nearby grocery stop could follow an early morning transit movement, especially if the user is continuing north-west.",
+    "4406": "This nearby destination aligns with the current northwest movement from the Manhattan Bridge area.",
+    "2800": "A close Lower Manhattan site that could be reached immediately after leaving the bridge area.",
+    "4594": "Another very nearby Brooklyn/Lower Manhattan option that fits short-range movement from the last check-in.",
+    "1196": "The user often stays within the Chinatown/Downtown Brooklyn transit corridor, so this nearby neighborhood is plausible.",
+    "489": "A previously visited landmark close to the bridge corridor, though less likely than transit stops.",
+    "3793": "A routine gym destination in the user’s history, but the morning transit context makes it less likely than nearby subway options."
+  },
+  "fallback": false
+}

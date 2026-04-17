@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_739",
+  "ranked_loc_ids": [
+    2889,
+    75,
+    3536,
+    4414,
+    5098,
+    4935,
+    2409,
+    1110,
+    3486,
+    3537
+  ],
+  "explanations": {
+    "2889": "The user’s strongest evening routine is gym visits in the 6–8 p.m. window, and this is the most habitual nearby anchor at the target time.",
+    "75": "This is one of the user’s most frequent recurring destinations, with many Wednesday evening visits matching the strong temporal prior.",
+    "3536": "The user repeatedly returns here and it fits their coffee-oriented routine, though the current evening context makes it slightly less likely than the gym.",
+    "4414": "Similar users sometimes shift from evening drinks to food, and this nearby restaurant fits a plausible post-work stop.",
+    "5098": "A quick, routine-friendly dinner choice near the current area, consistent with an evening transition before or after fitness.",
+    "4935": "The user has a strong coffee habit, and this café is a nearby analogue to their habitual coffee-shop pattern.",
+    "2409": "Another nearby fitness option that matches the user’s evening workout tendency, though it is less established in their history.",
+    "1110": "The user is currently at the grocery store, so a brief continued stay or return is possible even if less likely than moving on.",
+    "3486": "The user has occasional nightlife behavior, and a later evening bar stop is possible though less aligned with their core routine.",
+    "3537": "Another nightlife venue that could fit an evening social pattern, but it is farther from the user’s main habitual loop."
+  },
+  "fallback": false
+}

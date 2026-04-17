@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2019",
+  "ranked_loc_ids": [
+    416,
+    2044,
+    5393,
+    1976,
+    3797,
+    2037,
+    2039,
+    2376,
+    587,
+    3688
+  ],
+  "explanations": {
+    "416": "This is the user’s strongest habitual Midtown destination, and the weekday early-afternoon prior plus very short distance make it the most likely next stop.",
+    "2044": "The user repeatedly pairs the Empire State corridor with this Starbucks, especially around midday on weekdays.",
+    "5393": "The current trip already includes this nearby residence, so a brief return to it is plausible before continuing elsewhere in the same cluster.",
+    "1976": "It is extremely close to the last location and fits the user’s coffee/food stop pattern in the Koreatown-Midtown corridor.",
+    "3797": "Another nearby Midtown restaurant the user has visited before, making it a reasonable lunch-time continuation.",
+    "2037": "This adjacent office building matches the user’s Midtown work-like mobility and is very close to the current position.",
+    "2039": "Europa Cafe is a plausible midday food stop right in the same 34th Street area.",
+    "2376": "A nearby lunch-oriented restaurant that fits the user’s afternoon Midtown dining behavior.",
+    "587": "A close-by quick food option that could easily follow a Starbucks stop in the same block.",
+    "3688": "The user has visited this nearby venue before, and it remains a feasible but less likely Midtown stop than the stronger coffee/landmark choices."
+  },
+  "fallback": false
+}

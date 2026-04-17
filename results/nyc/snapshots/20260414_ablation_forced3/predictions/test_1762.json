@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1762",
+  "ranked_loc_ids": [
+    5158,
+    4267,
+    3670,
+    858,
+    2921,
+    4269,
+    5159,
+    4900,
+    2623,
+    2628
+  ],
+  "explanations": {
+    "5158": "This is the strongest recurring anchor in the user’s history and fits a return-to-frequent-place pattern for Sunday evening.",
+    "4267": "A highly plausible commuter-corridor stop that matches the user’s repeated northern New Jersey travel behavior.",
+    "3670": "This aligns with the user’s corridor-based movement between Irvington and Elizabeth and is consistent with a practical transit route.",
+    "858": "Grocery errands are a major part of the user’s profile, and this is one of their repeated retail destinations.",
+    "2921": "Medical-related visits are common in the history, making this a reasonable evening destination despite the location shift.",
+    "4269": "Another healthcare anchor in the user’s home region that fits the utilitarian, appointment-driven pattern.",
+    "5159": "Convenience stops along regional routes are plausible given the user’s road-oriented movement style.",
+    "4900": "A highway road node matches the user’s travel-corridor behavior, especially if they are in transit back north.",
+    "2623": "The user has a suburban retail pattern, and this regional shopping destination is compatible with their prior errands.",
+    "2628": "Similar to other retail stops in the user’s history, though less likely than the more central corridor and grocery options."
+  },
+  "fallback": false
+}

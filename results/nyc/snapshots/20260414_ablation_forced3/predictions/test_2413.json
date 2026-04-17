@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2413",
+  "ranked_loc_ids": [
+    1318,
+    142,
+    2349,
+    766,
+    558,
+    274,
+    2065,
+    1844,
+    1283,
+    176
+  ],
+  "explanations": {
+    "1318": "It is the exact current area with a strong transition history, making it the most likely immediate next stop.",
+    "142": "The user is already at Columbus Circle and often moves through transportation hubs when shifting within Manhattan.",
+    "2349": "It is directly adjacent to the last known location and fits a short leisure/shopping sequence.",
+    "766": "This nearby food stop is a plausible casual errand destination from Columbus Circle.",
+    "558": "A frequent Midtown leisure destination that matches the user’s afternoon pattern and nearby movement.",
+    "274": "Another nearby public space in Midtown that fits the user’s late-afternoon wandering behavior.",
+    "2065": "A common short-stop coffee destination that aligns with similar users and the user’s errand/leisure profile.",
+    "1844": "A nearby casual dining option consistent with the user’s food-oriented outings.",
+    "1283": "A practical errand stop, and the user has a history of postal visits as part of their recurring pattern.",
+    "176": "A historically important frequent place for the user, though less likely than nearby Midtown options at this exact moment."
+  },
+  "fallback": false
+}

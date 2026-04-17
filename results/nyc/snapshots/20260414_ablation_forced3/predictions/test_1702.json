@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1702",
+  "ranked_loc_ids": [
+    2644,
+    1035,
+    2014,
+    5104,
+    116,
+    114,
+    2008,
+    3316,
+    3948,
+    1260
+  ],
+  "explanations": {
+    "2644": "It is the closest plausible transit hub at the current point and fits the user’s strong rail-oriented, evening travel pattern.",
+    "1035": "A nearby major transport destination that matches a likely corridor move after being last seen at Location 1629.",
+    "2014": "This is an extremely close, high-frequency Brooklyn transit node that often appears in the user’s commuting path.",
+    "5104": "The strongest late-night home-base destination, especially given the Wednesday 11:28 PM return tendency.",
+    "116": "A heavily visited Wednesday transit anchor for this user, though it is less likely than Brooklyn-bound options at this hour.",
+    "114": "A recurring cross-borough station in the user’s history and consistent with northwest movement.",
+    "2008": "A Brooklyn station aligned with the user’s residential corridor and possible return route.",
+    "3316": "Very nearby and in the same general Brooklyn area, but less behaviorally central than transit hubs.",
+    "3948": "A neighborhood subway stop that matches the user’s Brooklyn home area and late-night transit behavior.",
+    "1260": "A frequent Manhattan transit stop for this user, but it is more likely for an outbound leg than a late-night Wednesday destination."
+  },
+  "fallback": false
+}

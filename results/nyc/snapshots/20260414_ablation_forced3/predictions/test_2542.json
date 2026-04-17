@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2542",
+  "ranked_loc_ids": [
+    5322,
+    542,
+    4983,
+    1085,
+    2172,
+    1398,
+    574,
+    2128,
+    4907,
+    5155
+  ],
+  "explanations": {
+    "5322": "A nearby upscale Chinese restaurant fits the strong Sunday evening dining pattern and the user’s current Midtown east trajectory.",
+    "542": "Very close by and plausible for a quick evening food stop, especially if the user is transitioning from shopping to dinner.",
+    "4983": "A nearby nightlife-oriented hotel spot matches the late-day social profile and could be a short follow-on from Barneys.",
+    "1085": "A nearby cultural venue is a reasonable evening destination in this part of Manhattan and fits the user’s occasional museum/arts behavior.",
+    "2172": "If the user is simply changing neighborhoods, this nearby transit hub is a strong connective option.",
+    "1398": "The user is already in the immediate area, and a brief return/extended stay is possible after shopping.",
+    "574": "Another adjacent retail stop fits the short, purposeful movement pattern and the northeast drift.",
+    "2128": "A Midtown food stop aligns with the user’s restaurant tendency and the time-of-day dinner window.",
+    "4907": "A nearby bar-and-grill matches the evening social/dining profile, though it is a bit less directly aligned than closer options.",
+    "5155": "A lounge fits the user’s cocktail-bar history and evening behavior, but it is farther and less directly adjacent."
+  },
+  "fallback": false
+}

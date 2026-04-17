@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_424",
+  "ranked_loc_ids": [
+    2507,
+    2510,
+    2508,
+    1848,
+    1855,
+    2500,
+    2499,
+    2132,
+    2501,
+    3902
+  ],
+  "explanations": {
+    "2507": "The morning time prior and the user’s coffee-leaning history make this the strongest lower-Manhattan breakfast reset after a late night.",
+    "2510": "This fits the user’s occasional morning coffee behavior and is a plausible daytime stop after an overnight gap.",
+    "2508": "The user has prior FiDi evidence, and a casual morning food stop downtown matches the time and profile.",
+    "1848": "A quick morning coffee-and-pastry visit is highly plausible for this time slot in Manhattan.",
+    "1855": "A convenient daytime food stop near the current area, though less aligned with the user’s coffee-heavy morning pattern.",
+    "2500": "Close by and consistent with the user’s restaurant-oriented habits, but sushi is less typical for an early morning visit.",
+    "2499": "Very near the last location and part of the user’s history, but it is more work-oriented than the morning food pattern.",
+    "2132": "Matches the user’s dining and social profile, though it is more likely later in the day than at 10:22 a.m.",
+    "2501": "A neighborhood restaurant that fits the user’s West Village/Gramercy dining footprint, but morning likelihood is modest.",
+    "3902": "Nearby and consistent with a brunch-appropriate Manhattan dining pattern, but it is still less specific than the coffee options."
+  },
+  "fallback": false
+}

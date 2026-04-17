@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2110",
+  "ranked_loc_ids": [
+    5457,
+    4191,
+    4186,
+    3724,
+    3069,
+    834,
+    1859,
+    3909,
+    4045,
+    4422
+  ],
+  "explanations": {
+    "5457": "This is the user’s strongest habitual anchor with the most historical visits, and the short early-morning gap fits an immediate return to their routine.",
+    "4191": "It is the last known location and sits at the center of the user’s recurring Sunday/Monday morning pattern.",
+    "4186": "It is tightly linked to the dog run in the user’s local circuit and is a frequent nearby companion stop.",
+    "3724": "It is very close to the core area and has prior history, making it a plausible local follow-on.",
+    "3069": "It is nearby in Whitestone and could fit a quick morning food stop after the church visit.",
+    "834": "A nearby convenience stop that matches an early-morning transition pattern.",
+    "1859": "Close to the current area and a plausible short errand stop in the neighborhood.",
+    "3909": "Another nearby deli option that fits a local, low-movement routine.",
+    "4045": "Bayside is within the user’s usual northeast Queens area and aligns with the southwest movement trend.",
+    "4422": "It is in the broader local Queens orbit and has some history, though it is less likely than the core neighborhood options."
+  },
+  "fallback": false
+}

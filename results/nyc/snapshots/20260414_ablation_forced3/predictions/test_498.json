@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_498",
+  "ranked_loc_ids": [
+    2775,
+    4284,
+    4286,
+    2630,
+    2956,
+    445,
+    4490,
+    2232,
+    1152,
+    2758
+  ],
+  "explanations": {
+    "2775": "It is the exact last known location and the target time is only 39 minutes later, making an immediate stay or return most likely.",
+    "4284": "It is extremely close to the current bookstore and fits a quick nearby lunch/errand continuation in the same retail corridor.",
+    "4286": "A nearby Paramus food stop that plausibly follows a bookstore visit during a Saturday afternoon outing.",
+    "2630": "A close retail/grocery option consistent with the user’s routine, localized shopping behavior in Paramus.",
+    "2956": "The user has a strong history with Applebee’s, and this nearby Paramus branch matches their familiar dining pattern.",
+    "445": "A major nearby shopping destination in Paramus that fits the time, location, and retail-corridor context.",
+    "4490": "A very close convenience stop that could easily follow a short retail visit in the same area.",
+    "2232": "The user favors practical retail runs, and this Clifton Costco-style stop remains a plausible routine destination despite the distance.",
+    "1152": "Another bookstore is consistent with the current activity and the user’s shopping-oriented movement pattern.",
+    "2758": "This frequent anchor location could be revisited later in the day, though it is less likely than nearby Paramus options right now."
+  },
+  "fallback": false
+}

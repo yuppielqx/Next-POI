@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_922",
+  "ranked_loc_ids": [
+    141,
+    3966,
+    613,
+    2597,
+    3978,
+    1300,
+    2556,
+    526,
+    571,
+    109
+  ],
+  "explanations": {
+    "141": "This fits the user’s strongest commuter corridor and morning transit pattern, making a return to a familiar Bronx station most likely.",
+    "3966": "The user repeatedly visits this Harlem-area metro station, and the 8–9 a.m. window strongly favors another rail transfer.",
+    "613": "Morning movement in the Upper Manhattan core makes Harlem a plausible next stop, especially given the user’s repeated activity there.",
+    "2597": "Woodlawn is the user’s most frequent early-morning anchor, so a return to this subway stop remains highly likely.",
+    "3978": "This Harlem destination matches the user’s earlier afternoon pattern and sits in the same northern corridor as their commute.",
+    "1300": "Another Harlem subway station on the 2/3 line, it aligns with the user’s rail-heavy behavior and daytime travel.",
+    "2556": "The user’s history shows strong attachment to the 4 train network, so a generic 4-train location is still credible.",
+    "526": "The user has occasional park visits in Harlem, but this is less likely than a transit stop during the morning commute.",
+    "571": "Despite being close to the current Manhattan area, it is less consistent with the user’s Bronx/Harlem commuting core.",
+    "109": "It is a transportation hub, but it is outside the user’s main Bronx/Upper Manhattan pattern and thus less probable."
+  },
+  "fallback": false
+}

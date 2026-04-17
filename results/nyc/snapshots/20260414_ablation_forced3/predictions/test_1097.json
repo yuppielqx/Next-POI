@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1097",
+  "ranked_loc_ids": [
+    3837,
+    4331,
+    274,
+    4333,
+    676,
+    1580,
+    58,
+    1380,
+    4334,
+    1390
+  ],
+  "explanations": {
+    "3837": "This is the user’s strongest habitual daytime hub with the highest visit count and the last known location, making a return most likely.",
+    "4331": "It is extremely close to the last known point and matches the user’s strong noon-to-afternoon soup/lunch pattern in the Madison corridor.",
+    "274": "A frequent nearby midday destination that fits the user’s established Midtown lunch-and-walk routine.",
+    "4333": "This is one of the user’s most consistent lunch spots near 275 Madison Ave and aligns well with the 14:40 timing.",
+    "676": "A repeated nearby afternoon food stop that fits the user’s Midtown routine and short-distance movement pattern.",
+    "1580": "The user has used this nearby juice bar before, and it matches the afternoon food/beverage tendency.",
+    "58": "Grand Central Terminal is a familiar commuter-adjacent node in the same corridor and is plausible after a Midtown office stop.",
+    "1380": "A nearby deli/bodega in the same micro-area that could fit a quick lunch or snack transition.",
+    "4334": "Very close to the current position and consistent with a fast weekday lunch move.",
+    "1390": "A nearby coffee stop that matches the user’s beverage-heavy routine, though slightly less likely than lunch venues."
+  },
+  "fallback": false
+}

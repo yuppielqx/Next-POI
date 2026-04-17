@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1363",
+  "ranked_loc_ids": [
+    1274,
+    3202,
+    1619,
+    3825,
+    4456,
+    4629,
+    1264,
+    888,
+    4031,
+    568
+  ],
+  "explanations": {
+    "1274": "The last check-in was here at 10:23, so the strongest one-minute continuation is that the user is still at or right next to this exact spot.",
+    "3202": "It is extremely close to the last location and fits the same immediate food-stop pattern in the Penn Station area.",
+    "1619": "A nearby food venue that could plausibly be the next quick stop if the user is continuing a short meal/errand sequence.",
+    "3825": "Another adjacent quick-service option that matches the user’s food-oriented movement at this time.",
+    "4456": "A nearby restaurant that fits the current local dining cluster, though it is less likely than the fast-food options.",
+    "4629": "Close by and plausible for a midday food sequence, but less aligned with the user’s quick-stop pattern.",
+    "1264": "A nearby convenience/pharmacy stop is possible after eating, especially for a short errand.",
+    "888": "Very close geographically, but the category is less consistent with the user’s current food-driven trajectory.",
+    "4031": "Nearby transport infrastructure makes it possible, but the user’s behavior does not suggest an immediate intercity move.",
+    "568": "Close in location, but a movie theater is a weaker fit than the surrounding food and errand options."
+  },
+  "fallback": false
+}

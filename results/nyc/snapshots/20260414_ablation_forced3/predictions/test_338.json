@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_338",
+  "ranked_loc_ids": [
+    1063,
+    55,
+    1403,
+    2102,
+    2100,
+    1579,
+    766,
+    1689,
+    4081,
+    202
+  ],
+  "explanations": {
+    "1063": "This is the user's dominant routine anchor on East 23rd Street and the strongest same-area, same-time return candidate at late morning.",
+    "55": "A frequent nearby lunch stop that fits the user's midday workday pattern and is only a short walk from the last location.",
+    "1403": "A habitual coffee stop near the core 23rd Street cluster that matches the user’s breakfast/coffee routine.",
+    "2102": "Very close to the anchor area and consistent with the user's grab-and-go breakfast behavior around the Flatiron/Chelsea border.",
+    "2100": "A common efficient coffee/breakfast option near 23rd Street that aligns with the user’s morning commute pattern.",
+    "1579": "A nearby sandwich spot in the same block-level cluster, making it plausible for a quick late-morning food stop.",
+    "766": "Less local than the core routine but still a plausible errand/lunch destination based on prior history.",
+    "1689": "A nearby casual food option that could fit a midday meal, though it is less established in the user’s pattern.",
+    "4081": "An extremely close nearby coffee shop that fits the user’s morning-oriented behavior, despite no prior visits.",
+    "202": "A nearby lunch venue in the same neighborhood that is plausible for a workday meal but not strongly supported by history."
+  },
+  "fallback": false
+}

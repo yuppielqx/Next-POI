@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1894",
+  "ranked_loc_ids": [
+    1214,
+    144,
+    88,
+    523,
+    519,
+    47,
+    274,
+    4456,
+    1271,
+    4629
+  ],
+  "explanations": {
+    "1214": "This is a highly frequented commuter hub for the user and fits the strong late-evening Midtown transit pattern.",
+    "144": "The 34th St-Herald Square subway station is very close and matches the user’s repeated reliance on nearby transit nodes.",
+    "88": "Another major evening transportation stop in the user’s core corridor, consistent with commute-oriented movement.",
+    "523": "A frequent morning/quick-stop favorite that remains plausible for a late practical errand or snack near Midtown.",
+    "519": "The user often revisits Herald Square retail spots, and this is tightly aligned with their shopping pattern.",
+    "47": "The user was just here and has a repeated history of Midtown shopping visits, making a short return plausible.",
+    "274": "The last location was adjacent to Bryant Park, so a brief continuation within the same area is likely.",
+    "4456": "A strong recurring breakfast venue that fits the user’s Midtown routine, though less likely at this hour.",
+    "1271": "This is within the same Midtown retail corridor and matches the user’s errand-focused shopping behavior.",
+    "4629": "A nearby Penn Station-area restaurant that could fit a late quick meal, though it is less characteristic than transit nodes."
+  },
+  "fallback": false
+}

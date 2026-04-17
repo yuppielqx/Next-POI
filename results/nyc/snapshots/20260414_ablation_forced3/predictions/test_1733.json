@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1733",
+  "ranked_loc_ids": [
+    1603,
+    2703,
+    3174,
+    2305,
+    2168,
+    2927,
+    630,
+    3155,
+    1120,
+    2859
+  ],
+  "explanations": {
+    "1603": "Strong Saturday history and the time prior both point to a return to this familiar dive bar as the most likely next social stop.",
+    "2703": "It is a known downtown repeat venue for the user and fits an afternoon-to-evening outing pattern.",
+    "3174": "The user has visited before and it sits in the same downtown nightlife corridor, making it a plausible return.",
+    "2305": "It is immediately adjacent to the last known location and matches the beer-garden/nightlife style of the user.",
+    "2168": "The user is already here, and a brief continuation at the same venue is still plausible despite the movement trend south.",
+    "2927": "This aligns with the user’s Lower Manhattan bar pattern and could fit a chain of evening drinking spots.",
+    "630": "A beer garden fits the user profile, and it is a known nightlife destination in a different Manhattan corridor.",
+    "3155": "A St. Marks bar is consistent with the user’s downtown nightlife preferences and could be a later outing stop.",
+    "1120": "This nearby nightlife spot matches the user’s after-hours behavior, though it lacks direct history support.",
+    "2859": "A dive-bar option in the Meatpacking area fits the profile, but it is less supported than the higher-ranked nightlife venues."
+  },
+  "fallback": false
+}

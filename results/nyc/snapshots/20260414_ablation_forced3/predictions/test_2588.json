@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2588",
+  "ranked_loc_ids": [
+    1372,
+    675,
+    3501,
+    5716,
+    2051,
+    3691,
+    301,
+    5715,
+    1318,
+    766
+  ],
+  "explanations": {
+    "1372": "The Friday 08:45 time slot strongly matches this location’s repeated history, making it the best exact temporal fit despite the Manhattan routine.",
+    "675": "This is one of the user’s most repeated Midtown food stops and sits directly adjacent to the last known location, fitting their habitual morning routine.",
+    "3501": "Another core breakfast/lunch anchor in the same tight Manhattan cluster, and the user often chains visits among these nearby food spots.",
+    "5716": "The user just left here and frequently revisits this exact location, so a near-term return remains highly plausible.",
+    "2051": "It is a recurring nearby Manhattan restaurant in the user’s food-oriented pattern and shares the same weekday routine tendencies.",
+    "3691": "This is part of the user’s habitual Midtown snack circuit and is still within their broader preferred Manhattan corridor.",
+    "301": "The user shows routine food errands around Union Square/Flatiron, making this a plausible morning stop.",
+    "5715": "Although in Queens, it is a repeated user venue and could appear on a less common errand/travel day.",
+    "1318": "The user occasionally visits broader Manhattan nodes, and similar morning patterns sometimes include transit-linked or central commercial stops.",
+    "766": "This is another food-related Manhattan option that fits the user’s general daytime shopping and meal behavior."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2289",
+  "ranked_loc_ids": [
+    2496,
+    476,
+    2455,
+    220,
+    1099,
+    1339,
+    137,
+    716,
+    303,
+    1116
+  ],
+  "explanations": {
+    "2496": "It is the user's most repeated morning-friendly venue, very close to the last stop, and best fits a Saturday routine reset after late-night Williamsburg activity.",
+    "476": "A nearby outdoor option in the same Williamsburg/Greenpoint cluster that matches the user's wellness-oriented habits.",
+    "2455": "The user repeatedly visits yoga studios and this is a strong fit for a Saturday morning wellness return.",
+    "220": "After a late Friday night, a nearby breakfast/bakery stop is plausible and it sits right in the same Bedford Ave corridor.",
+    "1099": "A close Williamsburg food option that could fit a morning or brunch transition after the previous night's venue.",
+    "1339": "The user was just there late at night, so an immediate short return is possible even if less likely than a morning routine stop.",
+    "137": "This has strong morning-time history, but it is farther away and less consistent with the immediate Williamsburg continuity.",
+    "716": "A practical errand stop that fits the user's grocery pattern, though it is less likely at this early Saturday hour.",
+    "303": "A morning health-oriented stop in Manhattan is possible, but it is weaker than the Williamsburg options.",
+    "1116": "The user has nightlife tendencies, but this morning time makes another bar visit much less likely than daytime routine destinations."
+  },
+  "fallback": false
+}

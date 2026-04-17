@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2130",
+  "ranked_loc_ids": [
+    3930,
+    58,
+    1035,
+    2014,
+    3928,
+    1251,
+    133,
+    2644,
+    116
+  ],
+  "explanations": {
+    "3930": "The user was just at a classroom in Brighton Beach, so the most likely next move is a nearby transit node for departure.",
+    "58": "Only an hour has passed since the last known classroom stop, making a short stay or return to the same place very plausible.",
+    "1035": "The user often connects through major Brooklyn hubs, and this is a natural next transfer point if leaving southern Brooklyn.",
+    "2014": "This is a favored Brooklyn interchange in the user’s history and fits a commute-oriented movement pattern.",
+    "3928": "Another repeated Brooklyn station in the user’s pattern, plausible if heading toward their usual corridor.",
+    "1251": "The user has Brooklyn transit clustering and this station fits a plausible transfer route within their movement style.",
+    "133": "A Brooklyn station aligned with the user’s transit-heavy profile, though less historically reinforced than the top hubs.",
+    "2644": "The user has prior LIRR/Atlantic Terminal behavior, so a rail-oriented hub remains a reasonable follow-on stop.",
+    "116": "Airport-linked and regional rail travel appears in the user’s history, but it is less likely than a nearby Brooklyn transfer."
+  },
+  "fallback": false
+}

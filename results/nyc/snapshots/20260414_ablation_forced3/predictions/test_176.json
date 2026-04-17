@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_176",
+  "ranked_loc_ids": [
+    1297,
+    1315,
+    1306,
+    1299,
+    1300,
+    1309,
+    564,
+    563,
+    1296,
+    895
+  ],
+  "explanations": {
+    "1297": "This is the user’s strongest weekday morning anchor and the time prior strongly matches a return to their Bronx commute origin.",
+    "1315": "It is extremely close to the last known Starbucks and fits a quick morning errand stop in the same neighborhood.",
+    "1306": "The user has a grocery/coffee errand pattern, and this nearby Starbucks could be revisited before heading out.",
+    "1299": "Morning transit-linked errands are consistent with the user’s behavior, and it is a plausible stop on the way north or west.",
+    "1300": "A Harlem transit station fits the user’s commute corridor and is a logical intermediate movement near the last location.",
+    "1309": "The user has visited nearby Harlem landmarks before, making this a possible nearby destination.",
+    "564": "The user recently spent time around the Upper West Side transit corridor, so another station in that chain is plausible.",
+    "563": "The profile shows grocery-errand behavior, and this Upper West Side store fits their recent movement pattern.",
+    "1296": "Their history includes transit-heavy movement, and a subway connection is possible if they are beginning a longer trip.",
+    "895": "The user has prior visits and sometimes makes destination trips, though this is less likely for a Monday morning commute."
+  },
+  "fallback": false
+}

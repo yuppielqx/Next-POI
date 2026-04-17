@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_944",
+  "ranked_loc_ids": [
+    886,
+    928,
+    2703,
+    3171,
+    2690,
+    4265,
+    3246,
+    1520,
+    1038,
+    123
+  ],
+  "explanations": {
+    "886": "This is the strongest habitual anchor in the user’s history and fits their repeated late-night-to-food pattern, with Sunday recurrence and Chinatown preference.",
+    "928": "A very close fast-food option that matches a quick post-night-out food stop near the last East Village location.",
+    "2703": "Immediately adjacent and pizza-oriented, making it a plausible continuation of the user’s late-night food drift.",
+    "3171": "A nearby nightlife/food venue that aligns with the user’s social, overnight movement style and Lower Manhattan destination tendency.",
+    "2690": "A nearby bar that fits the user’s nightlife-heavy profile and could precede another food stop.",
+    "4265": "Another adjacent nightlife spot consistent with a short hop before or after the user’s typical late-night sequence.",
+    "3246": "A nearby bar in the same nightlife cluster, matching the user’s preference for bar-to-food movement.",
+    "1520": "A close East Village bar that fits the current nightlife context and could be part of a same-area transition.",
+    "1038": "The last known location is always possible as a short dwell/return, though less likely than a move onward.",
+    "123": "A known historical destination for this user, but its cross-borough retail nature makes it less likely than nearby nightlife or Chinatown food stops."
+  },
+  "fallback": false
+}

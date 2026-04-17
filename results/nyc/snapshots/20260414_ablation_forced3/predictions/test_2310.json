@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2310",
+  "ranked_loc_ids": [
+    3931,
+    5596,
+    418,
+    1035,
+    4441,
+    300,
+    3511,
+    3528,
+    137,
+    918
+  ],
+  "explanations": {
+    "3931": "This is the most likely next step because the user has a very strong Monday morning routine of going from Dunkin to this station immediately afterward.",
+    "5596": "They are already here at the last timestamp, so a brief linger or no-op revisit is possible before heading to transit.",
+    "418": "It is extremely close to the last location, but the user’s profile favors commute transit over nightlife spots at this hour.",
+    "1035": "Nearby Brooklyn transit/shopping hub behavior makes this a plausible alternative morning move within the same area.",
+    "4441": "This is close by and fits their occasional quick retail/bookstore pattern, though it is less routine than the subway stop.",
+    "300": "Also nearby in Brooklyn and compatible with errand behavior, but less consistent with the observed weekday commute sequence.",
+    "3511": "Another station-like location in the broader Brooklyn commute network, though it is not as tightly linked to this immediate morning pattern.",
+    "3528": "The user does visit Brooklyn transit nodes, but this is farther and less aligned with the current Bergen Street routine.",
+    "137": "Penn Station fits the user’s broader Midtown commuting pattern, but it is not the most immediate next step from Bergen Street at 08:05.",
+    "918": "A Midtown coffee stop is plausible later in the commute chain, but it is less likely than the nearby subway continuation."
+  },
+  "fallback": false
+}

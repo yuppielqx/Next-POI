@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1381",
+  "ranked_loc_ids": [
+    4702,
+    4764,
+    1376,
+    1490,
+    1492,
+    1491,
+    3505,
+    4692,
+    2742,
+    1440
+  ],
+  "explanations": {
+    "4702": "The user was last seen here at 13:11 and the target time is only 34 minutes later, making a short stay or immediate return the most likely outcome.",
+    "4764": "This matches the user’s repeated noon-to-2 p.m. lunch pattern in Midtown and is close enough to fit an adjacent lunch stop.",
+    "1376": "Another strong Midtown lunch venue in the user’s history, plausible for a quick post-lunch move nearby.",
+    "1490": "A nearby Midtown coffee stop is consistent with a short lunch break continuation or post-meal coffee run.",
+    "1492": "This nearby fast lunch option fits the same Midtown workday corridor and lunch-time behavior.",
+    "1491": "A nearby sandwich place could reasonably follow the user’s lunch routine without requiring a major move.",
+    "3505": "Close to the last location and within the lunch/work area, though less aligned with the user’s strongest historical preferences.",
+    "4692": "Nearby quick-service dining is plausible, but it is less supported by the user’s established salad/American lunch pattern.",
+    "2742": "A nearby office landmark is possible as part of a short movement within Midtown, though it is not a typical destination.",
+    "1440": "Close-by nightlife is less likely at 13:45, but it remains a nearby Manhattan option with some general plausibility."
+  },
+  "fallback": false
+}

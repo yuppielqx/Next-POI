@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_669",
+  "ranked_loc_ids": [
+    116,
+    2656,
+    1399,
+    5586,
+    139,
+    5656,
+    4781,
+    3958,
+    1483,
+    3336
+  ],
+  "explanations": {
+    "116": "The user is still in the Jamaica transit corridor and this is the closest high-probability continuation from the last known AirTrain stop.",
+    "2656": "This nearby transit hub fits a same-area transfer pattern better than jumping back to Manhattan.",
+    "1399": "Returning to the exact last location is plausible given the return_to_last movement pattern and airport-transit context.",
+    "5586": "A track-level rail continuation is consistent with the user likely being in transit around Jamaica.",
+    "139": "Another nearby rail-platform option that matches the same travel corridor and timing.",
+    "5656": "A quick convenience stop near the station is believable for a traveler lingering in Jamaica before boarding.",
+    "4781": "Casual food near the transit hub fits the short gap between checks and the user's evening movement.",
+    "3958": "Another nearby fast-food option that aligns with an airport-adjacent stopover.",
+    "1483": "A habitual Queens routine location is possible, but the current transit trajectory makes it less likely than nearby Jamaica options.",
+    "3336": "This is one of the user's strongest repeats, yet it is too far from the current corridor to be the most likely immediate next stop."
+  },
+  "fallback": false
+}

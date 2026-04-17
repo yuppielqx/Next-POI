@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1669",
+  "ranked_loc_ids": [
+    3983,
+    3161,
+    909,
+    1555,
+    779,
+    2064,
+    1347,
+    2463,
+    4342,
+    1006
+  ],
+  "explanations": {
+    "3983": "It is immediately adjacent to the last known Brooklyn nightlife cluster and fits the strong “stay in the same area” trend for the next evening stop.",
+    "3161": "This nearby cocktail bar is another highly plausible continuation of the current late-night bar crawl in Williamsburg.",
+    "909": "A direct repeat is possible because the user is already at this pub and often follows clustered nightlife behavior.",
+    "1555": "The user was there earlier in the evening and may return to or continue near the same venue area.",
+    "779": "A nearby Manhattan pub matches the evening drinking pattern, though it requires a cross-river move.",
+    "2064": "This is a plausible nearby bar stop given the user’s bar-hopping behavior and the evening time prior.",
+    "1347": "Another nightlife venue in the broader nearby orbit, consistent with a continuation of the outing.",
+    "2463": "This is the user’s strongest habitual anchor overall, but it is less likely than staying local in Brooklyn right now.",
+    "4342": "A familiar Hoboken nightlife spot fits the user’s bar pattern, though it is farther from the current trip.",
+    "1006": "A Hoboken food stop is possible after drinking, but it is less aligned than nearby bars."
+  },
+  "fallback": false
+}

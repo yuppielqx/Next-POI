@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_765",
+  "ranked_loc_ids": [
+    3600,
+    1589,
+    1551,
+    1445,
+    3599,
+    4457,
+    1273,
+    3680,
+    2741,
+    2250
+  ],
+  "explanations": {
+    "3600": "Strongest repeat Saturday-night destination and the user was just there, making a return the most likely next move.",
+    "1589": "Very close to the last spot and fits the user’s nightlife-heavy late-evening pattern in Midtown.",
+    "1551": "A known karaoke bar that matches the user’s social nighttime behavior and Midtown corridor.",
+    "1445": "A nearby bar aligned with the user’s bar-hopping history and late-night timing.",
+    "3599": "A frequent Midtown shopping stop for this user, and the short distance makes a quick revisit plausible.",
+    "4457": "An adjacent dinner/drinks venue that fits a late-night food-and-nightlife chain in Midtown East.",
+    "1273": "The user often mixes nightlife with late food, and this nearby burger joint is a natural after-hours stop.",
+    "3680": "Close by and consistent with the user’s preference for restaurant-bar transitions on nights out.",
+    "2741": "A nearby food stop that could fit a late-night snack or regrouping move before heading elsewhere.",
+    "2250": "A burger-joint option from the user history that fits the food-plus-nightlife pattern, though it is farther away."
+  },
+  "fallback": false
+}

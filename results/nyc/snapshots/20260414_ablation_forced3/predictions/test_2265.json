@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2265",
+  "ranked_loc_ids": [
+    2585,
+    497,
+    2414,
+    3337,
+    2215,
+    1578,
+    3754,
+    1024,
+    1927,
+    219
+  ],
+  "explanations": {
+    "2585": "Strongest historical late-night nightclub match, very close to the last stop and consistent with the user's Chelsea/Meatpacking nightlife circuit.",
+    "497": "Previously visited lounge that fits the same late-night Manhattan social pattern and remains nearby.",
+    "2414": "Immediate nearby nightclub option in the same Meatpacking area, matching the ongoing nightlife trajectory.",
+    "3337": "A known user nightlife venue in the same district, making it a plausible short-hop continuation after 675 Bar.",
+    "2215": "Nearby lounge that fits the user’s late-night rooftop/lounge preferences and the south-east movement trend.",
+    "1578": "Very close to the last location and a plausible post-bar food stop during a late-night outing.",
+    "3754": "Nearby restaurant option that could follow drinking with a late-night meal in Meatpacking.",
+    "1024": "A known late-night rooftop spot for this user, though farther than the immediate Meatpacking options.",
+    "1927": "Recurrent lounge in the user's Manhattan nightlife circuit, but less proximate than the top choices.",
+    "219": "Staying at or briefly returning to the current nightlife venue is possible, though a transition onward is more likely."
+  },
+  "fallback": false
+}

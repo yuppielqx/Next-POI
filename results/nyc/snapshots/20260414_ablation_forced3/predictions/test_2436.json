@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2436",
+  "ranked_loc_ids": [
+    116,
+    5407,
+    5656,
+    5655,
+    139,
+    2646,
+    1660,
+    137,
+    692,
+    2653
+  ],
+  "explanations": {
+    "116": "This is the dominant anchor in the user’s history and the strongest midnight-return transit hub for a late-night Queens-bound movement.",
+    "5407": "Frequent at midnight on Fridays and fits the user’s likely late-night return into the Jamaica/South Ozone Park orbit.",
+    "5656": "A common adjacent stop to Jamaica Station that matches the user’s transfer-heavy pattern.",
+    "5655": "Strong late-night usage and a natural connector within the user’s Jamaica/Kew Gardens routine.",
+    "139": "A specific sub-location of the user’s primary transit anchor and plausible for an overnight rail movement.",
+    "2646": "Consistent with the Queens-side transit corridor and late-night transfer behavior.",
+    "1660": "A recurring Woodside station stop with midnight activity that fits a transit-based return.",
+    "137": "A repeated late-night Manhattan transit node that could follow or precede the user’s broader movement pattern.",
+    "692": "A plausible Queens transit-area destination along the user’s established rail corridor.",
+    "2653": "Closest to the last known point and a plausible short-hop continuation before the likely later return to Queens."
+  },
+  "fallback": false
+}

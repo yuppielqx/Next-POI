@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_398",
+  "ranked_loc_ids": [
+    842,
+    2065,
+    3495,
+    2366,
+    1092,
+    1781,
+    1653,
+    5208,
+    1881,
+    304
+  ],
+  "explanations": {
+    "842": "Similar users at this hour often head to a transit hub, and it best fits a morning move away from the hotel.",
+    "2065": "The user’s peers frequently start around 09:02 with a coffee stop, making this a strong nearby morning option.",
+    "3495": "A quick convenience stop near the hotel is plausible for an early Friday morning outing.",
+    "2366": "The user is still in the hotel area and could simply remain or make a short internal check-in before heading out.",
+    "1092": "Very close to the last location and consistent with the user’s destination-based leisure pattern.",
+    "1781": "A breakfast stop fits the time prior and the Penn Station area setting.",
+    "1653": "Another likely morning café choice near the current hotel location.",
+    "5208": "A nearby food stop is possible, though less time-appropriate than coffee or breakfast options.",
+    "1881": "The user’s nightlife/leisure tendencies make a nearby bar conceivable, but it is less likely this early.",
+    "304": "This matches the user’s entertainment history, but it is farther away and less likely at 09:02."
+  },
+  "fallback": false
+}

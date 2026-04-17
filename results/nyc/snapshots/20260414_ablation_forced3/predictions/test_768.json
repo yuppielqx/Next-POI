@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_768",
+  "ranked_loc_ids": [
+    3619,
+    885,
+    3620,
+    4540,
+    3151,
+    2528,
+    4189,
+    884,
+    12,
+    1350
+  ],
+  "explanations": {
+    "3619": "It is the current bar and the strongest continuation point for a Saturday night outing only a few hours after the last check-in.",
+    "885": "Another nearby bar fits the eastward movement trend and late-evening nightlife pattern.",
+    "3620": "A close dive bar is a plausible next stop for a continued night out in the same neighborhood.",
+    "4540": "This nearby nightlife venue matches the user’s evening bar-hopping behavior.",
+    "3151": "A restaurant-lounge is a natural follow-up from a bar stop at night in the Upper East Side.",
+    "2528": "A nearby American restaurant is consistent with a social evening transition from bar to food.",
+    "4189": "A late-night noodle house is a reasonable nearby dining option after drinking.",
+    "884": "The user has prior steakhouse interest, and this nearby restaurant suits an evening meal stop.",
+    "12": "A close French restaurant offers a plausible dinner continuation in the same corridor.",
+    "1350": "This is a strong historical anchor, but it is less likely now because the current trip is already in an evening east-side leisure pattern."
+  },
+  "fallback": false
+}

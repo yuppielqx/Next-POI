@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_116",
+  "ranked_loc_ids": [
+    882,
+    883,
+    881,
+    880,
+    803,
+    5513,
+    3614,
+    927,
+    1324,
+    692
+  ],
+  "explanations": {
+    "882": "It is the user's strongest weekday morning anchor, highly visited around 9–11 a.m., and is the most likely routine return after a nearby Dunkin stop.",
+    "883": "This nearby gym fits the user's fitness-heavy pattern and morning exercise routine, making it a strong follow-up from the current Queens area.",
+    "881": "The user repeatedly visits this gym on Wednesday mornings, so a short commute to another fitness stop is plausible.",
+    "880": "The user is already here, and morning coffee/convenience stops sometimes lead to brief repeats or lingering before the next anchor.",
+    "803": "A nearby Queens Thai restaurant is consistent with the user's occasional food visits and is geographically close to the current southwest movement.",
+    "5513": "This Elmhurst leisure venue is nearby and could fit a daytime errand or casual stop, though it is less aligned with the core routine.",
+    "3614": "A convenience store near the current area matches the user's morning errand behavior and proximity-based movement.",
+    "927": "As a transit hub in the user's Queens core, it is a plausible intermediate stop for a commute or routine trip.",
+    "1324": "Another nearby station that could serve a weekday morning transfer, but it is less supported than the main anchors.",
+    "692": "The user often stays clustered in this neighborhood, so a general movement into the Woodside area is possible though less specific."
+  },
+  "fallback": false
+}

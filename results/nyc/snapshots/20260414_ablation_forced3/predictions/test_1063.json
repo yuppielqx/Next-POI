@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1063",
+  "ranked_loc_ids": [
+    229,
+    2231,
+    1424,
+    4398,
+    3672,
+    3434,
+    413,
+    5106,
+    5645,
+    1331
+  ],
+  "explanations": {
+    "229": "It is the last known location and the next check-in is only one minute later, so the user is most likely still at or immediately beside this transportation hub.",
+    "2231": "It is extremely close to the current spot and fits the user’s transit-centered late-night movement pattern.",
+    "1424": "The user was just at this nearby music venue and may still be lingering in the same event area.",
+    "4398": "This adjacent transportation option is plausible if the user is continuing a transit transfer.",
+    "3672": "Another nearby venue in the same corridor, it is a reasonable late-night stop if the user shifts from transit to an event space.",
+    "3434": "The user’s car-oriented history makes a quick nearby fueling stop possible during overnight travel.",
+    "413": "A nearby major destination that could fit a brief movement within the immediate area.",
+    "5106": "This nearby food spot is a plausible overnight stop if the user leaves transit and looks for a meal.",
+    "5645": "Close proximity makes it a possible ancillary stop, though it is less consistent with the late-night timing.",
+    "1331": "A nearby nightlife venue that could attract late-night movement, but it is less likely than the transit-related options."
+  },
+  "fallback": false
+}

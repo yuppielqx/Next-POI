@@ -1,5 +1,5 @@
 """
-Data loading and access layer for foursquare_NYC.
+Data loading and access layer for dataset directories in the project format.
 
 All expensive loading happens once at DataLoader.__init__. After that,
 all lookups are in-memory O(1) or O(log N) via KD-Tree.

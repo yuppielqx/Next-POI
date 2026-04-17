@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_671",
+  "ranked_loc_ids": [
+    3346,
+    2889,
+    1751,
+    1110,
+    888,
+    142,
+    91,
+    563,
+    3345
+  ],
+  "explanations": {
+    "3346": "It is one of the user’s strongest recurring anchors and fits a likely continuation of their daytime-to-evening routine in the same Manhattan corridor.",
+    "2889": "The user frequently chains fitness-related stops, and this gym is the closest high-match option after the dance studio and grocery visit.",
+    "1751": "Gym visits are a core habit for this user, and another sports club is a plausible repeat evening workout stop.",
+    "1110": "A same-location return is possible after the grocery stop, especially given the user’s repeat-heavy routine and nearby evening timing.",
+    "888": "This is a recognized Manhattan errand location and could fit a practical post-grocery stop during an evening transition.",
+    "142": "The user has a history of using this transit hub in a sequenced Manhattan routine, making it a plausible connector stop.",
+    "91": "Grocery visits are part of the user’s routine, and a second grocery stop remains possible though less likely than a return to a stronger anchor.",
+    "563": "Another grocery destination could follow the day’s errand pattern, but it is farther from the current eastward corridor.",
+    "3345": "The user has a known breakfast pattern here, so it is a recognizable repeat place, though the evening timing makes it less likely."
+  },
+  "fallback": false
+}

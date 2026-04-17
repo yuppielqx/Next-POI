@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1400",
+  "ranked_loc_ids": [
+    683,
+    4780,
+    659,
+    798,
+    682,
+    660,
+    2977,
+    708,
+    2554,
+    299
+  ],
+  "explanations": {
+    "683": "This is the user's strongest habitual anchor, fits the Saturday morning retail pattern, and is explicitly favored by the time-conditioned prior.",
+    "4780": "It is the current last-known stop, has strong repeat history in the same morning slot, and is immediately adjacent to the user's recent activity.",
+    "659": "It is extremely close to the last location and matches the user's retail/errand-heavy behavior, making it a plausible morning follow-up stop.",
+    "798": "A nearby big-box retail option that fits the user's practical shopping style and the western Queens corridor.",
+    "682": "Very close to the last stop and aligned with the user's preference for chain retail destinations.",
+    "660": "A nearby morning-friendly stop that fits the user's daytime mobility and could serve as an easy chain destination.",
+    "2977": "A nearby grocery option in the same commercial corridor, consistent with the user's errand-driven pattern.",
+    "708": "Another nearby retail store that fits the user's big-box shopping tendencies and Queens-centered movement.",
+    "2554": "The user occasionally visits entertainment venues, and this is a plausible Queens-area destination, though less likely in the morning.",
+    "299": "A known retail type that matches the user's shopping behavior, but it is farther and less directly supported than the top options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2161",
+  "ranked_loc_ids": [
+    2499,
+    2971,
+    672,
+    331,
+    223,
+    5228,
+    887,
+    5499,
+    965,
+    4122
+  ],
+  "explanations": {
+    "2499": "This is the user’s strongest anchor and a likely return from nearby Grind given the southwest movement and midday-to-evening routine.",
+    "2971": "It is extremely close to the last location and fits the user’s frequent pattern of nearby lunch-to-evening food stops.",
+    "672": "As the nearest option, it is a natural short hop from Grind for a quick deli stop in the same work corridor.",
+    "331": "A repeated coffee-shop favorite in the user’s core Manhattan cluster makes it a strong post-workday destination.",
+    "223": "This nearby sandwich place fits the user’s habitual work-adjacent meal pattern around Flatiron/Union Square.",
+    "5228": "The user has visited this kind of casual lunch spot before, and it is close enough for a southwest move.",
+    "887": "A familiar Union Square food stop that matches the user’s tendency to pair work sessions with nearby dinners.",
+    "5499": "This sushi restaurant is within the same neighborhood cluster and aligns with the user’s recurring casual dining behavior.",
+    "965": "Another nearby café that matches the user’s coffee-centric daytime routine around work locations.",
+    "4122": "A known user venue in the broader Midtown East cluster, plausible as an evening food destination after work."
+  },
+  "fallback": false
+}

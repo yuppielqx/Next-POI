@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_237",
+  "ranked_loc_ids": [
+    1635,
+    1636,
+    1648,
+    1638,
+    1649,
+    1637,
+    890,
+    1642,
+    1644,
+    1588
+  ],
+  "explanations": {
+    "1635": "This is the user’s dominant weekday work anchor and the strongest match for a Friday late-morning return.",
+    "1636": "The user repeatedly pairs morning-to-midday workdays with a nearby coffee/breakfast stop right before or around arriving at the coworking space.",
+    "1648": "A very nearby coffee shop that fits the 11:58 workday routine and short-range movement pattern.",
+    "1638": "A frequent nearby lunch option that matches the noon timing and the user’s work-zone habits.",
+    "1649": "Similar users at this time often shift to quick-service lunch, and this is a plausible nearby midday food stop.",
+    "1637": "A close deli/bodega option that fits a short lunch errand during the user’s regular workday.",
+    "890": "The user has a midday fitness pattern in the same area, making a short gym visit plausible around late morning.",
+    "1642": "Another nearby quick lunch venue that aligns with the user’s limited-radius midday movements.",
+    "1644": "A close food stop within the same lower Manhattan cluster, but less strongly supported than the main lunch options.",
+    "1588": "An occasional nearby nightlife venue, but it is much less likely than the routine work-and-lunch destinations at this hour."
+  },
+  "fallback": false
+}

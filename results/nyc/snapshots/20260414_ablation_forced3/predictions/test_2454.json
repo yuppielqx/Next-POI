@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2454",
+  "ranked_loc_ids": [
+    4624,
+    3718,
+    4062,
+    2083,
+    3103,
+    2072,
+    1519,
+    5109,
+    965,
+    415
+  ],
+  "explanations": {
+    "4624": "The user has a strong late-night food pattern in the Lower East Side, and this is the closest plausible repeat food stop near the last location.",
+    "3718": "It is extremely close to the last known point and fits the user’s nightlife corridor around Ludlow Street.",
+    "4062": "The last check-in was here, so a return or lingering nearby is highly plausible at 07:07.",
+    "2083": "Very near the current location, and a gastropub fits the user’s nightlife-to-early-morning movement pattern.",
+    "3103": "This nearby nightlife spot matches the immediate area and the user’s after-hours behavior.",
+    "2072": "A known late-night venue for this user, and it fits a continued Lower East Side bar crawl.",
+    "1519": "A classic late-night/early-morning food option in downtown Manhattan that aligns with this time.",
+    "5109": "This is one of the user’s strongest recurring destinations, though it is more likely later in the day than at 07:07.",
+    "965": "A top habitual stop for the user, but morning timing makes it plausible only after they start their midday routine.",
+    "415": "Another major anchor in their routine, yet it is less likely this early compared with nearby LES options."
+  },
+  "fallback": false
+}

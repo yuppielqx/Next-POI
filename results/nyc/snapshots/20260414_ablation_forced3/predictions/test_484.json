@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_484",
+  "ranked_loc_ids": [
+    2730,
+    2731,
+    2732,
+    2736,
+    2737,
+    127,
+    598,
+    1415,
+    1660,
+    137
+  ],
+  "explanations": {
+    "2730": "This is the strongest evening return anchor in the user’s history and best matches a commute back toward home at 18:26.",
+    "2731": "A very plausible return-point on the same home corridor, especially if the user is coming back by train.",
+    "2732": "A nearby local errand stop that fits the user’s recurring evening neighborhood pattern.",
+    "2736": "The user has made neighborhood errand visits before, and this is close enough to fit a return-home stop.",
+    "2737": "A nearby Queens food stop that could occur on the way back toward Douglaston during the evening.",
+    "127": "The movement trend and recent road travel make another infrastructure crossing plausible, though less likely than home-area stops.",
+    "598": "Similar to the bridge pattern in the current trip, but slightly less consistent with the immediate return-to-home timing.",
+    "1415": "The user is already here, so a lingering or additional check-in is possible, but a move onward is more likely.",
+    "1660": "A transit stop in Queens that can fit commute behavior, though it is less aligned than the Douglaston anchors.",
+    "137": "The user strongly visits Midtown, but the evening timing and current northeast Queens trajectory make a Manhattan return less likely now."
+  },
+  "fallback": false
+}

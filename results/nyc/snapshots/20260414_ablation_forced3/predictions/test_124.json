@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_124",
+  "ranked_loc_ids": [
+    662,
+    123,
+    929,
+    920,
+    704,
+    5692,
+    5378,
+    926,
+    924,
+    769
+  ],
+  "explanations": {
+    "662": "It is the user’s strongest recurring anchor and they were just there 33 minutes ago, making a continued stay or immediate return most likely.",
+    "123": "This is directly adjacent to The LEGO Store and fits the user’s repeated mall-centered retail pattern.",
+    "929": "The Queens Center Mall Food Court is extremely close and a natural next stop during a late-night shopping outing.",
+    "920": "Woodhaven Blvd station is near the user’s retail core and matches a plausible transit move after leaving the mall area.",
+    "704": "Another nearby retail stop in the same Elmhurst cluster, consistent with the user’s shopping-oriented behavior.",
+    "5692": "This nearby mall is a reasonable continuation of the user’s retail-heavy movement in central Queens.",
+    "5378": "A close shopping destination in Rego Park that aligns with the user’s mall and store hopping pattern.",
+    "926": "A late-night entertainment venue in Queens that fits the user’s evening-oriented profile.",
+    "924": "A nearby convenience stop that could follow a late-night retail visit.",
+    "769": "A major Queens transit hub that fits the user’s wider cross-borough movement tendencies."
+  },
+  "fallback": false
+}

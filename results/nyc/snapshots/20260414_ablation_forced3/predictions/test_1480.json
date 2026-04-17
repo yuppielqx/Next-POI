@@ -1,0 +1,22 @@
+{
+  "traj_id": "test_1480",
+  "ranked_loc_ids": [
+    1438,
+    1110,
+    2973,
+    3695,
+    1270,
+    4866,
+    2913
+  ],
+  "explanations": {
+    "1438": "The user’s strongest pattern is a repeat gym visit in the midday window, and this is the most likely continuation immediately after the 12:09 workout.",
+    "1110": "A nearby grocery run is a frequent companion activity after gym visits, especially within the Chelsea/Flatiron corridor.",
+    "2973": "This is another highly plausible grocery errand in the user’s usual compact Manhattan loop around the gym.",
+    "3695": "A coffee stop is a common short errand for this user, and this location sits squarely in their usual route.",
+    "1270": "The user often pairs workouts with practical food-related errands, making this a credible midday stop.",
+    "4866": "A return to a familiar residence in Chelsea is consistent with the tight neighborhood loop in the user’s history.",
+    "2913": "A nearby café fits the post-gym, midday pattern, though it is less likely than the gym and grocery options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_400",
+  "ranked_loc_ids": [
+    2375,
+    2376,
+    664,
+    2377,
+    338,
+    2344,
+    2374,
+    400,
+    2380,
+    157
+  ],
+  "explanations": {
+    "2375": "Monday 09:02 strongly matches the user’s dominant weekday morning commute pattern and most frequent historical destination.",
+    "2376": "It is a frequent nearby lunchtime spot in the user’s Midtown South/NoMad work cluster and fits a return to the office area.",
+    "664": "This is another repeat weekday food stop near the work core, making it a plausible morning-to-lunch adjacent destination.",
+    "2377": "The user has visited this nearby Midtown location before, and it sits within the same compact Manhattan activity cluster.",
+    "338": "The user has prior Monday visits here and it aligns with their recurring food-oriented stops around the Flatiron area.",
+    "2344": "This matches the user’s occasional after-work social pattern in Manhattan, though it is less likely at the target morning time.",
+    "2374": "Fitness is a strong recurring behavior for this user, but the Monday 09:02 prior makes a work check-in more likely than a gym visit.",
+    "400": "It is the last known location and part of the user’s secondary Jersey anchor, but it is less consistent with the weekday morning commute pattern.",
+    "2380": "The user has a history of Italian dining, but this is an evening-oriented venue and not a strong fit for Monday morning.",
+    "157": "Another dining venue from the user’s history, yet its late-night social pattern makes it a weak match for the next visit."
+  },
+  "fallback": false
+}

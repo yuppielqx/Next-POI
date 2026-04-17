@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2564",
+  "ranked_loc_ids": [
+    1506,
+    3494,
+    3422,
+    2376,
+    3407,
+    5410,
+    1396,
+    4197,
+    1983,
+    1271
+  ],
+  "explanations": {
+    "1506": "The user is already there at the last known point, and the short time gap makes an immediate stay or return the most likely outcome.",
+    "3494": "It is extremely close to SIBL and fits the user’s pattern of nearby transitional food stops in Midtown.",
+    "3422": "A very short walk from SIBL, and a casual meal stop is plausible given the afternoon timing.",
+    "2376": "This nearby restaurant matches the user’s tendency to make quick, local Midtown venue changes.",
+    "3407": "A café stop is consistent with similar users’ midday-to-afternoon transitions around this area.",
+    "5410": "A grab-and-go dessert/coffee stop is plausible for a short hop after a library visit.",
+    "1396": "A nearby coffee stop fits the temporal prior and the user’s pattern of short Midtown transitions.",
+    "4197": "The user has nightlife tendencies, and this nearby bar could be a short afternoon transition before evening activities.",
+    "1983": "Another close bar option that aligns with the user’s entertainment-oriented mobility profile.",
+    "1271": "Similar users often make quick retail stops in Midtown, and it remains a plausible nearby diversion."
+  },
+  "fallback": false
+}

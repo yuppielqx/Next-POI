@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1845",
+  "ranked_loc_ids": [
+    3120,
+    1534,
+    1573,
+    177,
+    2835,
+    4480,
+    3918,
+    376,
+    5250,
+    3695
+  ],
+  "explanations": {
+    "3120": "It is immediately adjacent to the last pizza stop and fits the user’s strong late-night nightlife pattern after a bar-to-food sequence.",
+    "1534": "The user is already there and similar users at this time often continue at the same nearby venue or linger at the current spot.",
+    "1573": "A close-by nightlife venue that matches the user’s evening social behavior and the south-west drift from the current location.",
+    "177": "This is a frequent-style downtown bar for the user and fits the likely return to a known nightlife spot on Sunday evening.",
+    "2835": "Another known bar in the user’s nightlife corridor, consistent with a continued evening outing downtown.",
+    "4480": "A nearby nightclub that aligns with the user’s late-night preferences and the downtown social cluster.",
+    "3918": "This is in the same west downtown area and could serve as a casual follow-on stop after late-night food.",
+    "376": "A cocktail bar that matches the user’s drinking pattern and remains within a plausible downtown Manhattan radius.",
+    "5250": "A Korean restaurant fits the user’s dining habits, though it is less likely than nightlife given the late hour.",
+    "3695": "A nearby practical stop that could follow a late-night outing, but it is less consistent with the user’s nightlife-heavy profile."
+  },
+  "fallback": false
+}

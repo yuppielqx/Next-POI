@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1260",
+  "ranked_loc_ids": [
+    586,
+    362,
+    144,
+    53,
+    88,
+    137,
+    59,
+    1914,
+    1092,
+    5283
+  ],
+  "explanations": {
+    "586": "It is the strongest repeated weekday anchor in the Midtown West/NoMad corridor and fits the user’s transit-to-meeting pattern after Port Authority.",
+    "362": "It is very close to Port Authority and matches the user’s recurring convention/weekday destination behavior on Tuesday.",
+    "144": "This nearby Herald Square transit hub fits a likely eastward move from Port Authority within the user’s habitual Manhattan corridor.",
+    "53": "Times Square is a major nearby transit node and common Midtown connection point for a commuter-like user.",
+    "88": "The user is already there, and a brief continued stay or immediate return check-in is plausible given strong transition behavior.",
+    "137": "Penn Station is a frequent transit destination in the same Midtown zone and aligns with a commute-oriented evening move.",
+    "59": "This is a nearby, high-traffic Midtown stop that similar users and transit patterns often favor around this time.",
+    "1914": "A small, nearby food stop at Port Authority is plausible for an evening transition before continuing travel.",
+    "1092": "It is close to the current location and consistent with Midtown event-oriented movement near the commute window.",
+    "5283": "A nearby Port Authority food stop is possible, though less likely than the user’s stronger habitual anchors."
+  },
+  "fallback": false
+}

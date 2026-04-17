@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1696",
+  "ranked_loc_ids": [
+    3023,
+    3122,
+    289,
+    5095,
+    5097,
+    5099,
+    1196,
+    4063,
+    3490,
+    3877
+  ],
+  "explanations": {
+    "3023": "It is the user’s strongest habitual evening venue, with the most historical visits and strong Sunday support, making a return to this lower-Manhattan nightlife spot the best fit.",
+    "3122": "It is the last known location and a frequent revisit target, so the user could simply continue or return here despite the noon check-in.",
+    "289": "The user repeatedly pairs Chinatown errands with coffee stops, and this Canal Street Starbucks fits their afternoon-to-early-evening routine.",
+    "5095": "The user has a clear pattern of Canal Street-area grooming visits clustered in the afternoon, making this a plausible habitual stop.",
+    "5097": "Another recurring Chinatown salon anchor, it matches the user’s grooming-heavy lower-Manhattan pattern and frequent same-day transitions.",
+    "5099": "This is a familiar Chinatown food stop that aligns with the user’s clustered dining behavior and lower-Manhattan core.",
+    "1196": "The user’s movement is tightly centered on the Chinatown/Canal corridor, so a neighborhood-level stop here remains likely.",
+    "4063": "A Chinatown bakery fits the user’s food-errand pattern and the short-distance movement style seen in their history.",
+    "3490": "Late-evening nightlife behavior makes this nightclub a possible destination, though it is less central than the user’s usual Chinatown/LES venues.",
+    "3877": "As a nearby bar, it matches the user’s nightlife tendency and could be a secondary evening option if they shift westward."
+  },
+  "fallback": false
+}

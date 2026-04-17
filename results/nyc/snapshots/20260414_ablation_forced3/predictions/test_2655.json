@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2655",
+  "ranked_loc_ids": [
+    4262,
+    4201,
+    4762,
+    1318,
+    766,
+    563,
+    564,
+    17,
+    762,
+    137
+  ],
+  "explanations": {
+    "4262": "The user has a strong weekday morning office routine centered here, and Tuesday at 09:40 strongly favors a return to the main work anchor.",
+    "4201": "It is nearby in the Midtown West corridor and fits the user’s habitual lunch/breakfast dining orbit around the office.",
+    "4762": "A quick-service stop in the same work area is plausible for a morning commute or breakfast pickup.",
+    "1318": "This nearby Columbus Circle landmark matches the user’s compact Midtown routine and common activity zone.",
+    "766": "A practical food/errand destination close to the office area, consistent with the user’s regular Midtown movements.",
+    "563": "The user was last here, so a short return is possible, though the strong Tuesday morning work pattern makes it less likely than the office.",
+    "564": "A nearby transit node fits a commute transition from the Upper West Side toward Midtown.",
+    "17": "This nearby restaurant is in the user’s usual geographic corridor and could be part of a morning food stop.",
+    "762": "A close Upper West Side gourmet stop is plausible for a quick errand before heading into the office.",
+    "137": "As Penn Station, it is a plausible commuter or transit hub, but it is less supported than the Midtown office routine."
+  },
+  "fallback": false
+}

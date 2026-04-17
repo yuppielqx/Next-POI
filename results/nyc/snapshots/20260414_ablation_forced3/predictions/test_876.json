@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_876",
+  "ranked_loc_ids": [
+    3810,
+    3809,
+    3808,
+    3347,
+    3813,
+    2191,
+    3817,
+    145,
+    3350,
+    923
+  ],
+  "explanations": {
+    "3810": "It is the strongest campus-linked afternoon destination, matching the user’s repeated Queens College routine and the explicit same-day prior at 13:59.",
+    "3809": "This is a highly frequent Wednesday academic stop on the same campus, making it a natural return after the Q64 commute.",
+    "3808": "The user often moves into campus dining around midday, and the dining hall is one of the most visited Queens College venues.",
+    "3347": "This is another Queens College-related academic facility with strong noon-to-afternoon visitation patterns in the user’s history.",
+    "3813": "A campus academic building that fits the user’s repeated Queens College weekday movement pattern.",
+    "2191": "The user has just been there in the commute chain, so a short transit-related return or transfer remains plausible.",
+    "3817": "This station is part of the user’s regular Manhattan-to-Queens commute corridor and could appear again in the broader travel sequence.",
+    "145": "The user has used this major Manhattan hub in similar midday sequences, especially when shifting between Queens and the Upper East Side.",
+    "3350": "A nearby routine coffee stop is possible, but it is less likely than the campus academic destinations.",
+    "923": "This nearby quick-service option fits the user’s practical dining pattern, though it is less central than Queens College locations."
+  },
+  "fallback": false
+}

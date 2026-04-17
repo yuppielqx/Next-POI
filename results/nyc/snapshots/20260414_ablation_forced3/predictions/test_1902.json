@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1902",
+  "ranked_loc_ids": [
+    3108,
+    1516,
+    5286,
+    1545,
+    3718,
+    3245,
+    1967,
+    5150,
+    3717,
+    5284
+  ],
+  "explanations": {
+    "3108": "It is the user’s dominant anchor, matches the Friday evening prior, and the last known stop is already there.",
+    "1516": "It is an immediate nearby nightlife option on Essex St, making a short hop from the current area very plausible.",
+    "5286": "This nearby Cuban restaurant fits a likely evening food-and-social stop right beside the current location.",
+    "1545": "The user often uses nearby transit and this station is only a brief move from the current LES corridor.",
+    "3718": "A close-by bar in the same nightlife cluster, matching the user’s strong late-day drinking pattern.",
+    "3245": "This nearby nightlife spot is consistent with a short local bar crawl from the current position.",
+    "1967": "Another nearby bar that fits the user’s evening nightlife lean and small-radius movement style.",
+    "5150": "A nearby familiar stop that could serve as a brief in-neighborhood errand or meetup point.",
+    "3717": "Very close to the current location and plausible for a quick late-evening food stop.",
+    "5284": "Although farther away, it matches the user’s recurring practical bodega pattern and could be a routine neighborhood errand."
+  },
+  "fallback": false
+}

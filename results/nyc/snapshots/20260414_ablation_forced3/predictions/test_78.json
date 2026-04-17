@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_78",
+  "ranked_loc_ids": [
+    626,
+    631,
+    627,
+    1355,
+    611,
+    1151,
+    550,
+    568,
+    608,
+    625
+  ],
+  "explanations": {
+    "626": "The user was just there, has repeated theater visits, and the evening timing strongly favors another entertainment stop in the same Times Square cluster.",
+    "631": "It is essentially next door to the last location and fits the user's strong movie-theater pattern in Midtown West.",
+    "627": "A nearby Korean/Asian restaurant in Koreatown fits the user's dinner-to-movie evening flow and the northwest movement trend.",
+    "1355": "This is a very close food option in Times Square and matches the user's tendency to chain dinner and entertainment outings.",
+    "611": "Another nearby restaurant in the same corridor, plausible for an evening meal after the movie outing.",
+    "1151": "The location is adjacent and fits the user’s leisure-oriented, entertainment-heavy nighttime behavior.",
+    "550": "A frequent Tuesday anchor near Columbus Circle makes it a strong recurring Manhattan destination for this user.",
+    "568": "The user heavily favors cinemas, and this nearby theater is consistent with a second movie-related stop in Midtown.",
+    "608": "The user's profile includes coffee stops tied to evening outings, and Columbus Circle is one of their recurring hubs.",
+    "625": "A nearby Columbus Circle retail stop is less likely than food or cinema but still matches the user's clustered Manhattan movement."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1394",
+  "ranked_loc_ids": [
+    4775,
+    948,
+    3458,
+    3742,
+    108,
+    4776,
+    2209,
+    2380,
+    3185,
+    2788
+  ],
+  "explanations": {
+    "4775": "Thursday morning strongly matches the user’s repeated weekday return to their primary Midtown office anchor.",
+    "948": "This is another Midtown work-related place the user visits, and a morning reset after dinner could plausibly land here.",
+    "3458": "A nearby office fits the user’s work-centered weekday pattern and the Midtown commute rhythm.",
+    "3742": "The user has a history of ferry-terminal trips and morning commuting behavior makes this plausible.",
+    "108": "This Hoboken transit station could fit a cross-Hudson commute or return route, though it is less likely than Midtown work.",
+    "4776": "Hoboken dining appears in the user’s history, but a morning visit is unlikely.",
+    "2209": "The user frequently visits SoulCycle, but Thursday 10:29 is more consistent with work arrival than a workout.",
+    "2380": "Midtown lunch/dinner dining is plausible, but the target time favors an office anchor over a restaurant.",
+    "3185": "Another repeat Midtown dining venue, though it is less consistent with a Thursday morning movement.",
+    "2788": "The last known seafood restaurant makes a return to nearby dining possible, but the weekday morning prior strongly disfavors it."
+  },
+  "fallback": false
+}

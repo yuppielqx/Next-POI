@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_711",
+  "ranked_loc_ids": [
+    3359,
+    506,
+    3458,
+    3097,
+    948,
+    2124,
+    3457,
+    167,
+    168
+  ],
+  "explanations": {
+    "3359": "The 11:12 morning timing strongly favors a coffee stop, and this matches both the user's daytime pattern and similar-user behavior.",
+    "506": "A late-morning meal or brunch in Midtown/Flatiron fits the user's flexible daytime dining style and Manhattan-centered movement.",
+    "3458": "The user has a workday-oriented history at offices, and late morning is a natural time for a professional stop in Manhattan.",
+    "3097": "Another office-like daytime destination that fits the user's mixed errand/meeting pattern around mid-morning.",
+    "948": "Midtown is consistent with the user's Manhattan footprint and the Time Life Building suits a flexible daytime visit.",
+    "2124": "A late-morning food stop in Manhattan is plausible, especially given the user's strong food-oriented history.",
+    "3457": "The user often chains casual food venues, and a quick daytime lunch-style stop fits the profile.",
+    "167": "This East Village restaurant aligns with the user's known Manhattan dining pattern, though it is slightly less time-specific than coffee.",
+    "168": "A bakery visit is consistent with a morning stop and the user's past tendency to chain meals with dessert or snacks."
+  },
+  "fallback": false
+}

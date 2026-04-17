@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2457",
+  "ranked_loc_ids": [
+    3246,
+    1520,
+    1596,
+    777,
+    1915,
+    2672,
+    5664,
+    2305,
+    1428,
+    3158
+  ],
+  "explanations": {
+    "3246": "It is the strongest repeat nightlife anchor and the last known location, making an immediate return the most likely Sunday evening move.",
+    "1520": "It is essentially next door to Finnerty's and fits the same East Village bar-hopping pattern if the user switches venues nearby.",
+    "1596": "This nearby nightlife spot matches the user's evening social behavior and sits within the same lower Manhattan nightlife cluster.",
+    "777": "A close-by bar in the same area, making it a natural continuation of a post-pub evening out.",
+    "1915": "The user often pairs nightlife with food or dessert, and this nearby dessert stop fits a late-evening indulgence pattern.",
+    "2672": "A nearby cocktail bar that aligns with the user's bar-heavy profile and could be a follow-up drink stop.",
+    "5664": "It is one of the user’s recurring anchors and fits their entertainment-oriented mobility, though it is less time-typical than a bar.",
+    "2305": "This bar matches the user’s nightlife tendencies and is a plausible west-side alternative if they move farther into Manhattan.",
+    "1428": "Another bar from the user’s history that fits the evening drinking pattern, albeit farther north than the immediate cluster.",
+    "3158": "The user has revisited this food spot before, and late-night dessert after drinks is a plausible but weaker option."
+  },
+  "fallback": false
+}

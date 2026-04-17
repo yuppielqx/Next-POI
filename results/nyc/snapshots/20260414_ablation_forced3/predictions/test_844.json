@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_844",
+  "ranked_loc_ids": [
+    3743,
+    2408,
+    3098,
+    1981,
+    1982,
+    3742,
+    3359,
+    5373,
+    1485,
+    3741
+  ],
+  "explanations": {
+    "3743": "The user has a strong Tuesday midday office pattern and this office is the most frequent repeat destination, just a short move from Chop't.",
+    "2408": "It is essentially adjacent to the last known lunch spot and fits a nearby continuation of the Midtown work corridor.",
+    "3098": "This nearby office is in the same commercial block and matches the user's work-centered daytime mobility.",
+    "1981": "Another close office option in Times Square, plausible if the user is resuming work after lunch.",
+    "1982": "The coworking space is nearby and consistent with a daytime professional movement pattern.",
+    "3742": "A transportation hub fits the user’s commute-oriented behavior and is still within the Midtown radius.",
+    "3359": "A nearby coffee stop is plausible after lunch for a routine weekday commuter.",
+    "5373": "This café is close by and matches a short lunchtime/post-lunch errand pattern.",
+    "1485": "A neighboring fast-casual food option is possible given the recent lunch-time movement.",
+    "3741": "Home is less likely at 13:16, but it remains a strong habitual anchor in the user's overall pattern."
+  },
+  "fallback": false
+}

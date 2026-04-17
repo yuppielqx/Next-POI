@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2099",
+  "ranked_loc_ids": [
+    1914,
+    4235,
+    5449,
+    2974,
+    88,
+    5437,
+    428,
+    2128,
+    876,
+    5446
+  ],
+  "explanations": {
+    "1914": "It is the strongest historical breakfast stop, extremely close to the current location, and fits the user’s weekday 8 a.m. Midtown routine.",
+    "4235": "A very frequent early-morning errand stop in the same West 42nd Street corridor, making it a natural follow-up to a coffee shop.",
+    "5449": "Another habitual morning café within a short walk, matching the user’s breakfast-and-coffee pattern in Midtown West.",
+    "2974": "The user often pairs morning coffee with pharmacy/convenience errands, and this nearby branch fits that routine well.",
+    "88": "The user repeatedly anchors mornings around this transit hub, so a quick move back toward Port Authority is highly plausible.",
+    "5437": "This café is part of the user’s repeated early-morning Midtown coffee circuit and is close enough to be a realistic next stop.",
+    "428": "The user frequently transitions to Hoboken later in the morning, so this remains possible after the Midtown stop chain.",
+    "2128": "Located in the same Port Authority area and visited in the same early slot, it is a plausible breakfast alternative.",
+    "876": "The user has already checked in here, so a repeat or lingering return is possible but less likely than moving to a habitual nearby spot.",
+    "5446": "This fits the user’s grocery-errand tendency, but its Queens location makes it far less likely than the Midtown options."
+  },
+  "fallback": false
+}

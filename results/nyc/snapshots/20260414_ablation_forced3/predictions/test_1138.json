@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1138",
+  "ranked_loc_ids": [
+    1830,
+    4402,
+    3533,
+    557,
+    88,
+    439,
+    1672,
+    769,
+    2782,
+    3310
+  ],
+  "explanations": {
+    "1830": "This is the strongest recurring anchor in the user’s history, and the early Monday morning timing fits a return to the hotel area.",
+    "4402": "The user repeatedly pairs this with the Ritz-Carlton, making it a highly plausible adjacent morning stop.",
+    "3533": "Frequent early-morning pharmacy visits near the Ritz-Carlton make this a strong nearby routine candidate.",
+    "557": "The trip began with a tunnel/transit sequence, and the user has a pattern of trans-Hudson commuting or arrivals.",
+    "88": "A major Manhattan transit hub that fits the user’s corridor-based movement and early commute timing.",
+    "439": "The current trip’s westward trans-Hudson direction and recent New Jersey presence make this plausible.",
+    "1672": "The user often starts weekdays with Queens transit, though this is less likely given the current Midtown trajectory.",
+    "769": "Another regular commuting node for the user, but less consistent with the immediate hotel-side pattern.",
+    "2782": "A core weekday destination in the user’s routine, though the current trip context leans Manhattan.",
+    "3310": "A frequent academic anchor on Mondays, but the early target time and recent location history make it less likely than Midtown stops."
+  },
+  "fallback": false
+}

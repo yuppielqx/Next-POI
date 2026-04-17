@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1533",
+  "ranked_loc_ids": [
+    951,
+    279,
+    4925,
+    3660,
+    837,
+    4883,
+    4912,
+    465,
+    5185,
+    2297
+  ],
+  "explanations": {
+    "951": "This is the user’s strongest recurring Staten Island transit hub and best matches the late-night return pattern.",
+    "279": "A frequent Saturday and late-evening stop in the same North Shore cluster, making it the main alternative.",
+    "4925": "It is the current anchor location, but the late-night timing makes a return here less likely than the transit hub.",
+    "3660": "A transportation node fits the user’s commute-oriented behavior, though it is not part of their core repeat pattern.",
+    "837": "Another transit-linked option that aligns with movement through Staten Island rather than a destination stay.",
+    "4883": "A plausible nearby errand stop, but the user has little evidence of coffee-shop preference.",
+    "4912": "Grocery-store behavior is somewhat plausible for a local routine, though unsupported by the user’s history.",
+    "465": "A late-night entertainment stop is possible, but there is no strong history of cinema visits.",
+    "5185": "Dining could happen on a Saturday night, but it is not a strong match to the user’s habitual pattern.",
+    "2297": "The rare Manhattan nightlife option is possible in theory, but it is far weaker than the Staten Island-based choices."
+  },
+  "fallback": false
+}

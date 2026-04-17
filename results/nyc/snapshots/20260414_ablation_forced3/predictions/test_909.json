@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_909",
+  "ranked_loc_ids": [
+    140,
+    1344,
+    1545,
+    2014,
+    618,
+    125,
+    114,
+    2006,
+    921,
+    1200
+  ],
+  "explanations": {
+    "140": "This is the strongest recurring afternoon transit hub in the user’s history and fits the time-conditioned prior for a return to a frequent place.",
+    "1344": "The Coney Island theme park cluster is heavily visited on Wednesdays in the 3–5 p.m. window, making it a close match to the user’s established routine.",
+    "1545": "A major Lower Manhattan transfer point that aligns with the user’s habit of moving through dense subway hubs in the afternoon.",
+    "2014": "This is a frequent Brooklyn transfer node for the user and matches the commuter-style movement toward major intersections.",
+    "618": "A well-used Brooklyn station in the user’s history that fits the northwest transit trajectory and afternoon hub pattern.",
+    "125": "Jay St-MetroTech is a strong Brooklyn connector and a plausible next stop for a transit-heavy user moving between major hubs.",
+    "114": "The bridge station is a recurrent movement corridor in the user’s history and is consistent with cross-borough transit behavior.",
+    "2006": "Canal Street is a common Manhattan transfer destination for users following a hub-to-hub commuting pattern.",
+    "921": "This Brooklyn station appears repeatedly in the user’s history and is a reasonable afternoon transit continuation.",
+    "1200": "Although the user just came from Jamaica, it remains a historically important anchor and possible return point in a routine commute."
+  },
+  "fallback": false
+}

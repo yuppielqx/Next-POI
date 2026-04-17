@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_482",
+  "ranked_loc_ids": [
+    2730,
+    2731,
+    2732,
+    2736,
+    598,
+    127,
+    830,
+    2737,
+    1415,
+    137
+  ],
+  "explanations": {
+    "2730": "This is the strongest evening return anchor in the user’s history and fits the commuter pattern from the current bridge transit.",
+    "2731": "A very frequent commute-related stop near home, and the target time matches their usual evening return window.",
+    "2732": "A nearby neighborhood errand spot in Douglaston, making it a plausible short stop after bridge travel.",
+    "2736": "The user has recently visited this laundromat and it fits a local evening errand pattern near home.",
+    "598": "The user is currently here and may still be passing through the same road corridor at this time.",
+    "127": "Another nearby bridge in the same Queens/Bronx travel network, consistent with car-based movement.",
+    "830": "The toll plaza is a very close continuation of the current bridge transit and a common nearby transition point.",
+    "2737": "A plausible quick food stop in the northeastern Queens corridor, though less central than commute locations.",
+    "1415": "Nearby and reachable from the current road network, but less aligned with the user’s strongest routine.",
+    "137": "Midtown Penn Station is a major recurring destination for this user, but the evening timing and current position make a local return more likely."
+  },
+  "fallback": false
+}

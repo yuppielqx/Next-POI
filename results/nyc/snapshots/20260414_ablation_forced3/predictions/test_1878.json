@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1878",
+  "ranked_loc_ids": [
+    2097,
+    4480,
+    2445,
+    3076,
+    2210,
+    5266,
+    4226,
+    27,
+    3297,
+    789
+  ],
+  "explanations": {
+    "2097": "Strong Saturday-evening repeat venue in the user’s core lower-Manhattan nightlife corridor.",
+    "4480": "A familiar nightclub in nearby Greenwich Village that fits the user’s late-day social routine.",
+    "2445": "Close to the current cluster and matches the user’s bar-heavy nightlife pattern.",
+    "3076": "A recurring East Village stop that can fit an early-evening reset before later drinks.",
+    "2210": "A plausible pre-nightlife anchor given the user’s occasional wellness stops and Union Square proximity.",
+    "5266": "A repeated lower-Manhattan food/bar-adjacent stop that aligns with the user’s habitual revisits.",
+    "4226": "A nearby East Village café that could serve as an early-evening transition point.",
+    "27": "A nightlife venue in the Union Square/Flatiron area consistent with the user’s bar preference.",
+    "3297": "A nearby bar in the same general nightlife zone, but with weaker historical reinforcement.",
+    "789": "A lower-Manhattan bar that matches the user’s profile but is less strongly tied to their routine."
+  },
+  "fallback": false
+}

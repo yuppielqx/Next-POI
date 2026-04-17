@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_608",
+  "ranked_loc_ids": [
+    3148,
+    735,
+    3149,
+    3151,
+    3156,
+    3146,
+    3150,
+    3145,
+    1600,
+    639
+  ],
+  "explanations": {
+    "3148": "This is one of the user’s strongest repeat venues, fits their Upper East Side cluster, and matches a late-night food stop better than the morning coffee options.",
+    "735": "A nearby bar aligns very well with the 22:23 nightlife prior and the user’s strong bar-heavy evening pattern.",
+    "3149": "Another close Upper East Side bar that fits a Thursday night social visit after the morning Starbucks stop.",
+    "3151": "This nearby restaurant matches the user’s casual dining behavior and the tendency to cluster meals and outings in the same area.",
+    "3156": "The user favors Mexican restaurants, and this taco spot is close enough to fit a likely dinner-to-night progression.",
+    "3146": "A nearby dinner option in Manhattan, plausible for an evening outing though less consistent with the user’s strongest category preferences.",
+    "3150": "A highly recurrent personal location, though the late-night timing makes it less likely than a bar or restaurant.",
+    "3145": "It is exactly the last known location, but the time strongly suggests the user has likely moved on from coffee to a later activity.",
+    "1600": "A Mexican restaurant that matches category preference, but it is farther away and less tied to the immediate Upper East Side cluster.",
+    "639": "A known nightlife venue that fits the user profile, but the distance makes it less likely than the closer Upper East Side options."
+  },
+  "fallback": false
+}

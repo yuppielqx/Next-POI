@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1944",
+  "ranked_loc_ids": [
+    3499,
+    3208,
+    1593,
+    2916,
+    1603,
+    2914,
+    1586,
+    2920,
+    3405,
+    2687
+  ],
+  "explanations": {
+    "3499": "The user’s strongest recurring anchor is Murray Hill, and after a late-night movie nearby they are most likely to head back toward that familiar base.",
+    "3208": "This is a repeated Murray Hill-area stop and fits a late-night food-or-return pattern after leaving AMC Loews Kips Bay 15.",
+    "1593": "The user was just here before the movie, so a quick return to the nearby nightlife spot is highly plausible.",
+    "2916": "A nearby bar in the same late-night corridor fits the user’s bar-oriented Saturday-night behavior.",
+    "1603": "Another adjacent nightlife option near the last location, making it a natural continuation after the movie.",
+    "2914": "This nearby bar/restaurant matches the user’s social late-night pattern and proximity to Kips Bay.",
+    "1586": "A close-by bar option in the Murray Hill/Kips Bay zone that could follow the movie on a Saturday night.",
+    "2920": "Late-night food/coffee is plausible after the movie, especially given the user’s practical stop-and-go behavior.",
+    "3405": "A nearby deli/bodega is a realistic post-movie convenience stop in the same neighborhood.",
+    "2687": "The user often uses the M15 overnight and could head to transit to return toward their regular Lower Manhattan or Murray Hill routes."
+  },
+  "fallback": false
+}

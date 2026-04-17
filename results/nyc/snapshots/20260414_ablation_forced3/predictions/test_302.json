@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_302",
+  "ranked_loc_ids": [
+    274,
+    231,
+    1981,
+    558,
+    60,
+    59,
+    1730,
+    1234,
+    1976,
+    1996
+  ],
+  "explanations": {
+    "274": "Strong Sunday-afternoon fit and one of the user’s most frequent Midtown repeat destinations, especially for short nearby transitions.",
+    "231": "This is the user’s signature food stop and a very plausible quick lunch/afternoon return in the same Midtown cluster.",
+    "1981": "The user repeatedly checks in here and it fits the office-oriented Midtown routine near the current area.",
+    "558": "Very close to the last location and historically strong in the 3–5pm window for this user.",
+    "60": "A nearby coffee stop matches the user’s habitual Midtown caffeine-based transitions.",
+    "59": "A familiar core location for the user that fits a short movement within the Midtown corridor.",
+    "1730": "The user is already at this shoe store location pattern, but a return is still possible given the tight looping behavior.",
+    "1234": "Another close Midtown coffee option that aligns with the user’s frequent Starbucks pattern.",
+    "1976": "A reasonable quick-food stop in the same general Midtown area, though less central than the top options.",
+    "1996": "A nearby fast-food option consistent with short, practical Midtown dining trips."
+  },
+  "fallback": false
+}

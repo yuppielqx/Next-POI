@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1043",
+  "ranked_loc_ids": [
+    4234,
+    1151,
+    4231,
+    3256,
+    3571,
+    743,
+    1038,
+    478,
+    1485,
+    4235
+  ],
+  "explanations": {
+    "4234": "It is the user's strongest recurring nightlife anchor, is the current location, and matches the Friday late-night pattern best.",
+    "1151": "The user often links karaoke with nearby entertainment venues in Midtown, making a short shift here plausible.",
+    "4231": "This is another repeated late-night nightlife destination for the user, though it is less immediate than staying at Pulse Karaoke.",
+    "3256": "Very close to the last location and consistent with the user's leisure dining pattern after entertainment.",
+    "3571": "A nearby nightlife spot in the same Midtown circuit that fits a late-Friday bar stop.",
+    "743": "A nearby nightlife venue around Times Square that could fit a continued night out.",
+    "1038": "The user has a history of mixing late-night food with entertainment, and this is a known East Village food stop.",
+    "478": "A nearby stop is possible if the user is pausing or grabbing a drink, though it is less aligned with nightlife.",
+    "1485": "A close-by food option in Times Square that could follow a long evening outing.",
+    "4235": "A convenience stop is plausible late at night, but it is less likely than the entertainment and dining venues."
+  },
+  "fallback": false
+}

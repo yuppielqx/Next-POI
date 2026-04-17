@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_273",
+  "ranked_loc_ids": [
+    626,
+    1799,
+    1800,
+    1827,
+    1819,
+    973,
+    1355,
+    1812,
+    1817,
+    1809
+  ],
+  "explanations": {
+    "626": "A Saturday afternoon move into nearby Midtown entertainment fits the user’s strong cinema habit and the similar-user pattern of heading to a multiplex around this time.",
+    "1799": "This is one of the user’s strongest repeat nightlife anchors in the Midtown West corridor, making it a very plausible next hop after a shopping stop.",
+    "1800": "The user often chains upscale dining with evening leisure in the same West 50s area, and this steakhouse matches that repeated pattern closely.",
+    "1827": "A coffee stop in Midtown is consistent with a short transitional move and with the user’s tendency to chain nearby venues during late-day outings.",
+    "1819": "This Columbus Circle-area stop fits the southwest movement trend and keeps the user within their usual central Manhattan cluster.",
+    "973": "A Midtown nightlife venue aligns with the user’s lounge-heavy preferences and could precede a later evening out.",
+    "1355": "This nearby theater-district restaurant is a believable pre-evening meal destination, especially on a Saturday.",
+    "1812": "A Chelsea/Flatiron dining stop fits the user’s adjacent-neighborhood chaining behavior and late-afternoon leisure style.",
+    "1817": "The location is close to the user’s core territory and matches their occasional arts-and-entertainment itinerary.",
+    "1809": "This is a plausible nightlife-oriented southward continuation, but it is somewhat less aligned than the stronger Midtown options."
+  },
+  "fallback": false
+}

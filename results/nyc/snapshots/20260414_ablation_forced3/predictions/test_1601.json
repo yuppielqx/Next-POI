@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1601",
+  "ranked_loc_ids": [
+    4749,
+    5010,
+    5011,
+    1893,
+    5006,
+    5008,
+    5009,
+    1149,
+    2233,
+    2232
+  ],
+  "explanations": {
+    "4749": "This is the strongest routine grocery anchor for the user and fits the Sunday morning errand chain after the bakery stop.",
+    "5010": "A highly frequented nearby convenience stop that matches the user’s morning provisioning pattern and short local movements.",
+    "5011": "The user repeatedly uses it in the 6–8 AM window, making it a plausible next errand on a Sunday morning.",
+    "1893": "Morning coffee/snack behavior is common for this user, and Dunkin’ fits the post-bakery errand sequence well.",
+    "5006": "A close-by practical stop consistent with the user’s pharmacy and errand-oriented routine.",
+    "5008": "The user was just there at 07:17, and a brief return or extended stay remains possible given its strong Sunday morning history.",
+    "5009": "A recurring local treat stop, though less likely this early in the morning than the core errands.",
+    "1149": "A regular big-box retail destination for this user, but slightly less time-appropriate than the top local convenience options.",
+    "2233": "A grocery option within the same retail corridor that fits the user’s provisioning pattern.",
+    "2232": "A repeated retail stop in Clifton that could follow a northward errand trajectory, though it is less likely than the core Bloomfield destinations."
+  },
+  "fallback": false
+}

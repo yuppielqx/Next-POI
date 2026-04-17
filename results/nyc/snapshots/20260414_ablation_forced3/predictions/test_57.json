@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_57",
+  "ranked_loc_ids": [
+    430,
+    429,
+    439,
+    440,
+    444,
+    437,
+    108,
+    431,
+    448,
+    455
+  ],
+  "explanations": {
+    "430": "This is the user’s strongest anchor location, with the highest visit count and strong same-slot history, making a return here most likely after the prior evening stop.",
+    "429": "This nearby pharmacy fits the user’s repeated errand pattern around the core Weehawken–Union City cluster and is a common companion to office returns.",
+    "439": "The user frequently stays within this immediate corridor, and Weehawken is a highly plausible neighborhood-level stop near their work base.",
+    "440": "A short-hop coffee stop is consistent with the user’s midday routine and frequent pairing of the office area with convenience visits.",
+    "444": "ShopRite/Hoboken grocery activity matches the user’s errand chaining behavior and is a plausible early-afternoon practical stop.",
+    "437": "A diner stop fits the user’s post-lunch/early afternoon pattern and nearby Hoboken corridor mobility.",
+    "108": "The Hoboken PATH Station is a logical transit-related stop for someone moving through the Hoboken/Weehawken area after leaving the office.",
+    "431": "The user shows weekend leisure tendencies and a movie stop is consistent with their mixed work-errand-recreation profile.",
+    "448": "Grocery shopping in nearby Hoboken aligns with the user’s clustered errand behavior and local range.",
+    "455": "This nearby dining option fits the user’s afternoon-to-evening movement style and could follow a work-related stop."
+  },
+  "fallback": false
+}

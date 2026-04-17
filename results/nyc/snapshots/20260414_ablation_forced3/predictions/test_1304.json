@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1304",
+  "ranked_loc_ids": [
+    334,
+    4148,
+    4623,
+    2681,
+    67,
+    1600,
+    1050,
+    1343,
+    4096,
+    274
+  ],
+  "explanations": {
+    "334": "The user is already there at the last check-in and the target time is only minutes later, making continued presence the strongest signal.",
+    "4148": "It is the user’s clearest habitual anchor nearby and a very likely quick late-night return within the same Park Ave S cluster.",
+    "4623": "This is a recurring Saturday nightlife spot extremely close by, fitting the user’s late-night bar-to-diner circuit.",
+    "2681": "After-hours NYC outings often include a short cab hop, and the user’s history shows taxi use in late-night transitions.",
+    "67": "The user frequently clusters around Union Square and it is close enough for a brief move in the same area.",
+    "1600": "A nearby restaurant in the same Midtown/Flatiron corridor, plausible for a food-and-drink continuation.",
+    "1050": "Another nearby nightlife-oriented venue that fits the user’s late Saturday social pattern.",
+    "1343": "A known late-night bar in the user’s history, though farther away and less likely than the immediate nearby options.",
+    "4096": "This matches the user’s nightlife profile and appears in the broader late-night Manhattan circuit.",
+    "274": "A recurring daytime-to-evening anchor for this user, but less likely this late at night than nearby restaurants and bars."
+  },
+  "fallback": false
+}

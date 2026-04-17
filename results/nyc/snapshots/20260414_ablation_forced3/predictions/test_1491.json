@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1491",
+  "ranked_loc_ids": [
+    3059,
+    4877,
+    4878,
+    106,
+    1016,
+    806,
+    3390,
+    1018,
+    304,
+    1058
+  ],
+  "explanations": {
+    "3059": "It is the strongest same-routine follow-up from 7 World Trade Center and has the best morning transition history at this exact Lower Manhattan cluster.",
+    "4877": "The user is already there or could remain briefly in the same office building, and this is the most repetitive anchor in their weekday pattern.",
+    "4878": "This sculpture sits immediately adjacent to the current office cluster and is a frequent micro-stop in the user’s repeated World Trade Center routine.",
+    "106": "A very nearby transit node that fits the user’s commute-linked mobility and could easily be the next short hop.",
+    "1016": "This is another adjacent plaza in the same tight WTC corridor and matches the user’s habitual downtown movement.",
+    "806": "Close enough to be a plausible short walk within the same Lower Manhattan loop and occasionally fits weekday errand behavior.",
+    "3390": "The user has a recurring history at this station, making it a plausible transit-linked move after the morning office stop.",
+    "1018": "This nearby civic/plaza location is within the user’s usual corridor and fits a brief daytime wander southward.",
+    "304": "It is in the same downtown area and could be a secondary leisure stop, though it is less likely than the office/transit anchors.",
+    "1058": "A nearby restaurant in Lower Manhattan that is plausible for a morning-to-midday transition, but it is less consistent with the user’s dominant work routine."
+  },
+  "fallback": false
+}

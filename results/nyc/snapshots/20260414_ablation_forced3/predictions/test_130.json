@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_130",
+  "ranked_loc_ids": [
+    588,
+    5739,
+    981,
+    986,
+    915,
+    978,
+    355,
+    1563,
+    977,
+    58
+  ],
+  "explanations": {
+    "588": "The user repeatedly returns to this gym and morning fitness fits their strongest routine signal.",
+    "5739": "A nearby gym matches the morning workout pattern and the current east-side Manhattan position.",
+    "981": "Morning timing and the user’s coffee-oriented routine make this a strong nearby stop.",
+    "986": "Another familiar coffee shop in the user’s Manhattan corridor that fits a 10:01 visit.",
+    "915": "A convenient morning caffeine stop near the current location is highly plausible.",
+    "978": "The target time strongly supports a breakfast spot, and this is one of the user’s likely morning venues.",
+    "355": "A classic morning food stop close to the current area fits the user’s daytime errand pattern.",
+    "1563": "A nearby food stop is possible if the user is heading out after the late-night location and wants a quick meal.",
+    "977": "The user has a fitness-yoga tendency, so another exercise-related Manhattan stop remains plausible.",
+    "58": "Transit hubs appear in the user’s history and could be used for a morning move across Manhattan."
+  },
+  "fallback": false
+}

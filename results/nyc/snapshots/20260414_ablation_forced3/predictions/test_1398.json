@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1398",
+  "ranked_loc_ids": [
+    683,
+    4780,
+    798,
+    707,
+    2261,
+    2977,
+    708,
+    659,
+    660,
+    4781
+  ],
+  "explanations": {
+    "683": "This is the user’s strongest anchor with the most visits and it exactly matches the current location and time pattern.",
+    "4780": "Very close by on the same Northern Blvd corridor and consistent with the user’s frequent fast-food stops.",
+    "798": "Extremely nearby and in the same retail-heavy area, making it a plausible errand continuation.",
+    "707": "Also nearby in Long Island City and fits the user’s shopping-oriented behavior.",
+    "2261": "Close to the current location and another retail stop that aligns with the user’s pattern of chained shopping visits.",
+    "2977": "A nearby practical errand destination that fits the user’s retail/grocery mobility style.",
+    "708": "Nearby big-box retail with a strong fit for the user’s shopping-heavy movement profile.",
+    "659": "Very close and another retail destination that could follow a Best Buy stop in a multi-stop outing.",
+    "660": "A nearby coffee stop that matches the user’s daytime errand and refreshment pattern.",
+    "4781": "A recurrent fast-food chain in the user’s history, though farther away than the top local options."
+  },
+  "fallback": false
+}

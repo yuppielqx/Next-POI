@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1712",
+  "ranked_loc_ids": [
+    4094,
+    5070,
+    5488,
+    5146,
+    5621,
+    697,
+    1149,
+    1148,
+    593,
+    4796
+  ],
+  "explanations": {
+    "4094": "The strongest temporal prior and the user’s home anchor point both favor a late-night return to Lyndhurst.",
+    "5070": "This is the user’s most consistent nearby transit stop and fits the rail-based return pattern.",
+    "5488": "A close Lyndhurst errand stop is plausible after returning home, especially for a short late-night local trip.",
+    "5146": "Convenience-store visits are common late at night and this is close to the user’s home base.",
+    "5621": "A nearby nightlife option in Lyndhurst could fit the late-night timing and local movement style.",
+    "697": "It is very close to Lyndhurst and could be visited as a nearby evening entertainment stop.",
+    "1149": "The user has history with Clifton retail, and this is still within their typical local radius.",
+    "1148": "Movie outings are part of the user’s profile, making this a reasonable nearby leisure destination.",
+    "593": "A rail stop on the user’s corridor remains plausible if they are continuing a transit-linked movement.",
+    "4796": "A coffee stop is behaviorally consistent, though less likely this late at night than a direct return home."
+  },
+  "fallback": false
+}

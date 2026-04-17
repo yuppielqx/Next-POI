@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1150",
+  "ranked_loc_ids": [
+    78,
+    3651,
+    4419,
+    1513,
+    2137,
+    47,
+    189,
+    1015,
+    1016,
+    275
+  ],
+  "explanations": {
+    "78": "Strongest history-and-time match for an afternoon shopping/food stop in the Chelsea corridor.",
+    "3651": "Fits the user’s food-oriented Chelsea Market pattern and nearby errand-like movement.",
+    "4419": "Another Chelsea-area grocery stop consistent with practical daytime urban exploration.",
+    "1513": "Prior visits and similar-user afternoon retail transitions make this a strong candidate.",
+    "2137": "A nearby casual coffee stop that fits the afternoon retail/leisure routine.",
+    "47": "Matches the user’s shopping behavior and midtown retail tendency, though slightly less aligned geographically.",
+    "189": "A nearby downtown cafe-like stop that fits a purposeful short trip chain.",
+    "1015": "Wine-shop behavior is part of the user’s profile, though less likely at this time than shopping.",
+    "1016": "Very close to the last location and plausible if the user stays downtown, but less consistent with the afternoon shopping prior.",
+    "275": "Similar-user behavior suggests a cinema-to-retail transition, but it is less directly supported than the top options."
+  },
+  "fallback": false
+}

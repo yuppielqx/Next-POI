@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1467",
+  "ranked_loc_ids": [
+    3574,
+    3742,
+    4844,
+    796,
+    73,
+    2688,
+    4576,
+    735,
+    4410,
+    2545
+  ],
+  "explanations": {
+    "3574": "The user’s strongest Monday evening anchor is Equinox, and the time prior plus habitual work-to-gym pattern makes a return here most likely.",
+    "3742": "This is a frequent commute-related anchor with Monday history, and it fits the user’s Manhattan-to-waterfront routine.",
+    "4844": "Another repeated waterfront transit point in the user’s history, likely if they’re continuing a Jersey-side commute pattern.",
+    "796": "The user has multiple 6–8pm visits here, making the Upper East Side Equinox a strong alternate evening gym destination.",
+    "73": "This nearby American restaurant is a plausible post-work stop, especially given the user’s food-and-drink evening behavior.",
+    "2688": "A repeated healthy stop in the user’s profile, though slightly less likely than the gym or transit anchors at this hour.",
+    "4576": "The user has visited this pub before and the evening timing matches their nightlife-heavy profile.",
+    "735": "A familiar bar in the user’s Upper East Side cluster, consistent with after-work socializing.",
+    "4410": "A Midtown West nightlife option that fits the user’s evening movement and downtown-to-midtown pattern.",
+    "2545": "This is a reasonable quick food stop near the user’s core Manhattan corridor, but it is less pattern-confirmed than the top choices."
+  },
+  "fallback": false
+}

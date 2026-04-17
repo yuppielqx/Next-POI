@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_670",
+  "ranked_loc_ids": [
+    3339,
+    3338,
+    2874,
+    3341,
+    3256,
+    1485,
+    3745,
+    47,
+    3340,
+    2827
+  ],
+  "explanations": {
+    "3339": "It is extremely close to the last known Walgreens stop, matches the user's recurring evening appearance-routine, and has strong 9–11 PM historical alignment.",
+    "3338": "Also next door in the same Midtown corridor, and coffee/errand chaining is a documented pattern for this user.",
+    "2874": "A nearby late-evening bar fits the post-errand nightlife shift and the user often transitions into social venues at night.",
+    "3341": "This is a close-by bar with prior visits, making it a plausible Wednesday-night follow-up from Midtown errands.",
+    "3256": "A very nearby casual food option that fits a short southwest drift and an evening stop after shopping/pharmacy.",
+    "1485": "Close to the current location and consistent with a quick dinner move in the Times Square area.",
+    "3745": "A nearby food option that matches a fast, convenient evening errand-to-meal transition.",
+    "47": "The user has shopping-chain behavior in Midtown, and this is within a reasonable nearby radius from Walgreens.",
+    "3340": "Another Midtown shopping destination that fits the user's clustered errand pattern, though less likely late at night.",
+    "2827": "A nearby restaurant that is plausible for an evening food stop, but weaker than the more immediate Midtown personal-care and nightlife options."
+  },
+  "fallback": false
+}

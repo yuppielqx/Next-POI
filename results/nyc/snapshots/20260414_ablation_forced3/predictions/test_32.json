@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_32",
+  "ranked_loc_ids": [
+    293,
+    315,
+    309,
+    2028,
+    305,
+    294,
+    311,
+    297,
+    291,
+    310
+  ],
+  "explanations": {
+    "293": "The user is still in the same Brooklyn area and Rite Aid is the strongest same-location return with the highest transition history.",
+    "315": "This nearby diner fits a short errand-chain stop and is extremely close to the last known Kings Hwy position.",
+    "309": "The user strongly favors Starbucks during routine daytime movements, and this nearby Brooklyn option is a plausible quick coffee stop.",
+    "2028": "The nearby Kings Highway station is a natural follow-on if the user is continuing movement in the immediate area.",
+    "305": "A repeat Asian restaurant visit is consistent with the user’s food-oriented afternoon pattern and nearby movement.",
+    "294": "This is a plausible nearby service destination when the user remains in Brooklyn and makes practical stops.",
+    "311": "Another nearby dining option that fits the user’s preference for casual Asian/Malay food outings.",
+    "297": "Although farther away, it matches the user’s strongest Flushing grocery pattern and afternoon errand behavior.",
+    "291": "The user frequently returns to this signature coffee stop, especially in routine afternoon or commute-like sequences.",
+    "310": "A grocery stop consistent with the user’s errand-driven profile, though less likely than the closer Brooklyn options."
+  },
+  "fallback": false
+}

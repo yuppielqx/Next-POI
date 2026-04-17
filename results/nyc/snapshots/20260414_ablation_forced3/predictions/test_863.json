@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_863",
+  "ranked_loc_ids": [
+    3795,
+    617,
+    3796,
+    3794,
+    3793,
+    566,
+    137,
+    1214,
+    567,
+    3377
+  ],
+  "explanations": {
+    "3795": "The user’s strongest recurring work anchor is this coworking space, and the morning timing right after Jack’s makes a return to work the most likely next move.",
+    "617": "Cafe R is part of the user’s repeated Midtown routine and is very close to the last stop, making it a plausible morning food or coffee follow-up.",
+    "3796": "The user frequently chains short errands in this exact corridor, so a quick second stop at Jack’s remains very possible.",
+    "3794": "This burrito place has appeared in the user’s history as a nearby quick-food option, though it is less likely this early on a Saturday.",
+    "3793": "Similar users and the user’s own history show early-morning gym behavior, making a nearby workout stop plausible.",
+    "566": "The mall is nearby and has appeared before, so it could be a brief convenience stop within the same Midtown loop.",
+    "137": "Penn Station is a common commuter hub and fits the user’s workday corridor, though it is not as strongly patterned as the core trio.",
+    "1214": "This transit point is close and could fit a morning commute pattern, but the user’s history favors staying within the immediate work cluster.",
+    "567": "A nearby Herald Square retail stop is possible, but it is less consistent with the user’s usual work-and-food routine.",
+    "3377": "This nearby Korean restaurant matches the neighborhood theme, but it is more of a meal destination than a likely immediate next stop."
+  },
+  "fallback": false
+}

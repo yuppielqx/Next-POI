@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1351",
+  "ranked_loc_ids": [
+    4122,
+    4708,
+    3236,
+    617,
+    2209,
+    1570,
+    966,
+    2942,
+    3238,
+    3445
+  ],
+  "explanations": {
+    "4122": "The target time is evening and this is the strongest time-matched dining option in the user’s Manhattan corridor, with a prior visit that aligns better with dinner than the usual morning stops.",
+    "4708": "The user’s dominant anchor is the office and it is directly adjacent to the last known location, so a brief return or lingering near work remains plausible.",
+    "3236": "This is an evening-appropriate nightlife stop in the user’s broader Flatiron/East Village pattern, making it a reasonable post-work destination.",
+    "617": "Although primarily a morning coffee stop, it is one of the user’s most frequent venues and sits right by the office, so a revisit is still possible.",
+    "2209": "The user has a strong fitness habit centered on this gym, but the 19:54 timing makes an evening workout less likely than dining or socializing.",
+    "1570": "A nearby dinner-oriented restaurant in the same general corridor, fitting the evening prior and the user’s tendency toward occasional restaurant visits.",
+    "966": "This café/restaurant option is close by and could fit a light evening meal, though it is less distinctive than the top dining candidate.",
+    "2942": "The user has a history of West Village leisure stops, so this wine bar is plausible for an evening outing despite being outside the core work corridor.",
+    "3238": "The user sometimes extends downtown for fitness, but this is a weaker match than Union Square and less compatible with the evening social/dinner prior.",
+    "3445": "This nightlife venue fits the time of day, but it is farther from the user’s usual Midtown South orbit than the higher-ranked evening options."
+  },
+  "fallback": false
+}

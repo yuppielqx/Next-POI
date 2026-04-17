@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_967",
+  "ranked_loc_ids": [
+    649,
+    4099,
+    4062,
+    3711,
+    3537,
+    1059,
+    1903,
+    3708,
+    1778,
+    4101
+  ],
+  "explanations": {
+    "649": "It is the closest candidate to the last known location and fits the user's Friday late-night bar-hopping pattern in Lower Manhattan.",
+    "4099": "A nearby downtown bar that matches the south-west movement trend and the user's strong preference for evening drinking spots.",
+    "4062": "This Lower East Side bar is a very plausible continuation for a late Friday-night social outing.",
+    "3711": "Another nearby LES nightlife venue that fits the user's clustered downtown bar pattern and time of night.",
+    "3537": "A Lower East Side bar with a similar nightlife category, making it a strong short-hop option after dinner.",
+    "1059": "This nightlife spot aligns well with the user's evening habits and is within a realistic downtown radius.",
+    "1903": "A late-night dive bar choice that matches the user's recurring bar-centric behavior around this hour.",
+    "3708": "A nearby downtown American restaurant/bar option that could be a natural post-dinner stop.",
+    "1778": "This bar is consistent with the user's nightlife profile, though it is slightly less aligned than the closest downtown options.",
+    "4101": "A known nightlife venue in the user's history, but Brooklyn is a less likely direction than continuing in Lower Manhattan."
+  },
+  "fallback": false
+}

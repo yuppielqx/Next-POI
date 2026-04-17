@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_544",
+  "ranked_loc_ids": [
+    2947,
+    2946,
+    2948,
+    2950,
+    2949,
+    2813,
+    924,
+    2953,
+    4735,
+    3068
+  ],
+  "explanations": {
+    "2947": "The user is already at this recurring morning medical stop, and same-place continuity is the strongest next-step pattern.",
+    "2946": "A frequent home base with strong early-morning returns, making a quick return plausible after the medical office.",
+    "2948": "This is a repeated morning-friendly Queens medical location in the same broader corridor, fitting the user’s routine.",
+    "2950": "A nearby repeat food stop in the Forest Hills/Rego Park pattern, consistent with an early breakfast errand.",
+    "2949": "A familiar clustered venue in the same neighborhood network, matching the user’s local routine behavior.",
+    "2813": "A morning-oriented bakery stop that aligns with the user’s breakfast-like movement pattern.",
+    "924": "A nearby convenience stop often chosen for routine morning purchases and short errands.",
+    "2953": "A classic early-morning coffee/baked-goods destination that fits the user’s time-of-day profile.",
+    "4735": "A nearby area-based stop with no history, but close enough to be a plausible short movement in the same corridor.",
+    "3068": "A nearby food venue that fits local errand-style movement, though less likely than the breakfast-focused options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1973",
+  "ranked_loc_ids": [
+    9,
+    289,
+    3974,
+    2432,
+    1488,
+    1515,
+    338,
+    1840,
+    1544,
+    485
+  ],
+  "explanations": {
+    "9": "A late-morning café stop fits the user’s brunch/coffee rhythm and the strong lower-Manhattan time prior.",
+    "289": "This is the closest strong match to a Canal St coffee pattern, which fits the lower-Manhattan morning reset.",
+    "3974": "The user just left a Chinese restaurant nearby, so a short continuation in the same downtown area is plausible.",
+    "2432": "This matches the user’s history of midday meal stops in the SoHo/West Village corridor and fits the brunch prior well.",
+    "1488": "A café visit in Manhattan aligns with the target time and similar-user coffee-and-food behavior.",
+    "1515": "It is very close to the last location and sits in a corridor consistent with a casual morning walk or food stop.",
+    "338": "A bakery-style food stop fits the user’s brunch tendency, though it is a bit farther than the closest downtown options.",
+    "1840": "The user has a history of tea/café visits before social outings, making this a reasonable Manhattan morning choice.",
+    "1544": "A breakfast spot suits the 11:46 timing and the user’s dining-heavy movement pattern.",
+    "485": "The user has visited nightlife venues before, but this is less likely at late morning than the food and café options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1405",
+  "ranked_loc_ids": [
+    4790,
+    4789,
+    951,
+    652,
+    1199,
+    107,
+    1164,
+    104,
+    4788,
+    465
+  ],
+  "explanations": {
+    "4790": "The user has an extremely strong Friday morning pattern of returning to this hospital around 8 a.m., making it the best match for the 08:07 target time.",
+    "4789": "This is the user’s second-most common Staten Island anchor and could follow the morning commute pattern if they are not heading straight to work.",
+    "951": "As a commuter hub tied to Staten Island routines, it is plausible if the user is transitioning between Jersey City and Staten Island morning travel.",
+    "652": "This is a logical weekday transit point for someone whose routine centers in Staten Island but is currently in Jersey City.",
+    "1199": "The last known location was Newport Centre Mall, so a nearby transit move is a strong short-range possibility.",
+    "107": "Another Newport-area transportation node, it fits the immediate local movement context better than a distant leisure venue.",
+    "1164": "The user was just at Newport Centre Mall, and this nearby movie theater is a plausible continuation of the same evening area.",
+    "104": "A very close local repeat is possible, though less likely than leaving for the user’s regular morning anchor.",
+    "4788": "This Staten Island venue fits the user’s local routine and weekday geography, but it is less temporally aligned than the hospital.",
+    "465": "A familiar Staten Island leisure stop that matches the user’s home-borough pattern, but not the strong 08:07 morning work signal."
+  },
+  "fallback": false
+}

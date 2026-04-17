@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_439",
+  "ranked_loc_ids": [
+    991,
+    911,
+    2567,
+    2422,
+    716,
+    2570,
+    2566,
+    1961,
+    67,
+    2564
+  ],
+  "explanations": {
+    "991": "It is the strongest habitual fitness destination, matches the user’s Manhattan routine, and has the highest same-time historical frequency.",
+    "911": "This is another repeated fitness stop very close to the last location and fits the user’s exercise-centered pattern.",
+    "2567": "A recurring uptown weekday destination in the user’s history, though less aligned with the immediate east-village corridor.",
+    "2422": "A nearby food stop that fits a post-workout routine and is close to the user’s current Manhattan cluster.",
+    "716": "A practical errand stop in the same neighborhood that could follow a gym visit during the afternoon.",
+    "2570": "A nearby restaurant option that matches the user’s short-radius movement pattern around East/Greenwich Village.",
+    "2566": "A close coffee-shop choice that fits a compact daytime errand or refreshment stop.",
+    "1961": "A nearby NYU/Bobst-area location that is geographically plausible given the user’s repeated village-area movement.",
+    "67": "A common nearby destination in the user’s corridor, though less strongly supported than the fitness venues.",
+    "2564": "A plausible supporting food stop from the user’s history, but farther and less consistent with the dominant fitness routine."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_58",
+  "ranked_loc_ids": [
+    323,
+    461,
+    467,
+    2560,
+    293,
+    2024,
+    2017,
+    2021,
+    4875,
+    2400
+  ],
+  "explanations": {
+    "323": "This is the user’s strongest morning anchor and was their last known location just minutes before the target time.",
+    "461": "The user has a repeated early-morning coffee pattern, and Friday morning fits a likely alternate caffeine stop.",
+    "467": "It is extremely close to the last known location and could be a quick nearby errand during the morning routine.",
+    "2560": "A nearby grocery stop is plausible if the user is doing a short morning errand run in the same area.",
+    "293": "Like CVS, this is a nearby practical stop that fits a brief localized movement pattern.",
+    "2024": "A nearby breakfast-oriented bakery is a reasonable alternative to Starbucks for an early morning trip.",
+    "2017": "Similar users at this time often head to transit, and this station is close enough to fit a commuting move.",
+    "2021": "Another nearby transit option consistent with a weekday morning departure.",
+    "4875": "A local food stop is possible, though less likely than coffee or transit this early.",
+    "2400": "A nearby grocery destination is feasible, but it is less aligned with the user’s strongest morning coffee routine."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2303",
+  "ranked_loc_ids": [
+    5180,
+    4638,
+    4639,
+    4640,
+    449,
+    5517,
+    1422,
+    5606,
+    4395,
+    1199
+  ],
+  "explanations": {
+    "5180": "This is the strongest next-stop prediction in the user’s recurring Bayonne light-rail sequence and fits the immediate southwest corridor movement.",
+    "4638": "The user frequently returns to this transportation hub in midday transit chains, making it a plausible adjacent hop.",
+    "4639": "It is a core station in the user’s repeat corridor pattern and remains highly likely even though it was just visited.",
+    "4640": "Remaining on the same light-rail node is possible if the user is still in transfer motion or re-checking in at the last station.",
+    "449": "A short movement toward a nearby residential/check-in point in Bayonne is consistent with the user’s local routine.",
+    "5517": "This nearby Bayonne light rail station could appear next if the user continues along the corridor.",
+    "1422": "The user sometimes makes brief non-transit stops, and this nearby deli is a plausible short errand destination.",
+    "5606": "Grocery visits have appeared in the history, so a nearby Bayonne shopping stop is possible.",
+    "4395": "Jersey City transit hubs are part of the broader routine and could be reached after continued rail movement.",
+    "1199": "This is a recurring Jersey City transfer point, but it is less likely than closer Bayonne stations at this moment."
+  },
+  "fallback": false
+}

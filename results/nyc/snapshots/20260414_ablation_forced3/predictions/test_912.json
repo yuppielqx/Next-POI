@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_912",
+  "ranked_loc_ids": [
+    140,
+    1344,
+    2014,
+    921,
+    1439,
+    1254,
+    1545,
+    2006,
+    618,
+    1200
+  ],
+  "explanations": {
+    "140": "It is one of the user’s strongest repeat anchors and best fits the Friday midday transit-linked return pattern toward Brooklyn.",
+    "1344": "The user visits this Coney Island theme park extremely often, and noon on Friday is a strong match for a habitual Brooklyn destination.",
+    "2014": "This major Brooklyn transfer hub aligns with the user’s commuter pattern and likely south-westward movement.",
+    "921": "A frequent Brooklyn transit stop that fits a return-to-routine commute path from Midtown.",
+    "1439": "Another recurring Brooklyn subway station that matches the user’s heavy transit orientation.",
+    "1254": "This busy Brooklyn station is a plausible connector on the way back toward the user’s preferred corridor.",
+    "1545": "A common transfer point in the user’s history and a natural intermediate stop on a Brooklyn-bound trip.",
+    "2006": "This Manhattan-to-Brooklyn connector matches the user’s repeated use of major subway nodes.",
+    "618": "A Brooklyn station consistent with the user’s Queens/Brooklyn subway pattern and midday commuting behavior.",
+    "1200": "A frequent Queens anchor for this commuter-like user, though less likely than the Brooklyn destinations given the current south-west trend."
+  },
+  "fallback": false
+}

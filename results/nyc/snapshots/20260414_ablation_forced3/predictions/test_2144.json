@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2144",
+  "ranked_loc_ids": [
+    3219,
+    4168,
+    1933,
+    961,
+    5682,
+    2392,
+    1388,
+    3381,
+    1932,
+    780
+  ],
+  "explanations": {
+    "3219": "This is the user’s strongest recurrent anchor and fits the overnight return-to-base pattern for a Saturday late morning.",
+    "4168": "It is extremely close to the last known pub location and matches a practical weekend errand or grocery stop.",
+    "1933": "Nearby in Park Slope and consistent with a late morning food stop after a Friday night out.",
+    "961": "A plausible brunch-like stop in the same local Brooklyn corridor and time window.",
+    "5682": "Late Saturday morning strongly supports a quick breakfast or brunch bagel run nearby.",
+    "2392": "The user’s routine-oriented profile makes a nearby café visit plausible for a morning reset.",
+    "1388": "A known prior Brooklyn food venue that could follow a return to the Brooklyn base.",
+    "3381": "Fits the user’s grocery/errand behavior, though it is farther than the immediate nearby options.",
+    "1932": "Same-location repeat is possible, but it is less likely after an overnight gap and the user just left there late Friday.",
+    "780": "The user’s shopping pattern makes a SoHo retail stop possible, but it is less consistent with the Brooklyn morning prior."
+  },
+  "fallback": false
+}

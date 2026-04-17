@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1586",
+  "ranked_loc_ids": [
+    398,
+    439,
+    443,
+    4986,
+    3051,
+    1426,
+    4167,
+    1144,
+    4987,
+    3891
+  ],
+  "explanations": {
+    "398": "This is the strongest habitual anchor with the highest visit count and the best match to the Tuesday noon-to-afternoon routine.",
+    "439": "The user repeatedly returns to Weehawken, and it fits the North Jersey corridor and southwest movement trend well.",
+    "443": "Union City is one of the user’s core recurring areas and remains a plausible midday stop within their usual cluster.",
+    "4986": "A frequent North Bergen-area errand destination that matches the user’s grocery/utility pattern after Walmart.",
+    "3051": "This is a recurring Tuesday-linked location in the user’s history and is close to their usual North Jersey route.",
+    "1426": "The user shows a leisure-dining pattern, and Secaucus restaurants are consistent with their evening and midday side trips.",
+    "4167": "A repeat entertainment stop in Secaucus that aligns with the user’s social-recreation behavior.",
+    "1144": "Edgewater is part of the user’s corridor, and this nearby food stop fits a short post-errand movement.",
+    "4987": "Convenience-store behavior and the close-by location make this a plausible intermediate stop.",
+    "3891": "A nearby dining option in the user’s north Hudson orbit, though less supported than the more routine anchors."
+  },
+  "fallback": false
+}

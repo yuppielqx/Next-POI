@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2273",
+  "ranked_loc_ids": [
+    1664,
+    106,
+    2170,
+    107,
+    742,
+    755,
+    2497,
+    5577,
+    1214,
+    1176
+  ],
+  "explanations": {
+    "1664": "The user’s strongest morning commute pattern suggests continuing the PATH flow across the river, and Exchange Place is the most likely next transit stop after World Trade Center.",
+    "106": "It is the last known location and remains a plausible brief holdover if the user has not yet departed.",
+    "2170": "This is a highly repeated early-morning waypoint in the user’s routine, making a quick coffee-related revisit possible.",
+    "107": "Newport PATH Station fits the same commuter corridor and is a frequent transit-linked destination in the user’s pattern.",
+    "742": "After crossing to Jersey City, the user often continues the coffee-to-commute routine at familiar Jersey City Starbucks locations.",
+    "755": "The Paulus Hook ferry terminal is another Jersey City transit hub that matches the user’s morning mobility pattern.",
+    "2497": "Gym visits are part of the user’s routine and can follow a commute, especially during the morning window.",
+    "5577": "A Jersey City coffee stop is consistent with the user’s recurring caffeine-driven morning behavior.",
+    "1214": "This is part of the user’s broader PATH network, though it is less likely than the Exchange Place corridor at this moment.",
+    "1176": "A nearby Lower Manhattan coffee option remains possible, but it is less aligned with the south-westward commute trend."
+  },
+  "fallback": false
+}

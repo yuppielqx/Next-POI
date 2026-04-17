@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1452",
+  "ranked_loc_ids": [
+    259,
+    4666,
+    1041,
+    983,
+    1036,
+    938,
+    1516,
+    783,
+    2911,
+    784
+  ],
+  "explanations": {
+    "259": "It is an immediately nearby bar in the East Village, matching the user’s strong late-night nightlife tendency and the current southeast/down-downtown movement.",
+    "4666": "A nearby performing arts venue fits the Saturday-night outing pattern and the user’s history of mixing nightlife with entertainment stops.",
+    "1041": "Tompkins Square Park is right next to the last location and could be a brief outdoor continuation before heading to nightlife.",
+    "983": "The user is already here and could plausibly linger momentarily, though the time prior makes a transition more likely.",
+    "1036": "The prior evening visit makes this a plausible repeat entertainment stop in the same East Village cluster.",
+    "938": "A familiar karaoke venue in the user’s preferred Lower Manhattan nightlife corridor fits their social profile well.",
+    "1516": "This is a recurring bar for the user and aligns with their late-night bar-hopping behavior.",
+    "783": "It has strong historical relevance at the 9–11 p.m. slot and is a classic return-to-frequent-place candidate.",
+    "2911": "A nearby nightlife spot in the LES matches the user’s clustered bar pattern and Saturday-night timing.",
+    "784": "Another familiar bar in the same corridor, but slightly less likely than the stronger nightlife and repeat-visit options above."
+  },
+  "fallback": false
+}

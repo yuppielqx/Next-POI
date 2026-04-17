@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2002",
+  "ranked_loc_ids": [
+    5383,
+    930,
+    5382,
+    5078,
+    633,
+    513,
+    5381,
+    4871,
+    1898,
+    3077
+  ],
+  "explanations": {
+    "5383": "This is the strongest night-time venue in the user’s history and fits the 00:44 Monday prior for a late social/food stop.",
+    "930": "A frequent southern Brooklyn food destination that matches the user’s localized routine and recent proximity to their current route.",
+    "5382": "The user just checked in nearby and this bagel stop is a known repeat anchor in their Sheepshead Bay cluster.",
+    "5078": "A nearby nightlife option in the same Emmons Ave area, plausible for a late-night transition from food to drinks.",
+    "633": "A familiar local entertainment venue that can fit a late evening outing without leaving the neighborhood.",
+    "513": "One of the user’s strongest habitual locations, especially in their core southern Brooklyn routine.",
+    "5381": "The user has many repeat visits here and it is very close to the last known gym location.",
+    "4871": "Although already the last known location, the gym is a highly recurring anchor and remains a plausible immediate return.",
+    "1898": "A Manhattan nightlife spot that matches the late-night prior, though it is less likely than Brooklyn options.",
+    "3077": "Another familiar Manhattan bar from the user’s nightlife pattern, but it is farther and less consistent than local destinations."
+  },
+  "fallback": false
+}

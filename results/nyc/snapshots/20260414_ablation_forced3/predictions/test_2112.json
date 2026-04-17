@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2112",
+  "ranked_loc_ids": [
+    5457,
+    4186,
+    4191,
+    3724,
+    4045,
+    4422,
+    805,
+    895,
+    602,
+    135
+  ],
+  "explanations": {
+    "5457": "This is the user’s dominant anchor with the strongest evening and Wednesday history, making a return here most likely.",
+    "4186": "It is immediately adjacent to the Dog Run and fits the user’s tightly clustered local circuit behavior.",
+    "4191": "The user was just there this morning and it is a recurring routine stop in the same neighborhood.",
+    "3724": "Very close to the last location and a plausible nearby follow-up within the Little Bay cluster.",
+    "4045": "This Bayside Queens location matches the user’s local mobility pattern and is still near the core home area.",
+    "4422": "A nearby Queens restaurant that fits the user’s occasional dining behavior without requiring a major trip.",
+    "805": "It is a plausible local recreational alternative, though less central than the Little Bay cluster.",
+    "895": "The user has visited before and it fits the occasional leisure/event outing pattern.",
+    "602": "Prior history shows some interest in stadium visits, but this is a much less likely evening move from northeast Queens.",
+    "135": "LaGuardia Airport is reachable from Queens and appears in the candidate set, but it is not a strong match for the routine pattern."
+  },
+  "fallback": false
+}

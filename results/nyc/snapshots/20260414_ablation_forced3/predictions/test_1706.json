@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1706",
+  "ranked_loc_ids": [
+    5104,
+    2008,
+    114,
+    2644,
+    2014,
+    1260,
+    116,
+    2016,
+    382,
+    3243
+  ],
+  "explanations": {
+    "5104": "The strongest home-base and Sunday-evening return signal points to the user heading back to Ditmas Park after a late Saturday night out.",
+    "2008": "If not already home, a familiar Brooklyn station near Ditmas Park is the most plausible transitional stop on the way back.",
+    "114": "This is one of the user’s most recurrent commuting nodes and fits their transit-heavy pattern, though it is less consistent with the Sunday return-to-home prior.",
+    "2644": "A highly frequented Brooklyn transit hub in the user’s routine, making it a strong alternative for a cross-borough transfer.",
+    "2014": "The user often uses major subway interchanges, and this hub fits a likely return route toward Brooklyn.",
+    "1260": "Another frequently visited major transit station with strong evening usage, but slightly less likely than the Brooklyn-specific options.",
+    "116": "The profile shows regular transit behavior and Jamaica appears in the user’s history, though it is farther from the likely Sunday homeward path.",
+    "2016": "This Brooklyn subway stop is plausible for a south Brooklyn return, but it has much weaker historical support.",
+    "382": "The user was recently there, and similar nightlife patterns sometimes continue, but the temporal prior favors a return rather than another bar.",
+    "3243": "Being the last known location gives it some residual probability, but a same-place stay is less likely than a transit-driven return home."
+  },
+  "fallback": false
+}

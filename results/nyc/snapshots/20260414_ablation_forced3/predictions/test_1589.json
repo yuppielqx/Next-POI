@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1589",
+  "ranked_loc_ids": [
+    137,
+    4996,
+    88,
+    4675,
+    1283,
+    1092,
+    2002,
+    106,
+    652,
+    3539
+  ],
+  "explanations": {
+    "137": "It is the user’s last known location, has the strongest same-time Saturday support, and the current movement shows they are lingering in the same micro-area.",
+    "4996": "It is immediately adjacent to the current position and fits the same West Side/Penn Station corridor pattern.",
+    "88": "A nearby transit hub that matches the user’s routine, commute-oriented behavior and similar-user afternoon transfer patterns.",
+    "4675": "It is at the exact same spot as the current area and a plausible quick food stop during an afternoon pause.",
+    "1283": "This is another immediate nearby stop in the Penn Station cluster, consistent with short local movements.",
+    "1092": "Very close to the current area and a common destination in the surrounding transit/event district.",
+    "2002": "A familiar user location within a short Manhattan hop that could follow a mid-afternoon movement.",
+    "106": "A repeat transit hub in the user’s history, consistent with their commuter-oriented pattern.",
+    "652": "A known Lower Manhattan transit point that fits the user’s transportation-heavy mobility style.",
+    "3539": "A highly recurrent coffee/food stop in the user’s history, making it a plausible routine errand destination later in the afternoon."
+  },
+  "fallback": false
+}

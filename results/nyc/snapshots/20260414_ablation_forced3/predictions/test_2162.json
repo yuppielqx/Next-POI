@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2162",
+  "ranked_loc_ids": [
+    2499,
+    331,
+    957,
+    965,
+    5228,
+    356,
+    887,
+    5499,
+    301,
+    223
+  ],
+  "explanations": {
+    "2499": "The user’s strongest historical anchor is General Assembly, and the midday Tuesday prior plus nearby Manhattan movement make a return there most likely.",
+    "331": "A very nearby coffee stop that fits the user’s workday pattern and the 11:56 morning timing.",
+    "957": "Union Square Ventures is close by and matches the user’s tech/work-oriented routine in the Flatiron-Union Square cluster.",
+    "965": "A plausible morning café visit before or between work sessions, consistent with the user’s coffee-and-work pattern.",
+    "5228": "Extremely close to the last location and consistent with the user’s frequent lunch-oriented neighborhood movement.",
+    "356": "The forced nearby Hill Country Chicken candidate is right at the current area and could serve as a quick meal stop.",
+    "887": "A nearby Union Square lunch spot that fits the user’s repeated work-break dining behavior.",
+    "5499": "Another nearby food option in the same neighborhood cluster, plausible for a midday meal break.",
+    "301": "Fits the user’s Union Square routine and is a reasonable daytime errand or lunch destination.",
+    "223": "A nearby sandwich shop in the same Manhattan core, making it a plausible but less likely lunchtime stop."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2432",
+  "ranked_loc_ids": [
+    2178,
+    544,
+    5528,
+    4879,
+    1160,
+    2521,
+    2076,
+    1822,
+    4570,
+    4308
+  ],
+  "explanations": {
+    "2178": "A nearby sweet stop fits the user’s late-morning/afternoon food pattern and the Midtown location makes it an easy follow-up from Lucky's Famous Burgers.",
+    "544": "This is a familiar casual food choice for the user and the nearby Midtown position matches a simple Sunday afternoon bite.",
+    "5528": "The user has a recurring fitness anchor at Equinox, and Sunday afternoon is consistent with a workout stop.",
+    "4879": "A quick lunch option in Midtown aligns with the user’s midday food behavior and short-distance movement.",
+    "1160": "A classic casual American meal spot fits the user’s food-heavy outing style and remains within a plausible midday Manhattan range.",
+    "2521": "The nearby restaurant and social dining vibe suit the user’s exploratory, leisure-oriented pattern.",
+    "2076": "Sushi matches the user’s strong Asian-food preference, though the location is a bit less likely than the closest Midtown options.",
+    "1822": "A late-lunch ramen stop fits the user’s food preferences and the nearby neighborhood makes it a reasonable Sunday choice.",
+    "4570": "The user has nightlife tendencies, but the target time and daytime prior make a hotel bar less likely than food.",
+    "4308": "A diner is plausible for a casual afternoon meal, but it is less consistent with the user’s stronger Chinatown and sushi tendencies."
+  },
+  "fallback": false
+}

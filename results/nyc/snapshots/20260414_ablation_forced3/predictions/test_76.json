@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_76",
+  "ranked_loc_ids": [
+    601,
+    599,
+    600,
+    602,
+    603,
+    471,
+    490,
+    362,
+    231,
+    58
+  ],
+  "explanations": {
+    "601": "The user’s strongest long-run anchor is their residence-like core in the Bronx, and the evening time prior fits a return home after Midtown errands.",
+    "599": "Thursday evening strongly matches the user’s recurring nightlife routine, especially the common alternation between this bar and the nearby home cluster.",
+    "600": "This is part of the same tightly clustered uptown circuit and is a plausible quick food stop before or after heading home.",
+    "602": "It is one of the few repeatedly visited Bronx destinations and remains geographically consistent with the user’s uptown movement pattern.",
+    "603": "A nightlife venue fits the user’s social evening tendency, though Brooklyn is less consistent than the Bronx anchor area.",
+    "471": "Another bar-like stop that aligns with late-day social behavior, but it is outside the user’s core neighborhood.",
+    "490": "The user was just there earlier in the trip, so a brief continuation in Midtown is possible despite the stronger homeward trend.",
+    "362": "This stays within the current Manhattan corridor and is a plausible nearby movement option after Midtown shopping.",
+    "231": "The user sometimes makes food stops during transitions, but this is less likely than heading back to the recurring uptown cluster.",
+    "58": "Grand Central Terminal is a reasonable transit-related fallback, yet it is weaker than the user’s typical return-to-base pattern."
+  },
+  "fallback": false
+}

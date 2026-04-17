@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_633",
+  "ranked_loc_ids": [
+    3234,
+    3236,
+    1570,
+    2305,
+    344,
+    3235,
+    2889,
+    2209,
+    588,
+    3238
+  ],
+  "explanations": {
+    "3234": "The target time is a late Saturday night slot and this bar fits the user’s strong evening social pattern and the eastward move from the last stop.",
+    "3236": "This nearby bar matches the user’s nightlife tendencies and the Union Square/Gramercy corridor favored by similar late-evening users.",
+    "1570": "A close tapas spot in the same neighborhood, it aligns with the user’s post-work dinner-and-drinks behavior.",
+    "2305": "Another plausible nightlife destination for a Saturday night, supported by the user’s history of bar visits.",
+    "344": "A repeat visit is possible since the user is already there and the midday stop makes a return later in the day feasible.",
+    "3235": "This bar is a reasonable nearby evening option, especially given the user’s compact Manhattan movement radius.",
+    "2889": "The user is fitness-centered, so a workout venue remains possible, though the late-night timing makes it less likely.",
+    "2209": "A very close fitness alternative, but the hour strongly favors social venues over another workout.",
+    "588": "This gym fits the user profile but is less consistent with the Saturday night temporal prior.",
+    "3238": "A known gym from the user’s history, yet its farther location and nighttime slot make it a weaker prediction."
+  },
+  "fallback": false
+}

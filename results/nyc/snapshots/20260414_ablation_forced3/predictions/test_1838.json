@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1838",
+  "ranked_loc_ids": [
+    2453,
+    1572,
+    1293,
+    3236,
+    728,
+    2131,
+    716,
+    333,
+    4210,
+    3547
+  ],
+  "explanations": {
+    "2453": "Immediately adjacent to Revival and matching the user’s late-night nightlife pattern, making a short bar-to-pub transition the most likely next move.",
+    "1572": "A nearby bar in the same Union Square nightlife cluster, consistent with a brief evening hop after Revival.",
+    "1293": "Another very close nightlife venue that fits the user’s evening social outing behavior and the current downtown location.",
+    "3236": "A nearby bar that aligns with the user's late-night tendency toward nightlife and the short-distance movement pattern.",
+    "728": "Close by and nightlife-adjacent, it is plausible if the user shifts from bar to a wine-focused stop.",
+    "2131": "A nearby entertainment venue that fits the evening timing and the user's tendency to move among transit and nightlife-linked spots.",
+    "716": "Extremely close and consistent with the user's recurring grocery pattern, though less likely at this late hour than a bar.",
+    "333": "Another nearby grocery option that matches provisioning behavior, but is less time-congruent than nightlife venues.",
+    "4210": "A nearby food stop that could follow an evening outing, though it is less aligned with the user's specific bakery/market habits.",
+    "3547": "Close enough to be possible, but gym visits are weaker than bars or food venues for this user's 21:53 movement profile."
+  },
+  "fallback": false
+}

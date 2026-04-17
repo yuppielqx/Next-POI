@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1157",
+  "ranked_loc_ids": [
+    1641,
+    36,
+    1701,
+    5024,
+    4433,
+    68,
+    4436,
+    4443,
+    4435
+  ],
+  "explanations": {
+    "1641": "It is the current location, has the strongest return-to-last pattern, and fits the user’s frequent evening transit-hub behavior.",
+    "36": "A highly recurrent southeast Brooklyn transit node that matches the user’s corridor and the evening southeast movement trend.",
+    "1701": "It is extremely close to the last location and aligns with the user’s transit-heavy routine in East New York.",
+    "5024": "This nearby Atlantic Ave (L) station is a plausible short-hop transit move for a user in the eastern Brooklyn rail network.",
+    "4433": "Another core L-line stop in the user’s habitual Brooklyn corridor and a common transition point in their history.",
+    "68": "A strong residential anchor often visited in the evening, making it a likely onward destination after leaving the transit hub.",
+    "4436": "The user has bank-errand behavior in this neighborhood, though the time and last-location proximity make it less likely than transit or home.",
+    "4443": "This nearby Caribbean restaurant fits the user’s southeast Brooklyn dining pattern, but it is less likely immediately after the last transit check-in.",
+    "4435": "A nearby food stop in the same corridor that could follow an evening transit movement, though it is a lower-probability option."
+  },
+  "fallback": false
+}

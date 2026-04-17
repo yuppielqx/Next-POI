@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2050",
+  "ranked_loc_ids": [
+    1396,
+    1584,
+    795,
+    1043,
+    2524,
+    2049,
+    3695,
+    181,
+    4127,
+    2046
+  ],
+  "explanations": {
+    "1396": "This is the strongest daytime anchor in the user’s history and fits the strong Saturday afternoon coffee pattern in Midtown.",
+    "1584": "The user frequently pairs daytime coffee with fitness, and this nearby Equinox is a top habitual follow-up at this hour.",
+    "795": "A second Equinox option remains highly plausible given the user’s repeated afternoon gym behavior and downtown-Manhattan radius.",
+    "1043": "The user has repeated daytime visits here, and its downtown location fits the user’s core Manhattan movement pattern.",
+    "2524": "This is an extremely close nearby keep in Midtown and could serve as a short transitional stop after the late-night sequence.",
+    "2049": "A practical Midtown lunch stop that matches the afternoon timing and the user’s tendency to make quick daytime errands.",
+    "3695": "Another coffee option in the user’s daytime corridor, though less favored than the primary Starbucks.",
+    "181": "The user has a fitness routine and this could plausibly fit a Saturday afternoon workout, especially in Midtown.",
+    "4127": "A casual food stop in the same general area, but less aligned than coffee or gym venues for this user.",
+    "2046": "The user’s nightlife tendencies make another bar possible, though the afternoon timing makes it a weaker fit than daytime anchors."
+  },
+  "fallback": false
+}

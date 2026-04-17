@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1662",
+  "ranked_loc_ids": [
+    58,
+    88,
+    607,
+    53,
+    2513,
+    1098,
+    4953,
+    1843,
+    2266,
+    766
+  ],
+  "explanations": {
+    "58": "This is the user’s strongest historical anchor in Midtown, and the Sunday afternoon timing fits a routine return to their most frequent Manhattan stop.",
+    "88": "Repeated Sunday visits and the user’s transit-heavy pattern make this major hub a very plausible Midtown destination.",
+    "607": "The Theater District coffee stop matches the user’s Midtown routine and the likely post-lunch Sunday movement.",
+    "53": "Times Square transit access aligns with the user’s commuter-oriented behavior and the Midtown return prior.",
+    "2513": "A familiar Midtown coffee stop fits the user’s retail-and-transit loop behavior.",
+    "1098": "Another Midtown beverage stop that matches the user’s repeated tendency to pair movement with coffee or tea.",
+    "4953": "A Midtown dining option is consistent with the user’s evening/social outing pattern and central Manhattan bias.",
+    "1843": "The user has shown retail interest in Manhattan, and this Upper Midtown shopping stop is still within their usual range.",
+    "2266": "This Upper West Side restaurant is plausible as a meal stop while still staying in the user’s Manhattan core.",
+    "766": "Grocery/errand behavior in Midtown is consistent with the user’s routine-oriented movement pattern."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_403",
+  "ranked_loc_ids": [
+    570,
+    1027,
+    544,
+    5263,
+    3860,
+    15,
+    582,
+    2390,
+    5133,
+    1620
+  ],
+  "explanations": {
+    "570": "A nearby sandwich place fits the early afternoon lunch transition after the museum, and similar users often move from a cultural stop to food.",
+    "1027": "This breakfast spot is very close to the last known location and matches a casual Monday-afternoon meal stop near the Upper West Side.",
+    "544": "A quick, popular lunch option nearby is consistent with the user's leisure-oriented movement and the strong local continuity.",
+    "5263": "An Italian restaurant close to the museum is a plausible relaxed lunch destination for an urban explorer on Monday afternoon.",
+    "3860": "A nearby sushi lunch spot fits the time of day and the user's pattern of making specific dining stops during outings.",
+    "15": "This casual American restaurant is close by and suits a post-museum meal without requiring a borough-crossing jump.",
+    "582": "The nearby Starbucks is a strong pattern match for the user's coffee-anchored routine and a likely short midday stop.",
+    "2390": "The user has a history with park leisure, and a brief move into Central Park is consistent with the nearby north-east movement trend.",
+    "5133": "A theater stop is behaviorally plausible given the user's entertainment-heavy profile, though less likely than lunch-related venues.",
+    "1620": "A revisit is possible because the target time is only a few hours later and the location is already their last known stop."
+  },
+  "fallback": false
+}

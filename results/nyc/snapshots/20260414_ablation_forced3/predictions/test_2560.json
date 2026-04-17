@@ -1,0 +1,24 @@
+{
+  "traj_id": "test_2560",
+  "ranked_loc_ids": [
+    4170,
+    4464,
+    1942,
+    4168,
+    2403,
+    471,
+    515,
+    2824
+  ],
+  "explanations": {
+    "4170": "Ice cream stop nearby fits a short post-greenmarket Brooklyn errand or leisure continuation.",
+    "4464": "A familiar nearby Brooklyn café is plausible for an evening stop before dining or socializing.",
+    "1942": "This nearby bar matches the user's Brooklyn evening nightlife pattern.",
+    "4168": "A routine local stop in the same neighborhood is consistent with a return-to-home-area movement.",
+    "2403": "A nearby Brooklyn restaurant fits a Saturday evening leisure transition.",
+    "471": "A nearby single-visit whisky bar is possible given the evening social context.",
+    "515": "The user is already here and could briefly remain in the area, though evening continuation is less likely.",
+    "2824": "A dinner-oriented option fits the time, but the location is farther and less aligned with the current Brooklyn trend."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_447",
+  "ranked_loc_ids": [
+    2597,
+    3301,
+    2613,
+    2595,
+    2603,
+    2606,
+    2594,
+    2607,
+    2596,
+    2602
+  ],
+  "explanations": {
+    "2597": "This is the strongest morning transit anchor in the user’s history and the most likely next stop given the Sunday 9:10 prior and nearby Woodlawn routine.",
+    "3301": "Similar users at this time often remain near the Woodlawn transit corridor, and this nearby Metro North station fits the current northeast movement trend.",
+    "2613": "The user was just here 40 minutes earlier, so a brief return or continued stay at this immediate local errand stop is plausible.",
+    "2595": "This very close recurring Bronx place matches the user’s habitual local trip-chaining in the Woodlawn area.",
+    "2603": "Another nearby Bronx transit node, this fits the commuter-like pattern of hopping among stations in the same corridor.",
+    "2606": "The user frequently stays within the northern Bronx transit network, making this nearby station a reasonable continuation.",
+    "2594": "This recurrent Bronx metro station is part of the user’s frequent Woodlawn/Gun Hill travel pattern and remains geographically consistent.",
+    "2607": "A nearby food stop on Nereid Ave could fit a short Sunday morning errand or coffee run before transit.",
+    "2596": "This Bronx pizzeria is a historically strong morning match, though it is slightly less likely than the closer transit-focused options.",
+    "2602": "If the user shifts into their recurring Manhattan pattern later, this coffee stop is a common destination, but it is less likely than staying in the Bronx now."
+  },
+  "fallback": false
+}

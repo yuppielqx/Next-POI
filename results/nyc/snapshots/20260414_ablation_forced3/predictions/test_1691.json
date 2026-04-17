@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1691",
+  "ranked_loc_ids": [
+    3246,
+    4052,
+    1059,
+    728,
+    1080,
+    4681,
+    1038,
+    2640,
+    1539,
+    1070
+  ],
+  "explanations": {
+    "3246": "It is immediately adjacent to the last known nightlife stop and fits the user’s Friday-night bar-hopping pattern in the East Village.",
+    "4052": "A same-night revisit is very plausible because the user is already there and often chains late-night venues nearby rather than traveling far.",
+    "1059": "The user has prior history here and it matches their strong late-night nightlife behavior, making it a natural next hop.",
+    "728": "This nearby wine bar aligns with the similar-user pattern of moving from nightlife into drinks-focused stops around 22:08.",
+    "1080": "A nearby wine bar fits the downtown evening orbit and could serve as a brief change of pace after a nightclub/bar.",
+    "4681": "KGB Bar is close by and strongly matches the user’s artsy, late-night downtown venue preferences.",
+    "1038": "Late-night food is a common continuation after bars, and this spot is very close to the last location.",
+    "2640": "Another nearby pizza stop that fits a post-bar food pattern in the East Village.",
+    "1539": "The user occasionally uses transit late at night, and this station is a plausible connector for moving to another nightlife area.",
+    "1070": "It is within the broader Bowery corridor and matches the user’s culturally engaged pattern, though it is less likely than a nearby bar."
+  },
+  "fallback": false
+}

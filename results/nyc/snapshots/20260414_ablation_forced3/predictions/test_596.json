@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_596",
+  "ranked_loc_ids": [
+    3121,
+    1299,
+    613,
+    173,
+    2652,
+    3321,
+    5255,
+    4651,
+    1283,
+    137
+  ],
+  "explanations": {
+    "3121": "This is the user’s strongest repeat Harlem anchor and the last known location, making a return or continued stay there the most likely outcome.",
+    "1299": "It is very close to the current Harlem cluster and fits the user’s errand-oriented daytime movement pattern.",
+    "613": "The user is already in the neighborhood, and a short local move within the Harlem cluster is highly plausible.",
+    "173": "Metro North - Harlem 125th Station matches the user’s uptown movement and provides a nearby transit-oriented next step.",
+    "2652": "The MTA Subway - 125 St hub is a natural nearby connector if the user is continuing north-west movement or shifting around Harlem.",
+    "3321": "This nearby subway stop fits a local Harlem neighborhood transition and the user’s comfort with rail travel.",
+    "5255": "A practical Harlem errand stop that aligns with the user’s mix of routine and utility visits.",
+    "4651": "A nearby Harlem landmark that could plausibly be part of a local afternoon wander in the same area.",
+    "1283": "The user has prior Saturday visits here and it is consistent with their errand-heavy behavior, though it requires a larger cross-town move.",
+    "137": "Penn Station is a historically relevant transit node for this user, but it is less likely than the Harlem options given the current neighborhood context."
+  },
+  "fallback": false
+}

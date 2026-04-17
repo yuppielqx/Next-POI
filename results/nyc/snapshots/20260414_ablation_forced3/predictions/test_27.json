@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_27",
+  "ranked_loc_ids": [
+    227,
+    246,
+    242,
+    247,
+    232,
+    239,
+    1604,
+    260,
+    106,
+    235
+  ],
+  "explanations": {
+    "227": "Strong same-time historical match and consistent with the user’s Upper East Side anchor and evening food pattern.",
+    "246": "Fits the Saturday evening wine-bar behavior and is a common after-dinner social destination.",
+    "242": "A nearby Asian restaurant that matches the user’s food-oriented downtown evening movement.",
+    "247": "Close by and aligned with the user’s repeated preference for casual Indian food outings.",
+    "232": "A nearby bar that fits the late-evening social/drinks pattern seen in the user’s history.",
+    "239": "Matches the user’s nightlife and music-venue tendency in the downtown corridor.",
+    "1604": "Very close to the current location and plausible as a quick nearby food stop during a south-west move.",
+    "260": "Already at the current location, so a repeated linger or re-check-in is possible despite being less informative.",
+    "106": "A transit hub fits the occasional regional movement signature, especially in Lower Manhattan.",
+    "235": "A nearby downtown stop is plausible given the short time gap, though it is less consistent with the social outing pattern."
+  },
+  "fallback": false
+}

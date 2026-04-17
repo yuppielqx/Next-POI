@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_181",
+  "ranked_loc_ids": [
+    480,
+    2792,
+    365,
+    3863,
+    720,
+    8,
+    3488,
+    2460,
+    2935,
+    1328
+  ],
+  "explanations": {
+    "480": "A nearby cocktail bar in SoHo fits the late-Friday-night nightlife pattern and the user’s downtown social behavior.",
+    "2792": "This speakeasy is very close by and matches the strong temporal signal for a Friday night outing.",
+    "365": "A nearby bar is a natural continuation of the current SoHo nightlife trajectory.",
+    "3863": "This popular nightlife spot aligns with the user’s late-night social trips and is within walking distance.",
+    "720": "A lounge nearby fits the expected downtown evening leisure pattern at 23:06 on Friday.",
+    "8": "A gastropub is consistent with the user’s bar/restaurant nightlife behavior and close to the current location.",
+    "3488": "This bar is nearby and suits a likely continued drinking/social stop in Lower Manhattan.",
+    "2460": "A nearby Mexican restaurant is plausible as a late-night dining option in the same neighborhood.",
+    "2935": "An American restaurant close to the current spot could be a fallback dinner destination on a Friday night.",
+    "1328": "This downtown restaurant has been visited before and remains a reasonable Lower Manhattan repeat."
+  },
+  "fallback": false
+}

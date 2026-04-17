@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1166",
+  "ranked_loc_ids": [
+    549,
+    1589,
+    4897,
+    4698,
+    5218,
+    2741,
+    4454,
+    3997,
+    4453,
+    1170
+  ],
+  "explanations": {
+    "549": "It matches the user’s strong Midtown lunch/dinner habit and is a frequent repeat stop in their history, only a short northbound move away.",
+    "1589": "It is the current last-known nightlife spot, so a short continuation or return there is plausible despite the daytime target.",
+    "4897": "A sandwich-shop option right next to the last location fits the 13:22 midday prior and nearby-new-place behavior well.",
+    "4698": "A coffee shop close to the current area aligns with the user’s morning/afternoon food-check-in pattern.",
+    "5218": "Another nearby coffee stop fits the commuter-like Midtown routine and lunch-hour timing.",
+    "2741": "A deli/bodega nearby is consistent with a quick daytime errand or snack in the Midtown corridor.",
+    "4454": "This is one of the user’s strongest habitual locations and fits their recurring personal-care pattern in Midtown.",
+    "3997": "A repeat breakfast/lunch venue in the Penn Station/Herald Square zone matches the user’s established routine.",
+    "4453": "This recurring Midtown anchor fits the user’s structured movement around the West 30s corridor.",
+    "1170": "A nearby casual American restaurant is compatible with the user’s Midtown dining pattern and northward movement."
+  },
+  "fallback": false
+}

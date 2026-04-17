@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_463",
+  "ranked_loc_ids": [
+    116,
+    134,
+    1660,
+    1668,
+    2657,
+    1666,
+    2647,
+    1232,
+    2008,
+    2014
+  ],
+  "explanations": {
+    "116": "It is the strongest recurring transit anchor in the user’s history and the most likely morning transfer destination.",
+    "134": "It is the nearest major transfer hub and a plausible next step from Woodside before heading deeper into Queens.",
+    "1660": "Woodside/LIRR-adjacent rail activity fits the user’s transit-heavy pattern and the current location context.",
+    "1668": "This Queens 7-line stop matches the south-westward rail corridor and the user’s repeated Queens station visits.",
+    "2657": "The user was already in Corona recently, so a short transit-linked return is plausible.",
+    "1666": "A nearby Queens 7-line station that fits a continuation along the same transit spine.",
+    "2647": "Another Queens rail node that aligns with the user’s commuter-like morning movement.",
+    "1232": "The nearby bus depot is consistent with the user’s transfer-heavy transportation chain behavior.",
+    "2008": "Historical weekday morning activity makes this Brooklyn station a reasonable but less immediate candidate.",
+    "2014": "A major Brooklyn transfer hub that appears in the user’s recurring transit network, though farther from the current position."
+  },
+  "fallback": false
+}

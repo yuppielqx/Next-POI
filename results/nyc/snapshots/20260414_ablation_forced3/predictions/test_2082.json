@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2082",
+  "ranked_loc_ids": [
+    5146,
+    4612,
+    4345,
+    5436,
+    5488,
+    4919,
+    3432,
+    5621,
+    5073,
+    2921
+  ],
+  "explanations": {
+    "5146": "It is the user’s last known location, matches their repeated convenience-store pattern, and is the strongest late-night return candidate.",
+    "4612": "This is one of the user’s most recurrent dining spots and fits a familiar northern New Jersey stop nearby.",
+    "4345": "The user frequently revisits Dunkin' and it aligns with their routine-oriented coffee/snack behavior.",
+    "5436": "A nearby food stop in the same Secaucus corridor, plausible for a casual repeat meal or snack visit.",
+    "5488": "Late-night errand behavior makes a nearby grocery stop in Lyndhurst reasonably likely.",
+    "4919": "A breakfast-oriented nearby venue that could fit an early-next-day style detour, though less likely at this hour.",
+    "3432": "A nearby café in Rutherford offers a plausible short-range alternative to the user’s usual food-and-drink pattern.",
+    "5621": "A nearby nightlife option that could attract a late-night stop, though it is less consistent with the user’s history.",
+    "5073": "The user sometimes makes practical commercial trips, so a nearby retail stop is possible but not strongly supported.",
+    "2921": "It appears in the user’s history as an occasional destination, but the timing and context make it less likely than nearby routine stops."
+  },
+  "fallback": false
+}

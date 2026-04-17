@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_880",
+  "ranked_loc_ids": [
+    192,
+    4690,
+    3831,
+    2203,
+    1962,
+    13,
+    1588,
+    67,
+    2828,
+    3826
+  ],
+  "explanations": {
+    "192": "The user was last seen here in the same evening area, and the strongest signal is to continue staying in Washington Square Park rather than move far away.",
+    "4690": "This is the Washington Square Park Fountain, effectively the same immediate spot and the best nearby continuation of the current trajectory.",
+    "3831": "It is very close to the last location and fits his repeated Greenwich Village daytime/evening pattern around Washington Square.",
+    "2203": "He visited Blink Fitness earlier in the current trip, so a return there is plausible for an evening routine stop nearby.",
+    "1962": "This is an adjacent Washington Square area location and fits the user’s current downtown cluster.",
+    "13": "A nearby pub matches his evening leisure and nightlife behavior after staying in the Village.",
+    "1588": "Another very nearby nightlife venue, consistent with a Thursday evening around 19:53.",
+    "67": "Similar users and his own downtown mobility make a short hop to Union Square plausible.",
+    "2828": "A close Greenwich Village destination that fits the user’s current area, though less directly tied to prior behavior.",
+    "3826": "A repeat downtown food stop is possible if he shifts from leisure to a quick meal later in the evening."
+  },
+  "fallback": false
+}

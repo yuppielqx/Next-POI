@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_436",
+  "ranked_loc_ids": [
+    324,
+    2561,
+    2559,
+    2558,
+    2563,
+    2105,
+    4295,
+    2562,
+    3782,
+    3786
+  ],
+  "explanations": {
+    "324": "The user is already at Starbucks and this fits their strong late-evening coffee/utility-stop pattern.",
+    "2561": "A very nearby, highly consistent coffee stop in their usual Bay Ridge corridor.",
+    "2559": "This matches the user's evening errand behavior and is within the same localized neighborhood cluster.",
+    "2558": "A familiar breakfast/food venue in the same small radius, plausible as a quick follow-up stop.",
+    "2563": "Another recurring practical food destination in the user's core area.",
+    "2105": "A nearby bagel shop that fits the user's convenience-food pattern and localized movement.",
+    "4295": "A late-evening quick-stop option that aligns with short errand travel.",
+    "2562": "A nearby discount retail stop consistent with the user's utility-oriented shopping behavior.",
+    "3782": "The northward movement and evening timing make a nearby transit-oriented stop possible.",
+    "3786": "A close-by bakery/food venue that fits the user's neighborhood food-run tendencies."
+  },
+  "fallback": false
+}

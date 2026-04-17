@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_118",
+  "ranked_loc_ids": [
+    158,
+    1550,
+    5549,
+    151,
+    5538,
+    4015,
+    4411,
+    892,
+    4964,
+    889
+  ],
+  "explanations": {
+    "158": "A weekday early-afternoon pattern strongly favors a coffee stop, and this is the most plausible nearby cafe given the current East Harlem location.",
+    "1550": "Similar users at this hour often moved from coffee to another quick food stop, making this a strong lunch-time option.",
+    "5549": "The user’s history and the lunch-time prior both support a nearby restaurant visit for a casual meal.",
+    "151": "A quick-service food stop fits the midday rhythm and the East Harlem area around the current location.",
+    "5538": "Fast food is a plausible weekday lunch choice, especially when the model favors a nearby new place.",
+    "4015": "A Latin American restaurant aligns with the user’s food-oriented movement and the lunchtime context.",
+    "4411": "Another nearby fast-food option that matches a quick lunch pattern better than leisure venues.",
+    "892": "The user has prior interest in BBQ dining, so this familiar food category remains a reasonable next stop.",
+    "4964": "The user is near Central Park and could easily shift to a short daytime leisure walk after the museum visit.",
+    "889": "This is less likely due to distance and context, but remains possible if the user heads to a meeting-style destination."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_840",
+  "ranked_loc_ids": [
+    3743,
+    642,
+    3745,
+    3741,
+    3744,
+    3175,
+    3742,
+    275,
+    29,
+    718
+  ],
+  "explanations": {
+    "3743": "The user’s strongest weekday pattern is returning to the Midtown office cluster after lunch, and the target time strongly favors a work location.",
+    "642": "A transit-hub move is a plausible commute transition if the user is leaving the lunch stop and heading back toward Manhattan.",
+    "3745": "A quick weekday food stop near the office fits the user’s routine and the midday-to-afternoon timing.",
+    "3741": "This is a major home base, but its strongest signal is late night rather than 16:16 on a Friday afternoon.",
+    "3744": "A nearby Hell’s Kitchen gastropub could fit a brief post-lunch or pre-evening stop, though it is less routine than work.",
+    "3175": "Another upscale lunch/dinner venue in the user’s general work corridor, but less likely than a return to office.",
+    "3742": "A commute-related ferry hub is possible given the user’s transit pattern and weekday timing.",
+    "275": "A cinema is within the user’s explored set, but afternoon Friday timing makes it a weaker fit than work or transit.",
+    "29": "The user has some nightlife history, yet this is too early for a bar relative to their usual behavior.",
+    "718": "Nearby nightlife is geographically plausible, but the user’s profile is much more work-centered than social."
+  },
+  "fallback": false
+}

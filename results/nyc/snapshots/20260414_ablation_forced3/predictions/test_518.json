@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_518",
+  "ranked_loc_ids": [
+    2782,
+    2855,
+    2852,
+    2849,
+    1007,
+    2850,
+    2861,
+    2856,
+    2858,
+    5387
+  ],
+  "explanations": {
+    "2782": "The user is most strongly anchored here, the target time is a Monday midday slot, and returning to the LIC core is the dominant pattern after nearby cafe visits.",
+    "2855": "A common midday errand stop in the LIC cluster, especially plausible after being near Cranky’s Cafe and moving locally.",
+    "2852": "This fits the user’s recurring LIC cafe routine and matches the lunch-time coffee/meal pattern seen at similar times.",
+    "2849": "Midday diner behavior is consistent with the user’s neighborhood dining habits and Court Square proximity.",
+    "1007": "The scenic lookout is one of the user’s repeated LIC leisure stops and is close enough for a local afternoon return.",
+    "2850": "Pizza is a strong signature for this user, and this nearby LIC spot often fits short local food transitions.",
+    "2861": "Another recurring LIC neighborhood stop that matches the user’s compact movement style and local routine.",
+    "2856": "The user frequently visits LIC coffee shops around late morning to midday, making this a strong nearby option.",
+    "2858": "A familiar LIC dining venue that fits a lunch-time neighborhood meal, though it is slightly less central than the top picks.",
+    "5387": "This very nearby LIC restaurant is a plausible same-area lunch destination, but it has no prior history compared with the user’s established favorites."
+  },
+  "fallback": false
+}

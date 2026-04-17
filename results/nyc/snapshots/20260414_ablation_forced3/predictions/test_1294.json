@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1294",
+  "ranked_loc_ids": [
+    4646,
+    1252,
+    3551,
+    88,
+    211,
+    489,
+    3913,
+    2901,
+    2974,
+    4101
+  ],
+  "explanations": {
+    "4646": "The user’s last known location is their strongest anchor, and the current trend indicates they are likely to remain at or return home on Saturday night.",
+    "1252": "This is the main alternative repeat destination with strong Saturday and evening history, making it the most plausible departure if they leave home.",
+    "3551": "The user frequently visits this Midtown coffee spot and it fits their established Manhattan trip pattern.",
+    "88": "A recurring transit hub in the user’s history, and Saturday evening is consistent with travel-related movement.",
+    "211": "Close to home and part of the user’s Brooklyn routine, making it a plausible nearby stop.",
+    "489": "The user has some repeat history here, and its Brooklyn bridge-area context fits occasional cross-borough movement.",
+    "3913": "Transit-related behavior is common for this user, and a bus line can plausibly follow a residential check-in.",
+    "2901": "This Brooklyn courthouse has prior visit evidence and is geographically reasonable from Lafayette Gardens.",
+    "2974": "A nearby practical stop in Manhattan that could follow a home-base departure for errands.",
+    "4101": "Late-night Saturday behavior and nearby location make this a possible nightlife-related visit despite no prior visits."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1422",
+  "ranked_loc_ids": [
+    2585,
+    497,
+    2795,
+    3337,
+    2413,
+    2310,
+    3235,
+    4245,
+    2330,
+    3164
+  ],
+  "explanations": {
+    "2585": "The user has repeatedly returned to this nightclub and the time prior strongly suggests starting or resuming the Chelsea/Meatpacking nightlife loop here.",
+    "497": "Very close to 1 Oak and part of the user’s established late-night Chelsea club/lounge circuit, making it a strong nearby continuation.",
+    "2795": "A known nightlife venue in the same cluster that fits the user’s club-heavy late-evening pattern.",
+    "3337": "Another nearby Meatpacking nightclub that matches the user’s lounge-and-club preferences and proximity to the last stop.",
+    "2413": "A plausible nearby lounge stop for an early-night transition before later clubbing, consistent with similar-user behavior.",
+    "2310": "Late-night food often caps the user’s nightlife chain, so this remains a credible next move from 1 Oak.",
+    "3235": "A nearby bar that fits an early-night drink stop in the same West Chelsea nightlife zone.",
+    "4245": "A nightlife venue close to the current area that aligns with the user’s entertainment-centered movement pattern.",
+    "2330": "A nearby American restaurant that could serve as an early evening dinner stop before the user heads deeper into nightlife.",
+    "3164": "A close sushi restaurant that matches the similar-user dinner-to-nightlife transition and the area’s dining options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_56",
+  "ranked_loc_ids": [
+    430,
+    440,
+    429,
+    439,
+    428,
+    448,
+    437,
+    431,
+    108,
+    441
+  ],
+  "explanations": {
+    "430": "This is the user’s strongest anchor point and the most likely short return from the last known location during the afternoon work corridor.",
+    "440": "A very nearby routine coffee stop that fits the user’s repeated workday chaining pattern around the Union City corridor.",
+    "429": "Another frequent nearby errand stop that aligns with the user’s compact local movement style after leaving the office.",
+    "439": "The user often moves within this immediate neighborhood cluster, and the northwest trend supports a short local shift here.",
+    "428": "A nearby coffee shop consistent with the user’s post-lunch mobility and prior Hoboken stop behavior.",
+    "448": "A plausible afternoon errand destination that matches the user’s grocery-stop pattern in the nearby Hoboken/Union City area.",
+    "437": "Fits the user’s visible afternoon leisure/dining behavior and is close enough for a short corridor move.",
+    "431": "The user has visited this venue before, and the afternoon time slot can support an early leisure stop.",
+    "108": "A transit-adjacent option that matches similar-user behavior and the user’s propensity for compact chaining near Hoboken.",
+    "441": "A reasonable but less likely regional retail stop given the user’s occasional suburban shopping trips."
+  },
+  "fallback": false
+}

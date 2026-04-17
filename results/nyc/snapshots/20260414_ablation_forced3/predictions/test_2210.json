@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2210",
+  "ranked_loc_ids": [
+    672,
+    200,
+    2867,
+    4008,
+    1111,
+    137,
+    4546,
+    301,
+    237,
+    3053
+  ],
+  "explanations": {
+    "672": "It is the strongest weekday morning repeat stop in the user’s history and is explicitly favored by the time-conditioned prior for 11:06 on Monday.",
+    "200": "This Manhattan coffee stop matches the user’s recurring morning workday routine and is a common quick revisit after commuting.",
+    "2867": "The user frequently uses this as a practical weekday coffee/breakfast stop in the same Manhattan corridor.",
+    "4008": "The user’s signature commute hub makes this a plausible next move if they are returning to the usual ferry-based pattern.",
+    "1111": "This is one of the user’s most distinctive recurring weekday transit behaviors and fits the commuter profile well.",
+    "137": "Penn Station is a strong transportation fallback within the user’s Manhattan commute geography, especially after a taxi ride.",
+    "4546": "The user has multiple visits here, making it a reasonable recurring appointment-related destination.",
+    "301": "Union Square is within the user’s common daytime territory and this is a plausible errand or food stop.",
+    "237": "This fits the user’s Manhattan east-side movement pattern, though it is less likely for the Monday morning time slot.",
+    "3053": "The location matches the user’s Manhattan social/workday corridor and could be a daytime meal stop, but it is less recurrent than the top food choices."
+  },
+  "fallback": false
+}

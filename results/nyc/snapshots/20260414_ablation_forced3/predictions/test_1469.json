@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1469",
+  "ranked_loc_ids": [
+    735,
+    4849,
+    1572,
+    3297,
+    4206,
+    2313,
+    2511,
+    2941,
+    4693,
+    3742
+  ],
+  "explanations": {
+    "735": "A nearby familiar bar fits the late-night Saturday social pattern and the user’s strong after-dinner nightlife tendency.",
+    "4849": "This is a historically strong midnight-to-2am bar for the user and matches the target time well.",
+    "1572": "A close nightlife option in the downtown corridor, consistent with a post-dinner bar continuation.",
+    "3297": "Another nearby bar in the West Village area that fits the user’s frequent late-evening pub behavior.",
+    "4206": "A prior-time-similar American spot that could serve as a casual late-night stop after dinner.",
+    "2313": "This nearby Southern food venue is plausible as the user continues a social outing with food and drinks.",
+    "2511": "A nearby bar in the same late-night movement corridor, suitable for a night-out continuation.",
+    "2941": "A repeat check-in is possible since the user was just there and has a pattern of revisiting familiar spots.",
+    "4693": "A classic late-night destination that matches the user’s bar-and-pub preferences.",
+    "3742": "Less likely at this hour, but retained because ferry-related locations are a recurring anchor in the user’s history."
+  },
+  "fallback": false
+}

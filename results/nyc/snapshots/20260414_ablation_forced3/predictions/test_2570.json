@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2570",
+  "ranked_loc_ids": [
+    5710,
+    5683,
+    5622,
+    4145,
+    5621,
+    4753,
+    1794,
+    3775,
+    4487,
+    1157
+  ],
+  "explanations": {
+    "5710": "It is the strongest return target with the highest same-time history, was the last known stop, and matches the user’s late-night bar-hopping pattern.",
+    "5683": "Very close to the last location and heavily favored in the midnight-to-2 a.m. window, making it the main nearby nightlife alternative.",
+    "5622": "It is essentially adjacent to the last location and fits the user’s recurring bar circuit in the same Clifton corridor.",
+    "4145": "This restaurant has repeated late-night usage and sits within the same broader nightlife route, though it is less likely than the core bar cluster.",
+    "5621": "A proven late-night bar in the user’s history, but it is farther away than the immediate Clifton/Passaic options.",
+    "4753": "Another familiar bar in the user’s nightlife orbit, though its transition strength is weaker than the top venues.",
+    "1794": "It is nearby and nightlife-oriented, but the user has fewer historical signals here than at the primary bars.",
+    "3775": "The user has visited it before in late-night hours, but it is more of a prior stop than a likely immediate next move.",
+    "4487": "A nearby bar candidate with matching category, but it has no prior visitation history for this user.",
+    "1157": "It fits the late-night social profile, but its Hoboken location makes it a much less likely next step than the local corridor."
+  },
+  "fallback": false
+}

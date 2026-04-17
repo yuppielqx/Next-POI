@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_899",
+  "ranked_loc_ids": [
+    1703,
+    3913,
+    533,
+    886,
+    1131,
+    3918,
+    2849,
+    1551,
+    724,
+    905
+  ],
+  "explanations": {
+    "1703": "This is the user’s strongest repeat afternoon anchor and best matches the return-to-frequent-place pattern.",
+    "3913": "The user has Wednesday history here and the north-east movement trend keeps Brooklyn transit plausible.",
+    "533": "It matches prior noon-to-early-afternoon visits and fits a Manhattan lunch-break style stop.",
+    "886": "The user favors food stops and Chinatown is a recurring dining area in their history.",
+    "1131": "Afternoon bakery visits are a strong fit for this user’s lunch-to-snack behavior.",
+    "3918": "This is a Manhattan food/social stop that aligns with the user’s midday urban wandering pattern.",
+    "2849": "A diner visit fits the user’s casual lunch-heavy mobility and Queens/Brooklyn corridor.",
+    "1551": "The user often moves into bars after daytime stops, making this a reasonable social follow-up.",
+    "724": "Beer garden/leisure behavior matches their weekend and afternoon social patterns.",
+    "905": "A Brooklyn dive bar fits their nightlife-leaning but still afternoon-capable movement style."
+  },
+  "fallback": false
+}

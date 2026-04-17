@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_585",
+  "ranked_loc_ids": [
+    1036,
+    2131,
+    720,
+    259,
+    2792,
+    2531,
+    1770,
+    2989,
+    137
+  ],
+  "explanations": {
+    "1036": "This is the user’s dominant repeat nightlife anchor and the strongest match for a late-night Sunday return into the East Village/Union Square corridor.",
+    "2131": "Another nearby music venue in the user’s core downtown nightlife zone, making it a plausible alternate concert stop.",
+    "720": "The user has visited this lounge before and it fits the late-evening social pattern in Lower Manhattan.",
+    "259": "A nightlife bar in the East Village area that aligns well with the user’s bar-and-lounge behavior.",
+    "2792": "This speakeasy matches the user’s nightlife profile and downtown Manhattan preferences.",
+    "2531": "A repeatable nightlife option in Nolita/SoHo that fits the user’s occasional speakeasy pattern.",
+    "1770": "A prior user venue and music-stop alternative, though less aligned than the East Village anchors.",
+    "2989": "The current stop could continue into this nearby performing arts venue, but it is less consistent with the user’s usual pattern.",
+    "137": "A transportation hub fallback possibility if the user is transitioning between nightlife stops rather than settling at one venue."
+  },
+  "fallback": false
+}

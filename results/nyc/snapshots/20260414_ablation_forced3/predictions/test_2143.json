@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2143",
+  "ranked_loc_ids": [
+    3053,
+    2308,
+    2364,
+    936,
+    2083,
+    1388,
+    275,
+    338,
+    3381,
+    3219
+  ],
+  "explanations": {
+    "3053": "A nearby restaurant fits the strong late-evening dining pattern and the user is already in the Union Square corridor.",
+    "2308": "This matches the user’s history of evening restaurant/bar visits and is a plausible nearby nightlife continuation.",
+    "2364": "Another familiar dining venue in the user’s Lower Manhattan social corridor, consistent with a Saturday night outing.",
+    "936": "The user has a clear preference for evening food-and-drink spots, and this is a fitting nearby social destination.",
+    "2083": "A gastropub is highly consistent with the user’s nightlife pattern after Park Bar.",
+    "1388": "Prior history and late-evening food behavior make this a reasonable Brooklyn dining revisit.",
+    "275": "A cinema is plausible for a Saturday night activity near the current location, though less likely than dining.",
+    "338": "The user has history with lifestyle food venues, and this remains a credible nearby evening stop.",
+    "3381": "A practical grocery stop is possible given the routine-oriented profile, but it is less aligned with the late-night time.",
+    "3219": "The recurring Brooklyn anchor is important in the user’s history, but a return home/anchor is less likely than a nearby night out."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_361",
+  "ranked_loc_ids": [
+    2187,
+    1542,
+    2189,
+    2190,
+    1537,
+    232,
+    256,
+    2541,
+    4230,
+    3155
+  ],
+  "explanations": {
+    "2187": "This is the user’s dominant late-night anchor with 7 midnight-to-2 a.m. visits, making a return the strongest next-step prediction.",
+    "1542": "It fits the same Bushwick/East Williamsburg nightlife loop and has been repeatedly visited in the same midnight-to-2 a.m. window.",
+    "2189": "Another core Brooklyn bar in the user’s regular circuit, also matching their strongest late-night timing pattern.",
+    "2190": "The user is already there, so staying put remains plausible despite weaker historical preference.",
+    "1537": "This Brooklyn dive-bar-like option fits the user’s nightlife taste and broader Bushwick area pattern.",
+    "232": "It is a known bar in the user’s history, though less central and farther from the core midnight Brooklyn cluster.",
+    "256": "A nearby wine bar that could plausibly be part of a short East Village bar-hopping continuation.",
+    "2541": "A nearby bar option that matches the nighttime venue type, though it lacks any personal history signal.",
+    "4230": "This is a close-by nightlife venue in the East Village that could attract a late-night move.",
+    "3155": "Another nearby bar with compatible category and distance, but weaker evidence than the options above."
+  },
+  "fallback": false
+}

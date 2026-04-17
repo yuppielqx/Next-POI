@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1970",
+  "ranked_loc_ids": [
+    2409,
+    647,
+    2889,
+    3699,
+    416,
+    2702,
+    408,
+    1050,
+    3618,
+    1841
+  ],
+  "explanations": {
+    "2409": "Strongest habitual evening gym anchor in the user’s core Flatiron/Chelsea routine, and the time prior favors a return to this frequent place.",
+    "647": "Very close to the last location and consistent with the user’s coffee/errand pattern around Flatiron after dinner.",
+    "2889": "A nearby gym option that fits the user’s fitness-heavy profile and evening mobility rhythm.",
+    "3699": "Close by and aligned with the user’s health-oriented post-workout food/juice stop behavior.",
+    "416": "Fits the user’s occasional evening landmark visits and remains within the Midtown South corridor.",
+    "2702": "A recurring user location that matches the neighborhood-based habit pattern, though it is less proximate than the top choices.",
+    "408": "A café visit fits the evening coffee tendency, but it is farther from the current Manhattan cluster.",
+    "1050": "Nearby and plausible for an evening outing, though the user’s history makes gyms and cafés more likely than karaoke bars.",
+    "3618": "A valid evening destination that matches nighttime mobility, but it is less supported than routine fitness or food stops.",
+    "1841": "Very close to the current position and a reasonable dinner follow-up, but it lacks direct historical support compared with the gym anchors."
+  },
+  "fallback": false
+}

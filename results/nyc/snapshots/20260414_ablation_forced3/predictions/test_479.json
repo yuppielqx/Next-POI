@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_479",
+  "ranked_loc_ids": [
+    2708,
+    2718,
+    2707,
+    2709,
+    2706,
+    4490,
+    2630,
+    2956,
+    1721,
+    3042
+  ],
+  "explanations": {
+    "2708": "The strongest pattern is an overnight stay at this main anchor, and 6:30 a.m. on Thursday matches its highly recurrent early-morning check-ins.",
+    "2718": "This is the most likely next commute destination after the home/base anchor, given the user’s repeated morning link to the office building cluster.",
+    "2707": "It is another frequent nearby routine stop in the same corridor and fits the user’s short-radius commuter pattern.",
+    "2709": "The user often visits nearby dining venues in this cluster, and this restaurant is a well-established repeat point in their history.",
+    "2706": "This nearby American restaurant is part of the same habitual office-dining ecosystem and has recurring presence in the user’s trips.",
+    "4490": "Similar users often show early-morning convenience-store behavior, and this is a plausible routine stop near the current area.",
+    "2630": "A nearby practical errand stop that fits a morning routine before heading into the work corridor.",
+    "2956": "This similar-user-supported dining option is close enough to fit a short morning movement, though less habitual for this user.",
+    "1721": "A plausible breakfast stop in the local retail cluster, but the user’s history favors the anchor location more strongly.",
+    "3042": "This nearby fast-food option is possible for a morning visit, but it is less aligned with the user’s established routine than the top choices."
+  },
+  "fallback": false
+}

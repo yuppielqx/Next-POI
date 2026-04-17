@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2281",
+  "ranked_loc_ids": [
+    5581,
+    5582,
+    5584,
+    828,
+    3348,
+    4424,
+    123,
+    3684,
+    2159,
+    5583
+  ],
+  "explanations": {
+    "5581": "It is the user’s strongest anchor and the last known location, making a return or continued stay most likely by this evening time.",
+    "5582": "This is the closest recurring nearby hangout in the user’s home-base area and fits a short local movement from home.",
+    "5584": "It is extremely close to the last location and could plausibly be a quick nearby errand stop before any larger move.",
+    "828": "The movement trend is north-east, and this nearby Queens area fits a small local drift from the residence.",
+    "3348": "A nearby restaurant option that fits an evening outing without requiring a major cross-city trip.",
+    "4424": "This nearby Starbucks in Forest Hills matches a plausible short local stop and the user’s occasional afternoon/evening outings.",
+    "123": "The user has prior history there and it is a reasonable evening destination within Queens.",
+    "3684": "A nightlife spot in Queens that aligns with the user’s social late-day/early-evening behavior, though less likely than local home-area places.",
+    "2159": "This JFK-linked location appears in the user’s history and could fit a later transport- or work-linked movement.",
+    "5583": "An occasional JFK-area event/work location that is plausible but less likely than the home-base cluster given the current time and recent stay."
+  },
+  "fallback": false
+}

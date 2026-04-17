@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2005",
+  "ranked_loc_ids": [
+    5386,
+    4871,
+    5381,
+    513,
+    5677,
+    3786,
+    324,
+    2558,
+    2561,
+    3782
+  ],
+  "explanations": {
+    "5386": "The user was just checked in here one minute ago and their routine strongly favors staying at the current fitness venue.",
+    "4871": "Another nearby Brooklyn gym fits the user’s highly repetitive evening fitness pattern and may be the next workout-related stop.",
+    "5381": "The user frequently visits this martial arts dojo in the same routine cluster, especially in the 6–8pm window.",
+    "513": "A very common habitual stop for this user, often paired with fitness visits in southern Brooklyn.",
+    "5677": "A nearby dinner option that fits a post-workout food stop without requiring a large detour.",
+    "3786": "Close by and plausible as a quick food stop after the gym, though less aligned than the core routine spots.",
+    "324": "A nearby café option that could fit a brief post-gym beverage or meet-up stop.",
+    "2558": "The user has a strong bagel-shop preference, making this nearby bakery plausible despite no prior visits.",
+    "2561": "Another close food stop that could follow an evening fitness session, but with weaker historical support.",
+    "3782": "A nearby transit station is possible if the user is leaving the area, though it is less likely than staying within the fitness cluster."
+  },
+  "fallback": false
+}

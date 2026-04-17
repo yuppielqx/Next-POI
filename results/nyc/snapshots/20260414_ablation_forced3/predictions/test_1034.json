@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1034",
+  "ranked_loc_ids": [
+    4219,
+    138,
+    4220,
+    771,
+    4222,
+    2977,
+    2870,
+    1185,
+    701,
+    555
+  ],
+  "explanations": {
+    "4219": "The user repeatedly returns here in the 6–8 p.m. slot, and the evening prior strongly favors a familiar local stop in the same Brooklyn/Queens corridor.",
+    "138": "This metro station is one of the user’s strongest anchors and fits a likely commuter return after the afternoon coffee outing.",
+    "4220": "A frequent nearby food stop that matches the user’s neighborhood routine and evening food-related behavior.",
+    "771": "It is extremely close and acts as a natural transition point for a commuter moving through the same transit corridor.",
+    "4222": "The user often visits Chinese food spots in the evening, making this a plausible dinner destination.",
+    "2977": "Grocery runs are part of the user’s secondary pattern, and this nearby store fits a practical after-work errand.",
+    "2870": "Another nearby grocery option that aligns with the user’s routine, local, utilitarian movement style.",
+    "1185": "A local bar could fit the evening time slot, though it is less consistent with the user’s usual transit-and-neighborhood pattern.",
+    "701": "The user has a small history with bakery/coffee spots, and this remains a plausible low-distance food stop.",
+    "555": "This is a known user destination, but it is much farther away and less consistent with the current local return pattern."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_452",
+  "ranked_loc_ids": [
+    2616,
+    2618,
+    2620,
+    2619,
+    2617,
+    2626,
+    2615,
+    2621,
+    2630,
+    445
+  ],
+  "explanations": {
+    "2616": "Late Saturday night most strongly fits a routine return to the user’s home-base, and it is one of their most frequent and time-consistent destinations.",
+    "2618": "A familiar diner is a plausible late-evening stop in this routine suburban pattern, especially after being out at Fairway Market earlier.",
+    "2620": "CVS is a common quick errand destination and fits a short late-night convenience stop near the user’s core area.",
+    "2619": "The user has visited this diner before, and similar users often shift to late-night dining around this hour.",
+    "2617": "This is a repeated routine stop for the user and remains plausible as a nearby food visit before heading home.",
+    "2626": "Grocery-related movement matches the current trip’s shopping context, though it is less likely this late at night than home.",
+    "2615": "The church is one of the user’s strongest anchors, but the late-night Saturday timing makes it less likely than home.",
+    "2621": "A quick coffee/snack stop is possible for a routine user, though it is less aligned with the late-night hour.",
+    "2630": "The user is currently at this nearby grocery location, but the next step is more likely to be leaving rather than staying.",
+    "445": "The mall is a possible nearby destination, but the user’s profile and the late hour make it a weak fit."
+  },
+  "fallback": false
+}

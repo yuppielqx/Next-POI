@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2258",
+  "ranked_loc_ids": [
+    176,
+    4322,
+    3254,
+    1431,
+    4963,
+    557,
+    598,
+    1190,
+    4603,
+    629
+  ],
+  "explanations": {
+    "176": "This is the user’s strongest recurring transportation hub and best fits a late-night southeast move after the Bronx stop.",
+    "4322": "It is extremely close to the last location and aligns with a likely immediate corridor crossing in the Marble Hill/225th Street area.",
+    "3254": "A nearby transit node that fits the user’s road-to-transit transfer behavior around late-night movement.",
+    "1431": "The Marble Hill train station is a plausible next step given the user’s repeated access-corridor travel and proximity.",
+    "4963": "University Heights station matches the user’s transit-oriented pattern and could follow an east/south movement through the Bronx.",
+    "557": "A frequent historical crossing for this user, plausible if they continue regional travel toward Manhattan or New Jersey.",
+    "598": "Another repeated bridge in the user’s history that fits the broader bridge-and-tunnel commuting pattern.",
+    "1190": "The user may simply remain at or revisit the current stop, especially during a late-night errand sequence.",
+    "4603": "A nearby diner is a reasonable late-night stop if the user pauses for food rather than continuing to a crossing.",
+    "629": "This is a historically observed late-night nightlife venue, but it is less likely than nearby transportation options."
+  },
+  "fallback": false
+}

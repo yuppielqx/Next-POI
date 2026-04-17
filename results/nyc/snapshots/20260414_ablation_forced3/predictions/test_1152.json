@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1152",
+  "ranked_loc_ids": [
+    3235,
+    5303,
+    3196,
+    3384,
+    3537,
+    407,
+    624,
+    2450,
+    1485,
+    88
+  ],
+  "explanations": {
+    "3235": "It is the closest strong nightlife option to Frying Pan and fits the user’s late-night west-side bar continuation pattern.",
+    "5303": "A nearby nightclub that matches the 00:49 Friday-night timing and likely continuation of the evening out.",
+    "3196": "This close gay bar aligns with the user’s downtown nightlife history and the late-hour social context.",
+    "3384": "A historical late-night venue for this user, making it a strong candidate despite being farther away.",
+    "3537": "Another downtown bar that fits the late-night bar/restaurant pattern seen in similar users.",
+    "407": "A nightlife spot in the East Village that matches the user’s occasional midnight-to-2am social behavior.",
+    "624": "The user has midnight-to-2am history here, making a Korean late-night food stop plausible.",
+    "2450": "A classic late-night food destination in the downtown nightlife corridor, suitable after a beer garden visit.",
+    "1485": "A nearby late-night burger option around Times Square that could follow the west-side outing.",
+    "88": "If the night ended early, a transit-related move back toward commuting would be possible, though less likely than nightlife."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1438",
+  "ranked_loc_ids": [
+    3989,
+    1110,
+    3593,
+    1776,
+    4821,
+    495,
+    2432,
+    874,
+    3097,
+    454
+  ],
+  "explanations": {
+    "3989": "Monday 9 a.m. is their strongest habitual fitness window, and this is their most visited gym with multiple Monday check-ins.",
+    "1110": "Their routine often pairs morning workouts with nearby grocery errands, and this store has repeated 9–11 a.m. visits.",
+    "3593": "Another fitness anchor in the same weekday corridor, plausible if they switch gyms after a weekend gap.",
+    "1776": "Strong Monday morning presence and regular 9–11 a.m. visits make this a credible work/event-space destination.",
+    "4821": "Their bakery stops fit the post-workout provisioning pattern and appear in the same Manhattan corridor.",
+    "495": "Very close to the last location, but the user’s profile is much less nightlife-oriented than fitness-oriented.",
+    "2432": "A nearby breakfast spot that fits a Monday morning transition, though it is less supported by the user’s history than gym or grocery.",
+    "874": "Adjacent to the last known area and plausible as a short continuation of movement, but with no history support.",
+    "3097": "A possible weekday professional stop in the broader Midtown/Flatiron corridor, but only weakly represented in the user’s record.",
+    "454": "Nearby outdoor destination that fits general movement, but it is less consistent with the user’s structured morning routine."
+  },
+  "fallback": false
+}

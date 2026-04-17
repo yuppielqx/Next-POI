@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1139",
+  "ranked_loc_ids": [
+    1830,
+    4402,
+    1827,
+    3153,
+    3533,
+    4403,
+    3198,
+    1800,
+    1799,
+    4401
+  ],
+  "explanations": {
+    "1830": "The user was there just 8 minutes ago, and it is by far their strongest recurring anchor in this Sunday morning corridor.",
+    "4402": "This nearby breakfast/cafe stop fits the user’s Central Park South routine and is a common companion venue to the Ritz-Carlton.",
+    "1827": "It is extremely close to the last hotel location and matches the user’s early-morning coffee pattern.",
+    "3153": "A nearby breakfast spot that fits the Sunday morning time and could follow a hotel stay.",
+    "3533": "The user often makes pharmacy runs in this area, and it is a plausible short move from the Ritz-Carlton.",
+    "4403": "This nearby Midtown deli/bodega is very close to the current area and could be a quick food stop.",
+    "3198": "Very close to the hotel corridor and a plausible adjacent stop in Midtown West.",
+    "1800": "A nearby restaurant in the same block-level area that fits an early meal or meetup pattern.",
+    "1799": "Another immediately adjacent venue in the same Central Park South area, though less consistent with the morning routine.",
+    "4401": "A nearby sandwich shop close to the hotel zone that could serve as a quick breakfast stop."
+  },
+  "fallback": false
+}

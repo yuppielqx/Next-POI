@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1447",
+  "ranked_loc_ids": [
+    3818,
+    4009,
+    3620,
+    3822,
+    4147,
+    3821,
+    1386,
+    4087,
+    4542,
+    1083
+  ],
+  "explanations": {
+    "3818": "The next check-in is only one minute after the last known stop, and this is the user’s strongest recurring Upper East Side anchor.",
+    "4009": "It is extremely close to the last location and fits the user’s occasional evening bar pattern.",
+    "3620": "A nearby dive bar that matches the user’s evening social behavior and Upper East Side routine.",
+    "3822": "This is one of the user’s most repeated morning anchors and remains plausible as a nearby habitual stop.",
+    "4147": "A core part of the user’s regular corridor, and a plausible follow-on if they are continuing their routine.",
+    "3821": "Very close to the last location and a practical errand stop in the user’s familiar neighborhood.",
+    "1386": "The user frequently visits grocery-related places, and this nearby store fits that habit.",
+    "4087": "A nearby neighborhood stop with some prior history and good spatial fit.",
+    "4542": "Another recurring grocery-store anchor in the same Upper East Side cluster, though less likely than the closest options.",
+    "1083": "A reasonable nearby food stop, but weaker than the user’s core habitual locations."
+  },
+  "fallback": false
+}

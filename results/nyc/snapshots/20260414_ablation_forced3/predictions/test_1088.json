@@ -1,0 +1,24 @@
+{
+  "traj_id": "test_1088",
+  "ranked_loc_ids": [
+    1024,
+    2831,
+    2862,
+    1816,
+    1817,
+    88,
+    1683,
+    730
+  ],
+  "explanations": {
+    "1024": "The user was just there moments ago, and the late-night nightlife pattern strongly favors staying in the same Upper West Side corridor.",
+    "2831": "It is the immediate adjacent nightlife option and a highly plausible next step after the rooftop at this hour.",
+    "2862": "A nearby late-night bar is a natural continuation of the user’s nightlife movement around Columbus Circle.",
+    "1816": "Another nearby sit-down option that matches a short-radius move after drinks.",
+    "1817": "The user is still in the Lincoln Center complex, making a nearby venue shift plausible.",
+    "88": "If the outing is ending, a transit-oriented move toward Midtown transport is likely.",
+    "1683": "The profile shows frequent commuter returns through Hoboken, so a cross-river transit move is possible.",
+    "730": "Although farther away, it matches the user’s occasional nightlife pattern and could be a later-night bar hop."
+  },
+  "fallback": false
+}

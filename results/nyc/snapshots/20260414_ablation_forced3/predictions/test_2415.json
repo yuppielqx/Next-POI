@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2415",
+  "ranked_loc_ids": [
+    3972,
+    2334,
+    289,
+    1196,
+    209,
+    1072,
+    5394,
+    59,
+    1629,
+    626
+  ],
+  "explanations": {
+    "3972": "The user was just there at 11:37 and has repeatedly returned there around midday, making a nearby revisit the strongest choice.",
+    "2334": "Hotel Chantelle is almost adjacent to the last stop and fits the user’s Lower East Side midday dining pattern.",
+    "289": "This is a frequent coffee stop in the user’s Canal Street routine and a natural mid-afternoon follow-on.",
+    "1196": "The user often moves from the Lower East Side toward Chinatown for food and errands, especially around lunch.",
+    "209": "It is very close to the last location and matches the user’s compact neighborhood movement style seen in similar users.",
+    "1072": "SoHo is a common nearby commercial destination in the user’s Lower Manhattan loop after fitness or coffee stops.",
+    "5394": "The nearby SVA residence hall is an immediate eastward step from Ludlow Fitness, aligning with the movement trend.",
+    "59": "The user has a history of noon-to-early-afternoon visits there, though it is less likely than a nearby Lower Manhattan stop.",
+    "1629": "Atlantic Terminal & Atlantic Mall fits the user’s Brooklyn travel pattern, but it is less consistent with the current local sequence.",
+    "626": "This is another historically plausible afternoon entertainment stop, but it is secondary to the current Lower East Side corridor."
+  },
+  "fallback": false
+}

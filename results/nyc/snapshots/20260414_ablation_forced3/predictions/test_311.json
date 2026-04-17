@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_311",
+  "ranked_loc_ids": [
+    130,
+    1035,
+    2014,
+    2009,
+    113,
+    2010,
+    114,
+    1629,
+    309,
+    2013
+  ],
+  "explanations": {
+    "130": "At 22:46 the user is very likely heading back toward their Brooklyn home base, and Nevins St. is a core transfer point on that return path.",
+    "1035": "This is one of the user’s most frequent Brooklyn transit hubs and fits a late-evening move home through Downtown Brooklyn.",
+    "2014": "A major connection point in the Atlantic corridor, it strongly matches the user’s repeated station-to-home late-night pattern.",
+    "2009": "The user’s strongest home anchor, and the late-night timing makes an arrival home highly plausible.",
+    "113": "DeKalb Ave is a heavily used evening transit node for this user and fits a Brooklyn-bound transfer sequence.",
+    "2010": "This Bay Parkway bus stop aligns with the user’s southern Brooklyn commuting style and could be part of the ride home.",
+    "114": "As a bridge crossing station, it matches a westward return from Manhattan into Brooklyn.",
+    "1629": "A Starbucks near Atlantic Terminal, this is a plausible short stop within the user’s regular Downtown Brooklyn transit corridor.",
+    "309": "This southern Brooklyn Starbucks is consistent with the user’s Brooklyn-centered movement, though less likely than the major transit hubs.",
+    "2013": "A familiar Brooklyn dining spot for the user, but late-night transit-home behavior is more consistent than another meal stop."
+  },
+  "fallback": false
+}

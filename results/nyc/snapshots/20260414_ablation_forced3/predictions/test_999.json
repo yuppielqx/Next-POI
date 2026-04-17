@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_999",
+  "ranked_loc_ids": [
+    4158,
+    4153,
+    4162,
+    4155,
+    3703,
+    3708,
+    2697,
+    4157,
+    1122,
+    1035
+  ],
+  "explanations": {
+    "4158": "The user has just checked in here on Friday morning and their strongest pattern is a tight Lower Manhattan work routine with repeat visits.",
+    "4153": "It is a frequent Friday midday destination in the user’s history and fits the same Manhattan work corridor.",
+    "4162": "It is immediately adjacent to the last location and matches the user’s recent gym activity and nearby movement trend.",
+    "4155": "This nearby residential/professional building has noon-to-afternoon repeats and fits a stay-in-area midday transition.",
+    "3703": "The user often moves to nearby lunch spots in Lower Manhattan around midday, and this is very close.",
+    "3708": "A nearby food and drink venue that matches the user’s frequent bar/restaurant patterns after morning work check-ins.",
+    "2697": "This is a familiar nearby nightlife spot in the Financial District with prior visits and close proximity.",
+    "4157": "A Manhattan lunch option that fits the afternoon time window and the user’s professional-area mobility.",
+    "1122": "A plausible Midtown alternative from the user’s historical noon-to-afternoon pattern, though farther away.",
+    "1035": "Included because the user sometimes moves toward Brooklyn transit hubs, but it is less likely than the Lower Manhattan options."
+  },
+  "fallback": false
+}

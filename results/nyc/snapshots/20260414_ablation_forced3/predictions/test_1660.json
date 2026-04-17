@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1660",
+  "ranked_loc_ids": [
+    5057,
+    5058,
+    192,
+    3632,
+    4482,
+    67,
+    942,
+    3718,
+    3711,
+    2911
+  ],
+  "explanations": {
+    "5057": "Monday afternoon and the user’s strong Manhattan arts pattern make a familiar theater stop the best fit.",
+    "5058": "This is the strongest historical anchor and the time window matches the user’s frequent midday-to-afternoon cultural visits.",
+    "192": "A common downtown daytime destination that fits the user’s clustered Manhattan movement and afternoon prior.",
+    "3632": "The user often pairs daytime movement with coffee, and this nearby coffee shop suits an afternoon reset.",
+    "4482": "Another strong coffee-shop match for a Monday afternoon stop in the user’s usual Manhattan corridor.",
+    "67": "The user repeatedly orbits Union Square/NoHo, making this a plausible daytime pause.",
+    "942": "A favored downtown bar that fits the user’s social nightlife bias, though it is less likely at 14:13.",
+    "3718": "Close to the current location and aligned with the user’s bar-heavy pattern, especially if the day continues south-west.",
+    "3711": "The immediate nearby bar makes a short-hop continuation plausible after the last nightlife spot.",
+    "2911": "It is the current location and could be retained briefly, though a next move is more likely given the timestamp."
+  },
+  "fallback": false
+}

@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2358",
+  "ranked_loc_ids": [
+    577,
+    570,
+    3906,
+    582,
+    561,
+    569,
+    4326,
+    3563,
+    2353
+  ],
+  "explanations": {
+    "577": "This is the strongest habitual follow-up from Lenny's in the Upper West Side corridor, and it is only a very short walk away.",
+    "570": "The user is already at this sandwich place, so a brief dwell or continued stay is plausible immediately after 11:44.",
+    "3906": "A nearby coffee stop is consistent with a late-morning weekday errand sequence after crossing from New Jersey.",
+    "582": "The Starbucks at 331 Columbus Ave is close enough to fit a quick post-sandwich coffee move in the same block cluster.",
+    "561": "A very nearby grocery errand is plausible given the user’s convenience-stop behavior and minimal movement radius.",
+    "569": "A close-by food stop could follow the current lunch-hour flow, though it is less habitual than Duane Reade or Lenny's.",
+    "4326": "The user often stays in the same Upper West Side pocket, making a nearby service stop possible.",
+    "3563": "Another nearby food venue on the same avenue corridor fits the user’s practical lunchtime pattern, but with weaker evidence.",
+    "2353": "The user’s residential anchor neighborhood is a plausible return destination later in the sequence, though not the best immediate next step."
+  },
+  "fallback": false
+}

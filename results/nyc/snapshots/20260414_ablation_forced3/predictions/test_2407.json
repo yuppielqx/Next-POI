@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2407",
+  "ranked_loc_ids": [
+    2401,
+    1381,
+    1394,
+    158,
+    151,
+    5549,
+    1379,
+    4964,
+    1382,
+    176
+  ],
+  "explanations": {
+    "2401": "The user was last seen here only 46 minutes before the target time, and the strongest temporal prior is that they may still be there.",
+    "1381": "It is very close to Mount Sinai and fits a quick nearby errand or stop without requiring a big move.",
+    "1394": "A nearby coffee stop matches the user’s late-evening food/coffee pattern and the profile’s suggested post-medical-facility destination.",
+    "158": "Another close coffee option that fits the user’s tendency to make quick evening food or caffeine stops.",
+    "151": "A nearby casual food spot is plausible given the evening time and similar-user dining patterns.",
+    "5549": "A short hop to a meal stop aligns with the user’s mixed food-oriented movements around night hours.",
+    "1379": "If leaving the medical center area, a nearby subway station is a practical next move for cross-city travel.",
+    "4964": "Very close by, this is a plausible nearby destination if the user is lingering in the immediate area.",
+    "1382": "A local grocery stop is possible for a quick errand, though less likely than food or coffee.",
+    "176": "The user sometimes makes connector/transition moves late at night, but this is less likely this early in the evening."
+  },
+  "fallback": false
+}

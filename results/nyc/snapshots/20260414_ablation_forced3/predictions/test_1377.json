@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1377",
+  "ranked_loc_ids": [
+    106,
+    4752,
+    137,
+    971,
+    4754,
+    402,
+    229,
+    4595,
+    4755,
+    451
+  ],
+  "explanations": {
+    "106": "The user is already at this transit hub and the next step in a morning commute is most likely to remain on or transfer within the PATH system.",
+    "4752": "Their strongest morning routine is coffee around 8 AM, making a quick Dunkin’ stop a highly plausible next move after transit.",
+    "137": "Similar users often continue from a major transit point like this toward another commuter rail hub, matching the commute pattern.",
+    "971": "A ferry terminal is a strong transport-oriented follow-up in the morning, especially given the user’s commute-like movement.",
+    "4754": "The user has a morning gas-station/errand pattern, and this fits the commute-support behavior seen in similar users.",
+    "402": "The profile includes occasional airport/transit exceptions, so an early-morning airport-related movement remains possible.",
+    "229": "Similar users commonly transition through Newark Penn Station in this time window, making it a plausible transport continuation.",
+    "4595": "Morning food stops are part of the user’s routine, and a bagel shop is a reasonable alternative to Dunkin’.",
+    "4755": "A nearby breakfast food stop fits the time-of-day pattern, though it is less favored than the user’s habitual coffee chain.",
+    "451": "An airport terminal could follow a transit leg, but it is less likely than the other commuter-oriented options."
+  },
+  "fallback": false
+}

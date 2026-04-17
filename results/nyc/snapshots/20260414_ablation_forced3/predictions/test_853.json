@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_853",
+  "ranked_loc_ids": [
+    3779,
+    237,
+    349,
+    1522,
+    1578,
+    946,
+    489,
+    1814,
+    195,
+    3645
+  ],
+  "explanations": {
+    "3779": "The user repeatedly returns to this west-side Manhattan anchor in the 6–8 p.m. window, and the evening prior pattern makes a familiar early-evening revisit plausible.",
+    "237": "The last known location was this movie theater, so a continued entertainment-based move in the same area remains a strong near-term possibility.",
+    "349": "Their history includes another Chelsea movie theater, and the evening target time fits a repeat cinema visit in the west-side entertainment corridor.",
+    "1522": "The user often moves across Manhattan via transit, and this station is a likely connector toward their Chelsea/Meatpacking cluster.",
+    "1578": "Their profile shows dining and entertainment behavior in Meatpacking/Chelsea, making a familiar burger stop a reasonable next evening destination.",
+    "946": "This is part of the user’s known west-side Manhattan errand/shopping pattern and fits a short evening stop near their usual corridor.",
+    "489": "This is the dominant anchor in their history, but the distance and the evening Manhattan prior make it slightly less likely than nearby west-side options.",
+    "1814": "It is very close to the last location, but the user’s history does not strongly suggest library-like visits, so it is a lower-probability nearby stop.",
+    "195": "Smorgasburg is a recurring food venue in Brooklyn, but it is less aligned with the immediate evening Manhattan pattern than the top choices.",
+    "3645": "The post office is consistent with an errand profile, yet it is far from the current cluster and unlikely as the next evening destination."
+  },
+  "fallback": false
+}

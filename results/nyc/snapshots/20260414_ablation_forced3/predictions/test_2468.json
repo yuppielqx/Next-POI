@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2468",
+  "ranked_loc_ids": [
+    2765,
+    4138,
+    1789,
+    593,
+    3441,
+    1149,
+    2113,
+    4796,
+    2772,
+    3772
+  ],
+  "explanations": {
+    "2765": "The strongest prior is a return to the Clifton/Nutley home corridor for a practical midday food stop, and the user has visited this diner before.",
+    "4138": "It is the last known location and fits the user's coffee-oriented pattern, especially after late-night or transit-heavy movement.",
+    "1789": "The user repeatedly favors practical suburban errands, and Staples matches their office-supply retail tendency in the Clifton anchor area.",
+    "593": "This train station is a key part of the user’s commute-like NJ-Manhattan pattern and remains a plausible transit return point.",
+    "3441": "Similar users at this hour often transition into coffee stops, and this nearby café fits the user's daytime routine.",
+    "1149": "Big-box retail in the Clifton corridor aligns with the user's practical shopping behavior and home-area anchor.",
+    "2113": "The nearby Sports Authority/Clifton retail context matches the user's propensity for short suburban shopping chains.",
+    "4796": "Coffee is a strong behavioral match for this user, and similar users often pair midday errands with Starbucks.",
+    "2772": "Grocery shopping is consistent with similar-user patterns and the user’s suburban practical-errand profile.",
+    "3772": "The mall setting fits the user's tendency toward clustered retail stops in the Clifton corridor."
+  },
+  "fallback": false
+}

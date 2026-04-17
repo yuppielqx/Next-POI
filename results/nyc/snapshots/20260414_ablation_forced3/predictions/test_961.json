@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_961",
+  "ranked_loc_ids": [
+    4061,
+    223,
+    350,
+    2840,
+    4073,
+    4048,
+    3147,
+    1015,
+    329,
+    2557
+  ],
+  "explanations": {
+    "4061": "It is a very strong lunch-hour match with repeated noon–2pm visits and sits just northeast of the last stop in the user’s usual East Village/NoHo food corridor.",
+    "223": "The user just visited this sandwich place and could easily make a short repeat stop during a Sunday lunch window.",
+    "350": "It is immediately adjacent to the last location and fits the user’s midday casual dining pattern.",
+    "2840": "This nearby food truck aligns well with the user’s lunch behavior and clustered movement style.",
+    "4073": "A noon–2pm sandwich spot in the same Lower Manhattan corridor, matching the user’s habitual midday food choices.",
+    "4048": "A familiar nearby East Village food/coffee stop that fits the user’s compact daytime roaming pattern.",
+    "3147": "Its strong noon–2pm history makes it a plausible lunch option despite being a bit farther away.",
+    "1015": "The user has midday wine-shop behavior, and this nearby East Village/NoHo stop remains consistent with their clustered routes.",
+    "329": "Madison Square Park is a plausible short excursion after lunch given the very close distance and the user’s occasional outdoor stops.",
+    "2557": "A practical errand stop that fits the user’s history of brief midday convenience visits in this area."
+  },
+  "fallback": false
+}

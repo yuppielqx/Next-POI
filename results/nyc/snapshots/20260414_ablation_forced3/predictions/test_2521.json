@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2521",
+  "ranked_loc_ids": [
+    626,
+    566,
+    3340,
+    519,
+    2834,
+    59,
+    3654,
+    137,
+    380,
+    5692
+  ],
+  "explanations": {
+    "626": "The user’s strongest historical signature is repeated movie-theater visits in Midtown, and the time/area fit makes this the most likely next stop.",
+    "566": "It is extremely close to the last known location and matches the user’s established Midtown shopping pattern.",
+    "3340": "This clothing store is nearby and aligns with the user’s repeated retail-oriented trips in the Herald Square corridor.",
+    "519": "The user has a clear history of Midtown fashion shopping, and this is a natural continuation from the current area.",
+    "2834": "The user has visited this Midtown venue before, and it fits their daytime entertainment and event-oriented behavior.",
+    "59": "A central destination in the user’s usual Manhattan activity cluster, especially for leisure and shopping outings.",
+    "3654": "This is a close-by clothing store consistent with the user’s preference for chaining retail stops in Midtown.",
+    "137": "Penn Station is a plausible transit-oriented next step given the user’s movement trend and recent Manhattan travel.",
+    "380": "A known prior dining stop for the user, fitting a possible lunch or snack continuation in Midtown.",
+    "5692": "The user also frequents Queens malls, so a return to a shopping destination in Queens remains possible though less likely than Midtown."
+  },
+  "fallback": false
+}

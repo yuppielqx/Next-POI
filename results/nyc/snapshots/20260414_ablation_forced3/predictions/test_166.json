@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_166",
+  "ranked_loc_ids": [
+    1249,
+    59,
+    1235,
+    114,
+    46,
+    58,
+    88,
+    586,
+    1250,
+    1255
+  ],
+  "explanations": {
+    "1249": "This is the strongest morning weekday commute match in the user’s history and fits the expected south-western move toward Midtown Manhattan.",
+    "59": "It sits in the same Midtown corridor as the user’s repeated commute destinations and is highly consistent with an 08:02 weekday arrival.",
+    "1235": "This is part of the user’s recurring Theater District cluster and is a plausible stop near their usual morning transit path.",
+    "114": "The user is currently there, so a short dwell or immediate repeat check-in is possible even though the movement trend suggests continuing onward.",
+    "46": "This is one of the user’s most frequently used transit nodes and could be part of the next commute segment.",
+    "58": "Grand Central Terminal is a major commuter hub and a reasonable Midtown transfer destination for a transit-centered user.",
+    "88": "Another major transit hub in Midtown that aligns with the user’s infrastructure-heavy mobility pattern.",
+    "586": "Herald Square is a nearby Midtown transit and activity node that fits the user’s Manhattan corridor movement.",
+    "1250": "This is a nearby transit station along the southbound Manhattan approach, but it is less aligned than the Midtown target cluster.",
+    "1255": "It is a transit hub in lower Manhattan and remains plausible given the current south-westward motion, though it is lower priority than Midtown options."
+  },
+  "fallback": false
+}

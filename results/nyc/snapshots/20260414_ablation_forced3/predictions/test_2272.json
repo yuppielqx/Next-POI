@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2272",
+  "ranked_loc_ids": [
+    1214,
+    106,
+    1664,
+    755,
+    2170,
+    1176,
+    5579,
+    742,
+    970,
+    625
+  ],
+  "explanations": {
+    "1214": "Friday afternoon travel in this user’s routine often shifts back toward a familiar Manhattan commuter hub, and this station fits the Midtown/PATH corridor best.",
+    "106": "The user repeatedly uses PATH terminals, and WTC is a top historical destination that matches a return-to-transit pattern from the Upper West Side.",
+    "1664": "This is one of the user’s strongest recurring nodes, especially in the 3–5 p.m. window, making it a very plausible commuter reset point.",
+    "755": "The ferry-terminal pattern and strong 3–5 p.m. history make this a credible afternoon transfer option within the user’s Jersey City-linked routine.",
+    "2170": "The user often pairs coffee with transit, and this is a highly repeated anchor in their lower Manhattan morning/commute sequence.",
+    "1176": "A downtown Starbucks near the PATH network fits the user’s coffee-to-commute behavior and lower Manhattan geography.",
+    "5579": "The user has a clear fitness routine, so an afternoon gym visit is consistent with their habitual workday rhythm.",
+    "742": "This aligns with the user’s Jersey City base and coffee habit, especially if they are heading back across the river.",
+    "970": "Midday-to-afternoon ferry movement and Manhattan transit behavior make this a reasonable, though less central, possibility.",
+    "625": "The store is near the user’s current Midtown position and has some Friday afternoon support, but it is less consistent than the transit and coffee options."
+  },
+  "fallback": false
+}

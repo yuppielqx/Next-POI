@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1960",
+  "ranked_loc_ids": [
+    1198,
+    1665,
+    5336,
+    3402,
+    5180,
+    1153,
+    1683,
+    428,
+    1154,
+    4346
+  ],
+  "explanations": {
+    "1198": "This fits the user’s transit-heavy evening commute pattern and the north-west movement toward a recurring Hudson waterfront rail stop.",
+    "1665": "It is a light rail station in the Jersey City transit corridor and the user has just been moving through transportation hubs.",
+    "5336": "This Hoboken location has strong Wednesday history and is a plausible next stop if the user shifts toward a familiar routine destination.",
+    "3402": "The user often pairs commute segments with quick coffee stops, making this a strong post-transit option.",
+    "5180": "A core frequent station in the user’s history, though it is farther away than the nearer Jersey City transit options.",
+    "1153": "The user has repeated weekday evening visits here, so it remains a plausible social destination after transit.",
+    "1683": "As a major commuter hub on the same corridor, it is consistent with a return-trip movement pattern.",
+    "428": "Another recurring commuter coffee stop that matches the user’s habitual workday rhythm.",
+    "1154": "The user is currently at this transit hub, but a move onward is more likely than another check-in here.",
+    "4346": "Similar users sometimes continue from transit hubs into Jersey City public spaces, though this is less likely than a station or coffee stop."
+  },
+  "fallback": false
+}

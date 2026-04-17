@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1423",
+  "ranked_loc_ids": [
+    347,
+    696,
+    106,
+    107,
+    109,
+    1199,
+    102,
+    105,
+    103,
+    2341
+  ],
+  "explanations": {
+    "347": "It is the strongest repeat transportation hub in the user’s history and best matches the commuter-like afternoon pattern.",
+    "696": "Another highly recurrent cross-Hudson transit point that fits the user’s corridor-based movement.",
+    "106": "The user repeatedly uses Lower Manhattan transit links, making this a plausible return hub.",
+    "107": "Similar users at this time slot often head to transportation hubs, and Newport PATH fits the same commute pattern.",
+    "109": "This nearby Jersey City transit station aligns well with the user’s frequent hub-to-hub travel.",
+    "1199": "A commuter-oriented station in the same corridor, consistent with the user’s transit-heavy routine.",
+    "102": "The user just ended at this retail stop, so a short continuation or return visit is possible.",
+    "105": "A nearby food stop that could follow a practical afternoon transit errand.",
+    "103": "Similar users cluster around this nearby shopping stop, and it is close to the user’s last known area.",
+    "2341": "A nearby retail destination with some transition likelihood, but less consistent than the transit hubs."
+  },
+  "fallback": false
+}

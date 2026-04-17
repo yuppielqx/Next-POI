@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1220",
+  "ranked_loc_ids": [
+    330,
+    2920,
+    3405,
+    4546,
+    137,
+    269,
+    2593,
+    3208,
+    1582,
+    1998
+  ],
+  "explanations": {
+    "330": "The user has a dominant Monday morning routine centered here, and 09:07 strongly matches their most frequent weekday workday arrival pattern.",
+    "2920": "Their repeated coffee-before-work sequence makes this the most likely prelude if they are not yet fully at NYU Langone by 09:07.",
+    "3405": "This fits their recurring East Side morning food stops near the medical corridor and is a plausible alternative commute-time check-in.",
+    "4546": "It is part of the same NYU medical campus pattern and could easily be the next related stop on a Monday morning.",
+    "137": "This Penn Station-area location has recurring use and could reflect a transit-related morning movement before heading to the medical corridor.",
+    "269": "Their history suggests strong ties to the NYU medical ecosystem, making this a reasonable adjacent destination.",
+    "2593": "A practical weekday morning errand stop near their usual Manhattan routine, especially in the 34th Street area.",
+    "3208": "Close to their established Kips Bay footprint, though less likely than the coffee/medical cluster for a 09:07 check-in.",
+    "1582": "This has appeared in their history, but it is more consistent with daytime or evening dining than a Monday morning routine.",
+    "1998": "A Midtown West nightlife-related spot that is possible from their broader Manhattan movement but weakly aligned with the target time."
+  },
+  "fallback": false
+}

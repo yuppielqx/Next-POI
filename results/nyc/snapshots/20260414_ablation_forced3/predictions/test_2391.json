@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2391",
+  "ranked_loc_ids": [
+    336,
+    1545,
+    3259,
+    1573,
+    4931,
+    3976,
+    4062,
+    784,
+    2083,
+    114
+  ],
+  "explanations": {
+    "336": "This is the strongest match for the user’s recurring 3–5am post-nightlife pattern and is the most likely early-morning food stop after Gallery Bar.",
+    "1545": "The user often follows late-night Manhattan nightlife with transit, and this station is immediately adjacent to the current location.",
+    "3259": "The user may simply remain at the current nightclub a bit longer, especially given the 04:32 timing on a Sunday night.",
+    "1573": "This fits the user’s repeated late-night Flatiron/Gramercy nightlife cluster, though it is farther than nearby LES options.",
+    "4931": "A nearby gastropub that could plausibly attract a late-night/early-morning continuation from the current nightlife area.",
+    "3976": "Another adjacent nightlife venue in the Lower East Side, consistent with a bar-hopping pattern around 4am.",
+    "4062": "Nearby and nightlife-aligned, making it a reasonable alternative if the user continues the evening in the LES.",
+    "784": "This nearby bar matches the user’s social nightlife profile and could be a short hop from Gallery Bar.",
+    "2083": "A nearby gastropub that fits the user’s after-hours food-and-drink routine, though less strongly than L'Express.",
+    "114": "The user has a repeated transit-linked pattern, so a bridge subway move remains possible after the current nightlife stop."
+  },
+  "fallback": false
+}

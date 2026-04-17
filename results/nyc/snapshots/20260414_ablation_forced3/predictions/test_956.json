@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_956",
+  "ranked_loc_ids": [
+    4046,
+    4069,
+    617,
+    4083,
+    3656,
+    137,
+    1110,
+    1651,
+    4030,
+    2203
+  ],
+  "explanations": {
+    "4046": "The user has the strongest routine history here and the Friday afternoon prior favors returning to their office cluster after the Gap stop.",
+    "4069": "Another office in the same Lower Manhattan routine, making it a plausible work-related destination if they are moving between professional stops.",
+    "617": "It is the closest plausible food stop to the current Midtown location and fits a short post-shopping transition.",
+    "4083": "Similar users and the nearby Midtown context support a quick dessert stop after the Gap visit.",
+    "3656": "They are currently here, so a brief continuation or lingering stay remains possible.",
+    "137": "Penn Station is a common commuter pivot and fits a south-east movement toward transit or a transfer.",
+    "1110": "Trader Joe’s matches the user’s errands pattern and could follow a shopping-heavy midday outing.",
+    "1651": "A nearby retail errand is consistent with the user’s practical shopping behavior.",
+    "4030": "The user has visited this familiar dining spot before, and it fits the East Village/NoHo corridor pattern.",
+    "2203": "A gym visit is consistent with the user’s workday routine, though it is less likely immediately after a Midtown shopping stop."
+  },
+  "fallback": false
+}

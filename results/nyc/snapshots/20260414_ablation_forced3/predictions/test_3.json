@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_3",
+  "ranked_loc_ids": [
+    40,
+    36,
+    39,
+    47,
+    58,
+    1260,
+    301,
+    52,
+    50,
+    48
+  ],
+  "explanations": {
+    "40": "The user’s strongest historical morning routine is repeated late-morning visits to this gym, and the 10:54 Thursday prior matches that pattern closely.",
+    "36": "This is a recurring Brooklyn transit anchor for the user and fits the gym-to-transit trip chaining pattern seen in their history.",
+    "39": "The user frequently combines routine daytime outings with retail stops in Brooklyn, and Target is one of their known repeat destinations.",
+    "47": "Macy’s is a frequent late-morning shopping destination for this user and is a plausible Manhattan errand after a morning routine.",
+    "58": "Grand Central Terminal is a plausible commute-oriented stop given the user’s transit-heavy behavior and similar users’ morning hub patterns.",
+    "1260": "Union Square station is a very strong nearby transition candidate from the current area and matches the transit-linked movement style.",
+    "301": "This nearby retail/food stop fits the user’s convenience-driven daytime wandering around Union Square.",
+    "52": "The user has shown a preference for morning coffee stops, making this a reasonable next move from Union Square.",
+    "50": "The user has shopping history in Union Square, and DSW is a nearby retail option consistent with their errand pattern.",
+    "48": "This is another nearby shopping destination that fits the user’s Manhattan retail tendency, though with less evidence than the top options."
+  },
+  "fallback": false
+}

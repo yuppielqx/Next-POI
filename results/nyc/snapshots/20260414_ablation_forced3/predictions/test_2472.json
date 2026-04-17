@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2472",
+  "ranked_loc_ids": [
+    58,
+    1489,
+    1652,
+    3953,
+    5741,
+    4323,
+    3917,
+    2742,
+    3240,
+    4001
+  ],
+  "explanations": {
+    "58": "It is the strongest same-time recurring stop in the user’s Midtown East Grand Central routine and is directly consistent with the current westward movement.",
+    "1489": "The user repeatedly alternates between this coworking space and nearby transit points, making it the most likely work-adjacent continuation.",
+    "1652": "This is the user’s other major anchor in the commute pattern, and the Wednesday morning prior strongly favors a return to the Yonkers train-station routine.",
+    "3953": "Commuter behavior and the Grand Central context make this a very plausible short follow-up stop near the current location.",
+    "5741": "Track 18/19 fits the transit-hub movement pattern and is extremely close to the current Grand Central area.",
+    "4323": "A common commuter stop near Grand Central, fitting the user’s midday transit/work rhythm.",
+    "3917": "It is another nearby Lexington Avenue stop that matches the user’s occasional Midtown food/errand pattern.",
+    "2742": "This is adjacent to the Graybar/Grand Central cluster and fits a return-to-office Midtown East movement.",
+    "3240": "A nearby Grand Central venue that is consistent with the user’s frequent transit-centered Midtown corridor.",
+    "4001": "This nearby Midtown café fits the user’s repeated small-radius movements around Lexington Avenue."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1233",
+  "ranked_loc_ids": [
+    147,
+    3928,
+    4568,
+    3686,
+    1538,
+    3930,
+    4562,
+    4561,
+    4314,
+    4566
+  ],
+  "explanations": {
+    "147": "This is the strongest match to the user's established Wednesday morning commute pattern and the most likely Midtown arrival after Bedford-Nostrand.",
+    "3928": "The user may briefly remain near home or make an immediate local stop, and this station has the highest overall revisit frequency.",
+    "4568": "A regular work anchor in Midtown makes this a plausible follow-up after the subway commute begins.",
+    "3686": "This Midtown transit stop fits the same commuter corridor and has strong early-morning history.",
+    "1538": "The user sometimes diverges downtown on workdays, and this station is a common transit waypoint.",
+    "3930": "A nearby Brooklyn transit option that fits a short continuation from the last known location.",
+    "4562": "A frequent neighborhood stop close to home, especially plausible for a quick morning errand.",
+    "4561": "Another nearby Brooklyn grocery check-in that matches the user's local routine.",
+    "4314": "This is a Midtown station consistent with the user's Rockefeller Center-area commute behavior.",
+    "4566": "A nearby pharmacy errand is possible before the commute fully progresses."
+  },
+  "fallback": false
+}

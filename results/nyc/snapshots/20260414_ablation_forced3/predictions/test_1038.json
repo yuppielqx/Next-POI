@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1038",
+  "ranked_loc_ids": [
+    1092,
+    2918,
+    1064,
+    4228,
+    3576,
+    2148,
+    278,
+    1407,
+    3258,
+    1593
+  ],
+  "explanations": {
+    "1092": "Strong weekday evening prior plus the user’s repeated Midtown event-and-entertainment pattern makes this the best fit for a north-east to Midtown jump.",
+    "2918": "It is one of the strongest nearby Penn Station/Midtown social stops and matches the user’s bar-plus-food chaining behavior.",
+    "1064": "A familiar Midtown bar that fits an early-evening transition from daytime sightseeing to nightlife in the Penn Station corridor.",
+    "4228": "This Midtown bar aligns with the user’s repeated late-day drinking pattern and the broader Penn Station nightlife cluster.",
+    "3576": "A classic after-work bar option that fits the user’s drinking-heavy behavior and Midtown mobility.",
+    "2148": "This sports-bar stop is plausible for a Monday evening event corridor near Penn Station and matches the user’s venue-hopping style.",
+    "278": "A quick food follow-up is highly consistent with the user’s frequent post-bar meal pattern, especially in Midtown.",
+    "1407": "The user repeatedly ends nights with this exact kind of food stop, making it a strong late-day fallback.",
+    "3258": "A nearby downtown American restaurant is plausible as an alternate social/food destination given the user’s broad Manhattan range.",
+    "1593": "This Midtown East nightlife spot fits the evening timing and the user’s tendency to move between bars and event zones."
+  },
+  "fallback": false
+}

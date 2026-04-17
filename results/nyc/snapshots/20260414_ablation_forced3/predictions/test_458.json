@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_458",
+  "ranked_loc_ids": [
+    2632,
+    2631,
+    2636,
+    2638,
+    5565,
+    5253,
+    5318,
+    1712,
+    5320,
+    5019
+  ],
+  "explanations": {
+    "2632": "It is the exact last known location, matches the user's strongest routine, and the target time aligns with their recurring Monday morning training pattern.",
+    "2631": "This is co-located with the last check-in and the user often checks into both KRU venues at the same minute during the same session.",
+    "2636": "The user frequently stops here shortly before training for a morning coffee or breakfast run.",
+    "2638": "The session is occurring in the Bergenfield area, so a nearby same-area move is plausible even without a prior visit history.",
+    "5565": "It is very close to the dojo, making it a possible short local stop if the user briefly leaves the training area.",
+    "5253": "A nearby gym fits the user’s exercise-oriented behavior, though it is far less established than the KRU venues.",
+    "5318": "A nearby food stop is possible given the user's occasional practical errands, though it is not a strong pattern match.",
+    "1712": "This nearby service location could fit a routine errand while staying in the Bergenfield corridor.",
+    "5320": "A nearby pharmacy is plausible for a quick errand, but it is not supported strongly by the mobility history.",
+    "5019": "Grocery shopping is part of the user's secondary routine, though it is less likely than training-related destinations."
+  },
+  "fallback": false
+}

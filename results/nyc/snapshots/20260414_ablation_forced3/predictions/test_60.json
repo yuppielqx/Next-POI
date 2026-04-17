@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_60",
+  "ranked_loc_ids": [
+    195,
+    22,
+    4444,
+    476,
+    489,
+    482,
+    486,
+    481,
+    503,
+    480
+  ],
+  "explanations": {
+    "195": "It is essentially adjacent to the last flea market check-in and fits the food-oriented late-night roaming pattern.",
+    "22": "The user has just checked in here, and simultaneous bursty movement makes an immediate repeat or continued presence plausible.",
+    "4444": "This nearby park matches the ongoing outdoor-to-outdoor drift and is only a very short move from the current spot.",
+    "476": "It is a close Brooklyn outdoor venue that fits the user’s history of park check-ins and nearby wandering.",
+    "489": "The Brooklyn Bridge area is a plausible southeast continuation from Williamsburg toward downtown Brooklyn/Manhattan.",
+    "482": "Katz’s Delicatessen is a strong late-night food option within the user’s food-seeking behavior and nearby downtown path.",
+    "486": "A late-night bar stop aligns well with the user’s nightlife-heavy, post-midnight movement pattern.",
+    "481": "The East Village performing-arts venue fits the user’s entertainment-district roaming and late-night check-in style.",
+    "503": "This is a repeat-visited dining anchor and remains plausible for another food-focused stop.",
+    "480": "A cocktail bar in the downtown nightlife corridor matches the user’s after-hours socializing pattern, though it is a bit farther away."
+  },
+  "fallback": false
+}

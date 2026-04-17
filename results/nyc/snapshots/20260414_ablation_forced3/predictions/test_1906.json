@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1906",
+  "ranked_loc_ids": [
+    1154,
+    109,
+    106,
+    1637,
+    2273,
+    1266,
+    5293,
+    4678,
+    5290,
+    4341
+  ],
+  "explanations": {
+    "1154": "The user strongly favors PATH-related transit hubs in the evening, and Journal Square PATH Station is extremely close to the current location.",
+    "109": "This is the user’s clearest recurring Jersey City anchor and a frequent 6–8 PM destination.",
+    "106": "Their most distinctive commute pattern links Jersey City with Lower Manhattan via WTC PATH.",
+    "1637": "A common evening food stop for this user, especially after transit-linked movement.",
+    "2273": "Repeated 6–8 PM visits make this a strong recurring destination in their routine.",
+    "1266": "Pace University is a known academic anchor in the user’s history and fits the Lower Manhattan corridor.",
+    "5293": "A plausible evening restaurant stop in the user’s favored Lower Manhattan area.",
+    "4678": "Another food venue the user has visited before, consistent with a post-commute meal.",
+    "5290": "Evening café visits fit the user’s social and practical movement pattern in Chelsea.",
+    "4341": "A nearby utilitarian stop in Jersey City that could follow a short evening chain."
+  },
+  "fallback": false
+}

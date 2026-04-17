@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1815",
+  "ranked_loc_ids": [
+    4500,
+    3534,
+    3262,
+    2517,
+    390,
+    3048,
+    2404,
+    2454,
+    2440,
+    2388
+  ],
+  "explanations": {
+    "4500": "The user was just there at 13:31 and the strongest short-horizon pattern is to remain at or near the last restaurant.",
+    "3534": "A nearby transit stop is a plausible next move if they are continuing southwest or shifting within lower Manhattan.",
+    "3262": "A pharmacy/errand stop fits an afternoon post-lunch continuation and is immediately adjacent to the last location.",
+    "2517": "This nearby food spot matches a casual dining follow-up without requiring a major detour.",
+    "390": "Another close-by dining option in SoHo, consistent with staying in the same neighborhood corridor.",
+    "3048": "A dessert stop is plausible after lunch, especially given the user’s occasional food-oriented daytime visits.",
+    "2404": "A nearby bar/lifestyle venue could fit this user’s social pattern, though afternoon timing makes it less likely than food stops.",
+    "2454": "The nightlife bias in the user profile gives this lounge some chance, but the afternoon prior reduces its likelihood.",
+    "2440": "A nearby pub is consistent with their nightlife tendency, but it is less time-appropriate than daytime dining venues.",
+    "2388": "A nearby Italian restaurant is possible for a continued meal-related outing, though it is less directly supported than the closest options."
+  },
+  "fallback": false
+}

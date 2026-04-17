@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1809",
+  "ranked_loc_ids": [
+    137,
+    5208,
+    1092,
+    4412,
+    2317,
+    2195,
+    793,
+    962,
+    2327,
+    4675
+  ],
+  "explanations": {
+    "137": "It is the exact last location and the user is currently staying in the same Penn Station area, making a repeat or continued presence most likely.",
+    "5208": "The user was just there moments ago and has a strong history of returning to this sushi spot in the Midtown cluster.",
+    "1092": "This is one of the user’s most frequent nearby anchors in the same 34th Street corridor, so a short hop there is highly plausible.",
+    "4412": "A favored bar in the same Penn Station nightlife cluster, matching the user’s strong pattern of revisiting nearby social venues.",
+    "2317": "Another recurring nightlife stop within walking distance, fitting the user’s clustered evening-to-afternoon Midtown movement style.",
+    "2195": "A nearby Penn Station fast-food option that fits the user’s tendency to move between close commercial venues in the same area.",
+    "793": "This nearby restaurant is in the same immediate Penn Station zone and offers a plausible meal stop after Penn Sushi.",
+    "962": "A close Midtown food option that matches the user’s preference for dense, walkable restaurant clusters.",
+    "2327": "A nearby beer garden that aligns with the user’s nightlife-heavy behavior and could be a quick social stop.",
+    "4675": "A nearby food stop in the same corridor, but it is less behaviorally consistent than the user’s usual recurrent venues."
+  },
+  "fallback": false
+}

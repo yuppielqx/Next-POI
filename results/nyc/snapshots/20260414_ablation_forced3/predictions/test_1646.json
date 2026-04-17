@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1646",
+  "ranked_loc_ids": [
+    1760,
+    5049,
+    479,
+    591,
+    3094,
+    5046,
+    192,
+    5048,
+    365,
+    3135
+  ],
+  "explanations": {
+    "1760": "It is extremely close to the Mercer Kitchen and fits the user’s strong midday snack/juice pattern in the NYU area.",
+    "5049": "A nearby sandwich stop in SoHo that matches a short post-lunch movement and the user’s tendency toward quick food breaks.",
+    "479": "This nearby café is consistent with the user’s campus-centered habit of moving between coffee spots and academic-area hangouts.",
+    "591": "The user repeatedly returns to Stern, and the timing fits a likely afternoon reappearance near the NYU core.",
+    "3094": "Another heavily revisited NYU node, plausible as the user heads back to a familiar campus café/study spot.",
+    "5046": "The NYU Stern lounge is a strong routine destination and fits a quick return to campus after lunch.",
+    "192": "A nearby outdoor destination that matches Sunday-afternoon strolling behavior in the Village.",
+    "5048": "The user has a dessert-leaning history, and this close ice cream shop is a natural follow-up to a tea-room lunch.",
+    "365": "A very nearby nightlife venue that could fit a late-afternoon/early evening exploratory stop, though it is less routine.",
+    "3135": "A practical nearby errand stop in the same neighborhood, but less likely than food or campus locations."
+  },
+  "fallback": false
+}

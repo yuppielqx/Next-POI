@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_801",
+  "ranked_loc_ids": [
+    294,
+    3663,
+    2008,
+    2650,
+    3666,
+    2400,
+    1252,
+    114,
+    3662,
+    466
+  ],
+  "explanations": {
+    "294": "It is the last known location and the strongest immediate return-to-frequent-place option at the target time.",
+    "3663": "The user often continues morning Brooklyn transit chains along the B/Q corridor, and this is a highly recurrent nearby station.",
+    "2008": "A frequent morning Brooklyn stop that fits the user’s habitual move from the Maimonides area toward the B/Q line.",
+    "2650": "Another nearby B/Q station consistent with the user’s repeated south Brooklyn transit pattern.",
+    "3666": "This aligns with the user’s Brooklyn corridor behavior and is a plausible short-hop transit check-in.",
+    "2400": "A nearby Brooklyn errand stop that appears in the user’s history and could follow a hospital/transit stop.",
+    "1252": "A very frequent historical destination linked to the user’s Manhattan-bound corridor and morning activity.",
+    "114": "A major repeated transfer point in the user’s transit-heavy pattern, especially on weekday mornings.",
+    "3662": "The user has a strong history of Midtown medical-district visits, making this a plausible next leg after Brooklyn movement.",
+    "466": "The user has repeated bridge/transit infrastructure check-ins, so this remains a lower-probability but behaviorally consistent option."
+  },
+  "fallback": false
+}

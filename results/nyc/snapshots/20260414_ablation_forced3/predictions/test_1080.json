@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1080",
+  "ranked_loc_ids": [
+    2497,
+    4218,
+    2891,
+    2128,
+    2827,
+    2893,
+    2698,
+    548,
+    631,
+    626
+  ],
+  "explanations": {
+    "2497": "Friday evening and the user’s history strongly favor a return to this recurring Midtown fitness stop.",
+    "4218": "This is one of the user’s most frequent venues and fits the Midtown evening routine well.",
+    "2891": "A steakhouse matches the Friday evening meal/social prior and similar-user dining patterns.",
+    "2128": "Midtown casual dining is consistent with the user’s workday-to-evening transitions.",
+    "2827": "It fits the evening food pattern and has repeated 6–8 p.m. usage in the user’s history.",
+    "2893": "Another familiar Midtown quick-meal option that matches a post-work dinner stop.",
+    "2698": "The user often moves through Midtown hotel-linked areas, especially when shifting into evening activity.",
+    "548": "Late-day social behavior makes a nightlife transition plausible after the morning Canal Street stop.",
+    "631": "Evening entertainment is consistent with the user’s movie-theater history and Friday timing.",
+    "626": "A comparable Midtown cinema option that fits the user’s entertainment-oriented evening pattern."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1066",
+  "ranked_loc_ids": [
+    192,
+    67,
+    3371,
+    495,
+    2133,
+    4078,
+    10,
+    2523,
+    2478,
+    723
+  ],
+  "explanations": {
+    "192": "It is very close to the current Union Square area and fits the user’s Sunday afternoon-to-evening leisure pattern as a nearby outdoor stop before dinner.",
+    "67": "This is the most immediate adjacent leisure destination from the cinema and matches the user’s established downtown wandering behavior.",
+    "3371": "The user repeatedly favors Meatpacking nightlife and dining, making this a strong early-evening dinner choice after Union Square.",
+    "495": "This is the clearest signature venue in the user’s history and a highly plausible next stop for a Sunday evening outing.",
+    "2133": "A recurring upscale downtown restaurant that fits a restaurant-first transition before drinks later in the evening.",
+    "4078": "Another Meatpacking-area dining anchor that aligns with the user’s west-side nightlife circuit and southwest drift.",
+    "10": "An upscale American restaurant nearby that matches the user’s preference for dinner in the downtown Manhattan corridor.",
+    "2523": "The user’s steakhouse and nightlife tastes make this a plausible evening destination in the same general area.",
+    "2478": "This nearby hotel bar fits the user’s strong preference for stylish evening drinking spots after a daytime cinema stop.",
+    "723": "A lounge in the Meatpacking/West Village orbit, making it a reasonable but slightly less likely nightlife continuation."
+  },
+  "fallback": false
+}

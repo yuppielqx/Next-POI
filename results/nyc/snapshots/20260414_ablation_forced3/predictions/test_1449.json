@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1449",
+  "ranked_loc_ids": [
+    3822,
+    4147,
+    4542,
+    1386,
+    3620,
+    3818,
+    4087,
+    3821,
+    797,
+    1083
+  ],
+  "explanations": {
+    "3822": "This is the strongest recurring weekday morning anchor in the user’s history and fits the habitual Upper East Side return pattern after the nearby Asphalt Green stop.",
+    "4147": "A very frequent nearby check-in that often follows the user’s morning coffee routine and matches the fitness-oriented daytime pattern.",
+    "4542": "This grocery stop is extremely close, has repeated 9–11 a.m. relevance, and fits a routine errand after an early outdoor visit.",
+    "1386": "A nearby grocery option consistent with the user’s frequent food-and-errand behavior in the same corridor.",
+    "3620": "A familiar local bar the user returns to often, though the morning timing makes it less likely than daytime anchors.",
+    "3818": "The user repeatedly stays within this Yorkville area, making a neighborhood-level return plausible even without a tighter category match.",
+    "4087": "A nearby habitual stop that aligns with the user’s local wandering and occasional shopping pattern.",
+    "3821": "A nearby pharmacy-style errand location that fits the user’s practical, neighborhood-based movement.",
+    "797": "This is within the user’s local range and could follow a daytime transition, but it is less supported than coffee, gym, or grocery destinations.",
+    "1083": "A reasonable nearby food option in the Upper East Side corridor, though it is less central to the user’s established routine than the top choices."
+  },
+  "fallback": false
+}

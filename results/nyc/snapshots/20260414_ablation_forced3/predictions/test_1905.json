@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1905",
+  "ranked_loc_ids": [
+    2273,
+    5290,
+    2478,
+    4127,
+    106,
+    109,
+    5293,
+    4678,
+    1637,
+    274
+  ],
+  "explanations": {
+    "2273": "The user was just here at 19:27, it is a strong Friday anchor, and the 22:06 evening slot fits staying in place or returning immediately.",
+    "5290": "It is right next to Chelsea Studios, strongly matches the user’s Friday 9–11 PM pattern, and is a common nearby follow-up stop.",
+    "2478": "This nearby hotel bar fits a late-evening Chelsea move when leaving the studio for a drink or social stop.",
+    "4127": "A very close nearby food option that could follow a studio session with a quick dinner or late bite.",
+    "106": "The user regularly uses PATH as part of their evening commute pattern, making a transition back toward Lower Manhattan plausible.",
+    "109": "A frequent commute endpoint for this user, though less likely immediately after a Chelsea stop than a local Manhattan venue.",
+    "5293": "A plausible evening restaurant choice in the user’s Chelsea/Lower Manhattan corridor with a food-oriented late-night profile.",
+    "4678": "The user has visited it before and it fits their casual dinner pattern, though they were already there earlier today.",
+    "1637": "This deli/bodega fits a practical late-night food stop in the user’s typical Manhattan corridor.",
+    "274": "A nearby Manhattan destination that is possible for an evening roam, but less consistent with the user’s strongest Friday anchor pattern."
+  },
+  "fallback": false
+}

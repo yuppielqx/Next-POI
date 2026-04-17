@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1823",
+  "ranked_loc_ids": [
+    5219,
+    616,
+    4582,
+    2238,
+    3956,
+    3477,
+    4817,
+    5288,
+    766,
+    2671
+  ],
+  "explanations": {
+    "5219": "The user was last here and has a repeat history at this spa, making a short return the most likely immediate next step.",
+    "616": "This is one of the user’s most frequent routine stops in the same corridor and fits a post-spa evening coffee visit.",
+    "4582": "The Columbia medical campus is a core habitual anchor for this user and is very close to the last location.",
+    "2238": "The user has visited this nearby tapas spot before, and the evening Sunday timing makes dinner plausible.",
+    "3956": "Similar users at this hour often move through a nearby metro station, and it fits a transition out of the area.",
+    "3477": "This nearby nightlife spot is a possible evening destination given the time and its proximity.",
+    "4817": "A nearby dining option in the same Washington Heights area, suitable for an evening meal.",
+    "5288": "Another nearby restaurant that matches the user’s occasional dining behavior.",
+    "766": "The user has previously ventured to this Midtown grocery destination, though it is less likely than nearby options.",
+    "2671": "This prior Lower Manhattan nightlife location is possible in the evening, but it is less consistent with the user’s usual routine."
+  },
+  "fallback": false
+}

@@ -1,0 +1,24 @@
+{
+  "traj_id": "test_2268",
+  "ranked_loc_ids": [
+    4619,
+    5419,
+    991,
+    1252,
+    2549,
+    3573,
+    2205,
+    2156
+  ],
+  "explanations": {
+    "4619": "The user’s strongest habit is returning to this gym in the 6–8 PM window, and the target time precisely matches their peak evening workout pattern.",
+    "5419": "The last observed move was a gym-to-café pattern, and this café is the exact previous stop, so a continued food/refreshment sequence is possible.",
+    "991": "The nearby fitness center fits the user’s gym-first routine and is close enough to support an evening exercise continuation.",
+    "1252": "The user has prior transitions here and it represents another Manhattan-area unknown stop that could align with their mixed gym/work movement.",
+    "2549": "The user sometimes pairs workouts with café stops, and this is one of their recurring secondary food locations.",
+    "3573": "Another café in the user’s broader Manhattan pattern, making it a possible post-workout or post-work stop.",
+    "2205": "The user has some cross-borough gym history, so a Brooklyn gym visit is possible though less likely than Manhattan repeats.",
+    "2156": "A nearby food stop could follow the current café pattern, but it is less consistent with the user’s usual fitness-centered routine."
+  },
+  "fallback": false
+}

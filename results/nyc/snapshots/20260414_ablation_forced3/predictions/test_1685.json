@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1685",
+  "ranked_loc_ids": [
+    192,
+    5089,
+    2937,
+    1588,
+    2514,
+    13,
+    3384,
+    3537,
+    67,
+    2984
+  ],
+  "explanations": {
+    "192": "It is a top repeat afternoon destination for this user and sits very close to the last known Greenwich Village location.",
+    "5089": "This is one of the user’s strongest recurring social anchors, and the evening-to-afternoon routine makes a return plausible.",
+    "2937": "A familiar Village restaurant near the current area fits the northwest movement and leisure-oriented midday pattern.",
+    "1588": "It is extremely close to the last location and matches the user’s preference for casual bars in the Village.",
+    "2514": "This nearby bar fits the same neighborhood-cluster behavior and a transition from one pub to another.",
+    "13": "As the last known location, it remains a likely short-term stay or immediate revisited venue despite no prior history.",
+    "3384": "A nearby lounge in the East Village/Union Square corridor aligns with the user’s late-day nightlife pattern.",
+    "3537": "This bar is in the user’s preferred downtown Manhattan zone and fits a continued social outing.",
+    "67": "The user has a corridor pattern around Union Square, and afternoon park activity is consistent with the time prior.",
+    "2984": "This nearby East Village restaurant is a plausible casual stop for a mid-afternoon shift from drinking to food."
+  },
+  "fallback": false
+}

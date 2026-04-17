@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1287",
+  "ranked_loc_ids": [
+    476,
+    2473,
+    3092,
+    4643,
+    4644,
+    25,
+    3030,
+    1339,
+    1099,
+    4642
+  ],
+  "explanations": {
+    "476": "This is the user’s strongest anchor and the time is very early, making a quick return to the nearby park the most likely move.",
+    "2473": "It is a frequent nearby Greenpoint stop and fits the short local continuation after Bagelsmith.",
+    "3092": "A close Williamsburg/Greenpoint errand stop that matches the user’s neighborhood-bound morning pattern.",
+    "4643": "Another nearby deli/bodega in the same home area, plausible for a brief follow-up stop.",
+    "4644": "A local grocery stop near McCarren Park that fits an early-morning neighborhood run.",
+    "25": "Extremely close to the current position and consistent with a short walk in Williamsburg.",
+    "3030": "A nearby clothing store with a prior visit, though less likely at this early hour.",
+    "1339": "A very close nearby music venue, but nightlife venues are less likely than neighborhood basics this early.",
+    "1099": "Close by in Williamsburg and possible on a short local route, but less aligned with the early-morning pattern.",
+    "4642": "It appears in the user’s early-morning history, but the cross-borough commute makes it less likely than nearby Brooklyn options."
+  },
+  "fallback": false
+}

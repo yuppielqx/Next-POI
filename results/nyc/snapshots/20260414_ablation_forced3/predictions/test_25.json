@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_25",
+  "ranked_loc_ids": [
+    224,
+    238,
+    227,
+    233,
+    226,
+    230,
+    245,
+    231,
+    234,
+    256
+  ],
+  "explanations": {
+    "224": "It best matches the strong Saturday afternoon prior and the user’s repeated noon-to-2pm visits to this west-side outdoor anchor.",
+    "238": "The user frequently returns to this Thai lunch spot in the noon–2pm window, which fits the target time well.",
+    "227": "A repeated Manhattan food anchor, especially plausible for a familiar afternoon meal on the Upper East Side side of town.",
+    "233": "Weekend park behavior and the user’s Upper East Side pattern make a Central Park stop a strong fallback.",
+    "226": "This looks like a home-base style anchor in the user’s core neighborhood, making it a credible Saturday daytime destination.",
+    "230": "Bike-shop interest and proximity to the last location keep this as a plausible practical stop during a north-westward move.",
+    "245": "Another lunch-oriented Thai restaurant that aligns with the user’s strong midday food pattern.",
+    "231": "A casual Manhattan lunch option that fits the user’s afternoon dining habits and broad leisure-oriented movement.",
+    "234": "The user repeatedly appears near the Upper East Side, and a park visit would fit their weekend leisure profile.",
+    "256": "As the last known location, a short return or lingering nearby remains possible despite weaker daytime fit."
+  },
+  "fallback": false
+}

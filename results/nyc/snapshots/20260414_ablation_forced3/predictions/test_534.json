@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_534",
+  "ranked_loc_ids": [
+    1586,
+    1598,
+    2912,
+    1334,
+    2915,
+    2084,
+    1568,
+    2909,
+    2913,
+    2487
+  ],
+  "explanations": {
+    "1586": "This is the strongest after-work bar match in the user’s history and fits the Friday evening office-to-drinks pattern near Murray Hill/NoMad.",
+    "1598": "A frequent nearby sports bar in the same corridor, making it a very plausible post-office stop.",
+    "2912": "Another repeated bar choice within a short walk of Text 100 and consistent with the user’s nightlife routine.",
+    "1334": "A known pub in the user’s history that matches the evening bar-oriented behavior.",
+    "2915": "A nightlife spot that fits the Friday evening socializing pattern, though it is slightly farther west than the core cluster.",
+    "2084": "Close to the office base and aligned with the user’s tendency to chain to nearby drinking venues.",
+    "1568": "A nearby wine bar that is plausible for an evening transition from work to socializing.",
+    "2909": "A reasonable pub option for the user’s bar-heavy profile, though less central than the top choices.",
+    "2913": "A familiar nearby lunch/café stop, but less likely than a bar at this evening time.",
+    "2487": "A nearby late-day dining option that could follow work, but it is less consistent than the nightlife venues."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1869",
+  "ranked_loc_ids": [
+    4014,
+    5259,
+    277,
+    741,
+    4017,
+    3438,
+    4146,
+    4917,
+    5258,
+    557
+  ],
+  "explanations": {
+    "4014": "The user is already at this frequent anchor site and the strongest time-conditioned prior suggests they are likely still at the racetrack complex at 21:57.",
+    "5259": "This nearby event-related venue is a repeated Saturday destination and is the most plausible internal move within the same Meadowlands area.",
+    "277": "Similar users at this time often shift to adjacent sports venues, and it is extremely close to the last known location.",
+    "741": "The IZOD Center is another nearby Meadowlands entertainment venue that fits a continued event-night pattern.",
+    "4017": "A nearby shopping and entertainment complex could attract a short post-event stop without leaving the area.",
+    "3438": "A nightlife venue close to the Meadowlands matches the user’s evening tilt and post-event behavior.",
+    "4146": "A nearby dinner stop is plausible for a late-evening transition after the racetrack.",
+    "4917": "A regional transit hub is a reasonable next move if the user is beginning to leave the event area.",
+    "5258": "This convenience-store pattern appears in the user’s late-night history, though it is less likely than a nearby Meadowlands stay.",
+    "557": "If the user departs toward Manhattan after the event, the tunnel is a plausible late-night transit checkpoint."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1765",
+  "ranked_loc_ids": [
+    5167,
+    841,
+    2496,
+    1248,
+    137,
+    5166,
+    4517,
+    2822,
+    1012,
+    3031
+  ],
+  "explanations": {
+    "5167": "The 08:10 Thursday morning timing strongly matches the user’s recurring weekday office routine at this Midtown workplace.",
+    "841": "It is a frequently visited lower-Manhattan stop with morning history and could be a brief continuation from the prior day’s movement.",
+    "2496": "This is the user’s strongest habitual morning destination, though it is more typical earlier in the 6 a.m. hour than at 08:10.",
+    "1248": "The Williamsburg Bridge transit hub fits the user’s southward movement and could plausibly be a commute point after leaving Brooklyn.",
+    "137": "Penn Station is a major commute-related hub and can serve as a morning transfer point toward Midtown work.",
+    "5166": "The user has repeated evening religious activity here, making it a possible but less likely Thursday morning destination.",
+    "4517": "The user has some history with this Brooklyn wellness spot, but the morning weekday context favors work or commute over spa visits.",
+    "2822": "This Midtown theater-district venue is in the broader Manhattan area, but it does not fit the user’s established morning pattern well.",
+    "1012": "A nearby Brooklyn food stop is possible, but the user’s routine suggests an office-bound commute rather than breakfast dining.",
+    "3031": "This nearby entertainment venue is weakly aligned with the user’s behavior and is unlikely at 08:10 on a Thursday."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2470",
+  "ranked_loc_ids": [
+    5669,
+    173,
+    5670,
+    5671,
+    4769,
+    5672,
+    2352,
+    58,
+    3593,
+    5401
+  ],
+  "explanations": {
+    "5669": "This is the strongest recurring weekday transit anchor in the user’s history and best fits a late-night return-to-frequent-place pattern.",
+    "173": "Harlem’s transit hub is another repeated weekday anchor that matches the Bronx/Upper Manhattan commuting corridor.",
+    "5670": "The user often returns to this nearby Lexington Ave lunch stop, making it a plausible continuation point from the current Midtown area.",
+    "5671": "A highly repeated nearby Japanese lunch venue that fits the user’s routine, even if the hour is late.",
+    "4769": "This is a frequent nearby coffee stop with strong Wednesday history, so it remains a solid Midtown fallback.",
+    "5672": "The user’s practical errand pattern makes this nearby pharmacy a reasonable late-night stop.",
+    "2352": "Another nearby convenience/pharmacy option that fits the user’s errand-oriented behavior.",
+    "58": "Grand Central Terminal is a major commuter node and could plausibly be involved in a late-night transit movement.",
+    "3593": "Since this is the last known location and the user has repeated gym visits, they could still remain there or briefly return.",
+    "5401": "This Bronx transit station aligns with the broader commuter corridor and is a lower-probability but still plausible anchor."
+  },
+  "fallback": false
+}

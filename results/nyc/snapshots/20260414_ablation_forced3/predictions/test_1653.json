@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1653",
+  "ranked_loc_ids": [
+    5053,
+    109,
+    4350,
+    450,
+    105,
+    3895,
+    347,
+    106,
+    1158,
+    5054
+  ],
+  "explanations": {
+    "5053": "The user’s strongest routine and Sunday morning pattern overwhelmingly points to another dog-park visit right after the last known evening stop there.",
+    "109": "This is the other major morning routine anchor, and the user often pairs early local activity with a transit check-in.",
+    "4350": "A very close neighborhood outdoor spot that fits a quiet Sunday morning in the same local cluster.",
+    "450": "A nearby grocery stop is plausible on a Sunday morning given the user’s local, routine-oriented behavior.",
+    "105": "A short-distance food pickup fits the nearby, non-exploratory movement pattern after a local start.",
+    "3895": "The user visited it recently and it is nearby, making another errand-style stop possible.",
+    "347": "The Holland Tunnel gateway is a reasonable nearby transit-related move, though less likely on a Sunday morning.",
+    "106": "The user regularly uses PATH into Lower Manhattan, but weekend mornings favor local stops over commuting.",
+    "1158": "A generic local movement within the same neighborhood cluster is possible, though too broad to be the best specific prediction.",
+    "5054": "A nearby Jersey City food stop is plausible, but it is less routine than the dog park or PATH station."
+  },
+  "fallback": false
+}

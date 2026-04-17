@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_494",
+  "ranked_loc_ids": [
+    2746,
+    69,
+    879,
+    338,
+    2747,
+    1207,
+    332,
+    2755,
+    329,
+    52
+  ],
+  "explanations": {
+    "2746": "This is one of the user's most frequent Manhattan work destinations and is a very short continuation from 23rd Street PATH Station along the same morning commute corridor.",
+    "69": "The user has repeatedly paired morning commute arrivals with coffee stops, and this café is a close, behaviorally consistent next stop.",
+    "879": "The user frequently appears near Flatiron after commuting into Midtown South, and it is close enough to fit a short post-transit walk.",
+    "338": "This nearby breakfast/food stop matches the user's sparse but functional morning non-transit pattern around 23rd Street.",
+    "2747": "A quick sandwich stop near 23rd Street fits the user's commute-time routine and close-distance movement pattern.",
+    "1207": "A brief lingering or re-check-in at the current transit hub remains plausible given the user's heavy transportation-station focus.",
+    "332": "The user has visited Union Square-area destinations before, and it is a natural short move south-east from 23rd Street.",
+    "2755": "Another PATH/transit continuation in the Midtown South corridor is plausible given the user's repeated station-to-station commuting behavior.",
+    "329": "Madison Square Park is nearby and occasionally fits short post-commute wandering in the Flatiron/Midtown South area.",
+    "52": "This is a reasonable coffee-oriented alternative within the user's usual Manhattan destination zone, though less likely than the closer 230 Park Ave S Starbucks."
+  },
+  "fallback": false
+}

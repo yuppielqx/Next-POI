@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_221",
+  "ranked_loc_ids": [
+    1529,
+    1204,
+    1527,
+    1201,
+    1530,
+    1539,
+    1538,
+    1535,
+    1525,
+    1528
+  ],
+  "explanations": {
+    "1529": "The user was just checked in here 5 minutes ago, and the time/context strongly favor still being at the last venue.",
+    "1204": "It is a frequent 6–8 PM bar stop for this user and sits very close within the same West Village nightlife cluster.",
+    "1527": "A highly consistent nearby LGBTQ nightlife venue in the same corridor, making it a natural short-hop alternative.",
+    "1201": "Another nearby gay bar with strong nightlife fit and minimal distance from Pieces Bar.",
+    "1530": "If the user leaves the bar cluster, this nearby station is a plausible transit point in the same area.",
+    "1539": "A nearby subway option that fits a short movement north from the Christopher Street area.",
+    "1538": "Another close transit hub that could follow a brief nightlife stop before heading elsewhere.",
+    "1535": "Very close and compatible with late-evening post-bar movement for a quick food stop.",
+    "1525": "Another nearby food option that fits the user’s pattern of chaining nightlife with casual dining.",
+    "1528": "A familiar nightlife destination slightly farther away, still consistent with the user’s evening bar-hopping routine."
+  },
+  "fallback": false
+}

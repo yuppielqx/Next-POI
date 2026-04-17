@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1154",
+  "ranked_loc_ids": [
+    4423,
+    2880,
+    3589,
+    3386,
+    1089,
+    1564,
+    2462,
+    1581,
+    3183,
+    88
+  ],
+  "explanations": {
+    "4423": "It is the strongest routine-based breakfast/deli stop in the user’s Midtown cluster and is very close to the current location.",
+    "2880": "The user frequently chains pharmacy visits into their weekday routine, and this is the nearest habitual option.",
+    "3589": "Their profile strongly favors recurring morning/after-work gym check-ins in Midtown East.",
+    "3386": "A nearby coffee stop fits the user’s common post-errand routine and location trend.",
+    "1089": "This is another tightly clustered deli/coffee-style venue that matches the user’s habitual Midtown pattern.",
+    "1564": "Since they are already there and the movement trend says they are staying in the same area, a repeat check-in is plausible.",
+    "2462": "Urban Outfitters is immediately adjacent and could be a short continuation of the same Midtown shopping trip.",
+    "1581": "The user has a fitness-oriented routine, so a nearby gym/wellness stop remains possible despite no prior visits.",
+    "3183": "This nearby Midtown club is another plausible routine-adjacent destination during an evening transition.",
+    "88": "Their commuting pattern makes a transit-related move possible, though it is less likely than a nearby routine stop."
+  },
+  "fallback": false
+}

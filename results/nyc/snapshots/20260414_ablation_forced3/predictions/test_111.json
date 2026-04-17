@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_111",
+  "ranked_loc_ids": [
+    857,
+    861,
+    4269,
+    858,
+    862,
+    855,
+    4266,
+    5690,
+    5160,
+    863
+  ],
+  "explanations": {
+    "857": "It is the user's most frequent historical place and fits the late-night revisiting pattern in the East Orange/Belleville corridor.",
+    "861": "It is a previously visited nearby building and is reinforced by the similar-user late-night pattern around 23:49.",
+    "4269": "The user often visits medical facilities, and this hospital is very close to the current area.",
+    "858": "Grocery stores are a top user category and this East Orange ShopRite matches the nearby return-to-frequent-place tendency.",
+    "862": "The user is already there, and the movement trend suggests staying in the same local area.",
+    "855": "Another grocery option that aligns with the user's grocery-store history, though it is slightly less locally aligned.",
+    "4266": "Similar users went to Wendy's at a comparable late hour, making it a plausible nighttime food stop.",
+    "5690": "A nearby East Orange coffee shop that could fit a late-night convenience stop.",
+    "5160": "A nearby fast-food option consistent with late-night restaurant behavior.",
+    "863": "The user has visited it before, but it is farther away and less likely than the closer East Orange options."
+  },
+  "fallback": false
+}

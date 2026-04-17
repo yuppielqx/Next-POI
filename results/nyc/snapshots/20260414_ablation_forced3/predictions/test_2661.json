@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2661",
+  "ranked_loc_ids": [
+    5749,
+    879,
+    1264,
+    5750,
+    4720,
+    2860,
+    329,
+    244,
+    2104
+  ],
+  "explanations": {
+    "5749": "It is the closest repeated stop to the last location and fits the user’s snack/errand pattern in the same Flatiron corridor.",
+    "879": "The user repeatedly returns to this core public square, and it sits directly within their most common movement cluster.",
+    "1264": "A frequent convenience stop in the same tight neighborhood, consistent with the user’s errand-heavy behavior.",
+    "5750": "Another nearby food venue in the user’s core area, plausible for a quick late-morning meal stop.",
+    "4720": "The user’s history includes service-oriented stops, and this nearby ATM fits the same short-range Flatiron loop.",
+    "2860": "Very close to the current route and a reasonable casual-food option, though less supported by the user’s repeated history.",
+    "329": "Madison Square Park is a natural nearby public-space visit and aligns with the user’s preference for Flatiron-adjacent wandering.",
+    "244": "Similar-user patterns support a quick morning food stop here, but the user has no direct history at this place.",
+    "2104": "It fits the user’s sandwich/snack preferences and nearby movement, though it is less strongly favored than the main Flatiron repeats."
+  },
+  "fallback": false
+}

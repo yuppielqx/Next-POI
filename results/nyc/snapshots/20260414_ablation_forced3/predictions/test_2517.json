@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2517",
+  "ranked_loc_ids": [
+    3204,
+    5472,
+    125,
+    2872,
+    3970,
+    3969,
+    4381,
+    53,
+    2750,
+    646
+  ],
+  "explanations": {
+    "3204": "This is the user’s strongest recurring Manhattan anchor and the time prior strongly favors a cross-borough evening return there.",
+    "5472": "The user repeatedly uses this station as a Brooklyn anchor, making a return trip or transit start highly plausible.",
+    "125": "Jay St-MetroTech is the nearest major transit option and fits a likely short-hop move after lunch in downtown Brooklyn.",
+    "2872": "A quick coffee stop near the current area is consistent with short evening chaining before a longer trip.",
+    "3970": "Another nearby coffee option that fits the user’s pattern of brief supporting stops.",
+    "3969": "The user is already at Chipotle, so lingering or a quick follow-on within the same venue is possible.",
+    "4381": "A nearby Brooklyn transit hub is a natural next step if they are heading toward Manhattan.",
+    "53": "Times Square transit access matches the user’s occasional Manhattan evening chaining, though it is less directly supported than Chelsea.",
+    "2750": "The user has previously paired Paper Presentation with nearby retail, making this a plausible Manhattan follow-up.",
+    "646": "This also fits the user’s prior Chelsea shopping cluster, but it is slightly less likely than Old Navy."
+  },
+  "fallback": false
+}

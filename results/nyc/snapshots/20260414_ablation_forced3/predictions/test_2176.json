@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2176",
+  "ranked_loc_ids": [
+    1522,
+    2029,
+    2675,
+    1884,
+    4040,
+    2413,
+    2981,
+    3508,
+    1885,
+    275
+  ],
+  "explanations": {
+    "1522": "This is the user’s strongest recurring anchor and the current movement trend suggests they remain in the same transit hub.",
+    "2029": "It is extremely close to the last location and fits a likely nearby weekday morning check-in in the Chelsea/West Village corridor.",
+    "2675": "A nearby West Village nightlife spot that is plausibly visited during short local movement, though less likely than transit.",
+    "1884": "It sits almost on top of the last location and could capture a quick stop in the immediate 14th St area.",
+    "4040": "Very close to the station and consistent with the user’s occasional social/leisure behavior near their core corridor.",
+    "2413": "Another nearby nightlife option in the same micro-area, but with weaker evidence than the transit and bar anchors.",
+    "2981": "A nearby restaurant that fits a short local errand or breakfast/lunch stop around 14th St.",
+    "3508": "This is the most plausible alternate transit stop given the user’s north-south Manhattan routine.",
+    "1885": "A known user-frequented dive bar nearby, though the morning target time makes it less likely than transit.",
+    "275": "A prior leisure destination within the user’s Manhattan cluster, but not strongly supported at this early weekday hour."
+  },
+  "fallback": false
+}

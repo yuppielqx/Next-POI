@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1382",
+  "ranked_loc_ids": [
+    1668,
+    1669,
+    4336,
+    1666,
+    895,
+    123,
+    1670,
+    771,
+    4982,
+    690
+  ],
+  "explanations": {
+    "1668": "The user’s strongest anchor and the current last known location make an immediate stay or return here the most likely outcome.",
+    "1669": "It is the closest subway option and fits the user’s transit-heavy Queens routine if they make a short hop from Corona Plaza.",
+    "4336": "The user is likely still in the immediate home-area vicinity, and this nearby neighborhood location fits a no-change movement pattern.",
+    "1666": "A nearby Queens 7-line station is plausible if the user is continuing along the corridor without leaving the area.",
+    "895": "The user has prior stadium activity, and its proximity makes it a reasonable Saturday-night leisure destination.",
+    "123": "A short Queens trip to a common nearby commercial destination is plausible given the user’s cross-Queens movement pattern.",
+    "1670": "Another nearby subway stop on the same line fits a transit-based move within the user’s familiar corridor.",
+    "771": "This is a nearby Queens transit point that could follow if the user shifts toward another neighborhood connection.",
+    "4982": "The user sometimes makes local Queens leisure trips, and this nearby attraction is within the same area.",
+    "690": "Saturday-night behavior sometimes includes nightlife, so a nearby sports bar is a secondary possibility."
+  },
+  "fallback": false
+}

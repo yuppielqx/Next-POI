@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_688",
+  "ranked_loc_ids": [
+    3379,
+    811,
+    3382,
+    3386,
+    1284,
+    1560,
+    1552,
+    4423,
+    3380,
+    333
+  ],
+  "explanations": {
+    "3379": "It is the user’s dominant weekday anchor, and the strongest prior says they are likely still at the coworking space at 12:31 after arriving there that morning.",
+    "811": "This nearby Japanese restaurant matches the user’s repeated noon-to-2pm lunch pattern in Midtown East.",
+    "3382": "A close Midtown lunch spot with history in the noon–2pm slot, making it a plausible workday break destination.",
+    "3386": "The nearby coffee shop is an easy same-building support stop during a workday at 545 5th Ave.",
+    "1284": "A nearby Midtown errand/retail stop that fits the user staying in the same area during the workday.",
+    "1560": "This adjacent restaurant is very close to the last location and plausible for a midday lunch.",
+    "1552": "Another immediate coffee option near the coworking space, consistent with a midday refresh break.",
+    "4423": "A nearby deli/bodega that could serve a quick lunch without leaving Midtown East.",
+    "3380": "The gym is a core part of the user’s routine, though it is more typical earlier in the morning than at 12:31.",
+    "333": "A nearby grocery stop that fits the user’s practical errand-oriented pattern, though it is less likely than lunch or coffee options."
+  },
+  "fallback": false
+}

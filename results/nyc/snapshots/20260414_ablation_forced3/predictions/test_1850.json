@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1850",
+  "ranked_loc_ids": [
+    4815,
+    59,
+    97,
+    1776,
+    1235,
+    5255,
+    560,
+    1146,
+    4763,
+    5317
+  ],
+  "explanations": {
+    "4815": "It is the current location, has the highest same-place recurrence in the user's history, and the recent two-day pattern strongly suggests another short lunchtime stay nearby.",
+    "59": "This is one of the user's most frequent midday destinations and a core Midtown anchor, making a return plausible even after the Washington Heights stop.",
+    "97": "The user repeatedly visits this lunch-oriented lounge in the same routine and it appears in the profile’s most common sequences.",
+    "1776": "A heavily recurrent business-hour venue in the user's history, especially around noon to early afternoon, so it remains a strong revisit candidate.",
+    "1235": "This Midtown hotel is another regular stop in the user's lunch window and fits the established Times Square corridor pattern.",
+    "5255": "Although less central than the top recurring venues, it has strong noon-to-2pm frequency and could fit the user's compact weekday banking pattern.",
+    "560": "This frequent lunchtime stop aligns with the user's short, routine midday bursts and similar-user food-then-shopping movement patterns.",
+    "1146": "The racetrack appears in the user's history often enough to matter, but it is less consistent with the Friday lunch-centered routine than the top venues.",
+    "4763": "It is very close to the current location and could be an easy nearby move, though the user usually favors more recurrent named venues.",
+    "5317": "A nearby food option that matches lunchtime behavior, but it is less established in the user's history than the main recurring locations."
+  },
+  "fallback": false
+}

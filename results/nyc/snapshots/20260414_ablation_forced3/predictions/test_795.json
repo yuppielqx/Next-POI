@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_795",
+  "ranked_loc_ids": [
+    3653,
+    3652,
+    1445,
+    1069,
+    583,
+    2874,
+    3187,
+    1239,
+    1442,
+    3010
+  ],
+  "explanations": {
+    "3653": "It is the user’s strongest late-night repeat venue, directly matches the current midnight transition pattern, and is the last known location so a quick return is most likely.",
+    "3652": "This nearby frequent restaurant fits the user’s established restaurant-to-nightlife loop and is often visited around the same late-night window.",
+    "1445": "A highly consistent nearby bar in the same Midtown nightlife corridor, making it the most plausible alternate stop after Location 3653.",
+    "1069": "It is extremely close to the last location and matches the user’s bar-heavy Midtown entertainment pattern.",
+    "583": "Another Midtown bar that fits the late-night profile, though it has far less personal history than the top choices.",
+    "2874": "A nearby nightlife spot in the same theater district that aligns well with the user’s after-dark mobility.",
+    "3187": "This nearby bar is in the right corridor and could serve as a short-hop continuation of the user’s nightlife movement.",
+    "1239": "A classic Midtown bar close to the current cluster, plausible for a late-night visit but with no prior user history.",
+    "1442": "A nearby Times Square restaurant that could fit the user’s dining-before-nightlife sequence, though it is less directly supported.",
+    "3010": "A nearby food venue in the same area that is possible as part of the user’s compact Midtown movement, but it is less likely than the bars and repeat venues."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1035",
+  "ranked_loc_ids": [
+    2870,
+    4220,
+    701,
+    4219,
+    138,
+    2977,
+    4222,
+    1185,
+    2869,
+    5740
+  ],
+  "explanations": {
+    "2870": "This is the closest recurring grocery option and fits the Sunday morning errand pattern near the user’s familiar Astoria corridor.",
+    "4220": "The user has repeated visits here and it is a very nearby food stop consistent with a short morning return.",
+    "701": "A strong 9–11 a.m. bakery/coffee match that aligns with the user’s morning routine and nearby location.",
+    "4219": "One of the user’s strongest anchors overall, and the short distance makes a quick return plausible.",
+    "138": "A major habitual transit node for the user, likely to be revisited in a structured morning movement pattern.",
+    "2977": "Although farther away, it matches the Sunday morning grocery-errand pattern and has strong time-slot support.",
+    "4222": "A familiar nearby food venue that could fit a routine local stop, though less likely than the grocery and breakfast options.",
+    "1185": "Close by and within the user’s local corridor, but the bar category is less consistent with the current morning context.",
+    "2869": "Very close to the last location and a plausible morning coffee stop despite lacking prior history.",
+    "5740": "It is essentially adjacent to the last known point, but the user has no history here so it is a weaker bet."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2046",
+  "ranked_loc_ids": [
+    1135,
+    773,
+    5413,
+    5412,
+    408,
+    314,
+    3228,
+    5090,
+    2083,
+    3863
+  ],
+  "explanations": {
+    "1135": "A recurring daytime errand spot very close to the Bowery coffee stop, matching the south-west drift and the user’s practical downtown pattern.",
+    "773": "A nearby downtown bar that fits the user’s strong nightlife orientation and compact Lower Manhattan movement.",
+    "5413": "A frequently visited sushi restaurant in the same downtown cluster, plausible for a Friday afternoon lunch.",
+    "5412": "A close-by restaurant in the East Village/NoHo corridor that matches the user’s lunch and dinner habits.",
+    "408": "The user has already checked in here this morning, and a repeat stop is plausible given the very short distance and history.",
+    "314": "A nearby lunch-friendly restaurant in Lower Manhattan that fits a midday food stop after morning coffee.",
+    "3228": "A known work/office-type destination in Manhattan that aligns with the user’s occasional daytime practical visits.",
+    "5090": "A compact-area breakfast/lunch place that matches the user’s downtown daytime dining pattern.",
+    "2083": "A nearby gastropub that fits the user’s social, bar-and-restaurant-heavy routine.",
+    "3863": "A favored nightlife spot, slightly less likely at 13:55 but still consistent with the user’s evening-heavy venue preferences."
+  },
+  "fallback": false
+}

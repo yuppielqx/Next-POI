@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_152",
+  "ranked_loc_ids": [
+    1174,
+    1168,
+    1177,
+    1173,
+    2716,
+    1253,
+    4383,
+    1261,
+    4856,
+    4855
+  ],
+  "explanations": {
+    "1174": "The user repeatedly pairs late-evening Bronx returns with this coffee stop, and it fits the strong Parkchester anchor pattern.",
+    "1168": "This is the user’s most frequent transit anchor and is directly tied to their commute-oriented routine.",
+    "1177": "Very close to the last location and consistent with the user’s occasional near-home food stops after transit.",
+    "1173": "A nearby Bronx outdoor/public space that matches the user’s local neighborhood mobility pattern.",
+    "2716": "This is a nearby neighborhood anchor and a plausible short move after arriving at the subway station.",
+    "1253": "A nearby coffee shop that fits the user’s recurring caffeine-and-transit behavior.",
+    "4383": "Another nearby Bronx transit node, plausible given the user’s transportation-heavy movement style.",
+    "1261": "A nearby subway option that aligns with short-distance Bronx movement.",
+    "4856": "A nearby casual food option that could fit a late-night neighborhood stop.",
+    "4855": "A very close nearby errand stop, but less aligned with the user’s strongest historical patterns."
+  },
+  "fallback": false
+}

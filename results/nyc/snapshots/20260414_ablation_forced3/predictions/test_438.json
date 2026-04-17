@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_438",
+  "ranked_loc_ids": [
+    991,
+    911,
+    2566,
+    2567,
+    2422,
+    716,
+    1917,
+    67,
+    2570,
+    1685
+  ],
+  "explanations": {
+    "991": "The user’s strongest recurring late-afternoon pattern is a return to this fitness center, making it the best match for a Sunday 17:00 visit.",
+    "911": "This is the other major repeated workout destination in the same Manhattan corridor and fits the user’s fitness-centered routine.",
+    "2566": "A nearby coffee stop is plausible after or between structured activities, especially given the user’s compact downtown movement pattern.",
+    "2567": "The user has multiple visits here and it remains a familiar uptown anchor, though it is less aligned with the immediate southward movement.",
+    "2422": "A quick healthy food stop near the current area fits the user’s workout-and-errand rhythm.",
+    "716": "Grocery errands are consistent with the user’s daytime routine and this location is within the same Greenwich Village/Union Square zone.",
+    "1917": "A nearby outdoor stop is plausible given the short-radius movement and daytime behavioral pattern.",
+    "67": "This is a familiar central Manhattan waypoint that could connect to errands or a post-workout walk.",
+    "2570": "A close casual meal option in the same neighborhood fits a short transition after the current location.",
+    "1685": "A repeat-friendly breakfast/cafe destination is less likely at 17:00 but still possible within the user’s food-stop pattern."
+  },
+  "fallback": false
+}

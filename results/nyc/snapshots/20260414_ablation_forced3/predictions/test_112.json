@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_112",
+  "ranked_loc_ids": [
+    338,
+    878,
+    4717,
+    4720,
+    820,
+    348,
+    354,
+    879,
+    866,
+    716
+  ],
+  "explanations": {
+    "338": "A very close breakfast-to-lunch food stop near Flatiron that fits the user’s strong midday meal pattern and current north-westward movement.",
+    "878": "It is the nearest highly connected repeat transition point and the user is still in the Flatiron core.",
+    "4717": "A nearby casual lunch option that matches the user’s daytime food-oriented routine.",
+    "4720": "Extremely close and consistent with the user’s compact errand behavior around midday.",
+    "820": "A nearby transit point that could follow the Flatiron Plaza stop before the next errand or lunch destination.",
+    "348": "A close coffee stop that fits the late-morning/early-afternoon pattern around meal and refreshment breaks.",
+    "354": "A nearby pharmacy/errand stop matching the user’s repeated practical weekday outings.",
+    "879": "The user is already here, so a brief return or lingering check-in remains plausible.",
+    "866": "A strong historical match for noon-to-2pm pharmacy runs, even if slightly farther than the closest options.",
+    "716": "A recurring grocery destination in the user’s history that fits the lunch/errand cluster, though less immediately aligned than the closer options."
+  },
+  "fallback": false
+}

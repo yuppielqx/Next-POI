@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1976",
+  "ranked_loc_ids": [
+    4497,
+    131,
+    1677,
+    5352,
+    2782,
+    706,
+    2849,
+    2850,
+    2333,
+    769
+  ],
+  "explanations": {
+    "4497": "This is the strongest historical and time-of-day match, and the user commonly returns there after mid-afternoon transit movements in western Queens.",
+    "131": "A very frequent transportation-node stop near the last location, fitting the user’s bridge/transfer corridor.",
+    "1677": "The user often chains from transit hubs to this nearby station in the same Queens movement pattern.",
+    "5352": "A repeated Sunnyside-area stop that fits the user’s afternoon food-routine behavior.",
+    "2782": "The user has transition-heavy history here, so they may remain nearby for another check-in.",
+    "706": "This extremely close post office is a plausible quick nearby continuation from Long Island City.",
+    "2849": "A nearby food stop that matches the short-gap local movement seen in similar users.",
+    "2850": "Another close Long Island City venue that could follow a brief local transfer.",
+    "2333": "The user frequently uses this transport corridor, making a south-westward continuation plausible.",
+    "769": "A nearby transit hub that fits the user’s bridge-linked commuting pattern in western Queens."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1595",
+  "ranked_loc_ids": [
+    2150,
+    451,
+    187,
+    1165,
+    557,
+    88,
+    4999,
+    1303,
+    1318,
+    1405
+  ],
+  "explanations": {
+    "2150": "The user has just been at Newark Liberty International Airport and this is the current transit node, making an immediate train-based continuation the most likely next stop.",
+    "451": "The nearby search suggests a forced keep around Newark Airport Terminal C, which fits a short-hop airport transition very well.",
+    "187": "As a lounge inside Newark Liberty Airport, it is a plausible next step for a traveler lingering after arriving at the airport station area.",
+    "1165": "A nearby airport-area hotel is a reasonable next move if the user is continuing a short airport transfer or waiting period.",
+    "557": "The user’s transit-heavy pattern and northwest movement make a Manhattan-bound crossing through this corridor plausible.",
+    "88": "This matches the user’s strong Midtown transit behavior and the likely destination area for an incoming transfer from New Jersey.",
+    "4999": "Secaucus is a known stop in the user’s broader transit pattern and is geographically aligned with a westward regional move.",
+    "1303": "A transit connection into Manhattan via a major rail line fits the user’s commute-and-transfer style around this time.",
+    "1318": "The user has visited this Midtown destination before, and it fits the broader Manhattan commercial corridor the user frequents.",
+    "1405": "This is one of the user’s most frequent destinations, though it is less likely than a transit-related stop immediately after the airport."
+  },
+  "fallback": false
+}

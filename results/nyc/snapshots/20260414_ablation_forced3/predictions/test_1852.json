@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1852",
+  "ranked_loc_ids": [
+    1235,
+    59,
+    97,
+    1776,
+    560,
+    4893,
+    4519,
+    3053,
+    1925,
+    5001
+  ],
+  "explanations": {
+    "1235": "The user has an extremely strong lunch-hour routine in Midtown, and Marriott Marquis is one of the most frequent return points near the Times Square corridor.",
+    "59": "This is a core Midtown anchor for the user with very high noon-to-2pm frequency and fits the recent southwest movement within the same cluster.",
+    "97": "The user is currently here and has a strong history of returning to this same lunch venue at this time.",
+    "1776": "A highly frequented event-space stop in the user's history, consistent with a business-lunch Midtown pattern and a plausible nearby transfer.",
+    "560": "This nearby midday food stop fits the user's lunch-centered behavior and is close enough to the current Union Square/Midtown-ish area to be plausible.",
+    "4893": "A Midtown meeting-room location that matches the user's business-hours mobility and frequent corridor-based movement.",
+    "4519": "This adjacent restaurant is an immediate nearby lunch option, making it a reasonable short-hop continuation from the current location.",
+    "3053": "The user is in the Union Square area now, and this prominent lunch restaurant matches the afternoon dining pattern.",
+    "1925": "A nearby lunch/social venue that aligns with the user's lounge/restaurant-heavy profile and compact trip style.",
+    "5001": "Another close-by lunch-oriented restaurant in the current area, plausible as a next stop given the user's midday food-centric routine."
+  },
+  "fallback": false
+}

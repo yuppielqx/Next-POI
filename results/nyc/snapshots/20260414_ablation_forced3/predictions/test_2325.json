@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2325",
+  "ranked_loc_ids": [
+    1997,
+    2019,
+    950,
+    3673,
+    1038,
+    5148,
+    498,
+    2203,
+    1630,
+    275
+  ],
+  "explanations": {
+    "1997": "This is one of the user’s most repeated evening coffee stops and fits the strong 6–8 PM dinner-to-coffee pattern near Union Square.",
+    "2019": "A highly frequent downtown dinner spot for the user, and the time prior strongly favors a familiar food destination.",
+    "950": "The user often chains dinner into dessert in the East Village, making this a strong post-meal follow-up.",
+    "3673": "This is an extremely close and plausible coffee stop after a nearby fast-food dinner in the Union Square corridor.",
+    "1038": "Evening pizza is consistent with the user’s routine, and this location matches their downtown food pattern well.",
+    "5148": "Another nearby Starbucks option that fits the user’s habit of ending evenings with coffee.",
+    "498": "The user has a strong preference for East Village Indian food, so this is a reasonable dinner continuation.",
+    "2203": "Gym visits are part of the user’s routine, though the current evening context makes this slightly less likely than food.",
+    "1630": "The user often stays in the Union Square/NoHo area for short entertainment or shopping stops, making this a possible nearby errand.",
+    "275": "A plausible evening leisure destination in the same core area, especially given the user’s weekend movie patterns."
+  },
+  "fallback": false
+}

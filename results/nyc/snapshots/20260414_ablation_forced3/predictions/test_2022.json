@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2022",
+  "ranked_loc_ids": [
+    3328,
+    5397,
+    1610,
+    5398,
+    5396,
+    2108,
+    4738,
+    5523,
+    5524,
+    849
+  ],
+  "explanations": {
+    "3328": "The user is one minute into a Friday evening stay in their core corridor, making the last-known location the strongest next step.",
+    "5397": "This is the user’s dominant bar anchor on City Island and fits the evening social pattern very well.",
+    "1610": "A frequent repeat venue in the same waterfront cluster, especially plausible for a short local move after City Island.",
+    "5398": "The user often returns home nearby, and the movement pattern suggests a tight loop within a few blocks.",
+    "5396": "The Seashore Restaurant & Marina is another nearby waterfront food stop that matches the user’s local routine.",
+    "2108": "Sammy's Fishbox Restaurant is a close City Island seafood option that fits the area-specific dining behavior.",
+    "4738": "A nearby bar makes sense for an evening outing, though it lacks the user’s strong historical pull of Fella’s.",
+    "5523": "Similar-user behavior and seafood preference make this a plausible but less historical match.",
+    "5524": "A nearby food destination that could appear in a short local trip, but it is outside the core City Island anchor set.",
+    "849": "Similar users sometimes move to errands around this time, but it is a weaker fit than the user’s usual social waterfront pattern."
+  },
+  "fallback": false
+}

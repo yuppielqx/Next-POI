@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2290",
+  "ranked_loc_ids": [
+    1116,
+    422,
+    3173,
+    945,
+    4003,
+    2496,
+    137,
+    5589,
+    2452,
+    301
+  ],
+  "explanations": {
+    "1116": "Saturday night strongly matches the user’s nightlife pattern and this venue is an exact time-and-weekday fit from their history.",
+    "422": "It is a recurring nightlife-type venue in Brooklyn and fits the user’s late-evening social routine.",
+    "3173": "The user often transitions into bars later in the evening, and this NoHo nightlife spot matches that behavior.",
+    "945": "The user is currently here, and despite no history, nearby late-night bar hopping makes a short continuation plausible.",
+    "4003": "This nearby Brooklyn restaurant/bar fits the user’s evening-out pattern and the south-east movement trend.",
+    "2496": "It is one of the user’s strongest recurring anchors and remains plausible if they pivot back toward their Williamsburg routine.",
+    "137": "Strong Manhattan anchor for the user, especially in the Union Square/East Village corridor that matches Saturday night behavior.",
+    "5589": "This Brooklyn nightclub aligns with the user’s nightlife tendency and is geographically consistent with nearby movement.",
+    "2452": "A nearby food-and-drink stop is plausible given the user’s habit of layering evening outings around familiar Brooklyn spots.",
+    "301": "The user has Manhattan errand patterns in this area, but it is less likely than nightlife venues at this hour."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1542",
+  "ranked_loc_ids": [
+    4074,
+    540,
+    1573,
+    1812,
+    2214,
+    4931,
+    1059,
+    2056,
+    1761,
+    178
+  ],
+  "explanations": {
+    "4074": "A nearby Spanish restaurant fits the user’s downtown evening continuation from Flatiron Lounge better than a long jump.",
+    "540": "The user strongly favors nightlife venues, and this very close sports bar matches a Thursday evening social stop.",
+    "1573": "The last known location is already here, so a short linger or return is highly plausible at the target time.",
+    "1812": "This nearby Chelsea restaurant fits the user’s pattern of moving from drinks to late-evening food.",
+    "2214": "A nightlife venue aligned with the user’s downtown bar-hopping history, though it is farther east.",
+    "4931": "Another strong match for their gastropub/nightlife profile and prior visits, with a plausible evening transition.",
+    "1059": "The user has a clear history of ending nights at nightlife spots, making this a reasonable nearby continuation.",
+    "2056": "A similar East Village bar fits their social circuit pattern, but it is slightly less directly aligned with the current Chelsea/Flatiron position.",
+    "1761": "A nearby restaurant could be a food stop before continuing nightlife, though it is less distinctive than the bar options.",
+    "178": "The user has visited cultural venues before, but the evening context makes a movie stop less likely than dining or drinks."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_350",
+  "ranked_loc_ids": [
+    2134,
+    918,
+    137,
+    2136,
+    4412,
+    5208,
+    2327,
+    1371,
+    4675,
+    1204
+  ],
+  "explanations": {
+    "2134": "Strong habitual preference for Starbucks plus the late-evening time slot makes another coffee stop the most likely next move.",
+    "918": "Very close to the current Penn Station area and fits the user’s repeated coffee-oriented routine.",
+    "137": "The user is already here and this transition-heavy point is a common short-hop continuation from the last known location.",
+    "2136": "A frequent evening food stop in the same general Manhattan corridor, plausible after a short north-east move.",
+    "4412": "Immediate Penn Station nightlife option that matches Saturday-night behavior after a bar visit.",
+    "5208": "A nearby food stop in the same cluster, consistent with a quick night-time meal.",
+    "2327": "A close beer garden that fits the Saturday evening context and recent bar-oriented movement.",
+    "1371": "Nearby casual dinner option that could follow a late evening stop in Midtown.",
+    "4675": "Right next to the current location and a plausible fast-food choice for a short nocturnal stop.",
+    "1204": "A repeat nightlife venue in the user’s known West Village cluster, less likely than nearby Midtown options but still plausible."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1506",
+  "ranked_loc_ids": [
+    4891,
+    750,
+    200,
+    3691,
+    4890,
+    4892,
+    668,
+    3564,
+    2908,
+    1583
+  ],
+  "explanations": {
+    "4891": "The user repeatedly returns to this dessert spot and the midday timing fits their documented lunch-to-sweet-spot pattern.",
+    "750": "This is a familiar lounge in the user’s Midtown South corridor and similar users at this hour often transition to a lounge.",
+    "200": "A midday coffee stop matches the target time and the user’s compact return-to-frequent-place behavior.",
+    "3691": "The user strongly favors dessert shops, and this is another nearby sweet-treat destination in their usual range.",
+    "4890": "A highly repeated hotel bar in the user’s core Chelsea cluster fits their nightlife-leaning preferences.",
+    "4892": "This is another familiar hotel dining/bar venue in the same micro-territory as their other frequent check-ins.",
+    "668": "Similar users at this time often go from a casual food stop to another nearby venue, making a quick lunch option plausible.",
+    "3564": "The user frequently mixes food and drinks, and this nearby bar aligns with their evening-socializer profile.",
+    "2908": "A pub visit is consistent with the user’s bar-heavy history, though midday makes it slightly less likely than food or dessert.",
+    "1583": "The strong time prior and nearby Midtown location make a simple lunch stop plausible even if it is less characteristic than the user’s usual sweet or social venues."
+  },
+  "fallback": false
+}

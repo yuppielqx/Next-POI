@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2039",
+  "ranked_loc_ids": [
+    3742,
+    971,
+    970,
+    5410,
+    58,
+    2074,
+    2651,
+    4367,
+    4957,
+    440
+  ],
+  "explanations": {
+    "3742": "This is the strongest next-step commute node, matching the user's repeated Tuesday morning pattern immediately after Location 971.",
+    "971": "The user often repeats this exact transportation hub in the early morning, and it is the current last known location.",
+    "970": "A nearby ferry-related transit stop that fits the waterfront commute corridor and the north-west movement trend.",
+    "5410": "The user frequently pairs the commute with a morning coffee/breakfast stop, though it is slightly later and farther east.",
+    "58": "Grand Central Terminal is a plausible Midtown commuter destination given the user's structured weekday travel and transit-heavy history.",
+    "2074": "This waterfront location aligns with the west-side corridor and is close to the likely ferry path.",
+    "2651": "Similar-user and movement-pattern evidence make this a reasonable transit-adjacent stop along the Hudson corridor.",
+    "4367": "A transportation route near the current area, consistent with continued commuter movement rather than leisure.",
+    "4957": "Nearby transit infrastructure makes this a plausible alternative if the user is continuing a commute chain on the New Jersey side.",
+    "440": "A generic coffee stop is possible given the user's morning routine, but this specific Union City location is less consistent than the usual Midtown one."
+  },
+  "fallback": false
+}

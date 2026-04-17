@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1441",
+  "ranked_loc_ids": [
+    1178,
+    3301,
+    1400,
+    122,
+    2246,
+    3249,
+    2570,
+    2958,
+    3068,
+    137
+  ],
+  "explanations": {
+    "1178": "This is the user’s strongest recurrent Bronx anchor and the most likely return point after the JFK/Howard Beach travel sequence.",
+    "3301": "The user repeatedly returns to this northeast Bronx home-area location, making it a very plausible late-evening destination.",
+    "1400": "As a nearby transit hub in the same airport corridor, it is a natural intermediate stop before the user heads back into the city.",
+    "122": "The user is still in the JFK transit system, so a transfer to the adjacent station is highly plausible.",
+    "2246": "Another logical AirTrain transfer point consistent with continuing airport-area movement.",
+    "3249": "The user has a clear late-night food pattern, and pizza is one of their recurring behaviors.",
+    "2570": "A familiar Manhattan dining spot for this user, fitting their downtown leisure pattern.",
+    "2958": "Their nightlife-oriented schedule makes a pub visit plausible, especially on a Sunday evening.",
+    "3068": "Nearby food option in Howard Beach that could be visited before leaving the area.",
+    "137": "A major Manhattan transit hub that fits the user’s hub-and-spoke travel style, though less likely than Bronx-bound options."
+  },
+  "fallback": false
+}

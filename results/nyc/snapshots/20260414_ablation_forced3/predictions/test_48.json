@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_48",
+  "ranked_loc_ids": [
+    363,
+    358,
+    364,
+    3296,
+    377,
+    370,
+    357,
+    276,
+    188,
+    378
+  ],
+  "explanations": {
+    "363": "It is immediately adjacent to the last stop and fits the user’s common Upper West Side food-errand pattern at this early-evening time.",
+    "358": "A frequent Tuesday-friendly neighborhood deli stop in the same corridor, making a quick north-east continuation very plausible.",
+    "364": "The user has strong repeat behavior at this laundry service, and a practical errand after Soup Stop fits the timing and local movement.",
+    "3296": "It is right next to the current location and could easily be a short food/drink continuation despite no prior visits.",
+    "377": "Weekend recreation history makes a nearby park visit possible, though Tuesday early evening makes it less likely than food stops.",
+    "370": "A nearby Upper West Side service/shopping stop that matches the user’s neighborhood-based routine.",
+    "357": "A brief dwell or repeat check-in is possible since it is the current location and the user sometimes lingers at food spots.",
+    "276": "The user has prior repeats here for practical errands, but it is a less direct fit than nearby dining options.",
+    "188": "A small chance exists for an exercise-oriented transition, given the user’s recreational park behavior.",
+    "378": "A casual meal spot in Midtown West could fit an evening transition, but it is farther and less aligned than the Upper West Side anchors."
+  },
+  "fallback": false
+}

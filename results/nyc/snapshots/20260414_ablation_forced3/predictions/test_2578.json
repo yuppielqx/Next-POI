@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2578",
+  "ranked_loc_ids": [
+    349,
+    537,
+    64,
+    4097,
+    993,
+    2240,
+    2241,
+    1398,
+    1730,
+    610
+  ],
+  "explanations": {
+    "349": "The strong evening prior and the user’s repeated 6–8pm history there make this the best time-matched leisure destination.",
+    "537": "This lounge fits the evening shift from daytime shopping into nightlife and is a plausible nearby Manhattan outing.",
+    "64": "It is by far the user’s most frequent anchor and remains a likely return even though evening timing is weaker.",
+    "4097": "A nearby nightlife spot in Midtown East, making it a natural evening destination after a Starbucks stop.",
+    "993": "This Brooklyn bar matches the evening leisure pattern, though it is less likely due to distance and fewer visits.",
+    "2240": "A nearby movie theater that fits the evening entertainment prior and is close to the current Midtown position.",
+    "2241": "A close dinner option that fits an evening transition from coffee to food before later leisure.",
+    "1398": "Another upscale retail stop consistent with the user’s luxury-shopping habits, though less favored at night.",
+    "1730": "Saks Fifth Avenue aligns with the user’s recurring luxury shopping corridor and nearby movement trend.",
+    "610": "A close Midtown café/casual stop that is plausible for an evening errand but less distinctive than other options."
+  },
+  "fallback": false
+}

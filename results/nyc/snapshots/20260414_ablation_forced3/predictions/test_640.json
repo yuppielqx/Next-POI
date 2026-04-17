@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_640",
+  "ranked_loc_ids": [
+    1999,
+    3262,
+    3263,
+    3264,
+    303,
+    2525,
+    1530,
+    192,
+    1545,
+    3258
+  ],
+  "explanations": {
+    "1999": "This is the strongest recurring hub in the user’s history and the most likely immediate return after the last morning check-in.",
+    "3262": "A frequent nearby errand stop that fits the user’s short downtown chaining pattern after exiting Broadway/Lafayette.",
+    "3263": "This deli is close to the last location and matches the user’s routine of quick functional stops in the Houston Street area.",
+    "3264": "A repeated afternoon stop in the same SoHo corridor, making it a plausible next functional visit.",
+    "303": "This nearby convenience/food option aligns with the user’s practical daytime habits around downtown Manhattan.",
+    "2525": "Another close grocery-style stop that fits the user’s errand-based movement near SoHo/NoHo.",
+    "1530": "A nearby transit option the user has visited before, consistent with their subway-centered mobility.",
+    "192": "The user has a weekend leisure pattern involving this area, so it remains a moderate afternoon possibility.",
+    "1545": "A plausible east-side subway transfer point within the user’s compact downtown travel zone.",
+    "3258": "A previously visited nearby restaurant that could fit a midday-to-afternoon stop, though it is less likely than transit or errands."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1767",
+  "ranked_loc_ids": [
+    18,
+    1977,
+    3845,
+    4835,
+    3905,
+    569,
+    2727,
+    3846,
+    3596,
+    1035
+  ],
+  "explanations": {
+    "18": "It is the closest nightlife option to Harry's Burrito and fits the user's evening drink-and-dining pattern.",
+    "1977": "A nearby wine bar strongly matches the late-evening social context and a likely continuation from dinner.",
+    "3845": "This upper-Manhattan nightlife venue aligns with the user's history of ending evenings at bars and grills.",
+    "4835": "A known past dinner spot in the same general corridor makes it a plausible repeat or nearby follow-up.",
+    "3905": "A nearby sushi restaurant fits the one-hour-later evening dining continuation suggested by the trip.",
+    "569": "Casual Italian dining is consistent with a second stop after burritos in the same neighborhood.",
+    "2727": "A nearby casual food venue matches the user's pattern of compact multi-stop evening outings.",
+    "3846": "The user has prior history here, and a coffee stop can follow an early evening meal.",
+    "3596": "Another nearby coffee option that could fit a late-evening pause or meet-up.",
+    "1035": "Less likely at this hour, but the user has Brooklyn transit history and may continue moving across the city."
+  },
+  "fallback": false
+}

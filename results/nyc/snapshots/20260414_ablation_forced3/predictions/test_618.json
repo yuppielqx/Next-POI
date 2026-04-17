@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_618",
+  "ranked_loc_ids": [
+    3107,
+    3178,
+    3180,
+    3192,
+    166,
+    383,
+    3181,
+    3186,
+    3185,
+    3196
+  ],
+  "explanations": {
+    "3107": "The user strongly favors bundled Midtown East errands, and this is the closest high-probability grocery stop just east of Bed Bath & Beyond.",
+    "3178": "Pharmacy runs are a frequent paired behavior with groceries in this exact corridor, and it sits very close by on the eastward path.",
+    "3180": "This is their clearest habitual anchor and a plausible afternoon continuation after the home-store errand.",
+    "3192": "The time and eastward movement fit a nearby self-care/retail stop in the user’s usual Midtown East pattern.",
+    "166": "A short daytime café stop in Midtown is consistent with their routine, especially after a church/gym sequence.",
+    "383": "It is nearby and fits a practical follow-up errand after Bed Bath & Beyond, though it is less strongly recurring.",
+    "3181": "This is a major habit for the user, but the Thursday afternoon timing makes it less likely than an errand stop.",
+    "3186": "A nearby Midtown social/leisure stop is possible, but it is not as central to the user’s routine.",
+    "3185": "A nearby dining option in Midtown East is plausible, though less supported than shopping or gym-related visits.",
+    "3196": "The user does visit this venue occasionally, but the distance and daytime context make it a lower-probability next move."
+  },
+  "fallback": false
+}

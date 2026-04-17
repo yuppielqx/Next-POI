@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1046",
+  "ranked_loc_ids": [
+    563,
+    3383,
+    666,
+    4239,
+    887,
+    3033,
+    1844,
+    59,
+    3830
+  ],
+  "explanations": {
+    "563": "This is a strong Upper West Side anchor and fits the Saturday-morning return-to-routine pattern better than continuing the late-night bar crawl.",
+    "3383": "Morning errands after a nightlife-heavy Friday are plausible, and this pharmacy fits the user’s likely Upper West Side/union-square utility stop pattern.",
+    "666": "A morning food stop in Midtown is plausible for a user who often moves through commercial corridors and likes casual food.",
+    "4239": "A café visit matches the target-time morning prior and the user’s tendency to transition from late-night activity into daytime coffee.",
+    "887": "A nearby casual dining stop is consistent with a Saturday morning/late breakfast pattern around Union Square.",
+    "3033": "This is another plausible breakfast/brunch-style food stop near the user’s recent downtown movement.",
+    "1844": "A familiar Upper West Side casual food venue fits the user’s home-base area and weekend daytime dining pattern.",
+    "59": "The user does spend time in Midtown entertainment zones, but this is less likely in the Saturday-morning slot than a routine errand or coffee stop.",
+    "3830": "It is one of the user’s repeated anchors, but the morning timing makes a pub visit much less likely than daytime coffee or errands."
+  },
+  "fallback": false
+}

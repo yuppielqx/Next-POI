@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_11",
+  "ranked_loc_ids": [
+    141,
+    114,
+    113,
+    130,
+    120,
+    125,
+    116,
+    110,
+    88,
+    128
+  ],
+  "explanations": {
+    "141": "The user is already at this station and nearby transient activity makes a continued transit-related move most likely.",
+    "114": "This is the strongest historical late-night transit node and a frequent Tuesday destination, matching the overnight pattern.",
+    "113": "DeKalb Ave is a heavily used Brooklyn transfer point that fits the user’s rail-centric cross-borough movement.",
+    "130": "This station appears in the user’s late-night history and is a plausible Brooklyn transit stop after a Bronx departure.",
+    "120": "The user repeatedly uses Manhattan subway nodes, and 125 St aligns with northbound transit flow.",
+    "125": "Jay St-MetroTech is another major Brooklyn train hub that matches the user’s transfer-oriented behavior.",
+    "116": "Jamaica is a recurring transit anchor for this user and fits the citywide rail network pattern.",
+    "110": "A Midtown 6 train stop is plausible for a late-night cross-Manhattan movement.",
+    "88": "This major transportation hub is consistent with the user’s hub-to-hub mobility style, though less likely than subway stations.",
+    "128": "A northern Manhattan station fits the user’s corridor-based travel, but it is a weaker match than the higher-ranked rail hubs."
+  },
+  "fallback": false
+}

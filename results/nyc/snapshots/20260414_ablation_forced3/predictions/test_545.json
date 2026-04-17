@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_545",
+  "ranked_loc_ids": [
+    2946,
+    2947,
+    2948,
+    924,
+    2953,
+    2950,
+    2949,
+    2813,
+    2249,
+    3068
+  ],
+  "explanations": {
+    "2946": "It is the strongest historical anchor with the most visits and the user was last observed there at 06:20, making a short return or continued stay most likely.",
+    "2947": "This is the other dominant early-morning recurring stop in the same tight eastern Queens corridor and fits the commuter-like routine.",
+    "2948": "The user has repeated 6–8 a.m. visits here and recently followed a similar morning sequence from home toward this Forest Hills-area location.",
+    "924": "This matches the user's recent breakfast/convenience pattern and was part of the same morning chain on the prior day.",
+    "2953": "A highly consistent early-morning food stop in the user’s history, especially around the 8 a.m. window.",
+    "2950": "This Forest Hills/Metropolitan Ave food stop aligns with the user’s southwest movement and morning food-oriented behavior.",
+    "2949": "Another recurring Forest Hills-area venue with multiple early-morning visits, making it a plausible routine stop.",
+    "2813": "The user has visited this bakery in the morning before, and it fits the breakfast-oriented pattern.",
+    "2249": "This nearby food establishment is in the same general Forest Hills/Ridgewood corridor and could be part of the user’s routine errand path.",
+    "3068": "Although less temporally aligned than the top choices, it is a nearby food venue that fits the user’s clustered local movement."
+  },
+  "fallback": false
+}

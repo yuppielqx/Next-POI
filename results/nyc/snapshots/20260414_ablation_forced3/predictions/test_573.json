@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_573",
+  "ranked_loc_ids": [
+    3705,
+    2126,
+    3053,
+    75,
+    1976,
+    3045,
+    519,
+    2544,
+    574,
+    726
+  ],
+  "explanations": {
+    "3705": "It is immediately adjacent to the current home-goods stop and best matches the user’s retail-focused midday pattern with a northward continuation.",
+    "2126": "This is the closest forced-nearby option and a plausible short-hop leisure stop after browsing at ABC Carpet & Home.",
+    "3053": "The user is already in the Union Square corridor and could easily shift to a nearby lunch/afternoon meal stop.",
+    "75": "A strong historical repeat and a classic Midtown retail destination consistent with the user’s shopping behavior.",
+    "1976": "Matches the user’s Korean/Midtown food habits and fits a short daytime errand break.",
+    "3045": "This aligns with the user’s repeated Midtown/Koreatown pattern and nearby commercial movement.",
+    "519": "A nearby clothing-store visit fits the user’s retail browsing tendency and Midtown shopping corridor.",
+    "2544": "Home-store behavior is a strong thematic match, even if it is a somewhat farther Manhattan hop.",
+    "574": "Another home-decor destination consistent with the current shopping context and the user’s past preferences.",
+    "726": "This is a plausible nearby clothing stop for a user who often chains retail visits in core Manhattan."
+  },
+  "fallback": false
+}

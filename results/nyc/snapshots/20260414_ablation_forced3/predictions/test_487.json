@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_487",
+  "ranked_loc_ids": [
+    2731,
+    2730,
+    116,
+    1660,
+    598,
+    1415,
+    2737,
+    2732,
+    927,
+    137
+  ],
+  "explanations": {
+    "2731": "The user’s strongest weekday morning pattern is starting from this station around 8:00, making it the most likely next commute stop.",
+    "2730": "The last known location was here and the user often cycles through this immediate home-area road before departing.",
+    "116": "Morning transit users on this corridor often transfer through Jamaica, and the user has a history of late travel there.",
+    "1660": "This nearby rail station fits the commuter flow and has prior morning-slot visits in the user’s history.",
+    "598": "The user has road-travel history on major Queens bridges, and movement is trending southeast.",
+    "1415": "It is a nearby Bayside errand stop that fits short local movement from Douglaston in the morning.",
+    "2737": "This nearby food stop is within the user’s local Queens radius and could plausibly be an early stop.",
+    "2732": "A very close neighborhood errand/food location with repeat visits, though less tied to the 8:00 commute pattern.",
+    "927": "The user has some morning transit behavior in western Queens, making this a secondary commute-related option.",
+    "137": "This Manhattan destination is highly recurrent, but it is more likely to be reached after the morning commute than exactly at 08:00."
+  },
+  "fallback": false
+}

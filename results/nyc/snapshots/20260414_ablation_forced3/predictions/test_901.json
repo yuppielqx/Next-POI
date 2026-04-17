@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_901",
+  "ranked_loc_ids": [
+    1294,
+    1036,
+    2132,
+    2505,
+    2326,
+    29,
+    3384,
+    3554,
+    2018,
+    137
+  ],
+  "explanations": {
+    "1294": "The user is already at this nightlife spot, and the strongest short-term prior is to continue the same evening flow at the current venue or immediate vicinity.",
+    "1036": "It is the closest major nightlife venue and fits a continuation of the Sunday night social pattern with a very short move.",
+    "2132": "A nearby bar/restaurant option that matches the user's evening dining-and-drinks behavior.",
+    "2505": "This is a nearby nightlife/bar venue that fits the current late-evening Manhattan outing.",
+    "2326": "Another close bar option in the same East Village nightlife corridor, consistent with a short southwest shift.",
+    "29": "A nearby bar that matches the user's nightlife profile and the target night time.",
+    "3384": "A lounge close by that fits a continued evening leisure stop without requiring a major move.",
+    "3554": "A nearby casual restaurant that could plausibly follow bars as a late-night food stop.",
+    "2018": "A close East Village dining/drinks venue that suits a transition from nightlife to food.",
+    "137": "A Manhattan transit-linked location appears less likely than nightlife venues but remains plausible given the user's mixed history."
+  },
+  "fallback": false
+}

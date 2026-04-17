@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_160",
+  "ranked_loc_ids": [
+    114,
+    46,
+    1248,
+    1249,
+    1168,
+    59,
+    1235,
+    586,
+    1255,
+    1250
+  ],
+  "explanations": {
+    "114": "It is the current location and the user has an extremely strong history of repeated short transit transitions through this station on weekday mornings.",
+    "46": "This is one of the user’s most visited commuter nodes and fits the northeast movement trend toward a Brooklyn transit connection.",
+    "1248": "It likely corresponds to the Williamsburg Bridge/J-M-Z corridor, which matches the user’s bridge-to-bridge transit pattern and short transfer style.",
+    "1249": "A frequent morning station for the user, making it a plausible return point within the same commute chain despite being farther away.",
+    "1168": "A heavily used Bronx station in the user’s history, consistent with a regular commute route and strong morning transit behavior.",
+    "59": "The user repeatedly passes through Midtown transit-adjacent areas, and Times Square is a common high-frequency Manhattan node in their history.",
+    "1235": "This Midtown landmark appears repeatedly in the user’s movement pattern and is close to the user’s other frequent Manhattan stops.",
+    "586": "Herald Square is a major transfer area that fits the user’s commute-oriented Midtown corridor and frequent station-to-station movements.",
+    "1255": "This is a transit hub the user has visited and it fits the pattern of moving through major subway nodes rather than staying at leisure destinations.",
+    "1250": "A nearby Lower Manhattan transfer station that is plausible as the next step in a short commuter sequence."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_395",
+  "ranked_loc_ids": [
+    1651,
+    67,
+    1646,
+    3673,
+    1630,
+    48,
+    333,
+    88,
+    550,
+    2008
+  ],
+  "explanations": {
+    "1651": "It is the current location and the most likely immediate next check-in given the short time gap and nearby-continuation pattern.",
+    "67": "The user repeatedly anchors in Union Square, and this is the closest recurrent outdoor stop in the same corridor.",
+    "1646": "This is extremely close to Best Buy and fits a quick late-evening errand or transit-adjacent stop.",
+    "3673": "A nearby late-night coffee stop matches the user’s evening-oriented mobility and Union Square habits.",
+    "1630": "It is a nearby retail stop consistent with the user’s shopping-heavy Manhattan pattern.",
+    "48": "This Union Square-area clothing retail option fits the user’s repeated shopping behavior.",
+    "333": "A nearby convenience/grocery stop is plausible for an evening errand before heading home.",
+    "88": "The user has a nighttime transit pattern, and this Manhattan hub fits a possible transfer or late-night move.",
+    "550": "Columbus Circle is a familiar Manhattan retail zone for the user, though less proximate than Union Square options.",
+    "2008": "A southbound return to Brooklyn is possible later at night, but the time gap makes it less likely than nearby Manhattan stops."
+  },
+  "fallback": false
+}

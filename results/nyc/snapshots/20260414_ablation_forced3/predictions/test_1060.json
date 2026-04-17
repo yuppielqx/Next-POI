@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1060",
+  "ranked_loc_ids": [
+    4261,
+    1985,
+    4153,
+    4984,
+    959,
+    2917,
+    1578,
+    2516,
+    3056,
+    282
+  ],
+  "explanations": {
+    "4261": "This is the user’s strongest recurring work anchor, it was the last known location, and the morning weekday timing strongly favors a return to the office.",
+    "1985": "The user repeatedly visits Starbucks and a morning visit could plausibly precede or accompany a workday start.",
+    "4153": "It is extremely close to the current area and could fit a nearby office-related errand or meeting in Midtown West/Chelsea.",
+    "4984": "Another very nearby professional building that matches the user’s work-centered Manhattan movement pattern.",
+    "959": "A close Chelsea-area destination that could fit a quick daytime detour before or after work.",
+    "2917": "A nearby pub in the Chelsea area that aligns with the user’s occasional after-work social patterns.",
+    "1578": "A familiar Manhattan dining option near the user’s regular routes, though less likely in the morning.",
+    "2516": "The user has Mexican restaurant visits in their history, making this a plausible Manhattan food stop later in the day.",
+    "3056": "The user shows shopping behavior, and this nearby retail location fits their broader Manhattan movement profile.",
+    "282": "The user has a late-night nightlife cluster in the Meatpacking District, but the morning timing makes this a lower-probability option."
+  },
+  "fallback": false
+}

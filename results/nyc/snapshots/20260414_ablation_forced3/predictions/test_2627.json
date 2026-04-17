@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2627",
+  "ranked_loc_ids": [
+    1035,
+    2014,
+    5105,
+    1629,
+    300,
+    2781,
+    1700,
+    2011,
+    3136,
+    1753
+  ],
+  "explanations": {
+    "1035": "It is the closest major transit and shopping hub to the last HSBC stop, fitting a quick nearby move in Downtown Brooklyn.",
+    "2014": "The user often mixes errands with transit, and this station is immediately adjacent to Hanson Place.",
+    "5105": "A very likely next stop after a bank visit in this area, especially for a short evening transition.",
+    "1629": "This nearby Starbucks/coffee stop matches the user’s pattern of practical commercial errands after afternoon check-ins.",
+    "300": "Similar users around this time often went to Target, and it is a plausible post-bank retail destination.",
+    "2781": "The user is already at the Hanson Place complex, so a nearby building/landmark visit is highly plausible.",
+    "1700": "A close-by food/leisure stop that fits the user’s discretionary outing style in Downtown Brooklyn.",
+    "2011": "Evening timing makes a casual food or nightlife stop near Atlantic Terminal plausible.",
+    "3136": "The target time is suitable for an entertainment stop, and BAM is nearby in the same neighborhood.",
+    "1753": "The user has a strong history in DUMBO, but it is less immediate than the Atlantic Terminal area at this moment."
+  },
+  "fallback": false
+}

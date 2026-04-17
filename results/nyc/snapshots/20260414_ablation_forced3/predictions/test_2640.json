@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2640",
+  "ranked_loc_ids": [
+    2166,
+    135,
+    2744,
+    81,
+    5546,
+    2258,
+    1241,
+    4364,
+    5555,
+    2869
+  ],
+  "explanations": {
+    "2166": "The user’s strongest historical anchor is LaGuardia’s central terminal, and the afternoon travel prior makes a return to the airport most likely.",
+    "135": "This is another repeated LaGuardia-related stop that fits the user’s airport-centered routine and northeast movement.",
+    "2744": "The user frequently visits airport terminals, and this specific terminal is a known part of their Queens travel pattern.",
+    "81": "A LaGuardia terminal/gate area is highly plausible next given the user’s airport-dominant behavior and compact corridor.",
+    "5546": "The user is moving toward the LaGuardia corridor, and this bus connection is a natural transit point.",
+    "2258": "A nearby transit hub could plausibly be the next step if the user is heading from Ditmars toward the airport.",
+    "1241": "This nearby station fits a short local transition within the Astoria-to-LaGuardia movement pattern.",
+    "4364": "The user has a fitness routine in Astoria, so a nearby gym visit remains possible after Starbucks.",
+    "5555": "Despite already visiting earlier, a repeat fitness stop is still plausible because of the user’s gym-centered local pattern.",
+    "2869": "The user is currently here, so lingering or a quick repeat check-in is possible but less likely than moving onward."
+  },
+  "fallback": false
+}

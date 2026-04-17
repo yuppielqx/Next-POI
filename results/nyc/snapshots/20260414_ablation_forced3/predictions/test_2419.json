@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2419",
+  "ranked_loc_ids": [
+    299,
+    5014,
+    126,
+    852,
+    1411,
+    1661,
+    4730,
+    489,
+    1252,
+    1950
+  ],
+  "explanations": {
+    "299": "The user’s history and similar-user behavior both point strongest to a Saturday afternoon return to the Northeastern Queens retail corridor.",
+    "5014": "This matches the user’s prior Queens dining pattern and is a plausible follow-up after shopping or transit.",
+    "126": "Transit-linked activity is a major part of the profile, and this station fits the Bayside-centered mobility pattern.",
+    "852": "A Queens dessert stop aligns with the user’s localized food-and-errand behavior and similar weekend timing.",
+    "1411": "Flushing dining is consistent with the user’s earlier Queens visits and could fit an afternoon meal stop.",
+    "1661": "Another Queens rail station is plausible given the user’s transit-oriented movement and suburban corridor focus.",
+    "4730": "It is geographically nearby in the current trip context, though it is much less consistent with the user’s usual Queens-based pattern.",
+    "489": "Continuing to stay near the current Brooklyn area is possible, but it conflicts with the stronger Queens return prior.",
+    "1252": "This nearby Manhattan Bridge area option is feasible only if the user keeps drifting with the current northwest movement.",
+    "1950": "A transit hub could attract a transfer, but it is weaker than the user’s typical Queens retail and rail destinations."
+  },
+  "fallback": false
+}

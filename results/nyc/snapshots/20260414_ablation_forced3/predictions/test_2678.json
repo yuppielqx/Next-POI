@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2678",
+  "ranked_loc_ids": [
+    2889,
+    1110,
+    1820,
+    5325,
+    1521,
+    3989,
+    2337,
+    26,
+    1351,
+    1104
+  ],
+  "explanations": {
+    "2889": "The user’s strongest routine is a late-morning Sunday gym visit, and this is by far the most historically dominant destination.",
+    "1110": "Grocery runs are another highly repeated late-morning pattern near the gym corridor, especially on structured weekend mornings.",
+    "1820": "Breakfast after the gym fits the user’s recurring 9–11am behavior and nearby Flatiron/NoMad movement.",
+    "5325": "It is a very close breakfast option at the exact target area and time, making it a plausible Sunday-morning stop.",
+    "1521": "The user has prior breakfast history here, and it matches the same neighborhood and time window well.",
+    "3989": "Similar users at this time often continue into fitness, and this is a strong nearby exercise alternative.",
+    "2337": "A nearby food stop in the same corridor, reasonable as a post-workout brunch or meal.",
+    "26": "An American restaurant choice aligns with the user’s dining preferences and remains close to the last known area.",
+    "1351": "BBQ and American food appear in the user’s history, though this is less likely than breakfast or gym.",
+    "1104": "Another breakfast spot in the broader neighborhood, plausible but slightly less central than the top breakfast candidates."
+  },
+  "fallback": false
+}

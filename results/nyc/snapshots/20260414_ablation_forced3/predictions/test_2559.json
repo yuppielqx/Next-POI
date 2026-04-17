@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2559",
+  "ranked_loc_ids": [
+    1176,
+    1776,
+    5578,
+    2170,
+    5704,
+    4464,
+    515,
+    4170,
+    4168
+  ],
+  "explanations": {
+    "1176": "This is the strongest match for the user’s dominant early-morning weekday coffee commute pattern into Lower Manhattan.",
+    "1776": "A very frequent follow-up work anchor in the same FiDi area, especially on weekday mornings after coffee.",
+    "5578": "Another recurring Lower Manhattan coffee stop that fits the user’s office-centered morning routine.",
+    "2170": "A nearby Tribeca/Lower Manhattan coffee option that aligns with the user’s pre-work movement pattern.",
+    "5704": "The user often transitions to this gym later in the day, but it is less likely than coffee-related stops this early.",
+    "4464": "A Brooklyn coffee stop that fits the home-area morning pattern, though it is less central than the FiDi Starbucks.",
+    "515": "A recurring Brooklyn-area destination near the user’s home cluster, but not a strong Thursday 7:41 AM match.",
+    "4170": "Nearby Brooklyn leisure destination with some history, yet weaker than the user’s commute and coffee routine.",
+    "4168": "A local Brooklyn errand stop that is plausible in the home zone but less supported by the time-of-day pattern."
+  },
+  "fallback": false
+}

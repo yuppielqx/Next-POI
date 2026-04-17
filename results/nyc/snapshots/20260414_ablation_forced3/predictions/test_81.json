@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_81",
+  "ranked_loc_ids": [
+    638,
+    639,
+    645,
+    644,
+    652,
+    649,
+    651,
+    642,
+    641,
+    510
+  ],
+  "explanations": {
+    "638": "It is the user's most frequent location, matches the current westward nearby return pattern, and is the strongest Saturday-night anchor in their history.",
+    "639": "This is a recurring Saturday bar for the user and fits the late-night social behavior near the current Lower Manhattan area.",
+    "645": "The profile shows repeated Hudson River/Chelsea waterfront activity, making this a strong alternate waterfront return destination.",
+    "644": "The user has multiple bar visits and this nightlife spot fits a Saturday-night transition after a waterfront stop.",
+    "652": "The user often stays in the downtown ferry/waterfront corridor, so this nearby transport hub is plausible.",
+    "649": "It matches the user's nightlife tendency and is geographically consistent with their compact downtown movement.",
+    "651": "A nearby pub is a reasonable continuation of the user's late-evening drinking pattern in Lower Manhattan.",
+    "642": "The ferry-terminal context aligns with the user's waterfront and transportation-hub behavior around the Battery Park area.",
+    "641": "This nearby park fits the user's repeated Battery Park/Battery Park Gardens waterfront loop, especially before evening socializing.",
+    "510": "A close-by iconic landmark is plausible for a short westward movement, though less likely than the user’s usual bars and waterfront anchors."
+  },
+  "fallback": false
+}

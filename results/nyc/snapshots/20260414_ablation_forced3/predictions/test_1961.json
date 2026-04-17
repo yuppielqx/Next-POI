@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1961",
+  "ranked_loc_ids": [
+    5180,
+    4639,
+    3402,
+    107,
+    1198,
+    1665,
+    428,
+    1683,
+    434,
+    104
+  ],
+  "explanations": {
+    "5180": "This is the strongest routine commute anchor with the most 6–8 a.m. visits and fits a return toward the Bayonne light rail corridor.",
+    "4639": "Another Bayonne light rail node that matches the commuter pattern and same-morning transit behavior.",
+    "3402": "The user often follows early transit stops with a morning coffee run, and this is a frequent 6–8 a.m. destination.",
+    "107": "The current Newport PATH area is a plausible immediate continuation if the user is still transferring within the transit network.",
+    "1198": "A familiar Hudson-Bergen station that fits the user’s rail-centric movement and south-west return trend.",
+    "1665": "Exchange Place light rail is a close commuter hub that aligns with repeated transit-node transitions.",
+    "428": "A regular morning coffee stop in the user’s core corridor, though less likely than rail stations.",
+    "1683": "A major transit connection that fits the user’s commute-oriented pattern and current transportation context.",
+    "434": "A plausible breakfast/coffee stop in Hoboken, but weaker than the user’s usual rail anchors.",
+    "104": "Nearby and reachable from the last location, but less consistent with the user’s strong early-morning transit routine."
+  },
+  "fallback": false
+}

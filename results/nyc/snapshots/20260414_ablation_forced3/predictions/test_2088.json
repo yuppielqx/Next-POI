@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2088",
+  "ranked_loc_ids": [
+    2639,
+    5441,
+    928,
+    1641,
+    5442,
+    36,
+    68,
+    2640,
+    1224,
+    1280
+  ],
+  "explanations": {
+    "2639": "The user’s strongest Thursday evening pattern centers on returning to the East Village transit corridor, and this is the most recurrent and temporally aligned stop there.",
+    "5441": "It is tightly linked to the same East Village cluster as 1st Ave and is repeatedly visited around evening hours.",
+    "928": "The user often pairs late-day East Village subway activity with this nearby food stop, making it a plausible next check-in.",
+    "1641": "Similar-user behavior and the profile both point to transit hubs in the evening, and this is a frequent connector in the user’s pattern.",
+    "5442": "Home is a dominant anchor in the broader routine, but the current time and south-west movement favor Manhattan before the Brooklyn return leg.",
+    "36": "This is a major part of the user’s usual Brooklyn return route, though it is more typical later than the target hour.",
+    "68": "This residential Brooklyn area fits the homeward corridor and appears in the recurring Canarsie cluster.",
+    "2640": "A nearby East Village food stop that matches the user’s limited late-night/early-evening discretionary pattern.",
+    "1224": "It is a transit station consistent with subway-oriented movement, but it is less central than the user’s main L-line nodes.",
+    "1280": "The user is currently there, so a brief continuation or nearby revisitation is possible despite weaker behavioral support."
+  },
+  "fallback": false
+}

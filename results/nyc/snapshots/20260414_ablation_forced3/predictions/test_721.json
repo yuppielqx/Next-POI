@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_721",
+  "ranked_loc_ids": [
+    97,
+    3024,
+    2848,
+    1294,
+    2796,
+    2573,
+    3243,
+    4053,
+    4676,
+    3478
+  ],
+  "explanations": {
+    "97": "A Saturday-night lounge fits the user's weekend nightlife pattern and is a familiar social venue within their usual Manhattan cluster.",
+    "3024": "The late-night target time and lower Manhattan nightlife corridor make this nightclub a strong next-step destination.",
+    "2848": "This nearby tapas restaurant matches the user’s late-evening dining-to-social transition and is one of the suggested likely spots.",
+    "1294": "A nearby nightlife spot on 3rd Ave fits the east/southeast movement trend and the user's tendency to continue into bars after dinner.",
+    "2796": "This very close dive bar aligns with the strong Saturday-night partying context and could be an easy walk from the last stop.",
+    "2573": "A nearby East Village bar is consistent with the user's clustered nightlife behavior and the southeast trajectory.",
+    "3243": "Another immediately adjacent bar in the East Village matches the user's late-night social mobility and proximity.",
+    "4053": "This nearby bar is a plausible continuation of the evening in the same nightlife-heavy corridor.",
+    "4676": "The restaurant-bar hybrid is a reasonable nearby option for a late Saturday night when the user shifts from dinner to drinks.",
+    "3478": "Although the user is gym-centric overall, the late Saturday hour makes a workout less likely than nightlife, so it ranks lower."
+  },
+  "fallback": false
+}

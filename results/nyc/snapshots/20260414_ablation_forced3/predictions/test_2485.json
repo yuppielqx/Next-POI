@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2485",
+  "ranked_loc_ids": [
+    5580,
+    67,
+    2885,
+    332,
+    1506,
+    4938,
+    3543,
+    1110,
+    1296,
+    2203
+  ],
+  "explanations": {
+    "5580": "This is the user's strongest afternoon anchor, extremely close to Paradise Pizza and highly consistent with the midday Union Square routine.",
+    "67": "A short nearby move fits the 2-minute gap and the user often stays within the Union Square corridor after lunch.",
+    "2885": "It is very close by in Union Square and matches a plausible brief stop before heading to a more routine destination.",
+    "332": "The user frequently operates around Union Square, and this nearby market is a natural short-hop destination.",
+    "1506": "The user's profile favors educational hubs in this time window, and SIBL fits the Union Square/Flatiron daytime pattern.",
+    "4938": "A historically relevant educational/library stop for this user, consistent with an afternoon intellectual errand nearby.",
+    "3543": "Very close to the current lunch location and plausible as a quick food-related continuation.",
+    "1110": "A nearby grocery stop is believable after lunch, especially given the short distance and urban errand pattern.",
+    "1296": "The user is transit-oriented, so a nearby subway move is possible if they are continuing southwest.",
+    "2203": "The user's profile includes occasional gym visits, making this a lower-probability but still plausible afternoon destination."
+  },
+  "fallback": false
+}

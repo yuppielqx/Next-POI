@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_680",
+  "ranked_loc_ids": [
+    1584,
+    3363,
+    4895,
+    5,
+    3388,
+    2822,
+    3368,
+    3365,
+    240,
+    2728
+  ],
+  "explanations": {
+    "1584": "The Sunday morning time strongly matches the user’s habitual early workout pattern, and this is one of their most frequently visited fitness anchors.",
+    "3363": "The user has an even stronger overall visit history here, and a morning return to a gym is highly consistent with their routine.",
+    "4895": "It is the closest nearby hotel-area location, making it plausible as a brief stop or transition point after the last evening venue.",
+    "5": "This nearby bar fits the user’s evening-social profile, though the morning timing makes it less likely than fitness.",
+    "3388": "A nearby breakfast/lunch food option could fit a Sunday morning transition, but it is not as strong as the gym habit.",
+    "2822": "The last known location itself could still be revisited or lingered at, but the profile suggests movement toward a habitual destination.",
+    "3368": "A nearby restaurant is plausible for a late breakfast stop, though it lacks the user’s strong repeated preference signal.",
+    "3365": "The user sometimes stays within the Theater District corridor, but comedy/nightlife is a weaker morning match.",
+    "240": "This aligns with the user’s leisure style and Manhattan waterfront habits, but it is less likely in a Sunday morning context.",
+    "2728": "A known favorite nightlife/performance venue fits their social pattern, but the target time strongly favors a fitness stop instead."
+  },
+  "fallback": false
+}

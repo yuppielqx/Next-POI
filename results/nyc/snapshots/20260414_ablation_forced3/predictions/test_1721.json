@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1721",
+  "ranked_loc_ids": [
+    289,
+    1787,
+    4059,
+    2931,
+    3182,
+    1505,
+    30,
+    893,
+    4202,
+    67
+  ],
+  "explanations": {
+    "289": "It is the closest café option to the last Chinatown check-in and fits the user’s strong midday coffee-and-walk pattern.",
+    "1787": "A nearby Chinatown lunch spot that matches the user’s likely south-west downtown movement and food-focused midday behavior.",
+    "4059": "This is a short downtown hop to a casual restaurant, consistent with the user’s nearby lunch-stop sequence in Lower Manhattan.",
+    "2931": "A nearby café in Nolita/SoHo that fits the user’s frequent afternoon coffee stops after wandering downtown.",
+    "3182": "A close casual food stop that aligns with the user’s history of snack/lunch-oriented downtown outings.",
+    "1505": "A nearby quick lunch option in the Village/NoHo corridor, matching the likely local move after Chinatown.",
+    "30": "The user has prior history here and similar users often moved to nearby Italian lunch venues around this time.",
+    "893": "A lunch-friendly food truck match that fits the time prior and the user’s preference for casual daytime food stops.",
+    "4202": "A coffee stop within a reasonable downtown radius that matches the user’s recurring café behavior.",
+    "67": "A familiar nearby destination for this user, though slightly less likely than food or café options at this exact time."
+  },
+  "fallback": false
+}

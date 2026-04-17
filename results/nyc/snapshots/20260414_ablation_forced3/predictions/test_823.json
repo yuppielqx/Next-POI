@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_823",
+  "ranked_loc_ids": [
+    937,
+    3486,
+    968,
+    746,
+    3711,
+    3718,
+    390,
+    389,
+    1975,
+    1778
+  ],
+  "explanations": {
+    "937": "Friday evening and the user's repeated Lower East Side nightlife pattern make this one of the strongest return candidates.",
+    "3486": "It matches the user's Friday-night bar habit and sits squarely in the Lower East Side corridor they frequent.",
+    "968": "This is a recurring Friday-night nightlife spot for the user and fits the time-conditioned LES preference well.",
+    "746": "The user's history shows repeated nightlife activity here, and it aligns with a Friday evening bar outing.",
+    "3711": "It is a Friday-favored bar in the same Lower East Side cluster, making it a plausible next stop.",
+    "3718": "The user has a known late-night bar pattern around the LES, and Max Fish fits that behavior closely.",
+    "390": "Although it's the user's strongest anchor overall, it is more associated with daytime routines than this Friday evening slot.",
+    "389": "It is the current location and nearby, but the temporal shift strongly suggests the user will move on to nightlife.",
+    "1975": "This is a secondary social anchor with some evening history, though Brooklyn is less likely than the LES tonight.",
+    "1778": "It fits the user's bar-oriented profile and proximity, but it has weaker historical support than the top Lower East Side options."
+  },
+  "fallback": false
+}

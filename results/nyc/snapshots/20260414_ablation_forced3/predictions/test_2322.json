@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2322",
+  "ranked_loc_ids": [
+    1765,
+    2913,
+    4063,
+    5098,
+    2889,
+    301,
+    67,
+    3673,
+    351,
+    1260
+  ],
+  "explanations": {
+    "1765": "The user’s strongest recurring anchor is the Flatiron/Chelsea office cluster, and the morning Sunday time slot still best matches a return to this habitual work-centered location.",
+    "2913": "A familiar nearby café in the same Midtown South routine, making it a plausible morning stop before or instead of the office anchor.",
+    "4063": "This is one of the user’s repeated morning-friendly food spots, and the prior Chinatown visits make it a viable breakfast-style destination.",
+    "5098": "A core lunch venue in the user’s regular Flatiron pattern, close enough to fit a short morning-to-midday movement in the same area.",
+    "2889": "The user occasionally visits this after work, and a Sunday morning gym stop is still plausible given the routine-oriented profile.",
+    "301": "A practical nearby errand stop in the same neighborhood, consistent with a compact Sunday outing.",
+    "67": "The last known location is already here, so lingering or re-entering the park area is a reasonable nearby continuation.",
+    "3673": "A close-by morning café option that fits a short walk from Union Square on a Sunday.",
+    "351": "A lightly used but relevant food spot near the user’s usual corridor, suitable for a quick morning refreshment stop.",
+    "1260": "The subway station is a high-probability transition point from Union Square, especially if the user is continuing movement northeast or elsewhere."
+  },
+  "fallback": false
+}

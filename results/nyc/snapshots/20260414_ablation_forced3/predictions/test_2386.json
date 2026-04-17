@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2386",
+  "ranked_loc_ids": [
+    1154,
+    5270,
+    5633,
+    971,
+    4957,
+    109,
+    1347,
+    103,
+    2886,
+    4350
+  ],
+  "explanations": {
+    "1154": "After arriving at Port Imperial Light Rail, the strongest next step is a familiar Jersey City transit connection like Journal Square PATH Station during this evening return.",
+    "5270": "Saturday evening and the user's strongest nightlife anchor make this the most likely end-point once they finish the westbound return into Jersey City.",
+    "5633": "The user often moves through this 6–8 PM transport corridor, and it fits a continued Hudson County northbound transition from Port Imperial.",
+    "971": "As the nearby Port Imperial ferry terminal, it is a highly plausible immediate transfer point before heading deeper into Jersey City.",
+    "4957": "They may still remain at the current transit node briefly, especially given the close time gap and ongoing movement.",
+    "109": "A common downtown Jersey City gateway that matches the user's pattern of using PATH to reach evening social spots.",
+    "1347": "Strong nightlife fit in downtown Jersey City and a plausible Saturday evening destination after a transit arrival.",
+    "103": "The user has a recurring liquor-store pattern, and an evening stop here aligns with weekend leisure prep.",
+    "2886": "A frequent Jersey City dining stop that fits an early-evening transition before nightlife.",
+    "4350": "A nearby downtown anchor that can serve as a short stop en route to the user's usual evening circuit."
+  },
+  "fallback": false
+}

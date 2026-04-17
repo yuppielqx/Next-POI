@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_90",
+  "ranked_loc_ids": [
+    678,
+    681,
+    679,
+    689,
+    687,
+    685,
+    682,
+    705,
+    690,
+    706
+  ],
+  "explanations": {
+    "678": "This is the user’s most frequent repeat gym and best matches the strong daytime routine around early afternoon.",
+    "681": "The user is heavily anchored to the St. John’s campus cluster, making a return to the university very plausible after an unusual overnight stop.",
+    "679": "This campus academic building fits the user’s repeated weekday academic pattern and is strongly aligned with the Queens daytime routine.",
+    "689": "Another St. John’s academic building with repeated history, likely to be part of the same daytime campus loop.",
+    "687": "This coffee stop has noon-to-2 p.m. support and fits a common midday transition for a student commuter.",
+    "685": "The user has a coffee-and-transit pattern, and Long Island City is within their broader Queens movement corridor.",
+    "682": "A sporting goods stop is consistent with the user’s fitness-oriented behavior and occasional Queens errands.",
+    "705": "A food stop in Astoria is plausible as a daytime errand or meal during a corridor-based trip.",
+    "690": "This Astoria spot is less likely than the gym or campus locations but still fits the user’s Queens travel range.",
+    "706": "A nearby post office in Long Island City is a reasonable low-probability errand destination within the user’s moderate Queens radius."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1347",
+  "ranked_loc_ids": [
+    114,
+    1489,
+    1429,
+    3179,
+    3359,
+    3917,
+    3557,
+    812,
+    4049,
+    4701
+  ],
+  "explanations": {
+    "114": "This is the user’s dominant weekday morning transit stop and the most likely next point on the habitual Brooklyn-to-Manhattan commute.",
+    "1489": "After the bridge crossing, the user repeatedly continues to their Midtown East work anchor around this time.",
+    "1429": "Grand Central is the strongest nearby transfer/arrival hub in the user’s commute pattern and fits the 08:33 timing.",
+    "3179": "The user is already here and often remains in this corridor during the morning crossing.",
+    "3359": "A coffee stop is a common commuter deviation, and it has appeared in this exact morning sequence before.",
+    "3917": "Another plausible quick breakfast stop in Midtown East given the user’s morning routine and food-stop history.",
+    "3557": "A routine weekday lunch-oriented venue that is still plausible as a transitional stop near the work area.",
+    "812": "This fits the Grand Central cluster and the user’s habitual Midtown East arrival zone.",
+    "4049": "A short errand stop near the commuter corridor is consistent with the user’s occasional supporting deviations.",
+    "4701": "The user has a secondary fitness pattern, making a nearby gym visit possible though less likely at this hour."
+  },
+  "fallback": false
+}

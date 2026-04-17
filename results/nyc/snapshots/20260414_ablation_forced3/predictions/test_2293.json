@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2293",
+  "ranked_loc_ids": [
+    2357,
+    5172,
+    1600,
+    3727,
+    338,
+    912,
+    2126,
+    275,
+    3705,
+    244
+  ],
+  "explanations": {
+    "2357": "Strong Sunday-night fit in the nearby Manhattan dining/nightlife corridor, and it matches the user’s prior exact revisits around this time.",
+    "5172": "The user repeatedly visits this bar and Sunday evenings often turn into a nightlife chain, making it a strong continuation from the current northwest Manhattan trend.",
+    "1600": "This is a favored Mexican restaurant type for the user and fits the expected Sunday-night social dining pattern in central Manhattan.",
+    "3727": "A cocktail bar in the same general Manhattan outing zone, consistent with the user’s preference for ending Sunday dinners at nightlife spots.",
+    "338": "Close by and strongly aligned with the user’s frequent food-focused Manhattan clusters, especially when moving through Flatiron/Union Square.",
+    "912": "Another Mexican restaurant option that matches the user’s clear cuisine preference and nearby evening mobility.",
+    "2126": "Sunday nights often include cinema in the user’s historical patterns, and this is close to the current location.",
+    "275": "A nearby multiplex that fits the user’s social weekend chaining behavior around Union Square.",
+    "3705": "The user has previously bundled shopping with dining in this corridor, so a nearby retail stop remains plausible.",
+    "244": "A nearby casual food stop that fits the user’s late-day Manhattan wandering, though it is less distinctive than their usual favored venues."
+  },
+  "fallback": false
+}

@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_603",
+  "ranked_loc_ids": [
+    347,
+    2523,
+    1036,
+    59,
+    1424,
+    1425,
+    5180,
+    449,
+    2635
+  ],
+  "explanations": {
+    "347": "A cross-river transportation hub fits the user’s occasional Newark/Jersey City travel and could plausibly follow a city movement sequence.",
+    "2523": "This Manhattan dining stop matches the user’s Lower Manhattan/Meatpacking pattern and could appear after a media or gym-related outing.",
+    "1036": "Another music venue aligned with the user’s entertainment-heavy profile, though it is less central than 103.5 KTU.",
+    "59": "Midtown entertainment activity is consistent with the user’s broader Manhattan nightlife and event-oriented behavior.",
+    "1424": "The Prudential Center is a music venue with some behavioral fit given the user’s strong preference for music-related places.",
+    "1425": "The user was just here, so a short-term return is possible, but it is much weaker than their repeated early-morning venue pattern.",
+    "5180": "Transit access in Bayonne could fit a movement between areas, but there is little history supporting this exact stop.",
+    "449": "A home-like return is plausible after the gym, but it conflicts with the user’s stronger early-morning Manhattan anchor.",
+    "2635": "A nearby restaurant is a generic stop that could follow the current location, but it lacks the user’s distinctive music-venue bias."
+  },
+  "fallback": false
+}

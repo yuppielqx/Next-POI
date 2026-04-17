@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_426",
+  "ranked_loc_ids": [
+    2137,
+    1637,
+    2522,
+    2516,
+    2519,
+    2045,
+    2526,
+    2513,
+    2515,
+    2521
+  ],
+  "explanations": {
+    "2137": "Strong midday café prior and fits the user’s Midtown West coffee habit.",
+    "1637": "A lunch-friendly deli option that matches the target-time midday food pattern and nearby movement.",
+    "2522": "Similar users and the user’s own Friday lunch tendencies support a casual midday meal here.",
+    "2516": "A close Union Square-area lunch restaurant that fits the user’s social dining profile.",
+    "2519": "A proven daytime restaurant choice in the user’s history, consistent with a midday stop.",
+    "2045": "Lunch-oriented restaurant behavior and the user’s food-centered profile make this plausible.",
+    "2526": "A nearby downtown lunch spot aligned with the user’s village/downtown dining pattern.",
+    "2513": "Repeated Starbucks use and the Midtown West anchor make this a strong café candidate.",
+    "2515": "Fits the user’s repeated Midtown West restaurant corridor and midday dining behavior.",
+    "2521": "A West Side food-and-drink venue that matches the user’s social, restaurant-heavy Manhattan pattern."
+  },
+  "fallback": false
+}

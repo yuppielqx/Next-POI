@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_898",
+  "ranked_loc_ids": [
+    533,
+    975,
+    1131,
+    1551,
+    1780,
+    2528,
+    3914,
+    4043,
+    2200,
+    1703
+  ],
+  "explanations": {
+    "533": "This is the strongest noon-to-2pm repeat in the user’s history and fits the Friday 12:16 Midtown lunch prior best.",
+    "975": "A nearby Midtown lunch venue that matches the midday dining pattern and the user’s Manhattan food-stop behavior.",
+    "1131": "The user has bakery stops in Midtown, and this fits an early-afternoon meal or snack after a Midtown morning.",
+    "1551": "A Midtown bar visit is plausible given the user’s social-stop behavior and recent Manhattan activity.",
+    "1780": "Brooklyn Bagel & Coffee Co. is a strong midday food option and fits the user’s lunch-oriented mobility.",
+    "2528": "An American restaurant in Manhattan aligns with the user’s repeated lunch-and-social dining pattern.",
+    "3914": "A diner stop is consistent with the user’s casual food preferences and Midtown/East Side range.",
+    "4043": "Very close to the last location and consistent with a Friday lunch in Midtown Manhattan.",
+    "2200": "A nearby café is possible for a midday pause, though less distinctive than the user’s typical meal stops.",
+    "1703": "This is the user’s dominant anchor, but its stronger late-afternoon pattern makes it a slightly weaker fit for 12:16."
+  },
+  "fallback": false
+}

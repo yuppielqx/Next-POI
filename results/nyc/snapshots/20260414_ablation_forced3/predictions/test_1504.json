@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1504",
+  "ranked_loc_ids": [
+    2984,
+    777,
+    5148,
+    213,
+    1561,
+    4890,
+    4892,
+    2908,
+    750,
+    3564
+  ],
+  "explanations": {
+    "2984": "It is the closest nearby food venue and fits the strong evening post-bar transition pattern toward casual dining.",
+    "777": "The user is already there in the current trip context, so a short continued stay or return is plausible.",
+    "5148": "A very nearby stop that could follow a bar visit for a late-evening coffee or meetup.",
+    "213": "Another nearby bar that matches the user’s nightlife-heavy profile and compact movement pattern.",
+    "1561": "A close nightlife option in the user’s preferred bar category, consistent with south-westward movement through evening venues.",
+    "4890": "A highly frequent evening check-in spot that is strongly tied to the user’s Chelsea/NoMad routine.",
+    "4892": "This hotel bar is one of the user’s repeat evening destinations and aligns with a return-to-frequent-place pattern.",
+    "2908": "A familiar pub in the same neighborhood that fits the user’s bar-and-pub evening sequences.",
+    "750": "A recurring lounge in the user’s core territory, plausible for a later evening social stop.",
+    "3564": "A repeat bar visit in the Midtown South area that matches the user’s preference for clustered nightlife outings."
+  },
+  "fallback": false
+}

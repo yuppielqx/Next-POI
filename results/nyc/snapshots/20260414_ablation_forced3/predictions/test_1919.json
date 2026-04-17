@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1919",
+  "ranked_loc_ids": [
+    5162,
+    2210,
+    1329,
+    3757,
+    1231,
+    2392,
+    459,
+    3229,
+    3274,
+    1935
+  ],
+  "explanations": {
+    "5162": "The user just checked in here 6 minutes earlier, making it the strongest immediate continuation candidate.",
+    "2210": "It is nearby and fits the user's recurring gym pattern, especially after afternoon activity.",
+    "1329": "This is the user's strongest nightlife anchor and a likely evening destination later in the day.",
+    "3757": "It is very close and could plausibly follow a vegetarian lunch-to-dinner transition.",
+    "1231": "It is nearby and can fit a late-afternoon/evening outing pattern in this area.",
+    "2392": "A nearby café is plausible for a short post-meal stop in the same neighborhood.",
+    "459": "A nearby dinner option that matches the user's restaurant-oriented movement.",
+    "3229": "A close wine bar aligns with the user's evening social and nightlife tendencies.",
+    "3274": "A nearby bar is consistent with the user's nightlife-heavy behavior, though less specific than their usual venues.",
+    "1935": "Another nearby nightlife spot that could fit a later evening transition from the current location."
+  },
+  "fallback": false
+}

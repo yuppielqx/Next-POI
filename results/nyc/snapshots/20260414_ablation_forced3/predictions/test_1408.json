@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1408",
+  "ranked_loc_ids": [
+    4790,
+    4789,
+    4788,
+    951,
+    4883,
+    3761,
+    5262,
+    4912,
+    465,
+    5261
+  ],
+  "explanations": {
+    "4790": "Tuesday morning around 8 a.m. strongly matches the user’s dominant weekday hospital routine, and this is their most frequent anchor.",
+    "4789": "It is the other major repeat venue in the user’s routine, though it fits better in the evening than this morning slot.",
+    "4788": "It was the last known location and is adjacent to the user’s usual Staten Island cluster, making a short continuation plausible.",
+    "951": "A nearby Staten Island transportation hub that could fit a morning commute pattern if the user is in transit.",
+    "4883": "Close by and consistent with a quick morning stop before work, though there is no prior visit history.",
+    "3761": "Nearby local destination that could attract a morning visit, but it is less aligned with the user’s work-centered pattern.",
+    "5262": "A plausible local errand stop in Staten Island, though not strongly supported by the user’s history.",
+    "4912": "Another nearby grocery option that could follow a morning routine, but with weak behavioral evidence.",
+    "465": "The user has visited it before, but cinema behavior is more leisure-oriented and less likely at this time.",
+    "5261": "Similar-user behavior mentions this area, but it has no direct fit with the user’s established weekday morning hospital anchor."
+  },
+  "fallback": false
+}

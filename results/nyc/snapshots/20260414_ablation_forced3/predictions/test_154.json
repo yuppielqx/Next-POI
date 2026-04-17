@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_154",
+  "ranked_loc_ids": [
+    1186,
+    851,
+    1188,
+    3320,
+    1261,
+    5702,
+    5660,
+    3323,
+    5658,
+    3446
+  ],
+  "explanations": {
+    "1186": "It is the user’s signature frequent coffee stop and they are already there, making a repeated return the most likely next move.",
+    "851": "This is the other dominant anchor in the user’s tightly repeated Bronx routine and is often visited back-to-back with Au Bon Pain.",
+    "1188": "The user occasionally transitions through this nearby transit line, and the history suggests a routine commute-like movement.",
+    "3320": "A nearby transit node fits the user’s localized Bronx travel pattern and could be the next routine transition.",
+    "1261": "Another plausible Bronx transit stop within the user’s habitual corridor, though less directly tied than the main anchors.",
+    "5702": "This subway station is near the current cluster and matches the user’s occasional transit-linked movement pattern.",
+    "5660": "The Pelham Bay Park station is a nearby local transit option that could follow a Bronx routine trip.",
+    "3323": "A nearby practical stop in the same area, but there is little evidence the user favors banking-related destinations.",
+    "5658": "It is a nearby food option, yet the user’s history is far more coffee-centered than sandwich-oriented.",
+    "3446": "Similar-user behavior points to this bookstore, but it is less consistent with the user’s highly localized coffee/transit routine."
+  },
+  "fallback": false
+}

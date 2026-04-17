@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_554",
+  "ranked_loc_ids": [
+    2995,
+    3100,
+    3101,
+    1983,
+    2983,
+    387,
+    775,
+    2988,
+    192,
+    2076
+  ],
+  "explanations": {
+    "2995": "The user was just there late at night and their pattern strongly favors repeating familiar dinner spots in the evening, especially in the same downtown social corridor.",
+    "3100": "After BBQ, a nearby nightlife follow-up is very plausible for this late evening time, and karaoke fits the user’s social, stay-out-late profile.",
+    "3101": "This adjacent lounge is a natural next stop from a BBQ dinner in Koreatown, matching the north-east movement trend toward nightlife.",
+    "1983": "A nearby bar fits the user’s repeated after-work drinking pattern and the target time strongly favors a nightlife venue.",
+    "2983": "Another Manhattan nightlife stop aligned with the user’s evening-heavy behavior and consistent downtown social outings.",
+    "387": "The user has history with hotel-bar style late-night visits, and the Lower East Side is a frequent area in their movement pattern.",
+    "775": "A familiar bar in the user’s downtown radius, and repeats to known social spots are common in their history.",
+    "2988": "This bar matches the user’s late-evening socializing pattern and sits within the Lower East Side/Gramercy movement band.",
+    "192": "A repeated anchor in the user’s history, and it is a plausible nearby evening meetup or loitering stop after dinner.",
+    "2076": "Another recurring dinner-oriented venue that fits the user’s preference for casual evening meals in Manhattan."
+  },
+  "fallback": false
+}

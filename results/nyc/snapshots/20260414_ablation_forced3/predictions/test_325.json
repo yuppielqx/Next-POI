@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_325",
+  "ranked_loc_ids": [
+    2055,
+    2058,
+    1961,
+    1266,
+    2057,
+    2059,
+    2056,
+    1528,
+    359,
+    86
+  ],
+  "explanations": {
+    "2055": "The user’s strongest recurring pattern is a midday return to this campus, which best matches the 12:56 academic time prior.",
+    "2058": "This is another NYU Polytechnic academic building in Brooklyn and fits the user’s school-centered routine with a relatively close distance.",
+    "1961": "Bobst Library aligns with the user’s academic profile and could plausibly follow a midday weekday-style study pattern.",
+    "1266": "Pace University is an educational institution in Lower Manhattan, making it a reasonable midday academic destination.",
+    "2057": "The user has repeated fitness visits and it is very near the last location, though the timing favors academics more than gym use.",
+    "2059": "The user was just here last night, so a return is possible, but Sunday midday is less consistent with their nightlife pattern.",
+    "2056": "Past evening social behavior makes this a secondary nightlife option, but it is less likely at midday.",
+    "1528": "This fits the user’s occasional leisure pattern, though it is farther away and not a strong daytime match.",
+    "359": "An event-space stop is plausible in downtown Manhattan, but it is only weakly supported by history.",
+    "86": "A concert hall visit is least consistent with the user’s routine and midday academic tendencies."
+  },
+  "fallback": false
+}

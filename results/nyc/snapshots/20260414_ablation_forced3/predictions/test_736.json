@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_736",
+  "ranked_loc_ids": [
+    786,
+    3514,
+    3509,
+    3525,
+    3517,
+    3518,
+    3262,
+    106,
+    1522,
+    3515
+  ],
+  "explanations": {
+    "786": "It is the strongest same-time recurring destination near Spring St and fits the user's typical short midday transit-to-nearby-stop chain.",
+    "3514": "This nearby recurring office/unknown stop is only a few blocks away and matches the tight Lower Manhattan cluster behavior.",
+    "3509": "The user may still be lingering at or returning to the main anchor station, which dominates their history around noon.",
+    "3525": "This is an extremely close downtown food stop that fits a midday break pattern after the Spring St station.",
+    "3517": "A nearby deli/bodega-like stop that is consistent with quick midday errands in the immediate neighborhood.",
+    "3518": "The pharmacy is close and time-aligned with a short local stop in the Spring/SoHo corridor.",
+    "3262": "Another nearby pharmacy option that fits an afternoon neighborhood errand or pickup.",
+    "106": "A plausible nearby transit move within Lower Manhattan, though less central than the Spring St cluster.",
+    "1522": "A reasonable transit continuation in Manhattan, but it is less likely than immediate Spring Street-area destinations.",
+    "3515": "A familiar food destination from the user's routine, though it is farther and less likely than the nearby options."
+  },
+  "fallback": false
+}

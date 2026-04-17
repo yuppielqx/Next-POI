@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1532",
+  "ranked_loc_ids": [
+    951,
+    2147,
+    279,
+    4925,
+    652,
+    667,
+    669,
+    283,
+    3761,
+    4556
+  ],
+  "explanations": {
+    "951": "The user’s strongest habit is repeatedly returning to this Staten Island transit hub, and the next time slot is only 15 minutes after the last check-in there.",
+    "2147": "Similar users at this morning time often remain within the ferry transit chain, and it is a plausible adjacent move from the hub.",
+    "279": "This is a recurring nearby stop in the user’s North Shore routine and fits a short local movement away from the hub.",
+    "4925": "Barnes & Noble is one of the user’s main anchors, and morning transitions there are common in their history.",
+    "652": "Similar-user patterns strongly support ferry-related movement at this time, especially after a transit hub check-in.",
+    "667": "It is extremely close to the last location and could be a quick breakfast stop before continuing transit activity.",
+    "669": "A nearby café is consistent with a brief morning dwell pattern around St. George/Tompkinsville.",
+    "283": "The nearby library is a reasonable North Shore stop that matches the user’s local, errand-like movement style.",
+    "3761": "This nearby Staten Island destination is within the same local corridor, though less aligned than transit-focused options.",
+    "4556": "A ferry/boat location remains directionally consistent with the user’s transportation-centered behavior and nearby movement trend."
+  },
+  "fallback": false
+}

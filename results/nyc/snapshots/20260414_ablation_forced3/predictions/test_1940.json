@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1940",
+  "ranked_loc_ids": [
+    2158,
+    239,
+    979,
+    1049,
+    210,
+    2680,
+    2120,
+    968,
+    3245,
+    1295
+  ],
+  "explanations": {
+    "2158": "It matches the user’s strongest late-night rock-club history and is extremely close to the current Lower East Side position.",
+    "239": "A frequent Friday music-venue stop in the same nightlife corridor, making it a natural nearby venue-hop.",
+    "979": "This is the user’s top recurring nightclub anchor, and the Friday 1–3 a.m. window strongly fits a return visit.",
+    "1049": "The user is already at Pianos, so a continued stay or immediate next check-in here is highly plausible.",
+    "210": "A nearby music venue with no prior history but strong contextual fit for a midnight Lower East Side switch.",
+    "2680": "Another adjacent live-music stop in the same area, consistent with their venue-hopping pattern.",
+    "2120": "Close by and aligned with late-night music-scene behavior, especially after a venue stop.",
+    "968": "A nearby nightlife spot that fits a post-midnight drift toward bars and pubs.",
+    "3245": "This adjacent nightlife spot matches the user’s clustered movement among Lower East Side bars.",
+    "1295": "A known nightlife venue from the user’s history, though slightly less likely than the very close Lower East Side options."
+  },
+  "fallback": false
+}

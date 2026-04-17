@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_785",
+  "ranked_loc_ids": [
+    3642,
+    3641,
+    3646,
+    3644,
+    3643,
+    3645,
+    3393,
+    2902,
+    3647,
+    3802
+  ],
+  "explanations": {
+    "3642": "It is the last known spot, matches the user's strongest repeated check-in pattern, and a one-minute move at this micro-area is most likely to be a stay/return there.",
+    "3641": "The user was just there at the same timestamp and it is the most frequent venue in their history, making an immediate continuation very plausible.",
+    "3646": "This residential building is extremely close and fits the user's home-centered local movement around the Cypress Hills block.",
+    "3644": "Another heavily repeated Chinese restaurant in the same cluster, making it a natural next stop if the user shifts slightly for food.",
+    "3643": "A frequent nearby errand destination that often appears in the user's tight stop-chaining pattern.",
+    "3645": "The nearby post office is within the same neighborhood and has prior transitions, so it is a plausible short-hop errand.",
+    "3393": "The Euclid Ave station is a nearby transit point that could appear if the user briefly leaves the immediate restaurant cluster.",
+    "2902": "A nearby food place with no prior visits, but still close enough to fit the localized afternoon movement.",
+    "3647": "The user has visited it before, though it is farther and less consistent with a one-minute continuation.",
+    "3802": "A nearby fast-food option with no history, included only because it is within the broader local area."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2667",
+  "ranked_loc_ids": [
+    3657,
+    4452,
+    1742,
+    4406,
+    2872,
+    1753,
+    2092,
+    4661,
+    1754,
+    2645
+  ],
+  "explanations": {
+    "3657": "This is the user's strongest recurring Monday morning gym destination and is closest to the current routine and time slot.",
+    "4452": "After a late-night return home, the user could still be at the residence at 08:09, though the routine strongly favors leaving.",
+    "1742": "The user often moves within Brooklyn Heights in the morning, making this a plausible nearby stop or area transition.",
+    "4406": "Monday morning fits the user's school/work routine, and this location has strong historical support on Mondays.",
+    "2872": "A morning coffee stop near the user's core Brooklyn footprint is consistent with their daytime pattern.",
+    "1753": "The user frequently moves through DUMBO during daytime hours, so a short eastward shift there is reasonable.",
+    "2092": "The Brooklyn Heights Promenade is nearby and matches the user's tendency toward compact neighborhood movement.",
+    "4661": "While less likely in the morning, it is a repeated local comfort stop within the user's Brooklyn circuit.",
+    "1754": "This nearby coffee shop fits the user's habitual short-range, daytime neighborhood movement.",
+    "2645": "A very close new nearby option, but with no prior visits it is less likely than the user's established routine stops."
+  },
+  "fallback": false
+}

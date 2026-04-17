@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1651",
+  "ranked_loc_ids": [
+    109,
+    5053,
+    106,
+    347,
+    4350,
+    105,
+    5055,
+    5054,
+    104,
+    2382
+  ],
+  "explanations": {
+    "109": "Monday morning at 08:19 strongly matches the user’s repeated post-dog-walk commute pattern from Hamilton Dog Park to this transit hub.",
+    "5053": "This is the user’s dominant routine location and could still be revisited if the morning dog walk continues a bit longer.",
+    "106": "The user regularly commutes into Lower Manhattan, and this is a plausible next transit-related stop after Grove Street.",
+    "347": "A nearby transportation hub near the user’s corridor, making it a reasonable alternative if they head toward the tunnel/transit network.",
+    "4350": "Very close to the last known location and behaviorally consistent with the user’s strong neighborhood anchor.",
+    "105": "A nearby everyday errand stop that fits the user’s routine, local movement style in Jersey City.",
+    "5055": "Extremely close to the last location and within the user’s neighborhood, though less routine than transit or the dog park.",
+    "5054": "Near Grove Street and plausible for a brief morning stop, but less likely than commute-related locations.",
+    "104": "A nearby Jersey City destination that similar users sometimes visit, though it is not central to this user’s pattern.",
+    "2382": "A Lower Manhattan destination aligned with the user’s occasional downtown trips, but much less likely than the commute hubs."
+  },
+  "fallback": false
+}

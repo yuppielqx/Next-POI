@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1934",
+  "ranked_loc_ids": [
+    5315,
+    5316,
+    2282,
+    124,
+    2101,
+    5317,
+    4834,
+    4180,
+    5543,
+    121
+  ],
+  "explanations": {
+    "5315": "The user’s strongest routine is a Friday morning return from the subway to their campus residence, and this is the best historical match at 07:57.",
+    "5316": "This is a recurring Fordham-area destination, though it appears more often slightly later in the morning than the target time.",
+    "2282": "A major campus anchor in the user’s history, but less tightly aligned with the immediate post-transit 07:57 pattern than McMahon Hall.",
+    "124": "The user has a strong transit habit here, but the current trip has already started at this station, making a revisit less likely than a campus arrival.",
+    "2101": "The user has visited a diner in morning windows before, so a quick food stop is possible but not as likely as a routine campus return.",
+    "5317": "This nearby fast-food stop is plausible for a morning purchase, though it has very limited history with the user.",
+    "4834": "Similar users sometimes move through this bridge area in the morning, but it is not a strong match to this user’s campus-centered pattern.",
+    "4180": "A past visit exists, but it is isolated and does not fit the regular weekday commute pattern well.",
+    "5543": "Nearby and accessible, yet with no history and little evidence the user would divert here at this hour.",
+    "121": "A nearby food option, but it has no user-history support and is less consistent with the observed commute-to-campus routine."
+  },
+  "fallback": false
+}

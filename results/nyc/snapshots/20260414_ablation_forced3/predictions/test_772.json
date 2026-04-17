@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_772",
+  "ranked_loc_ids": [
+    2554,
+    3626,
+    3625,
+    846,
+    299,
+    1846,
+    3614,
+    692,
+    683,
+    660
+  ],
+  "explanations": {
+    "2554": "This is a repeated historical destination that fits the user’s afternoon leisure pattern and the strong Queens corridor prior.",
+    "3626": "The user repeatedly visits this gas station, and it matches their vehicle-oriented errand style in northeastern Queens.",
+    "3625": "A casual meal stop in the likely Flushing corridor fits the midday-to-afternoon timing and similar-user patterns.",
+    "846": "Home improvement retail aligns with the user’s errand-heavy behavior and common Queens destinations.",
+    "299": "This is another practical shopping stop in the College Point/Flushing area that matches clustered errands.",
+    "1846": "Convenience-store visits are consistent with the user’s utilitarian movement style and Queens geography.",
+    "3614": "The user has prior convenience-store behavior in Queens, and Woodside remains within the immediate corridor.",
+    "692": "A short return within Queens is plausible given the recent movement history and limited temporal gap.",
+    "683": "Electronics retail fits the user’s shopping pattern and stays within a nearby Queens/LIC trajectory.",
+    "660": "A coffee stop is plausible for an afternoon transition, though less likely than the user’s more utilitarian venues."
+  },
+  "fallback": false
+}

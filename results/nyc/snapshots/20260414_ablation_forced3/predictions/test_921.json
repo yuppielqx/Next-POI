@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_921",
+  "ranked_loc_ids": [
+    613,
+    173,
+    3966,
+    2597,
+    141,
+    4716,
+    4390,
+    3978,
+    526,
+    3977
+  ],
+  "explanations": {
+    "613": "The user is already in Harlem and the short time gap plus strong return-to-last behavior make staying in the same area most likely.",
+    "173": "This nearby Harlem transit hub matches the user’s transit-heavy pattern and is a plausible immediate continuation from Harlem.",
+    "3966": "The nearby 125 St station fits the user’s repeated subway-linked movement and the current daytime commute context.",
+    "2597": "The user frequently revisits this core Bronx stop, making a return along the familiar 4 train corridor plausible.",
+    "141": "This is a heavily used station in the user’s corridor and could be the next stop if they continue moving southwest.",
+    "4716": "This nearby Harlem intersection is a strong neighborhood-level continuation for a commuter moving through Upper Manhattan.",
+    "4390": "A nearby Harlem errand stop is consistent with daytime, purpose-driven movement and short-distance transitions.",
+    "3978": "This local Harlem destination fits the user’s neighborhood-based daytime travel and prior short bursts of activity.",
+    "526": "The user has visited this park before, and it is close enough to support an in-neighborhood detour.",
+    "3977": "Historical support is strong for the target time, but the distance makes it less likely than nearby Harlem options."
+  },
+  "fallback": false
+}

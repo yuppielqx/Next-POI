@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1317",
+  "ranked_loc_ids": [
+    1346,
+    5323,
+    1088,
+    2159,
+    426,
+    4880,
+    5404,
+    5598,
+    1252,
+    114
+  ],
+  "explanations": {
+    "1346": "The user is already at JFK-related terminal space, and similar users at this evening hour often transition to or remain within airport travel nodes.",
+    "5323": "It is the closest plausible continuation from the current airport-terminal location and fits a transit transfer pattern.",
+    "1088": "Another nearby JFK terminal that fits an intra-airport movement after arriving at Terminal 7.",
+    "2159": "Prior nearby terminal transitions make another JFK terminal movement likely, especially within the airport complex.",
+    "426": "The user is in the JFK area, and Terminal 4 is a realistic next stop within the same travel hub.",
+    "4880": "Airport lounge usage is plausible from a terminal location, especially during evening travel.",
+    "5404": "A quick food stop inside the airport is more likely than leaving the airport entirely.",
+    "5598": "Airport-adjacent dining fits a short layover or transfer pause at JFK.",
+    "1252": "Despite the airport context, this is the user’s strongest routine anchor and a possible return destination after travel.",
+    "114": "Their most repeated commuting station remains a fallback prediction for a return to the Lower Manhattan corridor."
+  },
+  "fallback": false
+}

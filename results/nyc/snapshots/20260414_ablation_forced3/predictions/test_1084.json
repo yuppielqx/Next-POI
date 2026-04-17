@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1084",
+  "ranked_loc_ids": [
+    82,
+    1008,
+    67,
+    3673,
+    137,
+    3413,
+    120,
+    4311,
+    4310,
+    4312
+  ],
+  "explanations": {
+    "82": "The target time is Sunday morning and this venue has the strongest matching Sunday 9–11 a.m. pattern among the user’s recurring downtown stops.",
+    "1008": "It is another Sunday-recurring destination in the same corridor and fits the southbound move toward the Union Square/Stuyvesant area.",
+    "67": "The user has Sunday visits here and it aligns well with a morning downtown excursion after leaving 125 St.",
+    "3673": "A coffee stop is consistent with the user’s morning routine and this is a known Sunday downtown anchor.",
+    "137": "This is a recurring Sunday destination for the user and fits the broader downtown commute pattern.",
+    "3413": "The user is heavily campus-centered overall, so a return to the main university remains plausible despite the southbound movement.",
+    "120": "The user could still linger around the transit node or recheck it, though the movement trend suggests onward travel is more likely.",
+    "4311": "This campus-related location matches the user’s academic routine and is near the broader Yeshiva cluster.",
+    "4310": "A familiar campus building with repeated visits, making it a reasonable but less likely continuation than downtown options.",
+    "4312": "This Yeshiva-associated academic building fits the user’s structured routine but is weaker than the more specific Sunday-morning downtown candidates."
+  },
+  "fallback": false
+}

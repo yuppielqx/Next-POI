@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_356",
+  "ranked_loc_ids": [
+    2165,
+    1238,
+    3528,
+    3747,
+    137,
+    2163,
+    2164,
+    2166,
+    2162,
+    271
+  ],
+  "explanations": {
+    "2165": "This is the user’s strongest commute anchor, it matches the last known location, and early morning weekday patterns repeatedly start here.",
+    "1238": "The user commonly travels from Saratoga Av to the Upper East Side after the morning commute, making this the main onward destination.",
+    "3528": "As the closest transit alternative in Brooklyn, it fits a commute-related movement if the user is heading out locally before Manhattan.",
+    "3747": "Another nearby Brooklyn subway station, so it is plausible if the user is making a short transit connection rather than staying put.",
+    "137": "This Manhattan transit hub matches the user’s occasional Midtown travel pattern and could be a commute-related stop.",
+    "2163": "The user has a midday food-stop pattern in Manhattan, and this nearby option fits a quick breakfast or lunch-related visit after commuting.",
+    "2164": "A repeated sandwich place near the Upper East Side, consistent with the user’s routine food visits in that corridor.",
+    "2166": "The user has occasional airport outliers, so an airport-related move is possible though less likely than routine commuting.",
+    "2162": "Another LaGuardia terminal option that aligns with the user’s rare airport visits but is not part of the core pattern.",
+    "271": "JFK is a possible but low-probability outlier given the user’s mostly routine Brooklyn-Manhattan movement."
+  },
+  "fallback": false
+}

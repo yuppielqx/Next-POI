@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_282",
+  "ranked_loc_ids": [
+    1886,
+    1888,
+    1887,
+    332,
+    1890,
+    912,
+    97,
+    1082,
+    1889,
+    63
+  ],
+  "explanations": {
+    "1886": "Thursday afternoon strongly matches the user’s dominant home-base routine, and this is their clearest repeated anchor.",
+    "1888": "The user visits this gym in daytime patterns and it is a plausible practical stop after the recent workout-heavy sequence.",
+    "1887": "A casual North Jersey food stop fits the user’s routine-oriented midday behavior and their history of practical local errands.",
+    "332": "This is a known user location and the target time could fit an afternoon NYC errand or browse stop.",
+    "1890": "The user has visited downtown social dining spots before, and this aligns with their Manhattan leisure pattern.",
+    "912": "As the last known location, a nearby return or lingering dining continuation is possible despite the time gap.",
+    "97": "Similar-user patterns and the user’s nightlife tolerance make this a reasonable downtown social follow-on.",
+    "1082": "The user has a history of Chelsea/Meatpacking nightlife, though Thursday afternoon is less typical for this category.",
+    "1889": "The user has shown willingness to move across the metro area, making a New Jersey hotel stop possible.",
+    "63": "This reflects the user’s occasional long-range transit behavior, but it is far less likely than routine or dining venues."
+  },
+  "fallback": false
+}

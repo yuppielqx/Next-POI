@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1280",
+  "ranked_loc_ids": [
+    416,
+    4083,
+    3101,
+    3797,
+    1976,
+    4631,
+    2049,
+    3688,
+    587,
+    2574
+  ],
+  "explanations": {
+    "416": "This is the strongest anchor in the user’s history, is only steps away, and fits the same Midtown burst pattern at 09:19.",
+    "4083": "It was the last known location and the user often makes rapid back-to-back check-ins within the same small area.",
+    "3101": "Extremely close to the current spot and consistent with the user’s frequent Midtown lounge/check-in activity.",
+    "3797": "Recently visited and very near the current cluster, making a quick return plausible.",
+    "1976": "A nearby Koreatown food stop that fits the user’s repeated morning food-and-errand pattern.",
+    "4631": "The user repeatedly visits retail spots in this corridor, especially during the morning window.",
+    "2049": "A common nearby fast-casual stop in the user’s routine and a good fit for chained Midtown visits.",
+    "3688": "Very close to the current area and part of the user’s regular Midtown dining/check-in footprint.",
+    "587": "A nearby casual food venue that matches the user’s recurring pizza and snack behavior.",
+    "2574": "A major historical anchor in the user’s Midtown shopping pattern, though farther than the closest options."
+  },
+  "fallback": false
+}

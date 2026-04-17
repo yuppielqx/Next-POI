@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_397",
+  "ranked_loc_ids": [
+    901,
+    2332,
+    1883,
+    1774,
+    284,
+    2364,
+    1,
+    332,
+    2360,
+    1999
+  ],
+  "explanations": {
+    "901": "The morning time prior and the user’s historical pattern strongly favor a quick coffee stop in their usual SoHo/Tribeca orbit.",
+    "2332": "It fits the morning hotel-anchor behavior and is close to the user’s recent Lower Manhattan trajectory.",
+    "1883": "A nearby hotel-like stop matches the traveler profile and the likely overnight reset before breakfast.",
+    "1774": "It is a plausible morning coffee destination in SoHo, consistent with the user’s leisure-oriented Manhattan visits.",
+    "284": "This is another strong morning coffee option in the same neighborhood and time window.",
+    "2364": "It is the last known location and nearby, though an immediate return after dinner is less likely than a morning reset.",
+    "1": "The user has prior history here and it fits their dining-heavy Manhattan pattern, though breakfast relevance is secondary.",
+    "332": "Similar users at this hour often make morning market stops, and it fits the user’s Manhattan exploration style.",
+    "2360": "The hotel anchor in the user’s history makes a morning return plausible, especially after a night out.",
+    "1999": "A nearby transit pivot is possible as the user moves north-east from the last location toward their next stop."
+  },
+  "fallback": false
+}

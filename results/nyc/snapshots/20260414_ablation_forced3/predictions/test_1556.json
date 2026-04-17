@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1556",
+  "ranked_loc_ids": [
+    451,
+    4298,
+    402,
+    1719,
+    2150,
+    229,
+    1199,
+    4957,
+    4670,
+    1873
+  ],
+  "explanations": {
+    "451": "Terminal C is the closest high-transition airport location and best fits the strong airport/transit continuation pattern from the last check-in.",
+    "4298": "Terminal B is another immediate Newark Airport terminal option, making it a very plausible next stop within the same airport complex.",
+    "402": "The user is already at EWR and often follows transit-linked sequences, so staying at the airport itself is highly likely.",
+    "1719": "Terminal A is also adjacent within Newark Airport and matches the current airport movement with minimal displacement.",
+    "2150": "If leaving the terminal area, the airport rail station is the most likely transfer point for a transit-oriented traveler.",
+    "229": "Newark Penn Station is a major nearby hub that fits the user’s history of hub-to-hub movement, though it is less immediate than airport terminals.",
+    "1199": "The user frequently uses Hudson light rail and could be heading back toward their Jersey City base after the airport.",
+    "4957": "This transit hub is consistent with the user’s commuter-like regional orbit and could connect to waterfront Jersey City-area movement.",
+    "4670": "A favored Jersey City nightlife spot that fits the user’s leisure-heavy history, but it is less likely immediately after EWR than transit locations.",
+    "1873": "Another repeated Jersey City hangout that matches their social evening pattern, though the airport continuation signal is stronger right now."
+  },
+  "fallback": false
+}

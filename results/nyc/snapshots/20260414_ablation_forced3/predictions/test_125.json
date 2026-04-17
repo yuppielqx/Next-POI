@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_125",
+  "ranked_loc_ids": [
+    123,
+    662,
+    704,
+    5692,
+    929,
+    920,
+    5478,
+    922,
+    926,
+    3612
+  ],
+  "explanations": {
+    "123": "Strong historical anchor in Elmhurst and the most likely nearby return after dinner on a Monday evening.",
+    "662": "The user’s signature venue, repeatedly visited in the same evening time window and only a short distance away.",
+    "704": "Very close to the last stop and consistent with the user’s retail-heavy Queens core behavior.",
+    "5692": "A nearby shopping mall that fits a return-to-retail pattern after Georgia Diner.",
+    "929": "The Queens Center Mall food court is a plausible quick evening stop for food or shopping continuation.",
+    "920": "A nearby subway station matches the user’s transit-oriented evening movement and short-hop travel style.",
+    "5478": "Another mall-adjacent retail stop that aligns with the user’s shopping-centered profile.",
+    "922": "A nearby transit node that fits the southeast movement trend and evening mobility.",
+    "926": "An evening entertainment option in the user’s broader late-night pattern, though less directly aligned than retail.",
+    "3612": "A nearby fast-food stop that could follow dinner as an add-on during a short Queens errand loop."
+  },
+  "fallback": false
+}

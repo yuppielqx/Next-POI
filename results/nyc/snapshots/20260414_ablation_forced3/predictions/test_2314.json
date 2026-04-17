@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2314",
+  "ranked_loc_ids": [
+    2159,
+    271,
+    5598,
+    5323,
+    426,
+    272,
+    1346,
+    1088,
+    3044,
+    3960
+  ],
+  "explanations": {
+    "2159": "It is the user's most frequent airport-adjacent stop and sits exactly at the last known location, making a short return most likely.",
+    "271": "JFK is the user's dominant anchor and the immediate preceding place in the current sequence, so staying within the airport complex is highly probable.",
+    "5598": "This nearby airport restaurant is a recurring stop in the user's JFK routine and is only a very short distance away.",
+    "5323": "The user often transitions within the JFK micro-area, and this terminal-linked transit point fits the observed airport movement pattern.",
+    "426": "Another nearby JFK terminal-related spot that matches the user's habit of short hops between airport locations.",
+    "272": "The user shows repeated airport-terminal movement, and this nearby AirTrain/terminal location fits that local transfer behavior.",
+    "1346": "Terminal 7 is within the JFK complex and is plausible given the user's strong airport-centered travel pattern.",
+    "1088": "Similar users at this time sometimes move to JFK terminals, and this is a natural next airport-side destination.",
+    "3044": "A further JFK terminal option that remains consistent with the user's airport-focused evening transitions.",
+    "3960": "This is the main non-airport anchor in the user's history, but it is less likely than another immediate JFK-area stop."
+  },
+  "fallback": false
+}

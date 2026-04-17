@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1929",
+  "ranked_loc_ids": [
+    2755,
+    5045,
+    1154,
+    5313,
+    108,
+    4395,
+    1199,
+    2211,
+    5044,
+    1538
+  ],
+  "explanations": {
+    "2755": "It is the last known transit hub and has the strongest historical repeat pattern for the user at the evening commute hour.",
+    "5045": "The user frequently returns to this Journal Square platform in the 6–8pm window, matching the strong commute prior.",
+    "1154": "This is one of the user’s most recurrent Journal Square transfer points and fits a routine return trip.",
+    "5313": "The plaza is repeatedly checked in with the Journal Square cluster and often appears alongside evening transit movements.",
+    "108": "This light rail station is a habitual commuting stop for the user, especially in weekday morning/evening travel.",
+    "4395": "Another transit hub in the Jersey City network, it matches the user’s infrastructure-heavy commuting style.",
+    "1199": "The user’s movements are centered on Jersey City transit nodes, making this a plausible connector stop.",
+    "2211": "The user occasionally pairs commute movements with practical food stops, and this nearby option aligns with that behavior.",
+    "5044": "Similar users and this user’s history both show coffee-stop behavior around commute windows, especially near transit.",
+    "1538": "The current Manhattan-side context and north-east movement make this nearby transit station a plausible continuation point."
+  },
+  "fallback": false
+}

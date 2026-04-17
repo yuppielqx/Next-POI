@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1204",
+  "ranked_loc_ids": [
+    1530,
+    114,
+    3793,
+    67,
+    1260,
+    4512,
+    329,
+    3872,
+    332,
+    1196
+  ],
+  "explanations": {
+    "1530": "The mid-afternoon prior and the user’s routine transit corridor make this the best match for a familiar Manhattan transfer point.",
+    "114": "This is the strongest habitual anchor and a very plausible repeat check-in immediately after a morning bridge-area starting point.",
+    "3793": "The user frequently chains structured weekday travel with gym visits, and this fits their routine-oriented profile.",
+    "67": "Similar users and the user’s Manhattan corridor both support a nearby mid-afternoon stop in the Union Square area.",
+    "1260": "The 14th Street/Union Square transit hub aligns well with the user’s subway-centered movement and afternoon timing.",
+    "4512": "A known Manhattan errand-style stop that fits the user’s occasional bookstore visits and west Village corridor.",
+    "329": "Madison Square Park is a plausible nearby Manhattan waypoint on a south-westward daytime route.",
+    "3872": "Office-supply errand behavior is consistent with the user’s practical, daytime-oriented pattern.",
+    "332": "It matches the user’s established Manhattan errand pattern, though it is less likely than the major transit nodes.",
+    "1196": "The southwest movement from the last location makes a Lower Manhattan neighborhood stop possible, but it is less specific than the routine transit options."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2434",
+  "ranked_loc_ids": [
+    2674,
+    2653,
+    613,
+    1660,
+    842,
+    137,
+    2782,
+    927,
+    116,
+    1399
+  ],
+  "explanations": {
+    "2674": "The user repeatedly returns to this upper Manhattan outdoor spot in the 3–5pm window, and the time prior plus history make it the strongest match.",
+    "2653": "This fits the same Harlem/145th corridor and is a very plausible transit-oriented stop before or after the user’s recurring destination.",
+    "613": "The user has repeated afternoon presence in Harlem, making it a natural neighborhood-level continuation from the last station.",
+    "1660": "It is the last known location and a transit node, so a brief stay or immediate nearby move is still possible.",
+    "842": "A major Manhattan transfer hub that aligns with the user’s station-heavy movement pattern and midday travel.",
+    "137": "Penn Station is a frequent transit connector for this user type and could plausibly be the next Manhattan stop.",
+    "2782": "The user has previously moved through LIC in late-night travel, and it is a reasonable Queens-side continuation from Woodside.",
+    "927": "This is the nearest rail option to the current stop and matches the user’s strong transit behavior.",
+    "116": "Jamaica is the core anchor of the user’s routine, so a return there remains a credible transfer move.",
+    "1399": "Another habitual Jamaica-area connector that fits the user’s airport/transit corridor pattern."
+  },
+  "fallback": false
+}

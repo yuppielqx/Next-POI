@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_709",
+  "ranked_loc_ids": [
+    1640,
+    2093,
+    3453,
+    2687,
+    1285,
+    5136,
+    3574,
+    589,
+    1577,
+    1512
+  ],
+  "explanations": {
+    "1640": "It is the strongest historical daytime Midtown East analogue and fits the current north-east drift from Pinkberry.",
+    "2093": "A practical Friday midday errand stop in Midtown East matches the time prior and the user’s occasional grocery pattern.",
+    "3453": "The user repeatedly visits gyms, and this nearby Midtown location fits a daytime fitness continuation.",
+    "2687": "The user has transit-linked movement in their history, and this bus corridor aligns with a north-east Midtown trajectory.",
+    "1285": "A nearby lunch restaurant is plausible for 12:43 on Friday, especially given the user’s daytime commercial-area context.",
+    "5136": "Midtown sushi is a reasonable lunch choice and matches the user’s tendency to make short, practical midday stops.",
+    "3574": "Fitness remains a strong behavioral theme, and this very close Midtown gym is a plausible daytime alternative.",
+    "589": "A sports bar is less likely at midday but still fits the user’s nightlife-leaning profile and nearby location.",
+    "1577": "This is another nearby bar/lounge option that could fit the user’s evening-oriented habits, though the time is less favorable.",
+    "1512": "A sports bar is possible given past sports-bar behavior, but it is a weaker fit than daytime errand or gym options."
+  },
+  "fallback": false
+}

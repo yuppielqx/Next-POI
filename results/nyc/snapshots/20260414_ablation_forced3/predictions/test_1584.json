@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1584",
+  "ranked_loc_ids": [
+    439,
+    443,
+    398,
+    4986,
+    4845,
+    429,
+    4092,
+    1068,
+    430,
+    1163
+  ],
+  "explanations": {
+    "439": "It is the last known location, fits the user’s strong repeat habit, and the evening time window often keeps them within the same Hudson corridor.",
+    "443": "This is a frequent nearby stop with multiple prior visits and matches the user’s common Weehawken–Union City evening pattern.",
+    "398": "It is the user’s strongest habitual anchor overall, so a return visit remains highly plausible despite the slightly longer distance.",
+    "4986": "The user shows recurring evening grocery behavior, and this nearby store fits the current corridor and time of day.",
+    "4845": "It is very close to the last location and in the user’s repeated North Jersey movement zone, making a short local transition likely.",
+    "429": "Similar users and nearby-keep behavior support an immediate small-radius stop in Union City during this evening period.",
+    "4092": "The user has a grocery-oriented stop history, and this Weehawken-adjacent option aligns with the current short-range movement trend.",
+    "1068": "Repeated evening dining patterns make this nearby Weehawken restaurant a reasonable post-errand destination.",
+    "430": "It is extremely close and appears in similar-user transitions, so it is a plausible short-hop destination within the same local cluster.",
+    "1163": "This nearby diner fits the user’s casual evening stop pattern, though it is less strongly supported than the other local repeats."
+  },
+  "fallback": false
+}

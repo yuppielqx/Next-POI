@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_972",
+  "ranked_loc_ids": [
+    329,
+    4103,
+    207,
+    338,
+    2913,
+    879,
+    1175,
+    2836,
+    3699,
+    1841
+  ],
+  "explanations": {
+    "329": "Strongest midday repeat spot in the Flatiron/Madison Square core, matching the 14:33 lunch-break timing best.",
+    "4103": "It is the user’s anchor location and still plausible for a same-day return within the habitual weekday routine.",
+    "207": "A frequent nearby food stop that fits the user’s typical post-morning shift toward lunch.",
+    "338": "This is a repeated noon-to-2pm destination in the same compact activity zone and fits the afternoon timing well.",
+    "2913": "A very close café option that matches the user’s quick lunch-and-coffee behavior around 23rd Street.",
+    "879": "A nearby outdoor square that aligns with the user’s midday pattern of brief local breaks.",
+    "1175": "A close coffee stop consistent with a short afternoon errand or refreshment break.",
+    "2836": "Extremely close to the last location and plausible as a fast lunch choice, though with no prior visit history.",
+    "3699": "Another adjacent quick-service food option that could attract a midday stop in the immediate area.",
+    "1841": "A nearby lunch restaurant in the user’s usual radius, but with weaker history than the core midday candidates."
+  },
+  "fallback": false
+}

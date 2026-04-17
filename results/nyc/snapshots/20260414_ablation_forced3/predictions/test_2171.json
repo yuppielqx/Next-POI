@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2171",
+  "ranked_loc_ids": [
+    4096,
+    5285,
+    2794,
+    487,
+    1134,
+    597,
+    723,
+    90,
+    2136,
+    2698
+  ],
+  "explanations": {
+    "4096": "It is extremely close to the last location and matches the user’s strong late-evening bar/lounge pattern on a Saturday.",
+    "5285": "A nearby dive bar fits the southwest movement trend and the likely transition from bowling/leisure into nightlife.",
+    "2794": "A proven nightlife venue in the same corridor, making it a plausible next social stop after Frames.",
+    "487": "This is one of the user’s historically matching lounge/nightlife options and fits the evening social pattern well.",
+    "1134": "Another prior nightlife venue for the user, slightly farther but still consistent with a Saturday evening bar chain.",
+    "597": "The 230 Fifth Rooftop Lounge is a strong nightlife candidate that fits the late-day discretionary outing style.",
+    "723": "Ajna Bar is a lounge-style option that aligns with the user’s tendency to move into nightlife after evening leisure.",
+    "90": "A nearby dinner stop is plausible as a pre-bar meal destination before continuing the night out.",
+    "2136": "A taco spot near Frames fits a quick food stop during an evening leisure chain.",
+    "2698": "A nearby hotel is less likely than nightlife, but it remains plausible as an intermediate stop in the same area."
+  },
+  "fallback": false
+}

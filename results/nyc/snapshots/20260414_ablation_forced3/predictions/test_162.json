@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_162",
+  "ranked_loc_ids": [
+    1249,
+    114,
+    59,
+    1235,
+    46,
+    1168,
+    1250,
+    1255,
+    586,
+    58
+  ],
+  "explanations": {
+    "1249": "This is the user’s current location and a highly recurrent weekday morning transit node, making it the most likely immediate next stop.",
+    "114": "A frequent transition point in the user’s commute pattern and a natural next movement along the southwest-to-Manhattan corridor.",
+    "59": "Strong Midtown revisit behavior and close alignment with the user’s familiar commute route suggest a likely move deeper into the Theater District.",
+    "1235": "The user repeatedly appears in the Times Square/Marriott corridor, especially on Fridays and commute-adjacent windows.",
+    "46": "One of the user’s most visited transit hubs, consistent with their structured bridge-between-boroughs mobility routine.",
+    "1168": "A core Bronx anchor in the user’s history, plausible as part of a return commute sequence though farther from the last point.",
+    "1250": "A familiar transfer station that fits the user’s transit-heavy, short-sequence movement style.",
+    "1255": "A known transit hub in the user’s pattern and a plausible downtown connection during a weekday commute.",
+    "586": "Herald Square is a Manhattan transit-adjacent destination that matches the user’s Midtown corridor behavior.",
+    "58": "Grand Central Terminal is a major commuter hub and fits the user’s schedule-driven weekday morning travel profile."
+  },
+  "fallback": false
+}

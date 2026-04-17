@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1232",
+  "ranked_loc_ids": [
+    147,
+    4314,
+    4568,
+    3686,
+    4564,
+    144,
+    4569,
+    335,
+    1538,
+    67
+  ],
+  "explanations": {
+    "147": "It is the exact last known location and the strongest morning commute anchor, so a brief dwell or return there is most likely.",
+    "4314": "This is the nearest Midtown transit option and fits a continued north/west movement within the Rockefeller Center corridor.",
+    "4568": "The user often transitions from the Rockefeller Center station into this nearby work anchor during Friday morning commutes.",
+    "3686": "This adjacent station matches the user’s Midtown transfer pattern and is very close to the current location.",
+    "4564": "A nearby quick stop that fits an early-morning commuter routine before heading into work.",
+    "144": "Herald Square is a plausible next transit move if the user is continuing a Manhattan subway transfer southward.",
+    "4569": "The nearby food court matches the user’s Midtown lunchtime/commuter corridor behavior and sits close to the current station.",
+    "335": "This nearby Manhattan shopping stop is consistent with a short errand during the morning work corridor.",
+    "1538": "The user sometimes continues down the Manhattan transit spine, making this a plausible but less immediate next stop.",
+    "67": "A possible nearby downtown destination for a morning transfer or brief stop, though less likely than transit or work-related locations."
+  },
+  "fallback": false
+}

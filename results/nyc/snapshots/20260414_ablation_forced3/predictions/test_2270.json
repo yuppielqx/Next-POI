@@ -1,0 +1,24 @@
+{
+  "traj_id": "test_2270",
+  "ranked_loc_ids": [
+    4619,
+    1252,
+    2205,
+    5419,
+    710,
+    1754,
+    2549,
+    114
+  ],
+  "explanations": {
+    "4619": "The user’s strongest recurring pattern is an early-morning return to this gym, and the current 6:59 AM target strongly matches that habit.",
+    "1252": "This is the last known location and has a strong historical early-morning recurrence, making a short continued stay plausible.",
+    "2205": "The user has recent cross-borough gym activity, and Crunch is the other clearly recurring fitness venue in the profile.",
+    "5419": "Morning café follow-ups after workouts are part of the user’s pattern, and this place has prior early-morning visits.",
+    "710": "As a nearby coffee option in the same area, it fits a possible post-stop caffeine routine after an early check-in.",
+    "1754": "This nearby coffee shop is a reasonable low-probability morning stop if the user is lingering before heading to a gym or work.",
+    "2549": "The user has shown occasional café chaining behavior, and this is another prior café stop in their broader movement history.",
+    "114": "Given the southwest movement trend and the Brooklyn/DUMBO setting, a transit move is possible if the user is en route to Manhattan."
+  },
+  "fallback": false
+}

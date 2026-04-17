@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_551",
+  "ranked_loc_ids": [
+    2150,
+    4298,
+    1719,
+    451,
+    402,
+    2967,
+    1702,
+    2067,
+    1175,
+    2966
+  ],
+  "explanations": {
+    "2150": "The user is just at EWR and likely transitioning out via rail toward Manhattan after the airport.",
+    "4298": "Airport movement often continues between terminals, and Terminal B is the closest forced nearby airport-terminal option.",
+    "1719": "Terminal A is another nearby airport-terminal possibility immediately after the last airport check-in.",
+    "451": "Terminal C is the nearest nearby airport-terminal option and fits ongoing airport movement.",
+    "402": "The user may still be at the airport during this minute-by-minute transition.",
+    "2967": "This is a signature weekday coffee stop and a likely first Manhattan destination after leaving the airport.",
+    "1702": "The user’s most frequent work destination is the natural next stop once back in Manhattan.",
+    "2067": "Another Chelsea-area Starbucks that fits the commuter coffee-before-work routine.",
+    "1175": "A nearby Chelsea/Flatiron Starbucks that aligns with the morning work corridor.",
+    "2966": "This Manhattan coffee stop is also consistent with the user’s repeated pre-office pattern."
+  },
+  "fallback": false
+}

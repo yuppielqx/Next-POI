@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_867",
+  "ranked_loc_ids": [
+    1346,
+    38,
+    1399,
+    2656,
+    271,
+    1088,
+    426,
+    116,
+    3799,
+    3806
+  ],
+  "explanations": {
+    "1346": "The user’s strongest pattern is repeated late-night returns to this airport terminal, and the 02:59 time prior fits an overnight JFK-area move.",
+    "38": "This is the last known location and a recurring anchor stop in the user’s JFK/Howard Beach routine.",
+    "1399": "The user frequently uses airport-linked transit nodes, making Jamaica Station a plausible connector on the way to JFK.",
+    "2656": "This major JFK access station fits the user’s transport-heavy movement style and airport corridor pattern.",
+    "271": "The overall behavioral profile is heavily airport-centered, so the broader airport complex remains highly likely.",
+    "1088": "Another JFK terminal with strong airport relevance, plausible for a late-night airport-related return.",
+    "426": "Terminal 4 is another airport-terminal destination that matches the user’s recurring JFK terminal visits.",
+    "116": "A frequent airport-access hub in the same corridor, consistent with transit-oriented movement.",
+    "3799": "The user has prior fast-food stops in the area, so a nearby practical stop is possible.",
+    "3806": "This nearby convenience/pharmacy stop aligns with the user’s stop-oriented pattern around South Ozone Park and Howard Beach."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_72",
+  "ranked_loc_ids": [
+    586,
+    137,
+    320,
+    597,
+    593,
+    557,
+    592,
+    595,
+    830,
+    1417
+  ],
+  "explanations": {
+    "586": "Herald Square best matches the user’s strong Sunday evening Midtown revisit pattern and the time-conditioned prior.",
+    "137": "Penn Station is a highly plausible Midtown transport anchor for a cross-city return after bridge travel.",
+    "320": "A broader Midtown stop fits the user’s frequent Manhattan evening activity and nearby destination cluster.",
+    "597": "The user has prior nightlife behavior, and a Sunday evening check-in could still land at a social destination in Manhattan.",
+    "593": "Secaucus Junction is a plausible transit-linked destination for a cross-Hudson movement pattern, though less likely than Midtown Manhattan.",
+    "557": "The user’s history includes tunnel-based cross-river travel, making another transit infrastructure stop possible.",
+    "592": "This suburban New Jersey location appears in the user’s history and fits their New Jersey footprint, but it is less aligned with the Sunday evening Manhattan prior.",
+    "595": "A casual food stop is consistent with similar users and the user’s occasional food visits, though the location is less central.",
+    "830": "Staying near the current bridge corridor is possible, but the strong south-east movement and time prior favor a farther destination.",
+    "1417": "A retail stop is behaviorally plausible, but it is weakly supported compared with the user’s Midtown-centered Sunday pattern."
+  },
+  "fallback": false
+}

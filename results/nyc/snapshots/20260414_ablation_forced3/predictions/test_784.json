@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_784",
+  "ranked_loc_ids": [
+    3642,
+    3641,
+    3646,
+    3643,
+    3644,
+    3645,
+    3393,
+    3647,
+    2902,
+    3802
+  ],
+  "explanations": {
+    "3642": "This is the strongest habitual midday anchor with the highest noon–2pm history and immediate proximity to the last known stop.",
+    "3641": "The user repeatedly returns here around lunchtime, and it is essentially tied with Location 3642 in their core routine.",
+    "3646": "A very close residential base is plausible next given the home-area pattern and short-distance movement between errands.",
+    "3643": "Frequent food-and-errand behavior makes a quick return to the nearby supermarket highly likely.",
+    "3644": "Another heavily visited Chinese restaurant in the same small cluster, matching the user’s lunch-oriented routine.",
+    "3645": "The nearby post office fits the short-range errand pattern, though it is visited less often than the main anchors.",
+    "3393": "The subway station is a plausible local transit touchpoint, especially with the recent movement trend.",
+    "3647": "This is a known occasional deviation in the broader area, but it is less consistent with the midday home routine.",
+    "2902": "A nearby food stop could appear, but the user has no prior history here.",
+    "3802": "Another nearby fast-food option, yet it lacks user history and is weaker than the established Chinese/market anchors."
+  },
+  "fallback": false
+}

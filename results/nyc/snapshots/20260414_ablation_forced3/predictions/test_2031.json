@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2031",
+  "ranked_loc_ids": [
+    626,
+    1151,
+    1355,
+    1746,
+    1504,
+    2270,
+    2244,
+    1831,
+    156,
+    3618
+  ],
+  "explanations": {
+    "626": "The user is already there, has strong repeat history here, and the next step after a late-morning movie block is most likely either another showing or a continued stay in the same theater complex.",
+    "1151": "It is immediately adjacent in the same Times Square cluster and fits a casual post-movie evening transition without changing areas.",
+    "1355": "Another next-door dining option in the same area, making it a plausible dinner stop after the AMC visit.",
+    "1746": "The user often shifts from daytime entertainment to evening performance venues, and this nearby theater matches that pattern.",
+    "1504": "A close Theater District venue that fits an evening arts outing while staying in Midtown.",
+    "2270": "This is a strong cultural follow-on in the same general neighborhood and aligns with the user’s theater-oriented profile.",
+    "2244": "A frequent-style evening arts destination for this user, with a strong Manhattan performance-venue match.",
+    "1831": "This venue fits the user’s pattern of evening performing arts outings, though it is slightly farther from the current location.",
+    "156": "A highly likely repeat destination from the user’s history, but less immediate than the Midtown options from the current starting point.",
+    "3618": "This remains a plausible film-oriented evening choice for a culturally driven user, though it is less consistent with staying in the current area."
+  },
+  "fallback": false
+}

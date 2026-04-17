@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2484",
+  "ranked_loc_ids": [
+    5280,
+    5058,
+    1182,
+    769,
+    5580,
+    67,
+    2885,
+    5314,
+    1296,
+    2297
+  ],
+  "explanations": {
+    "5280": "It is immediately adjacent to the last known location and fits a plausible evening switch to a gym or fitness stop after dinner.",
+    "5058": "Also next door and consistent with a Saturday evening entertainment move in the same Broadway corridor.",
+    "1182": "The user is already at this venue area and may simply remain there for a longer Saturday night meal.",
+    "769": "This is a strong habitual commute anchor, though the late evening timing makes a return trip less likely than nearby options.",
+    "5580": "A repeated personal anchor in the Union Square corridor, possible if the user transitions to a longer evening errand or browse.",
+    "67": "The user frequently visits this area and it matches their leisure pattern, though it is a longer jump than nearby Broadway options.",
+    "2885": "A recurring Union Square-area stop that fits the user’s intellectual/leisure routine.",
+    "5314": "Nearby Manhattan food choice that matches the evening dining pattern and similar-user behavior.",
+    "1296": "A reasonable transit continuation if the user is heading across downtown after dinner.",
+    "2297": "A nightlife option that fits the Saturday evening context, but it is less likely than nearby food or transit stops."
+  },
+  "fallback": false
+}

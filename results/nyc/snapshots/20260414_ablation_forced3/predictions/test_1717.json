@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1717",
+  "ranked_loc_ids": [
+    177,
+    2139,
+    3384,
+    282,
+    5122,
+    1126,
+    4274,
+    30,
+    1036,
+    3223
+  ],
+  "explanations": {
+    "177": "This best matches the user’s strong Saturday-night downtown social pattern and is one of the clearest prior nightlife destinations in the West Village corridor.",
+    "2139": "A top time-conditioned match for late-night rooftop nightlife, especially on Saturday evening in the downtown entertainment zone.",
+    "3384": "The user favors lounges and evening drinks, and this East Village lounge fits the expected post-daytime shift into nightlife.",
+    "282": "A strong fit for a late-night hotel/bar venue in the Meatpacking area, aligning with the user’s rooftop and nightlife tendencies.",
+    "5122": "This gastropub matches the user’s food-then-drinks pattern and sits squarely in the downtown social corridor.",
+    "1126": "A lounge-style downtown venue that fits the user’s evening-oriented, social dining behavior.",
+    "4274": "The user has a clear preference for Italian restaurants, making this a plausible Saturday-night dinner stop.",
+    "30": "Another Italian dining option in the user’s favored downtown area, consistent with their food-driven evening outings.",
+    "1036": "The user has visited music venues before, and this remains a plausible late-night entertainment destination.",
+    "3223": "A strong downtown burger-and-drinks option, but slightly less aligned than the bars and rooftops for a 22:47 Saturday visit."
+  },
+  "fallback": false
+}

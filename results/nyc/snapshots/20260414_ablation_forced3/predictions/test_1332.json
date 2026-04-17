@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1332",
+  "ranked_loc_ids": [
+    4683,
+    67,
+    57,
+    590,
+    329,
+    4521,
+    301,
+    716,
+    2213,
+    1687
+  ],
+  "explanations": {
+    "4683": "This is the dominant home base in the user’s history and the most likely short-radius return after an Equinox visit.",
+    "67": "The user repeatedly uses Union Square Park as a nearby leisure stop within their core neighborhood orbit.",
+    "57": "It is an immediate nearby food stop and the “forced nearby keep” makes it a plausible post-gym errand.",
+    "590": "A brief linger, re-check-in, or same-location continuation is highly plausible given the recent fitness pattern.",
+    "329": "Madison Square Park is very close and fits the user’s strong midday-to-afternoon outdoor routine around Flatiron/Union Square.",
+    "4521": "A nearby grocery stop matches the user’s errand-heavy neighborhood behavior after a workout.",
+    "301": "Another highly plausible Union Square-area errand destination for a Saturday afternoon.",
+    "716": "The user has repeated grocery behavior nearby, and this fits a practical post-gym northward move.",
+    "2213": "This nearby wellness venue matches the user’s fitness-centered routine and proximity to Equinox.",
+    "1687": "The northward movement and very close distance make this a possible incidental stop in the Madison Square area."
+  },
+  "fallback": false
+}

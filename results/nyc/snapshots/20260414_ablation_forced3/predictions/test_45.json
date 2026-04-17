@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_45",
+  "ranked_loc_ids": [
+    3878,
+    2407,
+    365,
+    388,
+    360,
+    374,
+    381,
+    368,
+    376,
+    367
+  ],
+  "explanations": {
+    "3878": "It is immediately adjacent to the last known spot and fits a Sunday afternoon food stop better than a nightlife venue.",
+    "2407": "It is also next door to the current location, and the user sometimes extends food outings into nearby drink spots.",
+    "365": "This is the user’s strongest recurring social venue, so a return remains plausible even though the time is earlier than their usual evening pattern.",
+    "388": "The user is already there, so a short dwell or near-immediate revisit is possible given the forced nearby keep behavior.",
+    "360": "A nearby frequent Italian restaurant in the same downtown corridor fits the southwest movement trend and an afternoon meal transition.",
+    "374": "It is a recurrent lower-Manhattan social spot and could follow a lunch-to-late-afternoon outing pattern.",
+    "381": "This nearby tea room matches a lighter Sunday afternoon stop after lunch.",
+    "368": "A casual nearby Thai restaurant is consistent with the user’s daytime dining behavior.",
+    "376": "The user sometimes pivots from dinner into drinks, making this cocktail bar a plausible later-afternoon continuation.",
+    "367": "A nearby breakfast/brunch spot is less likely this late, but still fits the user’s casual food-oriented movement."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_904",
+  "ranked_loc_ids": [
+    140,
+    1344,
+    1545,
+    618,
+    1531,
+    1536,
+    1248,
+    2014,
+    114,
+    1254
+  ],
+  "explanations": {
+    "140": "The user’s strongest evening pattern points to the Coney Island transit hub as the most likely next stop after Jamaica Center.",
+    "1344": "This Coney Island Beach & Boardwalk location has the highest history and strong Wednesday evening support, making it a very plausible continuation of the corridor.",
+    "1545": "A familiar evening transfer point with strong Wednesday and 6–8 p.m. presence, consistent with the user’s hub-to-hub movement.",
+    "618": "The user repeatedly visits this Brooklyn J/M/Z station in the evening, and it fits a southeast-bound subway transition.",
+    "1531": "A nearby J/M stop with solid evening frequency, making it a likely intermediate Brooklyn transfer.",
+    "1536": "This is another recurring Brooklyn transit hub in the user’s evening routine and fits the likely corridor.",
+    "1248": "The Williamsburg Bridge is a plausible bridge/transit linkage destination for a commuter moving through Brooklyn toward Manhattan or vice versa.",
+    "2014": "A major transfer hub that fits the user’s commuter-like pattern, though less specific than the Coney Island/J-M/Z cluster.",
+    "114": "This bridge station is a reasonable long-distance transit waypoint for a user who frequently traverses major subway connectors.",
+    "1254": "A Brooklyn N/R/D station that appears in similar-user evening paths and remains a plausible transit stop."
+  },
+  "fallback": false
+}

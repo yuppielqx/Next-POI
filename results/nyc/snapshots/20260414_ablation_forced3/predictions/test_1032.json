@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1032",
+  "ranked_loc_ids": [
+    138,
+    4219,
+    4220,
+    4222,
+    2871,
+    2870,
+    701,
+    5107,
+    2977,
+    555
+  ],
+  "explanations": {
+    "138": "This is the strongest match because it dominates the user’s morning commute pattern and is most likely the next stop at 7:38 a.m.",
+    "4219": "The user repeatedly checks in here alongside Location 138, making it the main alternate within the same routine corridor.",
+    "4220": "This nearby recurring food stop fits the user’s clustered Astoria routine and is close to the transit/playground pair.",
+    "4222": "A frequent local food anchor in the same neighborhood, though less tied to the early-morning commute than the top two.",
+    "2871": "This CVS/pharmacy is very close to the last known area and could be a quick errand stop during the morning movement.",
+    "2870": "A nearby grocery store in the user’s core area, plausible for routine neighborhood activity.",
+    "701": "The last known location could be revisited briefly, but the trajectory and history favor a transit return instead.",
+    "5107": "A nearby bakery search result that fits the user’s morning food pattern, though it has no prior visit history.",
+    "2977": "A grocery option consistent with the user’s practical routine, but it is farther and less directly tied to the commute cluster.",
+    "555": "The user has visited Manhattan coffee spots before, but this is a weaker fit than the local Brooklyn/Queens morning pattern."
+  },
+  "fallback": false
+}

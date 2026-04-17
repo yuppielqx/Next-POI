@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1081",
+  "ranked_loc_ids": [
+    548,
+    609,
+    814,
+    2704,
+    817,
+    988,
+    537,
+    2827,
+    2893,
+    1807
+  ],
+  "explanations": {
+    "548": "It is the last known location and the strongest return-to-last prediction only about an hour after the previous check-in.",
+    "609": "It is extremely close by and fits the same late-night nightlife corridor if the user makes a short nearby move.",
+    "814": "A nearby gay bar in the same nightlife cluster, matching the user’s late-evening entertainment pattern.",
+    "2704": "Another close nightlife venue that fits a continuation of the current nighttime outing.",
+    "817": "It is nearby in Midtown and could be a small lateral move within the same nightlife area.",
+    "988": "Very close to the last location and plausible as a quick nearby stop during a nightlife run.",
+    "537": "A nearby lounge that aligns with the user’s bar-oriented late-night behavior.",
+    "2827": "The user has prior Sunday visits here, making it a plausible late-night food stop.",
+    "2893": "A recurring casual food option in the same Midtown zone, though less likely this late.",
+    "1807": "A nearby diner that could serve as a late-night post-bar stop in the same corridor."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_21",
+  "ranked_loc_ids": [
+    201,
+    199,
+    207,
+    202,
+    198,
+    200,
+    30,
+    208,
+    213,
+    192
+  ],
+  "explanations": {
+    "201": "The user repeatedly returns to this Flatiron tech startup during midday work hours, making it the strongest next-step office return.",
+    "199": "Another frequent weekday office anchor in the Flatiron/NoMad work zone, consistent with an afternoon work-related stop.",
+    "207": "This nearby lunch food truck fits the user’s strong midday routine and Flatiron-area food pattern.",
+    "202": "A close Manhattan lunch spot that matches the user’s habitual daytime food-stop behavior around the office.",
+    "198": "A quick practical errand location near the work core, plausible for an afternoon break.",
+    "200": "A nearby coffee stop aligns well with the user’s midday-centered office-day rhythm.",
+    "30": "A frequented-style nearby restaurant option that fits a post-lunch or late lunch visit in the same area.",
+    "208": "A nearby bar that could fit the user’s occasional late-afternoon transition toward socializing.",
+    "213": "Another close-by bar consistent with a Friday afternoon shift from work toward drinks.",
+    "192": "A plausible nearby leisure destination if the user leaves the office area for a brief afternoon break."
+  },
+  "fallback": false
+}

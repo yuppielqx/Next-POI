@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_29",
+  "ranked_loc_ids": [
+    267,
+    266,
+    269,
+    52,
+    284,
+    281,
+    278,
+    268,
+    59,
+    146
+  ],
+  "explanations": {
+    "267": "This is the user’s strongest morning anchor with repeated 9–11 AM Tuesday visits, making a return here the most likely next stop.",
+    "266": "It is another frequent downtown routine stop in the same Greenwich Village/NYU corridor and fits the user’s anchor-based pattern.",
+    "269": "The user often stays within the NYU academic cluster, and this location matches their education-centered weekday routine.",
+    "52": "A Union Square coffee stop fits the user’s morning pattern and the downtown corridor they repeatedly use.",
+    "284": "This coffee shop matches the morning-time, routine-oriented behavior and is within the likely Greenwich Village/SoHo area.",
+    "281": "The user has a fitness tendency, and this downtown gym aligns with their recurring practical weekday mobility.",
+    "278": "The user has multiple visits to this burger joint, and meal stops are common in their midday-to-afternoon sequence.",
+    "268": "A gym visit is plausible given the user’s fitness pattern and occasional uptown excursions.",
+    "59": "It is immediately adjacent to the last location and could follow a short northbound movement from Red Lobster.",
+    "146": "This nearby Midtown stop is consistent with a modest continuation of movement from the current Times Square area."
+  },
+  "fallback": false
+}

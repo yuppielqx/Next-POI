@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1119",
+  "ranked_loc_ids": [
+    88,
+    1914,
+    557,
+    137,
+    5283,
+    2974,
+    4235,
+    4365,
+    4367,
+    1198
+  ],
+  "explanations": {
+    "88": "It is the user’s strongest recurring commute anchor and the target time is a classic evening return window.",
+    "1914": "It is inside Port Authority and fits a likely brief stop while waiting or transferring after arriving at the terminal.",
+    "557": "The user’s corridor is strongly transit-based, and this is the most plausible immediate movement out of Midtown toward New Jersey.",
+    "137": "This is another nearby transit node in the Manhattan commuter cluster and matches a continued transfer pattern.",
+    "5283": "A quick food stop near the bus terminal is plausible for an evening commuter before departure.",
+    "2974": "A convenience/pharmacy stop near Port Authority fits an errand-style pause during the commute.",
+    "4235": "It is extremely close to the current location and could be a fast incidental stop around the terminal area.",
+    "4365": "The user frequently returns here later in the day, making it a strong downstream destination after the Manhattan transit hub.",
+    "4367": "NJ Route 495 is part of the cross-Hudson commute route and fits the southbound return trend.",
+    "1198": "Similar users favor nearby transit stations, and this could be an intermediate transfer point on the way back to New Jersey."
+  },
+  "fallback": false
+}

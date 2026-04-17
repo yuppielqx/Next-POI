@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1375",
+  "ranked_loc_ids": [
+    4749,
+    4757,
+    4601,
+    4595,
+    4751,
+    4750,
+    4754,
+    4596,
+    3078,
+    5009
+  ],
+  "explanations": {
+    "4749": "The strongest signal is the immediate return-to-last-location pattern on a Monday midday errand slot, and it matches both the user’s recent grocery behavior and the strongest time-conditioned prior.",
+    "4757": "A nearby weekday errand stop that fits the midday routine pattern and is one of the user’s recurring supporting destinations.",
+    "4601": "This is a frequent noon-to-afternoon errand venue for the user and sits within the same local routine cluster as ShopRite.",
+    "4595": "The user has a strong morning food pattern, and a bagel shop is a plausible next stop if the Monday schedule includes a late breakfast or early lunch.",
+    "4751": "Although more common in the evening, it is one of the user’s strongest repeat venues and has some noon-to-2pm history.",
+    "4750": "A highly recurring local anchor that can appear in routine daytime movement, especially within the same tightly clustered area.",
+    "4754": "A gas station is consistent with the weekday errand profile and nearby local movement after shopping.",
+    "4596": "Similar-user behavior and the nearby search context make this a plausible local recreational stop, though it is less supported by the user’s own history.",
+    "3078": "The user has visited this kind of retail errand stop before, and it fits the midday practical-errand pattern.",
+    "5009": "A nearby casual stop that could follow errands, but it is less likely than the more established grocery and pharmacy options."
+  },
+  "fallback": false
+}

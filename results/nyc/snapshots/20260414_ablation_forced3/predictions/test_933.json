@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_933",
+  "ranked_loc_ids": [
+    3999,
+    376,
+    909,
+    3983,
+    3787,
+    4000,
+    2496,
+    4003,
+    3727,
+    2926
+  ],
+  "explanations": {
+    "3999": "This is the user’s strongest signature nightlife venue in Williamsburg and best matches their evening socializing pattern plus the return-to-frequent-place prior.",
+    "376": "It is the last known location and a cocktail bar, making a short immediate continuation or repeat highly plausible despite the neighborhood mismatch.",
+    "909": "A Williamsburg-area pub that fits the user’s bar-heavy late-evening routine and clustered North Brooklyn movement.",
+    "3983": "Another nearby Williamsburg bar that matches the user’s frequent nightlife pattern and same-area social circuit.",
+    "3787": "This Brooklyn bar aligns with the user’s bar-first behavior and is close enough to fit a neighborhood bar hop.",
+    "4000": "A Williamsburg lounge that fits the user’s lounge/cocktail preferences and local clustering.",
+    "2496": "The user repeatedly checks in here, so an evening return remains possible as part of their neighborhood routine.",
+    "4003": "A Williamsburg-adjacent seafood and cocktail spot that matches their social dining and drinking habits.",
+    "3727": "This cocktail bar fits the user’s late-night profile, though it is slightly less aligned than the Williamsburg core options.",
+    "2926": "A Manhattan cocktail bar that is plausible given their occasional downtown nightlife branching, but it is less likely than Brooklyn options."
+  },
+  "fallback": false
+}

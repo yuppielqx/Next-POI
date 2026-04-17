@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_369",
+  "ranked_loc_ids": [
+    2226,
+    1393,
+    3184,
+    2223,
+    2227,
+    2225,
+    4719,
+    158,
+    5539,
+    3952
+  ],
+  "explanations": {
+    "2226": "It is the closest shopping continuation from Target and fits the user’s East Harlem retail cluster.",
+    "1393": "A same-location repeat is very plausible given the zero distance and the user’s short errand pattern.",
+    "3184": "It is immediately adjacent to Target/East River Plaza, making it the most natural nearby retail next stop.",
+    "2223": "The user has repeated residential anchors nearby, and this is a likely return destination after shopping.",
+    "2227": "A nearby park visit matches the user’s occasional transitional movements and short local trips.",
+    "2225": "A nearby dining stop is plausible in the evening after a shopping trip in East Harlem.",
+    "4719": "The user’s profile includes pharmacy errands, and this is a familiar practical stop within the same corridor.",
+    "158": "A local coffee stop fits the user’s routine-oriented behavior and neighborhood-based movement.",
+    "5539": "Another practical grocery/errand destination in the same general area could follow the Target visit.",
+    "3952": "If the user is transitioning home, a nearby subway station is a plausible next movement."
+  },
+  "fallback": false
+}

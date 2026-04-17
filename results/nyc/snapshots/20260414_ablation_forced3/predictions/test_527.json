@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_527",
+  "ranked_loc_ids": [
+    2872,
+    2879,
+    1742,
+    2873,
+    2878,
+    2875,
+    113,
+    300,
+    1590,
+    2876
+  ],
+  "explanations": {
+    "2872": "It is the exact last known location at 12:49, so an immediate repeat or nearby continuation is the strongest possibility.",
+    "2879": "It is extremely close to the last check-in in Brooklyn Heights and fits the user’s noon coffee-and-bakery routine.",
+    "1742": "The user is already in this neighborhood and nearby movement often stays within the same local area.",
+    "2873": "This is a frequent Brooklyn anchor for the user and is only a short distance away.",
+    "2878": "A nearby Brooklyn bakery that matches the user’s midday food pattern and Saturday behavior.",
+    "2875": "A major repeat Brooklyn destination in the user’s history, though less immediate than the nearby food spots.",
+    "113": "A nearby subway hub that fits a short south-westward transition within Brooklyn.",
+    "300": "A plausible Brooklyn errand stop, but less consistent with the strong coffee/lunch routine.",
+    "1590": "This is a heavily used coffee shop for the user, but it would require a larger jump to Midtown.",
+    "2876": "Another common midday lunch stop in the user’s history, though also farther from the current Brooklyn position."
+  },
+  "fallback": false
+}

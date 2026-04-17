@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_145",
+  "ranked_loc_ids": [
+    1144,
+    1199,
+    104,
+    1154,
+    732,
+    108,
+    443,
+    1147,
+    1157,
+    1062
+  ],
+  "explanations": {
+    "1144": "The user has a strong late-morning routine centered on this anchor, and the 10:04 Sunday time prior strongly favors a return visit.",
+    "1199": "A nearby transit node fits the commuter-like routine and is a plausible stop after the last Jersey City entertainment venue.",
+    "104": "It is extremely close to the last location and matches the Hudson County corridor the user repeatedly frequents.",
+    "1154": "Journal Square PATH Station fits the user’s transit-heavy pattern and the southwest movement trend from Jersey City.",
+    "732": "The user has a clear dining history here, and a morning food stop is plausible given similar-user breakfast behavior.",
+    "108": "Hoboken PATH Station matches the user’s commute-oriented mobility and is near their usual Hoboken/Jersey City cluster.",
+    "443": "The user has visited Union City multiple times, so it remains a reasonable though less likely corridor match.",
+    "1147": "This is a recurring nightlife venue for the user, but the morning timing makes it less likely than transit or anchor locations.",
+    "1157": "Another Hoboken nightlife spot in the user’s pattern, though it is better aligned with evening than 10:04.",
+    "1062": "The user prefers casual dining, and this diner is a plausible breakfast-style alternative if the habitual anchor is skipped."
+  },
+  "fallback": false
+}

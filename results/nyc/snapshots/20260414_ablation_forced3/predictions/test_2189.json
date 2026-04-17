@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2189",
+  "ranked_loc_ids": [
+    5058,
+    2602,
+    5520,
+    2043,
+    28,
+    481,
+    558,
+    78,
+    67,
+    3025
+  ],
+  "explanations": {
+    "5058": "The strong Saturday-afternoon temporal prior and the user’s most frequent daytime anchor both point to a return to this Upper West Side theater.",
+    "2602": "A recurring café stop near the theater district fits a daytime reset before evening activities.",
+    "5520": "It matches the user’s theater/comedy pattern and has multiple Saturday visits, making it a plausible Manhattan arts stop.",
+    "2043": "Another recurring Saturday-friendly theater/nightlife-adjacent Midtown venue that fits the user’s entertainment-oriented routine.",
+    "28": "Saturday afternoon is a natural movie-theater time, and it sits close to the user’s Upper West Side anchor.",
+    "481": "A performing arts venue consistent with the user’s arts-heavy daytime behavior, though less central than the main anchor.",
+    "558": "A plausible Midtown daytime destination for wandering between theater and shopping areas.",
+    "78": "A common Saturday afternoon food/shopping stop, though less aligned with the user’s core theater pattern.",
+    "67": "A daytime destination that can fit a transitional afternoon outing, but it is less matched to the user’s arts routine.",
+    "3025": "The user’s nightlife history makes this possible, but the Saturday 15:30 timing strongly disfavors a bar/nightclub stop."
+  },
+  "fallback": false
+}

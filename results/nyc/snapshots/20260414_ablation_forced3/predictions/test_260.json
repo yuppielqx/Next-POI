@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_260",
+  "ranked_loc_ids": [
+    1734,
+    1733,
+    1745,
+    530,
+    1732,
+    1383,
+    1744,
+    1747,
+    1735,
+    1738
+  ],
+  "explanations": {
+    "1734": "This is the strongest morning Upper West Side repeat spot in the user’s history and best fits the 11:23 Monday reset toward outdoor routines.",
+    "1733": "A frequent nearby morning outdoor destination that matches the user’s scenic park/monument preference around late morning.",
+    "1745": "The user has many early-day visits here and it fits the dog-walk style of the Upper West Side morning pattern.",
+    "530": "A nearby outdoor anchor on the Upper West Side that aligns with the user’s habitual scenic routes and Monday morning behavior.",
+    "1732": "This Upper West Side scenic outdoor spot has strong late-morning history and fits a return-to-park pattern.",
+    "1383": "It is a plausible late-morning Upper West Side stop for an active weekday outing, though less central than the main outdoor anchors.",
+    "1744": "Similar-user behavior and the morning time slot make a quick food stop plausible on the way to another UWS destination.",
+    "1747": "A dog-run-type venue on the Upper West Side that matches the user’s outdoor/recreation habits, though with fewer historical visits.",
+    "1735": "The user often pairs New World Stages with dessert stops, so a nearby Midtown food visit remains possible despite the morning time prior.",
+    "1738": "A familiar Midtown food anchor in the user’s theater cluster, but it is less likely than the Upper West Side morning return."
+  },
+  "fallback": false
+}

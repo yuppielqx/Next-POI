@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_727",
+  "ranked_loc_ids": [
+    3509,
+    3525,
+    3514,
+    786,
+    3517,
+    3262,
+    1522,
+    3521,
+    3515,
+    3511
+  ],
+  "explanations": {
+    "3509": "This is the user’s strongest anchor with the highest visit count and a very strong Wednesday evening pattern, and it fits a routine return from Father Fagan Park.",
+    "3525": "It is extremely close to the last location, strongly represented in the evening time slot, and matches the user’s repeated downtown dining chain.",
+    "3514": "This nearby repeated downtown node has substantial Wednesday and evening history and is a common transition point from the Spring St cluster.",
+    "786": "The user is already there and has repeated midday use of this park, though the evening prior makes a move away slightly more likely.",
+    "3517": "This is a very close nearby deli/bodega-style stop that fits the user’s short neighborhood errand patterns.",
+    "3262": "A nearby Spring St pharmacy aligns with the user’s tight downtown mobility and could be a quick routine stop.",
+    "1522": "Similar users at this hour often transition to a transit hub, and this station is a plausible evening connector within the user’s familiar area.",
+    "3521": "The user frequently visits this bakery in the evening, making it a strong food-stop option despite being farther away.",
+    "3515": "This is another repeated evening food destination that fits the user’s post-work routine, though it is slightly less likely than Settepani.",
+    "3511": "The user has strong history here as a transit anchor, but the distance from the current downtown stop makes it less likely than the immediate nearby options."
+  },
+  "fallback": false
+}

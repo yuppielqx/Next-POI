@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_39",
+  "ranked_loc_ids": [
+    329,
+    331,
+    348,
+    244,
+    352,
+    338,
+    207,
+    353,
+    336,
+    878
+  ],
+  "explanations": {
+    "329": "The user’s strongest anchor is the dominant morning destination, and the 07:16 Saturday time slot heavily favors this repeatedly visited outdoor spot.",
+    "331": "The user just came from here and has a morning coffee routine in the same tiny radius, making a quick return plausible.",
+    "348": "This is a frequent nearby coffee stop in the user’s Flatiron circuit and fits the early-morning pattern well.",
+    "244": "The user has repeated visits in the same cluster, and it is a common nearby stop within the Madison Square loop.",
+    "352": "This bakery is very close and has strong 6–8 a.m. alignment, matching the user’s early-day neighborhood routine.",
+    "338": "Another nearby food stop in the same core area that appears in the user’s habitual Flatiron pattern.",
+    "207": "This is extremely close to the anchor and fits the user’s tendency to move among nearby food-oriented locations.",
+    "353": "A nearby coffee shop that matches the user’s convenience-oriented morning behavior despite fewer historical visits.",
+    "336": "A breakfast spot that aligns with the target morning time and remains within the broader routine radius.",
+    "878": "It is an immediate nearby keep within the same core area, but with no prior visit history it is less likely than the user’s established anchors."
+  },
+  "fallback": false
+}

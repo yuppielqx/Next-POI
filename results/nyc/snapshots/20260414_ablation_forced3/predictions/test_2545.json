@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2545",
+  "ranked_loc_ids": [
+    1092,
+    137,
+    59,
+    631,
+    626,
+    1069,
+    3256,
+    1151,
+    270,
+    3261
+  ],
+  "explanations": {
+    "1092": "It is the closest plausible evening destination from Penn Station with strong transition evidence and fits a Friday after-work movement pattern.",
+    "137": "The user is already at Penn Station and this exact location has the strongest historical transition count, making a short stay or return highly likely.",
+    "59": "Friday evening habits and the southwest movement trend favor a quick trip toward the user’s frequent Theater District cluster.",
+    "631": "The user often goes to movie theaters in the evening, and this is one of their repeated Friday entertainment anchors nearby.",
+    "626": "Another highly consistent evening movie destination in the user’s Midtown pattern, especially around the target time.",
+    "1069": "The user often pairs evening entertainment with nearby bars or casual dining in Times Square, making this a strong post-commute stop.",
+    "3256": "This Times Square-area restaurant matches the user’s recurring 6–8pm dining pattern and proximity to their evening cluster.",
+    "1151": "A frequent entertainment venue in the same Midtown west corridor, consistent with the user’s leisure-oriented evening behavior.",
+    "270": "This nearby Times Square restaurant is plausible for a Friday evening meal, though less central than the user’s top venues.",
+    "3261": "A nearby casual dining option in Midtown that fits the user’s post-work meal pattern but is slightly less favored than the main entertainment spots."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2249",
+  "ranked_loc_ids": [
+    2638,
+    5564,
+    1161,
+    5561,
+    4375,
+    5562,
+    5019,
+    5563,
+    3288,
+    5435
+  ],
+  "explanations": {
+    "2638": "Strongest home-area anchor, same-location return from the last known stop, and the best match for a Friday afternoon revisit.",
+    "5564": "Very frequent weekday destination in the user’s campus routine and a common afternoon stop.",
+    "1161": "A major recurring corridor anchor with many Friday visits and strong commuter-pattern support.",
+    "5561": "Central to the user’s weekday schedule and likely if they are resuming the campus routine.",
+    "4375": "Repeatedly appears in the morning campus sequence and remains a plausible nearby afternoon hop.",
+    "5562": "Fits the user’s intermittent midday/afternoon campus exercise pattern.",
+    "5019": "A nearby Bergenfield errand location with some Friday and afternoon support.",
+    "5563": "Another campus-adjacent destination consistent with the user’s localized FDU pattern.",
+    "3288": "Seen recently in the trip history and plausible as another nearby food-related stop.",
+    "5435": "A local Bergenfield fast-food option that fits short, routine neighborhood movements."
+  },
+  "fallback": false
+}

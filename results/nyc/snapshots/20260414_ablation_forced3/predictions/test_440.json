@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_440",
+  "ranked_loc_ids": [
+    2098,
+    2301,
+    282,
+    2439,
+    2577,
+    2139,
+    1081,
+    1527,
+    1336,
+    2583
+  ],
+  "explanations": {
+    "2098": "It is the closest nightlife option and fits a late-night continuation in the Chelsea/West Village corridor after 1 Oak.",
+    "2301": "Very close to 1 Oak and strongly matches the user’s frequent late-night pizza-after-club pattern.",
+    "282": "A nearby nightlife venue that aligns with the user’s nightlife-heavy profile and the Meatpacking/Chelsea area.",
+    "2439": "A close wine bar in the same corridor, fitting an after-hours drink stop.",
+    "2577": "A classic nearby gay bar that matches the user’s repeated downtown nightlife behavior.",
+    "2139": "Another very nearby nightlife-adjacent venue that fits a post-club move in Meatpacking.",
+    "1081": "The Meatpacking District is a natural immediate-area continuation from 1 Oak at this hour.",
+    "1527": "Slightly farther but still consistent with the user’s downtown bar circuit and gay nightlife history.",
+    "1336": "A plausible late-night food stop in the neighborhood after club hours.",
+    "2583": "A nearby art gallery stop is less likely at 1:48 a.m. but still within the user’s mixed nightlife-and-culture pattern."
+  },
+  "fallback": false
+}

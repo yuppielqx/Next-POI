@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_128",
+  "ranked_loc_ids": [
+    953,
+    137,
+    962,
+    415,
+    666,
+    615,
+    78,
+    67,
+    949,
+    955
+  ],
+  "explanations": {
+    "953": "Late Wednesday night strongly favors a return to the user’s main Chelsea home base, and this is their clearest repeated anchor.",
+    "137": "This is the other strongest recurring late-evening anchor near FIT, with Wednesday and 9–11pm support matching the target time.",
+    "962": "A frequent nearby evening food stop in the FIT/Penn Station cluster, making it a very plausible post-café destination.",
+    "415": "It is immediately adjacent to the last known café stop and fits a short same-area transition, even though it is less behaviorally anchored.",
+    "666": "The user often gravitates to casual food at night, and this Koreatown option is close enough to fit a north-east drift.",
+    "615": "This nearby Greeley Square area is in the same Midtown South corridor and could match a brief errand or meetup.",
+    "78": "The user’s Chelsea-centered pattern and preference for casual stops make this a reasonable nearby destination.",
+    "67": "The user has a history of outdoor/social stops in the downtown core, and Union Square remains within their typical range.",
+    "949": "A repeated café pattern makes another coffee-related stop plausible, though the late-hour timing is less ideal.",
+    "955": "This is a nearby social lounge option in Midtown, but it is less consistent with the user’s stronger home-base return pattern."
+  },
+  "fallback": false
+}

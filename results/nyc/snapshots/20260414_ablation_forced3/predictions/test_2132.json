@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2132",
+  "ranked_loc_ids": [
+    1918,
+    445,
+    3286,
+    4658,
+    1727,
+    1726,
+    446,
+    447,
+    1716,
+    614
+  ],
+  "explanations": {
+    "1918": "It is the strongest historical dining anchor near the user’s current Garden State Plaza stop and fits the late-evening leisure pattern.",
+    "445": "The user is already there, and short continuation within the mall is very likely before moving elsewhere.",
+    "3286": "Saturday night mall behavior often shifts from shopping to a movie, and this is a highly plausible nearby transition.",
+    "4658": "The user has repeated mall-retail transitions, and this is a close in-mall stop with strong nearby relevance.",
+    "1727": "A nearby casual stop fits a mall-based evening chain and is close enough to follow the current location.",
+    "1726": "Another nearby Garden State Plaza retail option that matches the user’s shopping-oriented pattern.",
+    "446": "The user frequently chains department-store visits within the same mall complex.",
+    "447": "Late Saturday evenings can shift from shopping to dining/drinks, and this nearby nightlife spot matches that progression.",
+    "1716": "A casual dinner-and-drinks option near the mall fits the user’s leisure-oriented evening routine.",
+    "614": "While farther away, it aligns with the user’s known preference for chain dining after shopping and nightlife."
+  },
+  "fallback": false
+}

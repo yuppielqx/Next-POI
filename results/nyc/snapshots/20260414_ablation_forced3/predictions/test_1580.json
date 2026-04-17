@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1580",
+  "ranked_loc_ids": [
+    2320,
+    3224,
+    1092,
+    503,
+    3548,
+    1138,
+    2971,
+    1136,
+    499,
+    1945
+  ],
+  "explanations": {
+    "2320": "The strongest prior is a return-to-last-location at the exact timestamp, and this matches the user’s current West Side clustering.",
+    "3224": "After a late-night West Side outing, an early-morning bagel stop is highly plausible and this is the closest food option.",
+    "1092": "Similar users around 7 a.m. often shift to transit or nearby major venues, and it is a nearby anchor in the same corridor.",
+    "503": "The user has repeat history here and favors revisits to known Manhattan dining spots, especially after nightlife.",
+    "3548": "The user has a documented early-morning bagel pattern, making a breakfast stop plausible despite the greater distance.",
+    "1138": "Indian food is one of the user’s strongest categories, and this is a nearby Manhattan option consistent with their crawl behavior.",
+    "2971": "Another strong Indian-restaurant match that fits the user’s exploratory dining profile and Manhattan travel radius.",
+    "1136": "The user repeatedly favors Indian restaurants in Midtown, and this is a recognizable, nearby breakfast-capable option.",
+    "499": "Although slightly farther, it fits the user’s signature Indian-food hopping style and social late-night pattern.",
+    "1945": "Theater/entertainment venues fit the user’s nightlife-oriented movement, though the morning timing makes it less likely."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1089",
+  "ranked_loc_ids": [
+    4317,
+    3282,
+    137,
+    4318,
+    88,
+    593,
+    557,
+    2620,
+    4319,
+    730
+  ],
+  "explanations": {
+    "4317": "Repeated Saturday midday visits and the strong campus-centric pattern make this the single best match for a return to Montclair State.",
+    "3282": "The broader university location is highly consistent with the user’s recurring Saturday midday academic routine.",
+    "137": "A Midtown transit anchor fits the commuter pattern and the noon-time Manhattan movement seen in their history.",
+    "4318": "This Midtown office location matches the user’s weekday-style daytime Manhattan stop pattern.",
+    "88": "A major commuter hub is plausible given the user’s transit-heavy cross-Hudson travel behavior.",
+    "593": "Secaucus Junction aligns with the user’s frequent rail-and-transfer mobility between New Jersey and New York.",
+    "557": "The recent northwestern movement and commuter orientation make this crossing point a reasonable next step.",
+    "2620": "The user repeatedly returns to CVS in Fair Lawn, suggesting a possible errand stop back in Bergen County.",
+    "4319": "A Bergen County rail stop fits the user’s suburban home-base and transit-linked routines.",
+    "730": "Though less likely at this afternoon hour, it remains within the user’s known Hoboken social pattern."
+  },
+  "fallback": false
+}

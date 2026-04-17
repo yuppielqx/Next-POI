@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_95",
+  "ranked_loc_ids": [
+    737,
+    104,
+    742,
+    102,
+    88,
+    749,
+    108,
+    1147,
+    732,
+    730
+  ],
+  "explanations": {
+    "737": "Sunday early afternoon strongly matches the user’s recurring gym routine in Newport/Jersey City, and it is the clearest return-to-frequent-place option.",
+    "104": "Also fits the Newport/Jersey City afternoon pattern and is a plausible nearby errand/shopping stop after the last Hoboken-area location.",
+    "742": "A nearby Jersey City coffee stop aligns with the user’s afternoon-oriented behavior and local movement.",
+    "102": "This is another close Newport/Jersey City errand destination that matches a midday weekend outing.",
+    "88": "The user regularly uses major transit hubs, and a Manhattan transfer remains plausible despite the stronger Jersey City signal.",
+    "749": "It is exactly the last known location, so a short continuation there is possible even though it is less consistent with the Sunday gym prior.",
+    "108": "The Hoboken PATH Station is adjacent to the current area and fits a brief transit-oriented move before heading elsewhere.",
+    "1147": "Close by and consistent with the user’s occasional nightlife pattern, though the afternoon timing makes it less likely.",
+    "732": "A nearby Hoboken dining option that could fit a casual weekend lunch if the user stays local.",
+    "730": "The user has visited bars in Hoboken before, but the afternoon Sunday context makes this a weaker match than routine daytime destinations."
+  },
+  "fallback": false
+}

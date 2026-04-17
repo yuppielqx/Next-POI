@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1021",
+  "ranked_loc_ids": [
+    58,
+    4700,
+    3953,
+    4323,
+    5741,
+    1489,
+    3240,
+    1488,
+    4200,
+    559
+  ],
+  "explanations": {
+    "58": "This is the user’s dominant Midtown anchor, last seen this morning, and the strongest match for a routine evening return.",
+    "4700": "Their profile shows recurring gym usage in Midtown, and the evening time slot makes an after-work workout very plausible.",
+    "3953": "It is extremely close to the last location and fits a commuter-style quick stop within Grand Central.",
+    "4323": "A nearby coffee stop is consistent with the user’s Midtown routine and prior coffee behavior.",
+    "5741": "This nearby train platform location matches the Grand Central commuter context and could be part of a routine transfer.",
+    "1489": "A nearby coworking/work-related destination in the same area fits a continued Midtown workday pattern.",
+    "3240": "A close-by dining option in Grand Central is plausible for an early evening meal after work.",
+    "1488": "Another nearby café near the user’s core anchor, fitting a quick evening coffee visit.",
+    "4200": "This Midtown deli option aligns with the user’s occasional food stop pattern while staying in the same area.",
+    "559": "A nearby restaurant in Midtown is a reasonable but less likely dinner stop compared with the more habitual anchor locations."
+  },
+  "fallback": false
+}

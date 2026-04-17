@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1316",
+  "ranked_loc_ids": [
+    4717,
+    338,
+    1514,
+    1702,
+    4549,
+    4478,
+    332,
+    154,
+    3056,
+    47
+  ],
+  "explanations": {
+    "4717": "Right next to the last known spot in the Flatiron area, making it the most natural immediate afternoon follow-on.",
+    "338": "The user was just there recently and it matches their food-and-shopping pattern for a Saturday afternoon.",
+    "1514": "The movement trend suggests they may simply stay in the same immediate area for another stop.",
+    "1702": "It is co-located at the same address cluster and is an easy nearby continuation of the current trip.",
+    "4549": "A very close nearby service stop fits a practical errand chain in this part of Manhattan.",
+    "4478": "A casual food venue in nearby Soho/NoHo aligns with the user’s food-oriented outing style.",
+    "332": "A known past daytime destination and a strong Saturday-afternoon match for shopping and browsing.",
+    "154": "Nearby home-store shopping fits the user's mixed errand and leisure behavior.",
+    "3056": "Another close retail stop that matches their pattern of browsing home and lifestyle stores.",
+    "47": "A broader shopping destination in Midtown that remains plausible for an afternoon urban outing."
+  },
+  "fallback": false
+}

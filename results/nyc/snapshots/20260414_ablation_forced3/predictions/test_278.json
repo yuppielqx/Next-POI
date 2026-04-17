@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_278",
+  "ranked_loc_ids": [
+    1867,
+    353,
+    1104,
+    301,
+    3673,
+    2228,
+    1646,
+    154,
+    1871,
+    74
+  ],
+  "explanations": {
+    "1867": "The user’s strongest habit is a 6–7 AM yoga visit in Union Square, and the last known location plus time slot both strongly favor a repeat.",
+    "353": "A nearby morning coffee stop fits the user’s lower-Manhattan routine as a plausible post-yoga follow-up.",
+    "1104": "This breakfast spot aligns well with an early Thursday morning pattern after a workout.",
+    "301": "A quick nearby food stop is consistent with the user staying in the Union Square area after yoga.",
+    "3673": "A very close morning coffee option that matches the likely post-exercise routine.",
+    "2228": "Being adjacent to the last location, it is a nearby but less likely morning food stop.",
+    "1646": "A nearby errand destination that could follow an early routine in Union Square.",
+    "154": "The user has prior activity in nearby downtown shopping areas, making this a possible daytime errand.",
+    "1871": "It fits the user’s downtown pattern, but the distance and morning timing make it less likely.",
+    "74": "The user has visited Midtown cultural spots before, though it is less consistent with the strong early-morning Union Square routine."
+  },
+  "fallback": false
+}

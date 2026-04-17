@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_833",
+  "ranked_loc_ids": [
+    3719,
+    3720,
+    116,
+    1661,
+    137,
+    3723,
+    2599,
+    110,
+    3725,
+    3416
+  ],
+  "explanations": {
+    "3719": "The early Wednesday morning time and strong commute pattern make this the most likely reset point before the ride into Midtown.",
+    "3720": "This is the user’s primary office destination and a very common weekday endpoint, though it usually follows the commute rather than starts it.",
+    "116": "A plausible intermediate transit stop on the usual Queens-to-Manhattan commute, especially in the 6–8 AM window.",
+    "1661": "Another LIRR station with strong early-morning history that fits the user’s commute corridor.",
+    "137": "New York Penn Station is a major commuter hub and a reasonable Midtown transit-related stop near the user’s routine route.",
+    "3723": "A nearby weekday food stop in Midtown that matches the user’s pattern of quick morning or lunch visits around work.",
+    "2599": "A likely nearby coffee stop in the office area for a commuter starting the morning.",
+    "110": "This station is close to the user’s Midtown cluster and fits a transit-oriented morning movement.",
+    "3725": "The user has visited this gym before and it is directly adjacent to the last known location.",
+    "3416": "A nearby deli/bodega that fits a short weekday stop in the same Midtown work corridor."
+  },
+  "fallback": false
+}

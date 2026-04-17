@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_613",
+  "ranked_loc_ids": [
+    3107,
+    3178,
+    3177,
+    1389,
+    3188,
+    64,
+    3180,
+    2241,
+    166,
+    3196
+  ],
+  "explanations": {
+    "3107": "The user is already there at 20:58 and the target time is only four minutes later, making an immediate stay or return the strongest outcome.",
+    "3178": "This is the closest high-frequency errand stop next to Food Emporium and fits the user’s bundled grocery/pharmacy pattern.",
+    "3177": "The Sin Bin is an adjacent known stop in the same East 59th/1st Ave corridor and could easily follow a late-evening errand.",
+    "1389": "The Roosevelt Island Tram station is very near the last location and matches a short movement east/southeast from the grocery stop.",
+    "3188": "Townhouse Bar is a nearby gay bar that fits the user’s occasional evening social pattern without requiring a major trip.",
+    "64": "This is another close Midtown East option in the same neighborhood cluster and could be reached on a brief south-east drift.",
+    "3180": "The gym is a core anchor in the user’s routine, but the immediate post-grocery timing makes it less likely than nearby stops.",
+    "2241": "A short eastward food stop near 60th Street fits the user’s compact Midtown movement style.",
+    "166": "This nearby café is plausible for a quick evening stop in the Midtown East corridor.",
+    "3196": "The user does visit this bar, but its much farther west location makes it a weaker fit than nearby East Side destinations."
+  },
+  "fallback": false
+}

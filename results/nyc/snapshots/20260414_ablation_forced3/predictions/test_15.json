@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_15",
+  "ranked_loc_ids": [
+    59,
+    88,
+    137,
+    110,
+    955,
+    3378,
+    119,
+    114,
+    120,
+    130
+  ],
+  "explanations": {
+    "59": "It is the closest major transit-adjacent hub to the bookstore stop and strongly fits the late-night Midtown corridor pattern.",
+    "88": "A nearby transportation hub that matches the user’s transit-heavy behavior and the strong nighttime prior.",
+    "137": "Penn Station is a natural Midtown transfer point and is very close to the current location.",
+    "110": "This nearby subway station fits a quick return to transit after the bookstore visit.",
+    "955": "It is immediately adjacent but is less likely than transit locations given the user’s mobility profile.",
+    "3378": "Very close to the last known point, but a food stop is less consistent with the user’s transit-oriented pattern.",
+    "119": "Another nearby Midtown venue, though a restaurant stop is less probable than a station or terminal.",
+    "114": "This is a frequent historical node for the user, but it is farther and opposite the current north-east trend.",
+    "120": "A strong user-history location, but it is too far from Midtown to be the immediate next stop.",
+    "130": "A recurring late-night subway station in the user’s history, though less aligned with the current Midtown context."
+  },
+  "fallback": false
+}

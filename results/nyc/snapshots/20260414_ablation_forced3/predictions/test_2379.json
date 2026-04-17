@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2379",
+  "ranked_loc_ids": [
+    157,
+    3299,
+    2035,
+    3730,
+    2675,
+    3074,
+    2357,
+    2439,
+    192,
+    2924
+  ],
+  "explanations": {
+    "157": "The user was just there, it matches the strong late-night downtown cluster, and the target time is only 21 minutes later so an immediate continuation or return is most likely.",
+    "3299": "This is the user’s strongest recurring late-night anchor and remains the best return-to-frequent-place candidate in the same neighborhood.",
+    "2035": "A very close nightlife spot in the user’s core West Village circuit that fits a short post-dinner drink continuation.",
+    "3730": "Another highly compatible West Village Italian stop that matches the user’s dinner-plus-drinks pattern and is close to the current location.",
+    "2675": "A nearby nightlife venue that fits the user’s late-night socializing style and short-hop movement pattern.",
+    "3074": "A nearby pub option in the same downtown nightlife cluster, consistent with lingering in the area after midnight.",
+    "2357": "A close wine bar that suits the user’s evening drinking behavior and compact movement footprint.",
+    "2439": "Another nearby wine bar in the same nightlife-heavy corridor, plausible for a late-night stop.",
+    "192": "The user has visited this park before and it remains within the same local downtown cluster, though it is less likely this late at night than a bar.",
+    "2924": "A repeat-visit dining option in the broader Greenwich Village/SoHo area, but less aligned with the immediate post-01:06 nightlife trajectory."
+  },
+  "fallback": false
+}

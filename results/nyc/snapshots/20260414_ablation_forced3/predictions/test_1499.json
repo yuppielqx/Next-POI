@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1499",
+  "ranked_loc_ids": [
+    4887,
+    4886,
+    2150,
+    402,
+    4298,
+    451,
+    1719,
+    2754,
+    1165
+  ],
+  "explanations": {
+    "4887": "The user’s strongest routine is the paired airport cluster, and this nearby lot is heavily visited with many morning and Saturday check-ins.",
+    "4886": "It is the user’s single most common location and remains the core destination in their Newark airport work pattern.",
+    "2150": "A practical transit link to the airport area, it fits a routine morning return even though it has no prior visits.",
+    "402": "The user consistently operates within the Newark airport complex, making the broader airport hub a plausible next stop.",
+    "4298": "Terminal B is a nearby airport terminal that fits the same transportation-focused movement cluster.",
+    "451": "Terminal C is another airport terminal option within the same Newark Liberty complex and aligns with the user’s utilitarian travel pattern.",
+    "1719": "Terminal A is also within Newark Airport and is plausible given the user’s narrow airport-centered mobility.",
+    "2754": "This nearby road is a reasonable transit-related movement point for someone commuting through the airport area.",
+    "1165": "The Wyndham Garden hotel is nearby and could be a brief support stop in the airport zone, though it is less consistent with the user’s routine."
+  },
+  "fallback": false
+}

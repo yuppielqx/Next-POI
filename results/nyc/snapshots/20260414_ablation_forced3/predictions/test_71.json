@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_71",
+  "ranked_loc_ids": [
+    180,
+    508,
+    248,
+    536,
+    561,
+    551,
+    563,
+    578,
+    558,
+    181
+  ],
+  "explanations": {
+    "180": "The user has a strong evening fitness pattern with multiple 6–8 p.m. visits, and Wednesday evening is one of its best-supported time slots.",
+    "508": "This is a highly frequent Upper West Side home-base location and a plausible return after the afternoon gap.",
+    "248": "The user repeatedly chains park-related stops, and it remains very close to the last known Central Park position.",
+    "536": "A common evening food stop for this user, fitting the post-work dinner/errand pattern in the home area.",
+    "561": "Grocery/errand behavior in the Upper West Side makes this a realistic evening destination.",
+    "551": "It is nearby and consistent with the user’s tight neighborhood routine, though less tied to evening than gym or dinner.",
+    "563": "Another familiar grocery stop in the user’s core territory, plausible for an after-work errand.",
+    "578": "Pharmacy stops fit a nearby residential routine, especially in the evening window.",
+    "558": "Midtown visits are part of the user’s history, but this is less likely than an Upper West Side return at 18:04.",
+    "181": "The user does visit Midtown gyms, but Equinox is the stronger and more habitual fitness choice."
+  },
+  "fallback": false
+}

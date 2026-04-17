@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_214",
+  "ranked_loc_ids": [
+    1456,
+    1452,
+    1443,
+    288,
+    771,
+    1450,
+    1453,
+    1428,
+    1435,
+    1442
+  ],
+  "explanations": {
+    "1456": "Strongest Astoria evening repeat with the highest same-time history, matching the user’s Saturday 6–8 p.m. pub pattern.",
+    "1452": "A frequent Saturday evening Astoria nightlife stop that fits the user’s recurring 6–8 p.m. hookah-bar behavior.",
+    "1443": "Another Midtown Irish pub the user visits often in the evening, but slightly less dominant than Irish Rover.",
+    "288": "Highly recurrent bar destination with solid early-evening history, though more tied to the Manhattan work corridor.",
+    "771": "Fits the Queens commute axis and could be a transit hop before heading to an evening venue.",
+    "1450": "A routine Astoria diner that aligns with the user’s neighborhood-based movement and quick-stop habits.",
+    "1453": "Common early-day Astoria coffee stop that can still appear as a pre-evening refresh point.",
+    "1428": "Frequent Midtown bar visit, but the user’s Saturday night tendency leans more toward Astoria than this corridor.",
+    "1435": "It is the current location, so a brief continuation is possible, though the longer-term pattern suggests moving on.",
+    "1442": "An evening-friendly Manhattan restaurant with some same-time history, but weaker than the core recurring spots."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1472",
+  "ranked_loc_ids": [
+    1584,
+    3574,
+    3742,
+    4844,
+    4846,
+    3881,
+    2688,
+    73,
+    735,
+    4576
+  ],
+  "explanations": {
+    "1584": "Sunday afternoon strongly matches the user’s recurring fitness routine and this Equinox has the best same-day/time-slot history among the likely anchors.",
+    "3574": "Another frequent gym anchor with strong overall visit count, and the user often returns to fitness spots after a weekend gap.",
+    "3742": "The user repeatedly uses waterfront transit locations in the afternoon, making a commute-related stop plausible.",
+    "4844": "This fits the user’s cross-river waterfront pattern and has solid afternoon visitation history.",
+    "4846": "A Sunday 3–5pm errand stop is consistent with the user’s leisure/maintenance habits and repeated Upper East Side clustering.",
+    "3881": "Sunday afternoon dessert/leisure behavior is plausible, and the place matches the user’s time-conditioned preference for casual stops.",
+    "2688": "A healthy midday-to-afternoon stop fits the user’s fitness-and-errand routine and nearby Manhattan corridor.",
+    "73": "This American restaurant aligns with the user’s frequent casual dining pattern and Manhattan neighborhood movement.",
+    "735": "The user likes Sunday nightlife and bar visits, so a familiar bar remains a reasonable late-afternoon option.",
+    "4576": "A repeat Sunday pub visit is possible given the user’s social evening tendencies and Upper East Side nightlife clustering."
+  },
+  "fallback": false
+}

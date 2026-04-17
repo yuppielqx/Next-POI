@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_198",
+  "ranked_loc_ids": [
+    1379,
+    1381,
+    1382,
+    112,
+    58,
+    1380,
+    1390,
+    1385,
+    274,
+    1394
+  ],
+  "explanations": {
+    "1379": "The user’s strongest weekday morning pattern is a commute departure from this station, and the 08:48 Tuesday timing fits that routine perfectly.",
+    "1381": "A frequent Upper East Side stop that often fits a morning errand or grab-and-go pattern near the user’s commute anchor.",
+    "1382": "This is another Upper East Side routine stop the user could chain into a morning departure after leaving the subway area.",
+    "112": "A plausible alternate UES transit option if the user is commuting from the same neighborhood but using Broadway instead of Lexington.",
+    "58": "Grand Central is a major commuter hub and matches the user’s Midtown workday cluster, making it a strong secondary morning destination.",
+    "1380": "A repeated Midtown breakfast/lunch deli stop that fits the user’s efficient errand-and-commute behavior.",
+    "1390": "A nearby weekday morning coffee stop consistent with the user’s Midtown routine and similar-user patterns.",
+    "1385": "A close Midtown bakery stop that could plausibly follow a transit or coffee-oriented morning sequence.",
+    "274": "The user was last here, and it remains a recurring Midtown anchor, though it is less likely than the commuter-focused options at this hour.",
+    "1394": "A UES coffee stop with some morning history, but it is less supported than the primary subway commute destination."
+  },
+  "fallback": false
+}

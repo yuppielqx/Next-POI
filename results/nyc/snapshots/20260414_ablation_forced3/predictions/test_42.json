@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_42",
+  "ranked_loc_ids": [
+    329,
+    348,
+    879,
+    244,
+    331,
+    338,
+    352,
+    353,
+    207,
+    332
+  ],
+  "explanations": {
+    "329": "This is the user’s dominant anchor with the strongest historical frequency and the best match for the early-morning Saturday return pattern.",
+    "348": "It was the last known location and remains a highly visited nearby coffee stop in the user’s tight routine cluster.",
+    "879": "It is the closest nearby keep and fits the same outdoor-destination pattern around the Flatiron core.",
+    "244": "A frequently used adjacent restaurant in Madison Square Park that matches the user’s local lunch-and-break routine.",
+    "331": "This nearby coffee shop aligns with the user’s habitual coffee-oriented movement within the same small radius.",
+    "338": "A close food venue in the same neighborhood that fits the user’s convenience-oriented day pattern.",
+    "352": "Another nearby bakery the user has visited before, making it a plausible short-radius stop.",
+    "353": "A recurrent coffee option just outside the core cluster that could fit a morning routine.",
+    "207": "This nearby food truck is consistent with the user’s repeated preference for local daytime food stops.",
+    "332": "A Saturday-linked destination in the broader area that is plausible, though less likely than the core Flatiron anchors."
+  },
+  "fallback": false
+}

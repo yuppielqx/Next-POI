@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1544",
+  "ranked_loc_ids": [
+    558,
+    74,
+    1034,
+    4004,
+    3475,
+    1160,
+    550,
+    274,
+    3240,
+    16
+  ],
+  "explanations": {
+    "558": "It is the closest major nearby Midtown complex and fits a short post-MoMA leisure move in the evening.",
+    "74": "The user is already there, and a brief dwell or immediate revisit is very plausible only minutes after arrival.",
+    "1034": "A classic nearby pizza stop that matches the user’s strong food-and-leisure pattern after a museum visit.",
+    "4004": "A nearby cocktail bar that fits the late-evening Manhattan nightlife trajectory and the user’s night-owl behavior.",
+    "3475": "A close hotel option consistent with Midtown wandering and late-night social movement.",
+    "1160": "A nearby casual dinner spot in the same corridor, aligning with the user’s dining-heavy outing style.",
+    "550": "Columbus Circle is a nearby northward move that matches the northeast movement trend from MoMA.",
+    "274": "A plausible short Midtown stop in the theater/dining zone, though less likely this late in the evening.",
+    "3240": "A reasonable Midtown dining destination, but farther than the most likely immediate options.",
+    "16": "The north-east trend could extend here, but it is less likely than a nearby restaurant or bar."
+  },
+  "fallback": false
+}

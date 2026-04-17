@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_740",
+  "ranked_loc_ids": [
+    3536,
+    75,
+    2889,
+    1110,
+    349,
+    5199,
+    47,
+    67,
+    2269,
+    4563
+  ],
+  "explanations": {
+    "3536": "This is the user’s strongest habitual afternoon coffee stop, and the current move south-west from Magnolia Bakery fits a nearby café transition in the Flatiron/Chelsea area.",
+    "75": "The user has very frequent returns here and it remains a core Manhattan anchor, though it is less temporally aligned than a nearby café.",
+    "2889": "Gym visits are another recurring pattern for this user, especially in the evening, but this midday Sunday timing makes it slightly less likely.",
+    "1110": "A grocery run is plausible in the same corridor and the user has visited this Trader Joe’s before, though it is not as dominant as the café routine.",
+    "349": "Sunday afternoon could fit entertainment, and it is within the user’s usual Manhattan range, but it has only a single historical visit.",
+    "5199": "It is extremely close to the current area and could be an immediate grab-and-go stop, but the user’s history favors cafés over carts.",
+    "47": "This is a nearby shopping destination with some historical relevance, yet it is less consistent with the user’s stronger coffee-and-gym loop.",
+    "67": "Similar-user behavior supports Union Square activity around this time, but the user’s own pattern is more commercial than recreational.",
+    "2269": "A midday food stop is possible, but it is a weaker match than the user’s repeated café and bakery preferences.",
+    "4563": "Another nearby café option that fits the time and area, though it is less established in the user’s history than Cafe Grumpy."
+  },
+  "fallback": false
+}

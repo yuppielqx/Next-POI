@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_255",
+  "ranked_loc_ids": [
+    772,
+    1699,
+    1629,
+    1700,
+    1035,
+    5002,
+    2644,
+    2014,
+    1143,
+    1231
+  ],
+  "explanations": {
+    "772": "A nearby coffee shop best matches the user’s strong café-oriented routine and the evening preference for a short local food stop.",
+    "1699": "Deli/bodega stops fit a compact, routine neighborhood pattern and are plausible after time spent in the Atlantic Terminal area.",
+    "1629": "Starbucks at Atlantic Terminal is a very likely quick caffeine stop in the immediate area.",
+    "1700": "The user is already there, and repeating the same nearby food venue is the most consistent short-hop behavior.",
+    "1035": "A major transit and retail hub is a natural next move in this dense evening cluster.",
+    "5002": "Applebee’s offers a nearby casual dinner option aligned with the evening food/retail context.",
+    "2644": "LIRR - Atlantic Terminal is plausible if the user is transitioning onward from the current area.",
+    "2014": "Another nearby transit hub is consistent with a short movement within Downtown Brooklyn.",
+    "1143": "A nearby dining stop fits the time of day and the area’s food-oriented destination pattern.",
+    "1231": "The user is in the Atlantic Terminal cluster, so this adjacent landmark is a possible nearby visit."
+  },
+  "fallback": false
+}

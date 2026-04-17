@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1668",
+  "ranked_loc_ids": [
+    2463,
+    5072,
+    2749,
+    5076,
+    4342,
+    3851,
+    593,
+    5073,
+    5075,
+    5071
+  ],
+  "explanations": {
+    "2463": "This is the strongest habitual destination in the user’s history, and the Saturday morning prior plus nearby positioning make a return very likely.",
+    "5072": "The user just checked in here and banks fit their errand-oriented routine, so a short continuation or nearby stop is plausible.",
+    "2749": "It is a nearby Hoboken food stop that matches the user’s compact local movement pattern and could follow an afternoon-morning errand sequence.",
+    "5076": "A close Hoboken bar with a prior visit, making it a reasonable local repeat despite the morning timing.",
+    "4342": "Another nearby Hoboken nightlife venue that fits the user’s frequent Hoboken-based repeat behavior.",
+    "3851": "Extremely close to the last location and consistent with a quick local food run before shifting elsewhere.",
+    "593": "This nearby transit hub could fit a Saturday movement pattern if the user is transitioning between Hoboken and the broader region.",
+    "5073": "A major recurring anchor in the user’s history, though farther away and less likely for this immediate next stop.",
+    "5075": "A repeated fast-food stop in the user’s broader pattern, but less aligned with the immediate Hoboken-centered context.",
+    "5071": "A nearby practical food option that could appear in an errand chain, though it is less characteristic than the top Hoboken choices."
+  },
+  "fallback": false
+}

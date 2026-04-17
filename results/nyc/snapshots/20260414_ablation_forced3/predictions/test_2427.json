@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2427",
+  "ranked_loc_ids": [
+    320,
+    4777,
+    2273,
+    4518,
+    329,
+    3119,
+    501,
+    1927,
+    5494,
+    2742
+  ],
+  "explanations": {
+    "320": "The user’s strongest weekday evening pattern centers on returning to Midtown after daytime gym/studio activity.",
+    "4777": "It matches the exact Tuesday evening prior and fits the user’s recurring after-work nightlife behavior in Midtown.",
+    "2273": "This is a repeated nearby evening anchor in the user’s Chelsea/Flatiron routine and is close to the last known area.",
+    "4518": "The user frequently revisits this gym around the 6–8 p.m. window, and it is a core anchor in their pattern.",
+    "329": "Madison Square Park is adjacent to the current area and aligns with the user’s short-hop movement in the same neighborhood.",
+    "3119": "A Midtown bar fits the user’s after-work socializing bias and is consistent with similar-user evening transitions.",
+    "501": "The user has visited this restaurant before, and evening dining is a strong match for the target time.",
+    "1927": "This nearby nightlife spot aligns with the user’s late-afternoon-to-evening transition behavior around Midtown.",
+    "5494": "Another prior dining anchor in Midtown that fits a workday evening stop without requiring a large move.",
+    "2742": "A Midtown office-area return is plausible given the user’s Midtown-centered routine, though less likely than social or fitness venues."
+  },
+  "fallback": false
+}

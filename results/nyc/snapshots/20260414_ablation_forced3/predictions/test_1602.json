@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1602",
+  "ranked_loc_ids": [
+    1792,
+    1149,
+    4749,
+    5007,
+    5010,
+    3772,
+    3774,
+    1789,
+    1152,
+    5006
+  ],
+  "explanations": {
+    "1792": "It is the closest grocery option in the same Clifton commercial corridor, fitting the user’s errand-chaining pattern after Staples.",
+    "1149": "Very nearby and consistent with the user’s routine of practical retail stops in Clifton.",
+    "4749": "A dominant recurring anchor in the user’s history and a plausible grocery follow-on, though slightly farther away.",
+    "5007": "Frequently visited on Saturdays and a strong match for a quick evening coffee/snack stop.",
+    "5010": "Fits the user’s convenience-store errand pattern and is a common local stop in their history.",
+    "3772": "Directly adjacent to the last location and likely as part of the same shopping complex movement.",
+    "3774": "A nearby coffee stop that matches the user’s morning/evening routine, even without past visits.",
+    "1789": "The user is already at this location, so a brief revisit or lingering stop is possible.",
+    "1152": "Close by in the same retail area and plausible for a continued shopping errand.",
+    "5006": "A habitual practical stop for the user, but less likely than the nearby Clifton corridor options."
+  },
+  "fallback": false
+}

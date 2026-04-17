@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1208",
+  "ranked_loc_ids": [
+    2845,
+    2809,
+    4518,
+    2050,
+    2450,
+    4521,
+    1295,
+    1291,
+    4524,
+    4792
+  ],
+  "explanations": {
+    "2845": "This is the strongest recurring evening destination in the user’s history and fits the brief return toward their lower-Manhattan routine zone.",
+    "2809": "A frequent nearby grocery stop that matches the user’s practical neighborhood-loop behavior after wellness or errands.",
+    "4518": "Another repeated fitness venue in the same corridor, plausible for a short evening routine move.",
+    "2050": "The user has nightlife history, and this lower-Manhattan venue is close enough for an evening transition.",
+    "2450": "A familiar East Village food stop that fits the user’s casual dinner/snack pattern.",
+    "4521": "A likely grocery/errand destination given the user’s repeated wellness-plus-shopping routine.",
+    "1295": "A nightlife venue in the user’s habitual area, consistent with similar-user evening entertainment behavior.",
+    "1291": "Close to the current location and a plausible evening restaurant stop after moving south-west.",
+    "4524": "A nearby casual sandwich option that fits the user’s food-oriented neighborhood movement.",
+    "4792": "The nearest remaining option and a reasonable short-hop dinner choice from South Street Seaport."
+  },
+  "fallback": false
+}

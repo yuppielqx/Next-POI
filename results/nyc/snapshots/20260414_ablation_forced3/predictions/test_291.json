@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_291",
+  "ranked_loc_ids": [
+    2796,
+    1516,
+    952,
+    2081,
+    1605,
+    209,
+    1941,
+    1934,
+    23,
+    1942
+  ],
+  "explanations": {
+    "2796": "It is the closest nightlife option to the last known East Village dinner stop and fits the strong 00:20 late-night bar pattern.",
+    "1516": "A nearby Lower East Side bar that matches the user’s nightlife-heavy, multi-stop evening behavior.",
+    "952": "It is the current location and a plausible linger/return point at midnight after a late dinner.",
+    "2081": "A same-block late-night food/drinks option that fits a nearby new stop after Momofuku.",
+    "1605": "Another immediate-adjacent restaurant that could be chosen for a quick late-night meal continuation.",
+    "209": "A nearby East Village/LES restaurant consistent with the user’s pattern of food-plus-nightlife chaining.",
+    "1941": "A close late-night food spot that fits the after-midnight East Village corridor.",
+    "1934": "A strong nightlife/music venue match from the user’s history, though it requires a less likely borough shift.",
+    "23": "A major recurring midnight venue in the user’s history, but it is farther from the current Manhattan cluster.",
+    "1942": "A Brooklyn bar consistent with the user’s nightlife profile, though less likely than nearby Manhattan options."
+  },
+  "fallback": false
+}

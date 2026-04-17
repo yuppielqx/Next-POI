@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1578",
+  "ranked_loc_ids": [
+    4532,
+    557,
+    2585,
+    4265,
+    2310,
+    88,
+    4975,
+    176,
+    630,
+    108
+  ],
+  "explanations": {
+    "4532": "Strong night-life match with explicit Saturday and midnight-to-2am history, and the time prior says this is the most likely specific revisit.",
+    "557": "The user frequently makes late-night cross-Hudson jumps, and the current movement pattern plus corridor prior favor a tunnel transit segment.",
+    "2585": "A Manhattan nightlife venue that fits the post-midnight Saturday behavior and the broader nightlife corridor near the tunnel.",
+    "4265": "Late-night Manhattan bar visit is consistent with the user’s weekend social pattern and nearby nightlife chain behavior.",
+    "2310": "Common late-night food stop after club/bar activity, making it a plausible post-Webster Hall destination.",
+    "88": "A major transit hub in Manhattan that matches the cross-city movement style and tunnel-adjacent trajectory.",
+    "4975": "This user often uses gas stations during cross-Hudson travel, and the Edgewater/NJ corridor makes this a viable intermediate stop.",
+    "176": "Another major Hudson crossing that fits the user’s transportation-heavy mobility pattern, though less supported than Lincoln Tunnel.",
+    "630": "A nightlife venue that fits the time of night and social-outing profile, albeit with weaker historical support than the top choices.",
+    "108": "A transit node with some Saturday history, included because the user often chains transportation segments during late-night regional trips."
+  },
+  "fallback": false
+}

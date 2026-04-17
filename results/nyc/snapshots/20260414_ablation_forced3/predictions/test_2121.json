@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2121",
+  "ranked_loc_ids": [
+    2942,
+    3472,
+    3538,
+    5094,
+    3692,
+    1530,
+    4521,
+    3542,
+    716,
+    336
+  ],
+  "explanations": {
+    "2942": "It is an immediate nearby evening food/drink option in the same Greenwich Village area, fitting the southwest movement and routine stop pattern.",
+    "3472": "Very close to IFC Center and plausible for an early evening coffee or casual meal, matching the user’s practical dining habits.",
+    "3538": "Nearby dinner-oriented restaurant in the Village that suits the 5–6 p.m. meal window and return-to-frequent-place tendency.",
+    "5094": "A close café option that fits a quick evening stop after a movie or bookstore visit in the same neighborhood.",
+    "3692": "A nearby lounge that could follow the IFC Center visit, especially given the evening timing and short movement distance.",
+    "1530": "A transit stop is a plausible next move for a south-westward traveler leaving IFC Center before heading to another lower Manhattan destination.",
+    "4521": "A highly consistent grocery choice for this user, and the evening prior plus lower Manhattan location make a routine errand plausible.",
+    "3542": "A repeat salad spot in the Union Square corridor that matches the user’s lunch/dinner pattern, though it is a bit farther than the closest options.",
+    "716": "Another familiar grocery destination for practical evening errands, supported by the user’s strong grocery-store preference.",
+    "336": "A known food spot from the user’s history that fits a routine meal stop, but it is less directly aligned with the immediate Village-area location."
+  },
+  "fallback": false
+}

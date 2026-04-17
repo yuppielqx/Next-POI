@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_444",
+  "ranked_loc_ids": [
+    2597,
+    3301,
+    2594,
+    2613,
+    2596,
+    2595,
+    2603,
+    2606,
+    2607,
+    2592
+  ],
+  "explanations": {
+    "2597": "Monday morning and the user’s strongest recurring commute pattern point to returning to this frequent transit origin next.",
+    "3301": "Similar users around this time go to the nearby Woodlawn train station, and it fits the current southwest-moving commuter flow.",
+    "2594": "The user has a regular Bronx transit pattern, and this nearby metro station is still a plausible next hop before heading downtown.",
+    "2613": "They are currently at this deli, so a short repeat or lingering stop remains possible in the immediate morning window.",
+    "2596": "This nearby pizzeria fits the user’s Bronx corridor and could be a quick practical stop before commuting.",
+    "2595": "It is extremely close to the last location and lies within the user’s frequent northern Bronx neighborhood.",
+    "2603": "This train station is within the same Bronx travel corridor and matches the user’s transit-oriented routine.",
+    "2606": "Another nearby Bronx subway option that aligns with the user’s weekday commuter behavior.",
+    "2607": "A nearby morning coffee stop is plausible given the time and similar-user pattern of transit followed by coffee.",
+    "2592": "This is a common midday destination for the user, but it is less likely at this early-morning Bronx time."
+  },
+  "fallback": false
+}

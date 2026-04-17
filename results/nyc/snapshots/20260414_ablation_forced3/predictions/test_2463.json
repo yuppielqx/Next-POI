@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2463",
+  "ranked_loc_ids": [
+    5666,
+    5501,
+    488,
+    1279,
+    2029,
+    1092,
+    2244,
+    2178,
+    5479,
+    3154
+  ],
+  "explanations": {
+    "5666": "The strongest pattern is the repeated 14:00 downtown check-in, and the target time exactly matches this routine stop.",
+    "5501": "This is the user’s dominant anchor and a frequent midday destination, so a same-area return remains highly plausible.",
+    "488": "It is extremely close to the last location and corresponds to the Met, a daytime-friendly cultural stop that fits an afternoon outing.",
+    "1279": "A prior visit and central Manhattan location make it a reasonable daytime diversion from the user’s usual corridor.",
+    "2029": "The user has repeated weekday visits here, and it fits the pattern of daytime stops in Manhattan.",
+    "1092": "The user has visited before, and it remains a plausible mid-afternoon venue for events or transit-linked activity.",
+    "2244": "A prior visit to a major Manhattan venue makes this a possible daytime cultural stop.",
+    "2178": "A familiar Manhattan daytime spot, but with only weak historical support compared to the top routine locations.",
+    "5479": "Very close to the last location and consistent with a quick afternoon snack or coffee stop, though unvisited before.",
+    "3154": "Also adjacent to the current area and plausible for a routine food stop, but it has no prior history."
+  },
+  "fallback": false
+}

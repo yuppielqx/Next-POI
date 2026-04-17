@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1792",
+  "ranked_loc_ids": [
+    1154,
+    438,
+    5045,
+    5313,
+    4929,
+    104,
+    107,
+    3003,
+    4949,
+    5181
+  ],
+  "explanations": {
+    "1154": "It is the closest strong historical match and a highly frequent transit node in the user’s Jersey City corridor, making a quick return most likely.",
+    "438": "It is exactly the same Journal Square area as the last stop and fits a short continuation of the current corridor movement.",
+    "5045": "The user is still in Journal Square and often chains transit nodes, so a platform transfer is very plausible.",
+    "5313": "This nearby plaza is a natural short-hop destination from the current Journal Square area.",
+    "4929": "A nearby casual stop fits the user’s pattern of brief transit-linked food breaks in the afternoon.",
+    "104": "It is a recurring afternoon destination for this user and a strong secondary Jersey City target.",
+    "107": "Newport PATH is one of the user’s common transit nodes and fits a corridor-based move.",
+    "3003": "This is a major repeat location in the user’s history and remains a likely transit continuation.",
+    "4949": "The user often visits the gym in the evening, and a post-afternoon stop here is plausible though less immediate.",
+    "5181": "Having just been visited, it is less likely than a move onward, but a brief return or linger stop remains possible."
+  },
+  "fallback": false
+}

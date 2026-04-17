@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_676",
+  "ranked_loc_ids": [
+    3352,
+    583,
+    1614,
+    349,
+    626,
+    2728,
+    3355,
+    3231,
+    2803,
+    3832
+  ],
+  "explanations": {
+    "3352": "Strongest historical anchor and the stated time/behavior profile point to a return to this central nightlife hub.",
+    "583": "Nearby Manhattan nightlife fits the evening social pattern and could follow a bar-to-bar move from Locksmith Bar.",
+    "1614": "A central wine bar in the same late-evening social corridor is consistent with the user’s nightlife-oriented routine.",
+    "349": "The user often pairs evenings with entertainment venues in Chelsea, making a post-drinks movie stop plausible.",
+    "626": "Similar users at this hour often transition into a film, and this remains a strong Midtown entertainment option.",
+    "2728": "A performance venue matches the user’s arts-plus-nightlife pattern and evening timing.",
+    "3355": "Another nightlife speakeasy aligns with the user’s socializing tendencies, though it is less central to the current trajectory.",
+    "3231": "The user has a history of arts venues, and Tribeca is a recurring cultural district in their pattern.",
+    "2803": "A downtown nightlife option that fits the entertainment-heavy profile, though it is farther from the current movement trend.",
+    "3832": "A nearby bar is plausible after Locksmith Bar, but it lacks the user-history strength of the top choices."
+  },
+  "fallback": false
+}

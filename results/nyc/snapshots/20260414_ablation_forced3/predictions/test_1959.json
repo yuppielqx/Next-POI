@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1959",
+  "ranked_loc_ids": [
+    5180,
+    1683,
+    1665,
+    1154,
+    1198,
+    1153,
+    1147,
+    749,
+    5338,
+    428
+  ],
+  "explanations": {
+    "5180": "This is the user’s strongest recurrent commute anchor and a very likely transit move after a Friday evening departure from Bayonne.",
+    "1683": "The user often shifts within the waterfront transit network, and Hoboken Terminal fits a south-westward evening commute path.",
+    "1665": "Exchange Place light rail is a frequent transit-linked destination in the Jersey City waterfront corridor and matches similar-user patterns.",
+    "1154": "Journal Square PATH Station is a major transportation hub that fits an evening transfer or commute continuation.",
+    "1198": "Another repeatedly used light rail node that aligns with the user’s transit-centered mobility pattern.",
+    "1153": "The user has a nightlife habit in Hoboken, and this bar matches a Friday-night social move near transit.",
+    "1147": "A familiar Hoboken bar that fits the user’s after-work social routine and waterfront corridor.",
+    "749": "This beer garden is a plausible Friday-night stop in Hoboken, close to the user’s nightlife pattern.",
+    "5338": "A Hoboken nightlife spot consistent with the user’s bar-oriented evening visits and transit access.",
+    "428": "The user often pairs transit with coffee stops, and this Hoboken Starbucks is a reasonable late-evening or transfer-adjacent choice."
+  },
+  "fallback": false
+}

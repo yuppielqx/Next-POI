@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_490",
+  "ranked_loc_ids": [
+    2745,
+    1207,
+    1198,
+    108,
+    1159,
+    1157,
+    433,
+    2751,
+    2753,
+    749
+  ],
+  "explanations": {
+    "2745": "The user’s strongest routine is a Hoboken-side commuter loop, and after an evening waterfront stop the most likely next move is back to this frequent transit hub.",
+    "1207": "It is very close to the last location and fits the user’s repeated transit-focused return pattern on weekday evenings.",
+    "1198": "This is the user’s most visited light rail stop and a natural endpoint for a return trip in their commuting corridor.",
+    "108": "This Hoboken PATH/light rail node matches the user’s habitual station-to-station movement and is a common commuting transfer point.",
+    "1159": "The Hudson River Waterfront Walkway is adjacent to the current waterfront position, making it a plausible short-hop continuation before heading home.",
+    "1157": "A nearby Hoboken nightlife option could attract an evening stop, especially given the proximity to Pier A Park.",
+    "433": "It is extremely close to the current location and sits within the user’s Hoboken-side routine area.",
+    "2751": "A practical nearby errand stop that fits the user’s sparse but functional non-transit visits.",
+    "2753": "This Hoboken service stop has prior visit history and is within the user’s familiar local footprint.",
+    "749": "A nearby Hoboken beer garden is possible for a Friday night diversion, though it is less consistent with the user’s commuter-first pattern."
+  },
+  "fallback": false
+}

@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_271",
+  "ranked_loc_ids": [
+    1788,
+    1789,
+    863,
+    1792,
+    398,
+    1794,
+    1149,
+    4796,
+    1795
+  ],
+  "explanations": {
+    "1788": "The user’s strongest anchor is home, and after an evening stop in Clifton, an overnight reset makes a return to the residence very plausible.",
+    "1789": "This is the last known location, has strong repeat history, and the user often chains local errands in this exact Clifton corridor.",
+    "863": "It is one of the user’s recurring social dining spots and sits right next to the last location, making it a highly compatible follow-up.",
+    "1792": "Similar users often move from retail errands to nearby food or shopping stops, and this grocery store is extremely close to the current Clifton position.",
+    "398": "The user has a regular community-college pattern, so a school-related return remains possible despite the afternoon timing.",
+    "1794": "The user has late-night leisure tendencies, and this nearby nightlife venue fits the broader Clifton social pattern.",
+    "1149": "Similar users around this time often visit retail stores like Target after other local stops, and it fits the suburban errand cluster.",
+    "4796": "Afternoon transitions for similar users frequently include coffee stops, and this nearby café matches that behavior.",
+    "1795": "Fast-food stops appear in similar-user traces around this hour, and it is a plausible nearby meal option within the local corridor."
+  },
+  "fallback": false
+}

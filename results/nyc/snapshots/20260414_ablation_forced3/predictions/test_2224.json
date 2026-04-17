@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2224",
+  "ranked_loc_ids": [
+    3021,
+    1900,
+    1294,
+    2326,
+    2132,
+    3554,
+    2031,
+    5550,
+    1099,
+    1036
+  ],
+  "explanations": {
+    "3021": "Saturday evening and the user’s history both favor a return to a familiar cocktail/nightlife spot, and this Brooklyn option fits the south-east trend.",
+    "1900": "It is the strongest recurring evening food destination in the user’s history and matches the weekend dinner pattern well.",
+    "1294": "A nearby nightlife spot in the same Union Square area is plausible right after Webster Hall for a Saturday evening outing.",
+    "2326": "This close-by bar fits the user’s occasional nightlife behavior and the strong evening time prior.",
+    "2132": "A casual bar/restaurant is a reasonable post-venue stop for similar users at this hour.",
+    "3554": "The user often transitions to food-focused venues, and this nearby restaurant suits an evening meal.",
+    "2031": "A repeat daytime favorite is less likely at night, but it remains a strong habitual anchor in the user’s core Manhattan corridor.",
+    "5550": "This restaurant is a plausible evening dining choice, though it is less strongly repeated than the top candidates.",
+    "1099": "Another Brooklyn pizza option aligns with the user’s pizza preference, but it lacks the stronger repeat signal of Roberta's Pizza.",
+    "1036": "The user is already here, so it is possible they remain, but the next visit is more likely to be another nearby evening venue."
+  },
+  "fallback": false
+}

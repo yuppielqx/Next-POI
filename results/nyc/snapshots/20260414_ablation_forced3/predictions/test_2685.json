@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2685",
+  "ranked_loc_ids": [
+    5762,
+    3565,
+    4470,
+    58,
+    1446,
+    4702,
+    1026,
+    5652,
+    2738,
+    3592
+  ],
+  "explanations": {
+    "5762": "This is the user’s strongest recurring anchor in Midtown East and the most likely late-evening return destination.",
+    "3565": "It is extremely close to the last stop and fits the user’s compact Midtown East routine.",
+    "4470": "A repeated nightlife spot near the user’s anchor area, consistent with a 21:41 evening movement.",
+    "58": "Grand Central is nearby and a plausible transit-linked stop on a return toward Midtown East.",
+    "1446": "A nearby Midtown East dining/drinking option that matches the user’s social evening pattern.",
+    "4702": "Very close to the current location and a plausible quick food stop before heading home.",
+    "1026": "Another nearby Midtown East restaurant aligned with the user’s restaurant-and-bar behavior.",
+    "5652": "It is the current location and could remain the next check-in if the user pauses briefly nearby.",
+    "2738": "Close enough to fit the user’s Midtown dinner pattern, though less historically anchored.",
+    "3592": "A nearby convenience stop that is possible but less consistent with the user’s late-night profile."
+  },
+  "fallback": false
+}

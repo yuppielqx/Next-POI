@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1989",
+  "ranked_loc_ids": [
+    5370,
+    3635,
+    5371,
+    641,
+    639,
+    192,
+    1565,
+    2404,
+    1441,
+    2433
+  ],
+  "explanations": {
+    "5370": "This is the user’s strongest home base anchor and their repeated pattern suggests a likely return to Hanover Square after late-night activity.",
+    "3635": "A frequent midday/early-afternoon food spot in Lower Manhattan that fits the Sunday lunch prior and nearby downtown movement.",
+    "5371": "A very plausible routine stop near the user’s residential base for a daytime coffee or quick errand.",
+    "641": "The user has prior downtown recreational behavior and Sunday afternoon is a natural time for a nearby outdoor visit.",
+    "639": "A familiar lower Manhattan bar that matches the user’s social downtown pattern, even if midday makes it slightly less likely.",
+    "192": "The user has Sunday visits here before, and the north-east trend plus afternoon timing support a Village outing.",
+    "1565": "Their history shows strong noon-to-2pm usage, making this a solid lunch candidate despite being less anchor-adjacent.",
+    "2404": "A known downtown bar/café stop that fits the user’s exploratory SoHo/Nolita movement patterns.",
+    "1441": "A recurring Midtown daytime destination that matches their lunch-and-errand mobility, though it is farther from the base.",
+    "2433": "A plausible daytime dining stop in the East Village, consistent with the user’s downtown neighborhood-hopping pattern."
+  },
+  "fallback": false
+}

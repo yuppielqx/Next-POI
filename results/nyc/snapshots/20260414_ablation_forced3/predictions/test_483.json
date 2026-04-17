@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_483",
+  "ranked_loc_ids": [
+    2730,
+    2731,
+    2732,
+    2736,
+    2737,
+    127,
+    1415,
+    598,
+    137,
+    2735
+  ],
+  "explanations": {
+    "2730": "Strongest home-area Saturday morning anchor with the highest visit count and best time match.",
+    "2731": "Fits the commuter routine and is very near the core Douglaston cluster.",
+    "2732": "A plausible nearby Saturday morning errand/food stop in the home neighborhood.",
+    "2736": "Recurrent local errand location with Saturday history, making it a strong neighborhood continuation.",
+    "2737": "Nearby Queens food stop that matches a morning local trip better than Manhattan destinations.",
+    "127": "Nearby infrastructure stop consistent with the observed east-Queens/Bronx travel tendency.",
+    "1415": "A plausible Saturday shopping errand within the user’s northeastern Queens orbit.",
+    "598": "Last-known location and a known travel corridor, though less likely after an overnight reset.",
+    "137": "High-frequency commute destination, but Saturday morning support is weaker than the home cluster.",
+    "2735": "Regular Midtown stop for this user, but much less likely than Douglaston-area locations on Saturday morning."
+  },
+  "fallback": false
+}

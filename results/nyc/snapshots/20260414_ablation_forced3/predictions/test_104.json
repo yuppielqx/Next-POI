@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_104",
+  "ranked_loc_ids": [
+    114,
+    820,
+    821,
+    819,
+    1252,
+    2838,
+    1950,
+    5326,
+    67,
+    2801
+  ],
+  "explanations": {
+    "114": "This is the user’s strongest historical anchor and the last known location, making a same-place evening return the most likely outcome.",
+    "820": "A key commute destination in the user’s weekday pattern and a common Manhattan-side transit stop for the evening leg.",
+    "821": "Fits the user’s repeated Brooklyn-bound return commute and has strong Wednesday evening history.",
+    "819": "Another frequent Brooklyn-side transit anchor that matches the user’s homeward commuting direction.",
+    "1252": "Extremely close to the last location, so a small movement within the Manhattan Bridge/Chinatown area is plausible.",
+    "2838": "Nearby to the current transit node and consistent with staying within the same immediate corridor.",
+    "1950": "A nearby transportation hub that could appear in a transit-focused movement chain, though less likely than subway options.",
+    "5326": "A nearby transit alternative in Lower Manhattan that could serve as a continuation of the commute.",
+    "67": "Similar-user patterns suggest Union Square-area activity around this time, though it is less consistent with this user’s transit-heavy behavior.",
+    "2801": "A close-by nearby search option, but grocery/leisure behavior is weaker than the user’s dominant commute pattern."
+  },
+  "fallback": false
+}

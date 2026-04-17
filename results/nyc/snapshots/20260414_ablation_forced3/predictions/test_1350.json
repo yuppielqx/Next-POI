@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1350",
+  "ranked_loc_ids": [
+    4708,
+    617,
+    5733,
+    3795,
+    1175,
+    378,
+    2209,
+    2137,
+    566,
+    567
+  ],
+  "explanations": {
+    "4708": "This is the strongest anchor in the user’s weekday morning routine and is the most likely office destination at 09:08.",
+    "617": "The user often stops here just before work, and the timing fits a habitual breakfast/coffee visit in the same corridor.",
+    "5733": "It is extremely close to the last location and fits a nearby office-area move, though it lacks user history.",
+    "3795": "A nearby coworking space in the same Midtown South cluster makes this a plausible work-related stop.",
+    "1175": "The user has a coffee-stop pattern in the morning, and this is a reasonable nearby caffeine destination.",
+    "378": "A nearby American restaurant could fit a morning or late-breakfast stop, though it is less consistent than Cafe R.",
+    "2209": "The user has a strong exercise-before-work pattern, but 09:08 is more likely after a workout than during one.",
+    "2137": "The user has visited this coffee shop before and it is still within a feasible commuting radius.",
+    "566": "The location is adjacent to the current area and could be a quick errand/shopping visit, but it is less behaviorally aligned.",
+    "567": "A nearby retail option in Herald Square is possible, but it is weaker than the user’s usual work-and-coffee routine."
+  },
+  "fallback": false
+}

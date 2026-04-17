@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2174",
+  "ranked_loc_ids": [
+    4317,
+    5309,
+    3282,
+    5464,
+    4172,
+    5305,
+    5307,
+    5463,
+    5506,
+    5007
+  ],
+  "explanations": {
+    "4317": "The user is already at this exact campus building at the target time, and the strong same-area midday pattern makes an immediate continuation most likely.",
+    "5309": "This is a recurring campus-related stop in the same Montclair State cluster and fits a short move south-west from University Hall.",
+    "3282": "The broader university campus is the most likely destination if the user transitions from one campus building to another nearby spot.",
+    "5464": "Partridge Hall is extremely close to the last location and matches the user's tight midday campus movement pattern.",
+    "4172": "Campus users often move from an academic building to the student center around midday for food or a break.",
+    "5305": "A nearby campus library is a plausible next stop for a student moving between university buildings around noon.",
+    "5307": "The user has a fitness-oriented history, so a campus gym stop is possible if they switch from academics to exercise.",
+    "5463": "Basie Hall is another nearby academic building that fits the within-campus transition pattern.",
+    "5506": "Fitness is a recurring theme in the user's history, though this is less likely than continued campus movement.",
+    "5007": "A coffee stop is plausible given the user's frequent Dunkin' history, but it is less likely than remaining on campus."
+  },
+  "fallback": false
+}

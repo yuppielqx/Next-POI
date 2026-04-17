@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1582",
+  "ranked_loc_ids": [
+    320,
+    137,
+    3499,
+    1569,
+    274,
+    416,
+    47,
+    586,
+    3796,
+    3665
+  ],
+  "explanations": {
+    "320": "It is the current location, perfectly matching the strong morning prior to stay in Midtown.",
+    "137": "A highly visited Tuesday-friendly transit hub near the current area, making it a natural short move.",
+    "3499": "This is one of the user’s most repeated Manhattan stops and fits their habitual Midtown/Murray Hill loop.",
+    "1569": "Similar users often go to a nearby morning coffee stop in Midtown at this time.",
+    "274": "It is a nearby frequent Midtown destination with a strong fit for a brief daytime walk or stop.",
+    "416": "A recurring iconic Midtown landmark within short range of the current position.",
+    "47": "A nearby retail anchor in the 34th Street corridor that matches the user’s Midtown movement pattern.",
+    "586": "Herald Square is close by and consistent with the user’s general Midtown commercial-area behavior.",
+    "3796": "This is another nearby 34th Street-area stop that aligns with the user’s urban errand pattern.",
+    "3665": "A transit-adjacent option near the current spot, plausible for continuing the commute-oriented movement."
+  },
+  "fallback": false
+}

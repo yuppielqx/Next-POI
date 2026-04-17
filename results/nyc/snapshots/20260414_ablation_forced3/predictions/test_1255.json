@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1255",
+  "ranked_loc_ids": [
+    4592,
+    137,
+    88,
+    108,
+    4755,
+    4595,
+    3778,
+    4593,
+    3228,
+    445
+  ],
+  "explanations": {
+    "4592": "The user is currently anchored at this recurring Montclair transit hub and staying in the same area makes an immediate repeat most likely.",
+    "137": "Their strongest long-run commute pattern points to a Midtown Penn Station anchor, which is a common next step after morning New Jersey transit.",
+    "88": "Late-evening behavior and the strong Midtown transit prior make this a very plausible nighttime return destination.",
+    "108": "The user repeatedly links New Jersey transit with Hoboken PATH/light rail, so a cross-Hudson transfer remains likely.",
+    "4755": "It is extremely close to the last known location and could fit a quick nearby food stop.",
+    "4595": "A nearby practical breakfast/food venue that matches the user’s casual, commuter-oriented habits.",
+    "3778": "This is a repeated Montclair-area food stop with prior Tuesday relevance, so it remains a reasonable local option.",
+    "4593": "A nearby utilitarian stop consistent with the user’s practical, transit-heavy movement style.",
+    "3228": "A frequent Midtown office anchor that fits the user’s recurring Manhattan work corridor.",
+    "445": "A known weekend errand/shopping destination, but less likely at this late-night weekday time."
+  },
+  "fallback": false
+}

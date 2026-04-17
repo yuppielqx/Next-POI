@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1657",
+  "ranked_loc_ids": [
+    2673,
+    3485,
+    942,
+    2797,
+    2450,
+    422,
+    3718,
+    5057,
+    192,
+    3982
+  ],
+  "explanations": {
+    "2673": "It is an immediate nearby nightlife option in the same Bowery/NoHo area and fits the user’s strong late-evening bar/nightclub pattern.",
+    "3485": "This is a zero-distance nearby restaurant on the current south-west trajectory, making it a plausible dinner stop before nightlife.",
+    "942": "A known repeat bar in the user’s downtown Manhattan circuit, well matched to a Sunday-night social outing.",
+    "2797": "Very close to the last known Bowery location and consistent with a quick evening food stop in the East Village/LES area.",
+    "2450": "Another nearby late-night food option in the user’s favored downtown nightlife corridor.",
+    "422": "A historically relevant Brooklyn lounge for this user, fitting the arts-plus-drinks profile though less likely than nearby Manhattan options.",
+    "3718": "A strong repeat bar in the LES and geographically close enough to fit the user’s evening movement pattern.",
+    "5057": "A repeat theater anchor near Union Square that matches the user’s culture-oriented habits, though the time is more nightlife than theater.",
+    "192": "A nearby familiar downtown touchpoint that can precede evening socializing, but is less specific than bars or venues.",
+    "3982": "A nightlife-oriented Brooklyn option that fits the profile, but it is farther and less aligned than the closest Manhattan candidates."
+  },
+  "fallback": false
+}

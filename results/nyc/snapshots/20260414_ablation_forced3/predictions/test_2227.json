@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2227",
+  "ranked_loc_ids": [
+    2507,
+    3752,
+    1678,
+    3324,
+    4400,
+    1280,
+    5514,
+    4808,
+    2281,
+    1269
+  ],
+  "explanations": {
+    "2507": "This is the user’s strongest repeated morning coffee stop in the Financial District and fits the 7:05 AM commute-arrival pattern.",
+    "3752": "A top weekday work anchor adjacent to the prior station, highly consistent with an early-morning arrival to the office cluster.",
+    "1678": "The user was just here and frequently uses this hub, so a short continuation or exit/transfer is plausible.",
+    "3324": "This is a major recurring Bronx transit node in the user’s routine, but it is less likely than downtown destinations at this time.",
+    "4400": "A new nearby Starbucks in the same commute zone could substitute for the usual coffee stop.",
+    "1280": "The CVS Pharmacy is immediately adjacent to the current area and could be a quick errand stop before work.",
+    "5514": "A breakfast spot near Fulton/Nassau fits the early-morning timing, though it is less historically dominant for this user.",
+    "4808": "Another nearby café in the Financial District, plausible as an alternate coffee choice.",
+    "2281": "Close by and within the same neighborhood, but bank visits are less central than work/coffee routines.",
+    "1269": "Zuccotti Park is nearby and occasionally visited, but it is less aligned with the user’s structured commute pattern."
+  },
+  "fallback": false
+}

@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1443",
+  "ranked_loc_ids": [
+    1030,
+    722,
+    423,
+    1305,
+    3021,
+    628,
+    1031,
+    3998,
+    3669
+  ],
+  "explanations": {
+    "1030": "The target is Saturday evening and this is the closest nightlife bar matching the user’s westward move and Williamsburg nightlife pattern.",
+    "722": "A very nearby bar in the same Brooklyn nightlife corridor, fitting an evening social continuation.",
+    "423": "This is one of the user’s recurring nightlife anchors and is a strong match for a Saturday night bar visit.",
+    "1305": "A nearby nightlife venue in Williamsburg that fits the user’s evening leisure pattern.",
+    "3021": "A cocktail bar in Brooklyn, making it a plausible next stop after a burger joint on a Saturday evening.",
+    "628": "A repeat entertainment venue for this user and a strong fit for a nightlife-oriented outing.",
+    "1031": "A frequent user anchor, though bagel shop behavior is less likely at this hour than nightlife.",
+    "3998": "Close by and convenient, but a falafel restaurant is less aligned with the user’s late-evening pattern.",
+    "3669": "A repeated anchor for the user, yet coffee is less likely than bars at 20:37 on Saturday."
+  },
+  "fallback": false
+}

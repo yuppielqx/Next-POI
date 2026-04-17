@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_196",
+  "ranked_loc_ids": [
+    1379,
+    1381,
+    145,
+    58,
+    1390,
+    1380,
+    274,
+    1396,
+    1385,
+    1382
+  ],
+  "explanations": {
+    "1379": "This is the user’s dominant commute anchor and the strongest match for a Monday afternoon return pattern.",
+    "1381": "It is one of the user’s frequent Upper East Side utility stops and fits a routine errand near the subway.",
+    "145": "A nearby transit hub that plausibly fits southbound movement along the Upper East Side commute corridor.",
+    "58": "The user visits this Midtown East/Grand Central area anchor often, and it fits the south-westward movement trend.",
+    "1390": "A common quick-stop coffee venue in the Midtown cluster, consistent with a weekday afternoon transition.",
+    "1380": "It is the last known location and part of the user’s repeated Midtown routine around 40th Street and Lexington.",
+    "274": "This is a highly frequented Midtown leisure/transit node that often appears in the user’s clustered movement pattern.",
+    "1396": "Another nearby Midtown coffee stop that fits the user’s errand-and-transit chaining behavior.",
+    "1385": "A nearby Midtown food stop with some recurring afternoon presence in the user’s history.",
+    "1382": "Although farther uptown, it matches the user’s grocery-oriented behavior and familiar Upper East Side pattern."
+  },
+  "fallback": false
+}

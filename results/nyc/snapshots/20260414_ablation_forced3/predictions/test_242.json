@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_242",
+  "ranked_loc_ids": [
+    769,
+    1672,
+    927,
+    134,
+    1669,
+    1666,
+    1675,
+    1668,
+    1324,
+    1303
+  ],
+  "explanations": {
+    "769": "This is the strongest evening commute destination in the user’s history and a frequent 6–8 p.m. transfer point on their 7-line corridor.",
+    "1672": "A very common Long Island City stop for this user and a likely next hop after Woodside during the evening return window.",
+    "927": "The user is already here, and their pattern shows frequent short-range station-to-station movements within the same corridor.",
+    "134": "A nearby major hub that fits the user’s transfer-heavy, transit-dependent movement style.",
+    "1669": "This is a recurring 7-line station in the user’s corridor and a plausible eastbound continuation or return-point stop.",
+    "1666": "A high-frequency personal station for the user and a logical end-of-line anchor in their routine.",
+    "1675": "Strong historical pairing with Mets-Willets Point makes this a plausible park-and-ride related revisit.",
+    "1668": "Another repeated 7-line stop in the user’s Queens commute chain, though less central than the main hubs.",
+    "1324": "Very close to the current location and consistent with the user’s tendency to move along adjacent western Queens stations.",
+    "1303": "A plausible local transit transfer point within the user’s narrow 7-line travel corridor."
+  },
+  "fallback": false
+}

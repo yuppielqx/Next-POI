@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1193",
+  "ranked_loc_ids": [
+    2095,
+    4503,
+    998,
+    1813,
+    4152,
+    1569,
+    58,
+    3565,
+    3016
+  ],
+  "explanations": {
+    "2095": "It is the user’s current office-area anchor and the most likely immediate lunchtime return from a nearby check-in.",
+    "4503": "A highly repeated weekday café stop in the same Midtown cluster, plausible if the user is grabbing coffee or a quick reset.",
+    "998": "The user has a strong habit of visiting this nearby gym, though the afternoon timing makes it less likely than lunch.",
+    "1813": "This Starbucks is extremely close and fits the user’s coffee-oriented Midtown routine for a short midday move.",
+    "4152": "Another nearby coffee stop within the same corridor, consistent with a brief East Midtown errand.",
+    "1569": "A frequent Friday coffee option that matches the user’s weekday Midtown behavior.",
+    "58": "Grand Central Terminal is a natural nearby commuter hub and fits an office-district lunchtime transition.",
+    "3565": "Chipotle is a plausible quick lunch choice in the same area, though less supported by the user’s history.",
+    "3016": "A nearby fast lunch option that fits the time and location, but with weaker historical support."
+  },
+  "fallback": false
+}

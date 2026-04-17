@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_879",
+  "ranked_loc_ids": [
+    145,
+    1263,
+    3817,
+    1386,
+    3818,
+    3820,
+    3823,
+    3816,
+    3809,
+    3810
+  ],
+  "explanations": {
+    "145": "The user is already in the Upper East Side corridor and this is a highly likely short-hop transit continuation for an evening commute.",
+    "1263": "This major nearby transfer hub fits the user’s repeated subway-based movement pattern and evening return trip behavior.",
+    "3817": "The user frequently uses Lexington Avenue transit nodes, making this a plausible next stop on a north-south commute.",
+    "1386": "Evening grocery behavior matches the user’s practical, routine-oriented pattern and it is close to the last known location.",
+    "3818": "This nearby Manhattan neighborhood stop is consistent with the user staying within the same corridor before heading home.",
+    "3820": "A close Upper East Side retail stop is plausible given the user’s current nearby movements and utility-driven trips.",
+    "3823": "A quick food stop near 86th Street fits a routine evening errand pattern with minimal detour.",
+    "3816": "The user has occasional late-day pizza visits, and this nearby option fits a simple dinner stop.",
+    "3809": "Strong historical recurrence makes a campus return possible, though the current Manhattan position makes it less immediate.",
+    "3810": "Another highly recurrent Queens College destination, but it is farther from the last known Manhattan point than nearby transit options."
+  },
+  "fallback": false
+}

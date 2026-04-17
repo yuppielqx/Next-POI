@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2113",
+  "ranked_loc_ids": [
+    4191,
+    5457,
+    4186,
+    3724,
+    3069,
+    834,
+    1859,
+    3909,
+    4422,
+    895
+  ],
+  "explanations": {
+    "4191": "It is the exact last known location only two minutes earlier and fits the strong immediate return-to-same-place pattern.",
+    "5457": "This is the user’s dominant habitual destination and the most likely nearby routine stop after church.",
+    "4186": "It is tightly tied to the dog run circuit and matches the user’s localized outdoor pattern in the same area.",
+    "3724": "It is another nearby frequent-enough neighborhood stop and lies within the user’s core Little Bay cluster.",
+    "3069": "It is very close to the last location, making it a plausible early-morning nearby food stop despite no history.",
+    "834": "This nearby convenience location fits a brief post-church or transit-related stop.",
+    "1859": "Its proximity makes it a plausible quick errand destination within the same neighborhood.",
+    "3909": "Another nearby local food option that could be visited during a short morning movement.",
+    "4422": "It has some history and remains within Queens, though it is less likely than the tighter local options.",
+    "895": "It has prior visits in the user history, but it is farther away and less consistent with the current routine."
+  },
+  "fallback": false
+}

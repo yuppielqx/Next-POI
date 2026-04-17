@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2051",
+  "ranked_loc_ids": [
+    548,
+    537,
+    814,
+    2806,
+    1059,
+    1005,
+    1926,
+    1043,
+    3711,
+    1396
+  ],
+  "explanations": {
+    "548": "Strong match for the user’s repeated Saturday midnight-to-2am nightlife pattern and the target time is a Saturday night.",
+    "537": "It is a late-night lounge with multiple midnight-to-2am visits and fits the user’s habitual nightlife chaining.",
+    "814": "This is another frequent after-midnight bar for the user and is highly plausible for a weekend night out.",
+    "2806": "The user has already visited this spot in the same trip and it matches their downtown late-night social circuit.",
+    "1059": "It is one of the user’s strongest late-night recurring venues and fits the 2 AM Saturday temporal prior.",
+    "1005": "The user has prior midnight-to-2am check-ins here, making it a credible downtown nightlife return.",
+    "1926": "It fits the user’s cocktail-bar nightlife profile and the East Village/LES orbit favored at this hour.",
+    "1043": "This is a repeated downtown Manhattan stop that could follow the user’s social nightlife chaining pattern.",
+    "3711": "A downtown bar in the user’s preferred nightlife corridor, though with weaker personal history than the top options.",
+    "1396": "It is a very strong daytime anchor in the user’s history, but the 2:09 AM Saturday timing makes it far less likely than nightlife venues."
+  },
+  "fallback": false
+}

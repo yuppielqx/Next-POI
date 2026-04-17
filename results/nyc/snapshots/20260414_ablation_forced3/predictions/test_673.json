@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_673",
+  "ranked_loc_ids": [
+    689,
+    679,
+    681,
+    700,
+    3347,
+    3348,
+    3808,
+    290,
+    291,
+    2191
+  ],
+  "explanations": {
+    "689": "The user’s strongest campus loop is between St. John’s academic buildings, and this is a top recurrent stop that fits the afternoon return pattern.",
+    "679": "This is another highly repeated St. John’s academic building with strong 3–5pm history, making it a very likely next campus move.",
+    "681": "The broad campus hub is a natural return destination given the user’s routine-centered mobility and campus anchor.",
+    "700": "This campus building matches the same academic cluster and fits a likely short intra-campus transition.",
+    "3347": "The user has prior afternoon activity here and similar users often moved between nearby Queens College academic spaces around this time.",
+    "3348": "A frequent dining stop in the user’s history, and an afternoon visit after campus/transit is plausible.",
+    "3808": "Similar users at this time often headed to campus dining, and this fits the broader eastern Queens academic pattern.",
+    "290": "The user has repeated activity in Flushing, and it remains a plausible nearby neighborhood move from Forest Hills.",
+    "291": "Coffee-shop behavior is consistent with the profile, though this is less likely than the main campus locations.",
+    "2191": "Given the recent transit-oriented movement and proximity to the last known point, another brief transit-related stop is possible."
+  },
+  "fallback": false
+}

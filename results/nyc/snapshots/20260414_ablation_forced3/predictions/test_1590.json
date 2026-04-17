@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1590",
+  "ranked_loc_ids": [
+    3539,
+    710,
+    4992,
+    4993,
+    106,
+    652,
+    137,
+    229,
+    4527,
+    1950
+  ],
+  "explanations": {
+    "3539": "This is the user’s most visited routine stop and fits the Friday afternoon coffee/convenience pattern strongly.",
+    "710": "A very frequent weekday repeat venue, especially in the 3–5 p.m. window.",
+    "4992": "Another regular afternoon food stop in the user’s Brooklyn corridor, matching their errand/convenience habits.",
+    "4993": "Staying in the same area remains plausible given the last known police-station check-in and no strong evidence of a move yet.",
+    "106": "Fits the user’s transit-oriented mobility and nearby Lower Manhattan movement.",
+    "652": "A recurring Lower Manhattan transit hub that aligns with the user’s commuting-style pattern.",
+    "137": "Penn Station is a plausible afternoon transit destination for a routine-oriented commuter.",
+    "229": "Similar-user evidence and the user’s broader transit pattern make this a viable, though less likely, hub visit.",
+    "4527": "A nearby repeat food venue in the same corridor that could plausibly follow a daytime routine.",
+    "1950": "A Brooklyn transit-linked option consistent with the user’s limited geographic range."
+  },
+  "fallback": false
+}

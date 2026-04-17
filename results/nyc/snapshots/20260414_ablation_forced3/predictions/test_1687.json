@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1687",
+  "ranked_loc_ids": [
+    192,
+    2937,
+    5089,
+    2058,
+    2332,
+    1588,
+    972,
+    3384,
+    3537,
+    3539
+  ],
+  "explanations": {
+    "192": "Strong Saturday afternoon anchor in the user’s history, and it fits the downtown Greenwich Village pattern better than staying near the airport corridor.",
+    "2937": "Very close to the last stop and one of the user’s clear noon-to-afternoon favorites in the Village.",
+    "5089": "A repeated personal favorite that matches the user’s social routine, though it is a bit less time-matched than the daytime anchors.",
+    "2058": "A recurring Saturday destination in the user’s history, making it a plausible afternoon errand or school-related stop.",
+    "2332": "It is the current location and keeps the trip near Soho, but there is weaker evidence for a continued stay.",
+    "1588": "Close by and consistent with the user’s pub-heavy downtown chains, especially if they pivot into a relaxed lunch-drink stop.",
+    "972": "A nearby casual lunch option that fits an afternoon downtown movement pattern.",
+    "3384": "Fits the user’s nightlife and lounge tendencies, though it is more likely later in the day than at 13:06.",
+    "3537": "Another nearby bar in the user’s preferred neighborhood cluster, but less strongly favored than the main Village anchors.",
+    "3539": "A functional food stop that matches occasional morning/flexible behavior, but is less likely than the downtown social venues."
+  },
+  "fallback": false
+}

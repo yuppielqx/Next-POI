@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2508",
+  "ranked_loc_ids": [
+    116,
+    137,
+    3951,
+    1092,
+    4031,
+    888,
+    1619,
+    918,
+    1264,
+    962
+  ],
+  "explanations": {
+    "116": "The user’s strongest weekday commute pattern and the 17:40 Friday temporal prior both point to the return trip from Midtown toward Jamaica.",
+    "137": "This is the last known location and a highly frequent anchor near Penn Station, so a brief continued stay or nearby revisit is plausible.",
+    "3951": "A common commuter transfer point adjacent to the user’s current Midtown position makes it a realistic next stop.",
+    "1092": "It is immediately adjacent to the current location and occasionally appears in similar commuter/event-adjacent trajectories.",
+    "4031": "It is a transportation option at Penn Station, fitting the user’s transit-heavy behavior despite being less likely than the LIRR.",
+    "888": "This nearby Penn Station service location could be visited during a transit wait, though it is not a habitual destination.",
+    "1619": "A classic Penn Station-area stop that fits a quick pre-commute or post-work pause, but lacks strong history support.",
+    "918": "A nearby convenience stop that is possible for a commuter before heading out, but not strongly indicated by past behavior.",
+    "1264": "This nearby pharmacy is accessible from Penn Station and could serve a routine errand, though it is not part of the core pattern.",
+    "962": "A nearby food stop in the Penn Station area that is plausible, but the user’s travel history is much more transit-oriented."
+  },
+  "fallback": false
+}

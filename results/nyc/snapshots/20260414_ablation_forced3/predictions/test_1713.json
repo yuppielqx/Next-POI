@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1713",
+  "ranked_loc_ids": [
+    4094,
+    5070,
+    593,
+    3440,
+    1149,
+    4796,
+    1148,
+    439,
+    445,
+    3284
+  ],
+  "explanations": {
+    "4094": "This is the user’s strongest anchor location and the most likely evening return after a nearby daytime stop.",
+    "5070": "The user repeatedly uses this rail corridor, and an evening move often aligns with a commute or transit transfer.",
+    "593": "Another frequent train-station stop in their corridor, making it a plausible transit-linked next visit.",
+    "3440": "The current location is a Starbucks and the user has shown a pattern of practical coffee stops in the area.",
+    "1149": "This fits the user’s local retail errand pattern and is close to the current northeastern movement.",
+    "4796": "A coffee shop is consistent with the user’s daytime/evening routine and nearby suburban travel.",
+    "1148": "The user has a history of discretionary evening leisure like movies, especially after afternoon movement.",
+    "439": "The movement trend is northeast, and this nearby Hudson County stop matches their occasional extensions.",
+    "445": "A familiar retail destination in their broader North Jersey pattern, though less likely than closer options.",
+    "3284": "Another nearby shopping stop that fits the user’s occasional retail behavior but is less central than Lyndhurst."
+  },
+  "fallback": false
+}

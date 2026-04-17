@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_830",
+  "ranked_loc_ids": [
+    116,
+    3720,
+    3723,
+    3416,
+    664,
+    274,
+    1600,
+    3725,
+    558,
+    3719
+  ],
+  "explanations": {
+    "116": "The user’s morning commute pattern strongly favors a rail transfer from Floral Park toward Midtown, and Jamaica is the most plausible next transit step.",
+    "3720": "This is the dominant destination in the user’s history and the most likely Midtown endpoint if they are resuming a work-like trip.",
+    "3723": "A frequent Midtown lunch/food stop near the office corridor makes this a realistic follow-on after a train transfer.",
+    "3416": "The user has repeated nearby Midtown corridor activity, and this deli fits a common quick-stop pattern.",
+    "664": "This is directly tied to the user’s Midtown office area and matches a routine commuter food stop.",
+    "274": "The user has occasional leisure check-ins in the same Manhattan corridor, making this a plausible evening visit.",
+    "1600": "A repeat Midtown restaurant aligns with the user’s occasional after-work dining behavior.",
+    "3725": "The user has a history of gym visits near the office area, which can fit an evening stop.",
+    "558": "A nearby Midtown plaza is consistent with the user’s corridor-based Manhattan movement pattern.",
+    "3719": "Remaining at or returning to the origin is possible given the morning start, but less likely than a Midtown-bound move."
+  },
+  "fallback": false
+}

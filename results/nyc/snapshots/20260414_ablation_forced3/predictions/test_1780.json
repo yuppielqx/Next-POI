@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_1780",
+  "ranked_loc_ids": [
+    496,
+    723,
+    1120,
+    2795,
+    495,
+    2859,
+    2305,
+    984,
+    897
+  ],
+  "explanations": {
+    "496": "It is immediately adjacent to the last lounge and fits the strong late-night nightlife continuation pattern in Meatpacking.",
+    "723": "The user is already there and could simply remain at the same lounge at 1:36 a.m.",
+    "1120": "A nearby nightclub that matches the target hour and the user’s evening socializing habits.",
+    "2795": "Very close by and strongly aligned with a late-night Manhattan nightlife move.",
+    "495": "A hotel bar nearby that fits the time, area, and hotel/nightlife corridor prior.",
+    "2859": "A close dive bar option consistent with the user’s bar-oriented night pattern.",
+    "2305": "Nearby nightlife spot that could be a natural next stop after a lounge.",
+    "984": "A nearby music venue that fits an after-midnight entertainment continuation.",
+    "897": "Close to the current location and plausible for a late-night social stop in Meatpacking."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_691",
+  "ranked_loc_ids": [
+    3402,
+    3401,
+    1936,
+    2566,
+    2590,
+    3370,
+    2639,
+    2696,
+    237,
+    2640
+  ],
+  "explanations": {
+    "3402": "The user has a strong repeated morning pattern here, and the 10:17 Monday time prior fits a cross-Hudson coffee stop best.",
+    "3401": "It is the user’s strongest repeated anchor and is exactly where they were last, making a return plausible despite the morning timing.",
+    "1936": "A nearby coffee shop matches the morning hour and the user’s tendency toward quick transit-linked stops.",
+    "2566": "Another close coffee shop that fits a breakfast-style visit after a late-night stay in the same area.",
+    "2590": "This breakfast spot aligns well with the target time and similar users’ morning dining behavior.",
+    "3370": "A diner is consistent with the morning prior and similar-user patterns involving breakfast or brunch venues.",
+    "2639": "The user’s movement style includes transit-linked stops, making a nearby station a reasonable morning transition point.",
+    "2696": "The bus line near the current area fits the user’s history of transit-adjacent movement and a possible commute shift.",
+    "237": "The user has one prior visit to a movie theater, and similar users sometimes move from morning stops into entertainment venues.",
+    "2640": "A nearby quick-service food stop is compatible with a morning routine and short-distance movement in the same neighborhood."
+  },
+  "fallback": false
+}

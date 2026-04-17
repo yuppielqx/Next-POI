@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1557",
+  "ranked_loc_ids": [
+    4670,
+    1199,
+    1873,
+    1924,
+    2886,
+    4954,
+    1198,
+    4167,
+    1009,
+    4958
+  ],
+  "explanations": {
+    "4670": "It is the strongest recurring Sunday-evening leisure venue in the user’s history and fits the after-work nightlife pattern best.",
+    "1199": "Sunday travel history and the waterfront/transit corridor make this a plausible en-route stop toward an evening outing.",
+    "1873": "A favored Jersey City nightlife spot that matches the user’s drinks-and-socializing routine.",
+    "1924": "The user has history at this sports bar, and it fits a typical Sunday evening bar-hopping pattern.",
+    "2886": "A repeated Jersey City dining preference makes this a reasonable dinner-time destination.",
+    "4954": "Another known Jersey City Mexican stop that aligns with the user’s casual evening food pattern.",
+    "1198": "A transit hub fits the user’s sequence-based movement and commute-linked outings.",
+    "4167": "Sunday evening is a strong time for a movie theater visit, and similar users often shift to entertainment venues.",
+    "1009": "Close Manhattan Mexican dining is consistent with the user’s occasional cross-river leisure trips.",
+    "4958": "This Jersey City American restaurant is compatible with a social dinner stop, though less favored than the user’s top nightlife spots."
+  },
+  "fallback": false
+}

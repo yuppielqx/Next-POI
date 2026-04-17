@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2694",
+  "ranked_loc_ids": [
+    2476,
+    5290,
+    2485,
+    2449,
+    5138,
+    2490,
+    2486,
+    2479,
+    137,
+    647
+  ],
+  "explanations": {
+    "2476": "It is the user’s dominant weekday anchor, exactly matches the last known location, and is the strongest midday return candidate.",
+    "5290": "A nearby café within the same Chelsea work corridor, making it a plausible lunch/coffee follow-up after arriving at Morpheus Media.",
+    "2485": "It is immediately adjacent to the last location and fits a short, localized stop in the user’s tight Midtown South orbit.",
+    "2449": "Very close to the workplace cluster and consistent with the user’s repeated nearby bar/nightlife pattern, though less likely at midday.",
+    "5138": "Another nearby Chelsea nightlife venue that could be visited for a quick food/drink stop within the same block area.",
+    "2490": "A frequent noon-hour food stop that fits a workday lunch errand near West 26th Street.",
+    "2486": "A nearby recurring coffee stop that matches the user’s morning-to-midday routine around the office core.",
+    "2479": "A close-by lunch option in the same neighborhood, supported by the user’s repeated food-oriented midday movement.",
+    "137": "A strong secondary anchor near Penn Station, but slightly less likely than the immediate West 26th Street cluster.",
+    "647": "A plausible nearby midday food/coffee destination, though it is a bit farther than the most immediate Chelsea options."
+  },
+  "fallback": false
+}

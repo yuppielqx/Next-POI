@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_376",
+  "ranked_loc_ids": [
+    2247,
+    2248,
+    688,
+    2253,
+    2255,
+    2256,
+    2251,
+    2259,
+    2250,
+    3131
+  ],
+  "explanations": {
+    "2247": "It is the strongest habitual evening stop, matches the current last check-in exactly, and fits the user's tight Astoria routine.",
+    "2248": "It is essentially tied to Panera in the user's history and sits at the same micro-cluster with repeated evening transitions.",
+    "688": "The user frequently pairs this movie theater with Panera in evening outings, making it a strong next-step leisure destination.",
+    "2253": "This nearby errand stop appears in the same local cluster and fits the user's occasional small-radius evening movement.",
+    "2255": "The user regularly visits nearby bakery spots in Astoria, and this is one of the closest repeated food-oriented options.",
+    "2256": "A familiar nearby restaurant in the same neighborhood, plausible for a casual Tuesday-night dinner extension.",
+    "2251": "The user sometimes moves through nearby transit nodes, and this station is a plausible connector within the Astoria cluster.",
+    "2259": "This is a nearby casual dining venue that fits the user's evening food/leisure pattern, though with less history support.",
+    "2250": "A nearby burger joint could fit an after-work food stop, but it has little direct history compared with the top candidates.",
+    "3131": "A close coffee shop is plausible given the user's café-oriented habits, but it lacks prior visit evidence."
+  },
+  "fallback": false
+}

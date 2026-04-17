@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2599",
+  "ranked_loc_ids": [
+    142,
+    766,
+    767,
+    2335,
+    1318,
+    1819,
+    2288,
+    3736,
+    67
+  ],
+  "explanations": {
+    "142": "The user is very likely to continue with a short, practical move from Columbus Circle, and this major transit hub is the closest high-probability next step.",
+    "766": "A quick food-related stop fits the user’s leisure-oriented pattern and it is essentially adjacent to the last known location.",
+    "767": "The user is already here, so a same-place revisit or lingering food stop is still plausible at this short time gap.",
+    "2335": "Similar users around this time sometimes move into hotel-associated venues, and this is immediately adjacent to the current location.",
+    "1318": "This is directly beside the current stop and fits a nearby indoor destination during an afternoon wandering sequence.",
+    "1819": "The Allen Room in the same Columbus Circle complex is a plausible nearby venue given the user’s destination-based movement style.",
+    "2288": "A lounge visit later in the day matches the user’s social/recreational profile, though it is a bit more nightlife-oriented than the immediate time suggests.",
+    "3736": "This matches the user’s recurring recreation interests, but it is less consistent with the strong short-distance movement from Columbus Circle.",
+    "67": "Similar users at this hour often head to parks and casual destinations, but this would require a larger directional shift than the most likely nearby options."
+  },
+  "fallback": false
+}

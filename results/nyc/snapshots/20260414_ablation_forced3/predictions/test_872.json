@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_872",
+  "ranked_loc_ids": [
+    3809,
+    3808,
+    3810,
+    3347,
+    3813,
+    2191,
+    3819,
+    3350,
+    3817,
+    1263
+  ],
+  "explanations": {
+    "3809": "This is one of the user’s most frequent morning academic destinations and best fits the expected post-commute campus arrival around 09:14.",
+    "3808": "The user often visits this Queens College campus dining spot in the 9–11 a.m. window, making it a strong routine stop after reaching campus.",
+    "3810": "A heavily repeated Queens College educational facility with strong morning and Friday presence, consistent with the user’s campus-centered pattern.",
+    "3347": "Another frequent Queens College location with many 9–11 a.m. visits, likely part of the user’s standard Friday morning routine.",
+    "3813": "This campus academic building matches the user’s strong tendency to head to Queens College facilities after the Forest Hills transfer.",
+    "2191": "The user is currently in Forest Hills, so a brief transit-linked stop or transfer point remains plausible before continuing southeast.",
+    "3819": "The Q64 is the key bus connection toward Queens College, and the user’s movement trend strongly suggests this next leg.",
+    "3350": "Since this was the last known location, a short dwell or return visit is still possible, though less likely than continuing toward campus.",
+    "3817": "The user frequently uses Manhattan transfer stations, but the current southeast movement makes a return to this station less likely.",
+    "1263": "Another habitual commuter hub from the user’s history, but it is farther from the current direction of travel than the Queens College candidates."
+  },
+  "fallback": false
+}

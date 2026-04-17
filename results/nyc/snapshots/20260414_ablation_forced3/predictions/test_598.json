@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_598",
+  "ranked_loc_ids": [
+    3125,
+    2731,
+    126,
+    1663,
+    1660,
+    1421,
+    602,
+    1414,
+    4354,
+    830
+  ],
+  "explanations": {
+    "3125": "The user has just remained anchored at this home base through the night, and the strongest time-conditioned prior says they are most likely still there at 09:24.",
+    "2731": "If the user starts a morning outing, the closest historically plausible transit node from their home-centered pattern is the Douglaston rail station.",
+    "126": "This is another rail-linked option consistent with the user’s known cross-borough travel behavior, though it is less likely than Douglaston.",
+    "1663": "Flushing-Main Street LIRR Station fits the user’s train-station-heavy mobility profile and could be a next step on a morning transit trip.",
+    "1660": "Woodside Station is part of the broader rail corridor the user has previously used, making it a reasonable but lower-probability continuation.",
+    "1421": "The user has at least one prior shopping-related stop, so a brief errand destination remains possible in the morning.",
+    "602": "The user has once made a longer leisure-oriented rail trip ending here, but this is much less likely than staying local today.",
+    "1414": "A morning coffee stop fits the time of day, but there is no strong evidence this user regularly visits cafés.",
+    "4354": "As a nearby transit point in the user’s broader suburban travel area, it is a plausible but weaker morning departure choice.",
+    "830": "The Throgs Neck Bridge area is transport-related and aligns loosely with movement behavior, but it is far less supported than the rail and home options."
+  },
+  "fallback": false
+}

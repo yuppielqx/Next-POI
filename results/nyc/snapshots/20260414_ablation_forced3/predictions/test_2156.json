@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2156",
+  "ranked_loc_ids": [
+    1154,
+    2251,
+    1494,
+    5495,
+    5496,
+    2547,
+    1480,
+    1458,
+    5380,
+    4885
+  ],
+  "explanations": {
+    "1154": "It is the current transportation hub and the strongest immediate continuation from the last known morning transit stop.",
+    "2251": "This is the user’s most repeated Astoria commuter anchor and fits their early-morning transit routine.",
+    "1494": "It is a very frequent Wednesday morning destination in the user’s history and sits in the core neighborhood cluster.",
+    "5495": "The user often combines morning or mid-morning transit with routine grocery errands in western Queens.",
+    "5496": "This is a recurring weekday morning errand spot with strong neighborhood relevance and repeated 9–11 a.m. visits.",
+    "2547": "Pharmacy-style errand behavior matches the user’s utilitarian routine and frequent morning neighborhood movement.",
+    "1480": "The user sometimes pairs early transit with quick food stops near the Astoria/LIC corridor.",
+    "1458": "Morning commuter patterns make a coffee stop plausible, especially near the user’s usual transit path.",
+    "5380": "This fits the user’s practical errand profile and occurs in the same western Queens activity space.",
+    "4885": "It matches the user’s grocery/errand behavior and is another plausible mid-morning stop within their usual routine."
+  },
+  "fallback": false
+}

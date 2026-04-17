@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_824",
+  "ranked_loc_ids": [
+    3486,
+    746,
+    968,
+    937,
+    3711,
+    3718,
+    3633,
+    3715,
+    3717,
+    390
+  ],
+  "explanations": {
+    "3486": "Friday at 01:09 and a Lower East Side nightlife pattern make this a top late-night bar destination.",
+    "746": "It is a frequent midnight-to-2am stop for the user and fits the same nearby nightlife corridor.",
+    "968": "Friday-night pub behavior and its Orchard Street location make it a strong nearby continuation.",
+    "937": "This is a closely clustered LES option with repeated Friday usage and a short distance from the last location.",
+    "3711": "The user favors bar-heavy late nights, and this nearby LES bar fits the current south-west drift.",
+    "3718": "A classic late-night bar choice in the same neighborhood, consistent with similar users at this hour.",
+    "3633": "Another nearby nightlife spot in the LES that matches the user’s casual bar-hopping pattern.",
+    "3715": "It is close by and fits the user’s nightlife-oriented route, though it has weaker historical support.",
+    "3717": "This is a nearby repeat stop, but it is less consistent with the Friday 01:09 bar-circuit context.",
+    "390": "Despite being the strongest overall anchor, it is more associated with morning routine than a 1:09 a.m. nightlife move."
+  },
+  "fallback": false
+}

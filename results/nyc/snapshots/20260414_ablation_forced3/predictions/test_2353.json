@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2353",
+  "ranked_loc_ids": [
+    5113,
+    4860,
+    4502,
+    4506,
+    3986,
+    2298,
+    767,
+    137,
+    1833,
+    5208
+  ],
+  "explanations": {
+    "5113": "The user has a strong weekday morning routine around this bakery, and the afternoon lunch-period prior still favors a familiar food stop.",
+    "4860": "This is one of the user’s most repeated noon-to-2pm lunch venues and fits their strong Mexican lunch preference.",
+    "4502": "The user frequently chooses casual lunch trucks, and this matches their food-dominant weekday pattern.",
+    "4506": "A classic weekday lunch-truck choice for this user, aligned with their midday food-venue behavior.",
+    "3986": "This is another taco-lunch option that fits the user’s casual, quick-service dining style.",
+    "2298": "The user has visited this brewery during noon-to-2pm hours before, making it a plausible early afternoon stop.",
+    "767": "This is a familiar food stop for the user and could plausibly be revisited around the lunch window.",
+    "137": "The user has many prior transitions to this Penn Station-area hub, so a return remains possible despite the lunch-time bias toward food.",
+    "1833": "This Midtown location fits the user’s occasional weekday presence in the area and could follow a work-related movement.",
+    "5208": "A nearby quick lunch option in Midtown West, but it lacks the strong personal-history support of the higher-ranked food venues."
+  },
+  "fallback": false
+}

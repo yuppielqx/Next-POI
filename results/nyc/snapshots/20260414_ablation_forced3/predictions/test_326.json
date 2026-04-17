@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_326",
+  "ranked_loc_ids": [
+    2055,
+    1961,
+    2058,
+    1266,
+    5459,
+    3974,
+    4071,
+    9,
+    3527,
+    2057
+  ],
+  "explanations": {
+    "2055": "Midday Wednesday timing and the user’s strongest recurrent pattern both point to a return to their main academic anchor.",
+    "1961": "It is a nearby NYU-related educational spot in the user’s core downtown corridor and fits a class-time stop.",
+    "2058": "This Brooklyn academic building matches the user’s school-centered routine and occasional movement toward Polytechnic locations.",
+    "1266": "A nearby university destination that fits the midday academic prior and the user’s strong student-like schedule.",
+    "5459": "A library stop is plausible around class time, especially given the user’s academic profile and proximity to the current area.",
+    "3974": "A very close food stop could follow the last event-space location, but it is less consistent with the user’s main campus routine.",
+    "4071": "A quick café visit is plausible during midday movement in Lower Manhattan, especially before or after class.",
+    "9": "Another nearby café option that fits a brief daytime break in the user’s compact downtown travel pattern.",
+    "3527": "The user may be in transit south-east within Lower Manhattan, making a subway stop a reasonable intermediate move.",
+    "2057": "The user does visit gyms, but this is a weaker fit for the midday academic prior and is farther from the current location."
+  },
+  "fallback": false
+}

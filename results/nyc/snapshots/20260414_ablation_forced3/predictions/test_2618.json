@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2618",
+  "ranked_loc_ids": [
+    5724,
+    5725,
+    3394,
+    1200,
+    704,
+    123,
+    5378,
+    136,
+    1509,
+    3817
+  ],
+  "explanations": {
+    "5724": "This is the strongest historical morning anchor and best fits a Monday 06:03 commute origin in Queens.",
+    "5725": "A nearby Queens breakfast stop that fits the early morning commute pattern and home-area proximity.",
+    "3394": "Another Queens E/F transit point that could plausibly serve as an early commute access station.",
+    "1200": "A major Queens transit hub consistent with a weekday morning movement toward work or transfer.",
+    "704": "The user was just in Elmhurst/Queens and could briefly remain in the area for an early errand.",
+    "123": "Similar users and the current vicinity make this a plausible nearby Queens stop despite the very early time.",
+    "5378": "A close Queens shopping destination that matches the user’s recent north-east movement from Queens Place.",
+    "136": "Their history includes bridge crossings, so an early commute-related move across the East River is possible.",
+    "1509": "A repeat Manhattan zone in the user’s pattern, though less likely before their usual later morning arrival.",
+    "3817": "A frequent Manhattan morning station in their history, but it is less likely than a Queens-origin location at 06:03."
+  },
+  "fallback": false
+}

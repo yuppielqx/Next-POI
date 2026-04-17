@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_555",
+  "ranked_loc_ids": [
+    2984,
+    779,
+    775,
+    387,
+    2988,
+    332,
+    2339,
+    2981,
+    2985,
+    192
+  ],
+  "explanations": {
+    "2984": "It is a very close downtown restaurant that fits the user’s strong Sunday-evening food pattern after an eastward move from The Mud Truck.",
+    "779": "This nearby pub matches the user’s late-afternoon-to-evening socializing and bar-hopping behavior in the East Village.",
+    "775": "A familiar nearby nightlife spot in the user’s core downtown cluster, consistent with a short hop for drinks.",
+    "387": "The user has prior interest in LES hotel-bar social venues, making this a plausible evening continuation.",
+    "2988": "This nearby bar aligns with the user’s bar-oriented evening routine and Lower East Side mobility.",
+    "332": "It is within the user’s favored Union Square area, though the evening timing makes it less likely than food or drinks.",
+    "2339": "The user frequently visits coffee spots, and this nearby café fits a short transition stop.",
+    "2981": "A nearby Italian restaurant that matches the user’s repeated casual dining pattern in downtown Manhattan.",
+    "2985": "This very close dessert stop could follow an evening food outing, though it is less typical than dinner or drinks.",
+    "192": "A strong recurring anchor in the user’s history, but the time suggests a venue stop is more likely than a park visit."
+  },
+  "fallback": false
+}

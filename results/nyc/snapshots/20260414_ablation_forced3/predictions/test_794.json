@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_794",
+  "ranked_loc_ids": [
+    3653,
+    3652,
+    1445,
+    1069,
+    814,
+    611,
+    3314,
+    548,
+    583,
+    3335
+  ],
+  "explanations": {
+    "3653": "It is the strongest late-night Midtown nightlife match with heavy 00:43 and Wednesday history, fitting the user’s repeated return pattern.",
+    "3652": "This is another core Times Square venue with substantial overall recurrence and multiple Wednesday and midnight-to-2am visits.",
+    "1445": "A highly plausible bar stop in the same nightlife corridor, with strong midnight-hour overlap in the user’s history.",
+    "1069": "This Midtown bar matches the user’s established Theater District pattern and late-night movement style.",
+    "814": "A nearby vibrant nightlife venue in the same cluster, making it a reasonable after-hours destination.",
+    "611": "A Times Square food stop that fits the user’s dinner-to-nightlife transition behavior.",
+    "3314": "A late-night entertainment venue in the same district, consistent with the user’s nightlife-oriented outings.",
+    "548": "A Midtown lounge that matches the user’s bar-and-nightlife preferences and familiar area.",
+    "583": "A nearby Manhattan bar that aligns with the user’s after-dark mobility and nightlife profile.",
+    "3335": "A karaoke bar in the Theater District that fits the user’s late-night social venue pattern."
+  },
+  "fallback": false
+}

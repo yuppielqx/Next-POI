@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_846",
+  "ranked_loc_ids": [
+    3528,
+    3747,
+    5628,
+    2165,
+    3750,
+    819,
+    5627,
+    2650,
+    3749,
+    2016
+  ],
+  "explanations": {
+    "3528": "The user is already there at the last check-in, and the time gap is only one minute, making a same-station linger the most likely next move.",
+    "3747": "This is one of the user’s strongest recurring Brooklyn transit anchors and fits the very short-hop return pattern around this corridor.",
+    "5628": "It is the closest nearby road/intersection and plausibly represents a brief movement within the immediate Utica Avenue area.",
+    "2165": "The user often moves between nearby Brooklyn train stations, and Saratoga Av is a close transit option in the same general East Flatbush/Brownsville zone.",
+    "3750": "Franklin Avenue is a heavily repeated midday station for this user and fits the Brooklyn subway corridor pattern.",
+    "819": "This is a frequent transit hub in the user’s history and a plausible downstream station in their usual Brooklyn movement chain.",
+    "5627": "A nearby education/cultural POI could be a short walk destination after a station check-in, though it is less consistent with the user’s transit-heavy pattern.",
+    "2650": "Church Avenue is within the broader Brooklyn corridor the user uses often, making it a reasonable station-to-station next stop.",
+    "3749": "The user has a repeated habit of Dunkin stops near transit movements, so a quick convenience visit remains possible.",
+    "2016": "Kings Highway is a known repeat destination for this user, but the distance and immediate timing make it less likely than closer corridor stops."
+  },
+  "fallback": false
+}

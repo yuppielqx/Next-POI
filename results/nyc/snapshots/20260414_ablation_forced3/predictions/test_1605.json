@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1605",
+  "ranked_loc_ids": [
+    4969,
+    8,
+    219,
+    1082,
+    496,
+    2215,
+    1578,
+    3371,
+    2435,
+    984
+  ],
+  "explanations": {
+    "4969": "Fits the user’s Sunday evening food-and-drinks pattern in the West Village/Meatpacking corridor and is explicitly the strongest time-conditioned match.",
+    "8": "A nearby gastropub that matches the user’s evening social dining behavior and southwest movement from Pastis.",
+    "219": "Very close to the last location and aligns with the user’s nightlife-heavy late Sunday tendencies.",
+    "1082": "Nearby Meatpacking nightlife venue that fits a transition from dinner toward drinks around 22:12.",
+    "496": "A lounge right next to the current area, making it plausible for a late-evening social stop.",
+    "2215": "Close by and consistent with the user’s after-dark tendency to continue within the same nightlife cluster.",
+    "1578": "Nearby casual dinner option that matches the user’s food-plus-social outing style.",
+    "3371": "A close food venue that could follow a Sunday dinner stop in the Meatpacking district.",
+    "2435": "Adjacent French restaurant that fits the user’s preference for dining venues in the same neighborhood.",
+    "984": "A nearby music venue that is plausible for a later-night entertainment move after dinner."
+  },
+  "fallback": false
+}

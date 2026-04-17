@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1537",
+  "ranked_loc_ids": [
+    1797,
+    4796,
+    1149,
+    4927,
+    557,
+    3078,
+    859,
+    445,
+    88,
+    53
+  ],
+  "explanations": {
+    "1797": "This is the user's strongest historical anchor, matches the last known location, and fits the morning routine pattern in Clifton.",
+    "4796": "It is immediately adjacent to Michaels and fits the user's recurring coffee-and-errand corridor behavior.",
+    "1149": "A nearby Clifton retail stop that aligns with the user's shopping-heavy local routine and morning return pattern.",
+    "4927": "A close-by convenience stop in the same New Jersey corridor, plausible for a brief morning pickup before traveling onward.",
+    "557": "The user has a strong history of tunnel check-ins and often transitions toward Manhattan after Clifton-area stops.",
+    "3078": "Another practical retail destination in Clifton that matches the user's errands-oriented movement profile.",
+    "859": "Very close to the last location and consistent with a short local stop during a morning shopping route.",
+    "445": "A familiar regional shopping destination that appears in the user's history and fits the broader retail pattern.",
+    "88": "A plausible Manhattan-bound access point given the user's repeated New York corridor travel.",
+    "53": "A major Midtown transit hub that is consistent with the user's typical Manhattan destinations after crossing from New Jersey."
+  },
+  "fallback": false
+}

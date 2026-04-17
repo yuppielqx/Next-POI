@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2656",
+  "ranked_loc_ids": [
+    271,
+    116,
+    1399,
+    2656,
+    5586,
+    402,
+    4262,
+    137,
+    4762,
+    766
+  ],
+  "explanations": {
+    "271": "The user is most likely continuing the airport transfer from Jamaica toward a JFK terminal based on the last location and short time gap.",
+    "116": "This is immediately adjacent to the last known point and fits a brief transit connection or platform transfer.",
+    "1399": "The user is already at this station area, so they may still be on or around the AirTrain connection at 17:35.",
+    "2656": "A nearby transit node that fits continued movement through the Jamaica airport corridor.",
+    "5586": "This track-level rail option is very close and plausible if the user is switching trains within Jamaica.",
+    "402": "Airport behavior exists in the user history, but this is much less likely than the current JFK trajectory.",
+    "4262": "The office dominates the overall profile, but it is far from the current airport-side movement and time window.",
+    "137": "Penn Station is a recurring transit point in the user history and could be a broader travel connection, though it conflicts with the southeast airport trend.",
+    "4762": "A Midtown food stop fits the user’s routine, but it is inconsistent with the current location and direction.",
+    "766": "A practical errand location in the user’s orbit, though much less likely than remaining in the JFK/Jamaica transit system."
+  },
+  "fallback": false
+}

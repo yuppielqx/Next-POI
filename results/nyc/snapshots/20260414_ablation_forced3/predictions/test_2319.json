@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2319",
+  "ranked_loc_ids": [
+    142,
+    550,
+    766,
+    1818,
+    2280,
+    106,
+    107,
+    1199,
+    1664,
+    5180
+  ],
+  "explanations": {
+    "142": "It is essentially at the current spot and fits the strong staying-nearby pattern at Columbus Circle.",
+    "550": "This is the same Columbus Circle area with zero distance, making it a very likely immediate nearby check-in.",
+    "766": "Already the last known location, so a brief continued stay or re-check-in is plausible.",
+    "1818": "A tiny move within the same cluster would naturally lead to this nearby park location.",
+    "2280": "Another adjacent Columbus Circle/Central Park edge spot consistent with lingering nearby.",
+    "106": "A common next step for this commuter if they begin the return transit chain downtown.",
+    "107": "This matches the user’s Jersey City/Newport transit behavior and is a strong commuting-hub alternative.",
+    "1199": "A frequent weekday transit anchor that often appears in the user’s Bayonne/Jersey City corridor.",
+    "1664": "Another regular cross-Hudson transfer point that fits the user’s structured commute pattern.",
+    "5180": "The user’s strongest home-base station remains a plausible evening destination if they head back to Bayonne."
+  },
+  "fallback": false
+}

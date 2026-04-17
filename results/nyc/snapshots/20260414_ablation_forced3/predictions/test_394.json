@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_394",
+  "ranked_loc_ids": [
+    67,
+    2348,
+    2355,
+    4521,
+    2557,
+    893,
+    2998,
+    1116,
+    3361,
+    4231
+  ],
+  "explanations": {
+    "67": "It is the closest historically frequent Tuesday spot in the user’s core Manhattan corridor and fits a continued short late-night move.",
+    "2348": "A very nearby Union Square-area McDonald's matches the user’s fast-food tendency and immediate post-food continuation pattern.",
+    "2355": "The strongest inertia option is to remain at the current late-night food stop for a bit longer.",
+    "4521": "This is an ultra-nearby grocery stop in the same corridor and plausible for a quick late-night errand.",
+    "2557": "A nearby pharmacy fits a brief after-hours convenience stop with almost no spatial deviation.",
+    "893": "Another very close food option in Union Square aligns with the user’s late-night dining behavior.",
+    "2998": "This nearby Mexican restaurant is consistent with the current food-corridor movement and time of night.",
+    "1116": "A close nightlife venue could follow a late-night food stop, especially given the user’s evening-heavy pattern.",
+    "3361": "This nearby bar is a plausible nightlife continuation but slightly less likely than remaining on the food path.",
+    "4231": "A nearby karaoke/nightlife venue fits the hour and corridor, though it is less supported by the user’s food-first tendency."
+  },
+  "fallback": false
+}

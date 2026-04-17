@@ -1,0 +1,26 @@
+{
+  "traj_id": "test_2114",
+  "ranked_loc_ids": [
+    5457,
+    4186,
+    4191,
+    3724,
+    4045,
+    4422,
+    895,
+    805,
+    135
+  ],
+  "explanations": {
+    "5457": "It is the user's dominant anchor with the strongest history, a same-area return pattern, and the best match for the Friday afternoon routine.",
+    "4186": "It is very close to the last location and fits the user's repeated local outdoor circuit around Little Bay.",
+    "4191": "It is another major recurring anchor nearby, though less likely than the park on a Friday afternoon.",
+    "3724": "It is extremely close to the dog run and could plausibly be a nearby follow-on stop in the same local area.",
+    "4045": "It is a nearby Bayside Queens outdoor/recreation location that fits the user's neighborhood-based mobility.",
+    "4422": "It is a plausible nearby afternoon food stop in the user's broader Queens routine.",
+    "895": "It has prior history with the user and is a feasible local leisure destination within Queens.",
+    "805": "It matches the user's outdoor preference, though it is farther from the current cluster than the top choices.",
+    "135": "LaGuardia Airport is a past visit, but it is less consistent with the user's localized midday routine."
+  },
+  "fallback": false
+}

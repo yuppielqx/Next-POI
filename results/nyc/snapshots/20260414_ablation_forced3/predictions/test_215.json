@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_215",
+  "ranked_loc_ids": [
+    1500,
+    1498,
+    1502,
+    1499,
+    1501,
+    1504,
+    1503,
+    425,
+    1647,
+    1505
+  ],
+  "explanations": {
+    "1500": "The user repeatedly visits this bagel shop in their tightly clustered Brooklyn routine, and it best matches the habitual morning-to-evening local pattern.",
+    "1498": "This grocery store is one of the user’s core repeat Brooklyn stops and aligns well with their practical, neighborhood-based food errands.",
+    "1502": "The salad place fits the user’s recurring Downtown Brooklyn specialty-food circuit and is strongly supported by prior visits.",
+    "1499": "This gourmet shop is part of the same small Brooklyn cluster the user returns to regularly, making it a plausible evening revisit.",
+    "1501": "The user has history with this nearby Brooklyn pizza spot, and food-focused behavior makes it a reasonable next stop.",
+    "1504": "Evening timing and prior entertainment history make this a credible Brooklyn destination despite fewer visits than the food venues.",
+    "1503": "This nearby food-and-drink shop fits the user’s local neighborhood movement and could be part of a short evening errand loop.",
+    "425": "The nearby cinema is consistent with the user’s occasional cultural stops and the evening time prior.",
+    "1647": "A CVS/pharmacy-type stop could fit a practical evening errand, though it is less aligned than the user’s usual Brooklyn anchors.",
+    "1505": "The current Manhattan location is plausible only as a continuation of the recent trip, but it is much less consistent with the user’s broader Brooklyn-centered history."
+  },
+  "fallback": false
+}

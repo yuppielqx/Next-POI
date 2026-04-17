@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1396",
+  "ranked_loc_ids": [
+    1534,
+    2530,
+    2067,
+    2100,
+    3060,
+    3275,
+    1840,
+    350,
+    2477,
+    2490
+  ],
+  "explanations": {
+    "1534": "It is a repeated weekday-evening destination in the user’s immediate corridor and fits the strong pattern of quick, nearby food stops.",
+    "2530": "This is one of the user’s two repeat places and sits very close to the current position in the same Flatiron/Chelsea circuit.",
+    "2067": "A familiar nearby coffee stop that matches the user’s frequent quick food-and-drink errand pattern.",
+    "2100": "Another close, convenient drink/coffee option that fits a late-evening short stop in the same neighborhood.",
+    "3060": "A nearby casual dining choice consistent with the user’s history of fast, local food visits.",
+    "3275": "This matches the user’s quick-service food behavior and remains within the same walkable area.",
+    "1840": "A plausible nearby beverage stop for a brief evening errand in the same micro-area.",
+    "350": "The user is already there, and a brief continued stay or immediate return-like prediction is still possible given the local pizza-hopping pattern.",
+    "2477": "A nearby café option that fits the same casual food routine and is close to the last known location.",
+    "2490": "A nearby food stop along the same 6th Avenue corridor that could fit a short, practical evening visit."
+  },
+  "fallback": false
+}

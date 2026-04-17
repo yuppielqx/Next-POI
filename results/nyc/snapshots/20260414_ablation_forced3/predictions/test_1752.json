@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1752",
+  "ranked_loc_ids": [
+    650,
+    1860,
+    1833,
+    1036,
+    2132,
+    338,
+    97,
+    609,
+    548,
+    271
+  ],
+  "explanations": {
+    "650": "Strong same-hour nightlife recurrence and a close Midtown/Chelsea alternative if they leave Pacha.",
+    "1860": "The last known venue is still the most likely return point given the short 1 hour 45 minute gap.",
+    "1833": "A frequent late-night anchor and plausible fallback after clubbing in Midtown West.",
+    "1036": "Fits the user’s Thursday-night music-venue pattern and late-evening entertainment behavior.",
+    "2132": "A repeated social stop for this user, though less likely than a club at 22:30.",
+    "338": "A common daytime/evening repeat, but the target time is a bit late for this category.",
+    "97": "Nearby nightlife/lounge option that fits a gradual move within the nightlife corridor.",
+    "609": "Close by and category-consistent with late-night bar hopping in Midtown West.",
+    "548": "Another nearby nightlife option that matches the user’s entertainment-heavy profile.",
+    "271": "Strong in the overall history, but geographically and temporally less likely than a nearby night venue."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_336",
+  "ranked_loc_ids": [
+    2097,
+    1924,
+    1342,
+    1812,
+    779,
+    2445,
+    2941,
+    2082,
+    77,
+    3712
+  ],
+  "explanations": {
+    "2097": "The user was just there twice overnight, has repeated history there, and the movement trend suggests staying anchored in the same Lower Manhattan area.",
+    "1924": "It is very close to Phebe's, matches the user's sports-bar/nightlife tendencies, and similar users often transition to bars around this time.",
+    "1342": "This is a frequent gastropub-like stop for the user and fits the nearby downtown bar-hopping pattern.",
+    "1812": "The target is Sunday early afternoon, making a familiar food-oriented stop plausible after the late-night outing.",
+    "779": "It is immediately adjacent to the current location and fits the user's bar-heavy profile for a short, low-friction move.",
+    "2445": "This nearby beer-garden/bar option is highly consistent with a same-area nightlife continuation.",
+    "2941": "A nearby restaurant choice is plausible given the afternoon time prior and the user’s occasional food stops.",
+    "2082": "This close-by bar fits the user’s selective downtown nightlife pattern and could be a brief continuation from Bowery.",
+    "77": "The hotel bar nearby aligns with the user’s late-night social behavior and is a reasonable nearby alternative.",
+    "3712": "A nearby rock club is compatible with the user’s nightlife orientation, though less likely than bars or restaurants."
+  },
+  "fallback": false
+}

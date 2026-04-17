@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2169",
+  "ranked_loc_ids": [
+    4075,
+    390,
+    3680,
+    4823,
+    2168,
+    3,
+    715,
+    5502,
+    2430,
+    37
+  ],
+  "explanations": {
+    "4075": "The user has a strong late-night nightlife pattern, and this is their most repeated evening venue in the nearby East Village/LES corridor.",
+    "390": "New Year’s Eve at night makes a dinner-to-nightlife stop plausible, and this SoHo restaurant is very close to the last location.",
+    "3680": "A bar-and-grill fits the evening transition pattern and the user’s mixed restaurant/nightlife behavior.",
+    "4823": "The user has history with sushi restaurants, and this Lower Manhattan dinner option matches the target time well.",
+    "2168": "This nightlife spot fits the user’s evening profile, though it is slightly farther from the current south-west trajectory.",
+    "3": "A bar aligns with the user’s late-night rhythm and is a reasonable Manhattan nightlife continuation.",
+    "715": "The user has visited this rock club before, and similar users often move into music venues around this time.",
+    "5502": "Coffee is a recurring habit, but the night-time prior makes this less likely than nightlife or dinner.",
+    "2430": "A nearby food stop is plausible for a pre-night-out meal, though it is less consistent than bar/club options.",
+    "37": "Very close to the current location and behaviorally plausible as a quick stop, but not as strong a match for 22:32 on New Year’s Eve."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2598",
+  "ranked_loc_ids": [
+    271,
+    1399,
+    3722,
+    135,
+    4016,
+    2066,
+    1785,
+    2065,
+    2660,
+    3719
+  ],
+  "explanations": {
+    "271": "The user has repeated Tuesday morning visits here, and the recent airport-heavy sequence makes JFK the strongest continuation.",
+    "1399": "Similar users at this time were at the airport corridor and then the AirTrain, making this a strong transit-linked next stop.",
+    "3722": "Early-morning gym visits are a core habit for this user, so a return to the gym remains highly plausible.",
+    "135": "The user has airport-linked behavior in eastern Queens, and this nearby major airport fits the current movement trend.",
+    "4016": "The user frequently visits this college academic building in the early morning, so it is a reasonable routine destination.",
+    "2066": "This Manhattan coffee stop matches the user’s campus/work pattern and early-day caffeine routine.",
+    "1785": "A Midtown coffee stop is consistent with the user’s weekday morning travel and work/study rhythm.",
+    "2065": "Another Manhattan Starbucks fits the user’s repeated coffee-shop behavior near Midtown.",
+    "2660": "Given the eastern Queens commuting pattern, a rail station is plausible as a transit step.",
+    "3719": "This nearby commuter rail option aligns with the user’s broad east-Queens movement and morning travel routine."
+  },
+  "fallback": false
+}

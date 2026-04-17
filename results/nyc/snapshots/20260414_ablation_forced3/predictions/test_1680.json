@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1680",
+  "ranked_loc_ids": [
+    1030,
+    1529,
+    3196,
+    1528,
+    1059,
+    1527,
+    1541,
+    1060,
+    1882,
+    626
+  ],
+  "explanations": {
+    "1030": "The user is already at Metropolitan and the strongest late-night pattern favors staying in a nearby nightlife venue rather than making a big move.",
+    "1529": "It matches the user’s recurring midnight-to-2am gay-bar pattern and is a natural next stop in the West Village nightlife corridor.",
+    "3196": "A highly likely late-night gay bar destination for this user, fitting their established Chelsea/LGBTQ nightlife behavior.",
+    "1528": "This is another strong Manhattan nightlife option with prior visits, aligning well with the Saturday night bar-hopping trend.",
+    "1059": "A nearby East Village nightlife venue that fits the user’s tendency to continue the evening at bars around 2am.",
+    "1527": "A historically consistent gay-bar stop for this user, and the late-night timing makes it plausible.",
+    "1541": "A Chelsea bar that fits the user’s nightlife profile and could follow a nearby bar sequence.",
+    "1060": "Another gay bar candidate with good profile match, though it is slightly less aligned with the immediate trajectory.",
+    "1882": "Late-night dining is a recurring post-bar pattern for this user, making this a plausible follow-up after nightlife.",
+    "626": "A less likely but still plausible entertainment stop if the user shifts from nightlife to late-night screening or hanging out."
+  },
+  "fallback": false
+}

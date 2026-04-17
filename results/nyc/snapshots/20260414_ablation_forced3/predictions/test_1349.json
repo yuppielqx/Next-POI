@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1349",
+  "ranked_loc_ids": [
+    114,
+    3179,
+    1489,
+    1429,
+    4697,
+    2016,
+    4701,
+    3917,
+    3359,
+    812
+  ],
+  "explanations": {
+    "114": "This is the strongest match to the user’s repeated 08:30 weekday commute pattern and the most likely in-transit bridge crossing stop.",
+    "3179": "The user repeatedly checks in here during the morning bridge corridor, making it a nearly identical alternative to the Manhattan Bridge segment.",
+    "1489": "As the usual Midtown East work anchor, it is the most likely next destination immediately after the transit segment.",
+    "1429": "This major hub fits the user’s routine arrival area in Midtown East and often appears just before or around work arrival.",
+    "4697": "The home-base Brooklyn pattern makes this southern Brooklyn station a plausible fallback, especially if the morning commute sequence is starting earlier than usual.",
+    "2016": "This is a highly routine weekday origin point for the user and can appear at the start of the morning commute.",
+    "4701": "The user has occasional early fitness activity, so a pre-commute gym stop is possible though less likely than the transit corridor.",
+    "3917": "A morning breakfast/caffeine stop in Midtown East is plausible given the user’s occasional food deviations around commute time.",
+    "3359": "A coffee stop near Midtown aligns with the user’s weekday morning routine and work-bound trajectory.",
+    "812": "A quick food-market stop near the work corridor is possible, but it is less central than the main commute nodes."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1257",
+  "ranked_loc_ids": [
+    1428,
+    1440,
+    288,
+    1443,
+    1430,
+    626,
+    59,
+    3777,
+    97,
+    3468
+  ],
+  "explanations": {
+    "1428": "It is immediately adjacent to the last bar stop and fits the strongest nearby Manhattan continuation pattern.",
+    "1440": "Another same-block nightlife option that matches an evening bar-to-bar transition.",
+    "288": "The user may remain at or return to the current bar given the very short 8-minute gap.",
+    "1443": "A nearby pub alternative that fits the same Midtown drinking corridor.",
+    "1430": "Extremely close to the last location, making it a plausible nearby walk without changing neighborhood.",
+    "626": "The user often ends evening Manhattan outings at a movie theater, and this is a known leisure destination nearby.",
+    "59": "A common continuation for evening Manhattan movement and close to the current Midtown area.",
+    "3777": "A plausible nearby nightlife stop consistent with the user's bar-heavy evening pattern.",
+    "97": "Fits the dinner-drinks pattern, though it is farther than the closest Midtown options.",
+    "3468": "A habitual Bronx anchor, but the timing and current Manhattan evening context make it less likely now."
+  },
+  "fallback": false
+}

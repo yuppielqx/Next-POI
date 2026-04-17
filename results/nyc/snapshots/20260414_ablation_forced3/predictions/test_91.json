@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_91",
+  "ranked_loc_ids": [
+    681,
+    678,
+    679,
+    689,
+    687,
+    685,
+    694,
+    682,
+    702,
+    123
+  ],
+  "explanations": {
+    "681": "Strongest time-and-location continuity from the last known campus stop, and Tuesday morning fits the user’s habitual academic routine.",
+    "678": "A top morning habit for this user, and the 8:57 a.m. prior matches their frequent gym-time pattern.",
+    "679": "Very close to the last location and a highly common campus transition point, making it a natural next stop.",
+    "689": "Another immediate St. John’s campus building with strong transition history, so it fits a short morning move.",
+    "687": "Morning coffee/food behavior is plausible here, especially given the early weekday timing and prior stop history.",
+    "685": "Similar users at this time often head to coffee spots, and this is a feasible morning routine destination.",
+    "694": "A practical weekday morning errand stop in the same Queens corridor, though less likely than campus or gym.",
+    "682": "The user has shopping and fitness-related movement patterns that make a sporting goods stop possible.",
+    "702": "Grocery stops appear occasionally in the profile, and this fits a utilitarian morning errand pattern.",
+    "123": "A plausible daytime errand destination, but it is less consistent with the user’s tight campus-centered routine."
+  },
+  "fallback": false
+}

@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2087",
+  "ranked_loc_ids": [
+    5442,
+    36,
+    68,
+    2639,
+    5441,
+    928,
+    1641,
+    5324,
+    4435,
+    4436
+  ],
+  "explanations": {
+    "5442": "The strongest prior says the user is likely still at or returning to their main residential anchor in Brooklyn at Monday morning.",
+    "36": "This is the user's recurring Brooklyn transit gateway and the most probable first move if leaving home.",
+    "68": "This residential-area stop closely matches the user’s Canarsie cluster and frequent southeast Brooklyn pattern.",
+    "2639": "The user repeatedly uses this East Village L-train node in late-night round trips, so it remains a plausible next transit point.",
+    "5441": "This East Village CVS/pharmacy is tightly paired with the 1st Ave station in the user's history and often appears in the same sequence.",
+    "928": "The user has a repeated late-night food habit here near the 1st Ave L station, making it a plausible nearby stop.",
+    "1641": "Broadway Junction is a recurring transfer hub for similar transit-heavy users and fits a southeast Brooklyn movement path.",
+    "5324": "The user has visited this before and morning hours can align with gym activity, though it is less central than home or transit.",
+    "4435": "This nearby food option fits the user's residential-area travel corridor, but there is little direct history supporting it.",
+    "4436": "A practical nearby errand destination in the same Brooklyn cluster, but it is weaker than home, transit, or food stops."
+  },
+  "fallback": false
+}

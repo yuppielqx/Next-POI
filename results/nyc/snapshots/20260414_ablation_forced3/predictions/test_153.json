@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_153",
+  "ranked_loc_ids": [
+    851,
+    1186,
+    1188,
+    3320,
+    3468,
+    1189,
+    2716,
+    1174,
+    3325,
+    3474
+  ],
+  "explanations": {
+    "851": "This is one of the user’s two dominant anchor points in the Bronx and is repeatedly paired with their habitual coffee stop.",
+    "1186": "The user’s signature coffee shop with the strongest historical frequency, making it the most plausible routine stop.",
+    "1188": "Their history shows transit-linked transitions, and this bus line fits the likely return-to-routine movement.",
+    "3320": "A nearby transit option in the same Bronx cluster that matches the user’s localized off-hours travel pattern.",
+    "3468": "The user occasionally uses transit hubs, and this station is a plausible evening connector in the Bronx.",
+    "1189": "Nearby to the core area and consistent with a return into the same Bronx neighborhood rather than a citywide trip.",
+    "2716": "A local Bronx destination within the user’s broader habitual area and plausible for an evening errand.",
+    "1174": "Another coffee stop in the Bronx that fits the user’s strong coffee-shop preference.",
+    "3325": "A nearby food option that could plausibly be visited during an evening return in the neighborhood.",
+    "3474": "A nearby late-day food stop in the Bronx, but less consistent with the user’s coffee-centered historical pattern."
+  },
+  "fallback": false
+}

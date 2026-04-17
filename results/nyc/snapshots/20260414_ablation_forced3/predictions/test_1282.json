@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1282",
+  "ranked_loc_ids": [
+    3953,
+    5741,
+    4323,
+    3075,
+    3240,
+    3920,
+    559,
+    3407,
+    274,
+    1489
+  ],
+  "explanations": {
+    "3953": "It is the strongest immediate continuation from Grand Central with very high historical transition frequency and matches a quick midday stop.",
+    "5741": "Track 18/19 is another near-identical Grand Central transit location and fits the user’s immediate short-range movement pattern.",
+    "4323": "A coffee stop is highly plausible two minutes after the last observation and mirrors the user’s midday food/coffee routine.",
+    "3075": "Pershing Square Café is a nearby coffee shop that fits the time, location, and the user’s lunch-hour habit.",
+    "3240": "A food venue inside the same terminal aligns with the user’s midday dining bias and nearby movement.",
+    "3920": "This is one of the user’s known Saturday-friendly food stops and remains plausible within the Grand Central area.",
+    "559": "A nearby restaurant fits the lunchtime pattern and similar users often continue from coffee to a meal.",
+    "3407": "Similar users frequently move from coffee to a nearby restaurant, and this is a strong Midtown food destination.",
+    "274": "A short south-west move could reach Bryant Park, and it is a common nearby destination for midday breaks.",
+    "1489": "This nearby Lexington corridor stop is consistent with a short continuation, though it is less aligned with the user’s food-focused pattern."
+  },
+  "fallback": false
+}

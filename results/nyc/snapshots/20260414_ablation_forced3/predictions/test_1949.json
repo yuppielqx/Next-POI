@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_1949",
+  "ranked_loc_ids": [
+    5142,
+    3141,
+    1787,
+    214,
+    3368,
+    4085,
+    4761,
+    4457,
+    2163,
+    1772
+  ],
+  "explanations": {
+    "5142": "It is immediately nearby in Chinatown and fits the user’s strong dining pattern after a Chinese lunch stop.",
+    "3141": "A very close casual food option that matches an afternoon follow-on meal or snack.",
+    "1787": "A direct repeat at the current restaurant is plausible given the medium revisit tendency and same-day dining sequence.",
+    "214": "This nearby Midtown-adjacent food stop fits the user’s preference for Asian restaurants and compact outing sequences.",
+    "3368": "A nearby Asian restaurant in the user’s preferred Manhattan corridor, likely if they shift back toward Midtown after lunch.",
+    "4085": "A familiar Sunday afternoon Japanese restaurant with strong historical alignment for this time window.",
+    "4761": "This nearby East Village stop matches the user’s occasional shopping/errand behavior after meals.",
+    "4457": "A casual American restaurant in Midtown East, consistent with the user’s afternoon dining and south-west drift.",
+    "2163": "A reliable lunch-to-afternoon restaurant choice that fits the user’s routine of compact meal outings.",
+    "1772": "A familiar American restaurant in the user’s core Midtown leisure zone, plausible for an afternoon follow-up stop."
+  },
+  "fallback": false
+}

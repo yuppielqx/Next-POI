@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2027",
+  "ranked_loc_ids": [
+    2353,
+    4763,
+    3911,
+    4815,
+    5405,
+    3254,
+    4616,
+    5402,
+    5406,
+    5403
+  ],
+  "explanations": {
+    "2353": "It is the closest familiar area and fits the user’s strong neighborhood-corridor behavior after a late-night stop.",
+    "4763": "It is the immediate last location and a nearby fast-food stop makes a short continuation plausible.",
+    "3911": "It is extremely close and is a restaurant-like nearby option that matches a quick next move.",
+    "4815": "A short daytime errand in Washington Heights is consistent with the user’s routine daytime patterns.",
+    "5405": "This is one of the user’s most visited routine anchors in the Upper Manhattan/Bronx corridor.",
+    "3254": "The user frequently uses transit in this corridor, especially around midday and afternoon.",
+    "4616": "The gym is a repeated weekday habit and aligns well with the afternoon time prior.",
+    "5402": "This is a strong repeated leisure venue in the user’s familiar Spanish/Latin social corridor.",
+    "5406": "Another frequent nightlife/dining stop that matches the user’s established social pattern.",
+    "5403": "It is part of the same familiar restaurant set, but is slightly less likely than the other recurring anchors."
+  },
+  "fallback": false
+}

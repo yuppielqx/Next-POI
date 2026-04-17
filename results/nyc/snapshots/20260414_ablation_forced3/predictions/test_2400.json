@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2400",
+  "ranked_loc_ids": [
+    1032,
+    5485,
+    120,
+    53,
+    112,
+    1522,
+    3989,
+    4650,
+    2743,
+    301
+  ],
+  "explanations": {
+    "1032": "This is the user's strongest recurrent Upper Manhattan node and fits a late-night return trip pattern on a Sunday.",
+    "5485": "Another highly repeated Washington Heights transit anchor that aligns with the user's established northbound commute routine.",
+    "120": "The Harlem corridor is a secondary frequent transit area for this user and is plausible for a late-night subway move.",
+    "53": "This major transportation hub is heavily visited in the user's history and can serve as a transfer point near their usual network.",
+    "112": "A plausible intermediate subway stop for a northbound trip, especially given the user's recent transit-centered movement.",
+    "1522": "Very close to the last known location and a logical immediate transit choice in Manhattan.",
+    "3989": "The user was last seen here, so a short-term revisit remains possible despite the broader return-home pattern.",
+    "4650": "Late-night food/errand behavior in the profile makes a diner stop a credible nearby option after evening activity.",
+    "2743": "Pharmacy/errand visits fit the user's practical night routine and this is close to the current area.",
+    "301": "A nearby late-night practical stop is possible, especially given the user's occasional grocery and errand pattern."
+  },
+  "fallback": false
+}

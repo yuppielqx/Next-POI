@@ -1,0 +1,28 @@
+{
+  "traj_id": "test_2616",
+  "ranked_loc_ids": [
+    5724,
+    1200,
+    3394,
+    116,
+    3004,
+    5676,
+    5726,
+    3817,
+    1509,
+    3949
+  ],
+  "explanations": {
+    "5724": "This is their dominant weekday morning origin, and the Thursday 9:02 commute timing strongly favors a return to this Queens transit node.",
+    "1200": "After an evening in Briarwood, the user may head to a nearby Jamaica transit hub as part of the Queens-to-Manhattan commute corridor.",
+    "3394": "The user regularly uses E/F-line stations in Queens, making this a plausible alternate morning boarding point.",
+    "116": "Their commuter profile and Queens anchor make Jamaica Station a realistic transit transfer location.",
+    "3004": "The current southeast movement and nearby Queens position make this a possible practical stop before commuting.",
+    "5676": "It is very close to the last location, so it could be a short nearby pickup or stop before leaving the area.",
+    "5726": "Since they were last seen here, a brief return or lingering stop remains possible, especially in the morning around breakfast time.",
+    "3817": "This fits their repeated morning Manhattan arrival pattern on the E/F route after leaving Queens.",
+    "1509": "The user frequently appears here in the morning commute window, so it is a strong repeat Manhattan destination.",
+    "3949": "This is another recurring northern Manhattan area in their history, though slightly less likely than East Harlem at this hour."
+  },
+  "fallback": false
+}
