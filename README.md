@@ -124,7 +124,7 @@ python evaluate_v2.py
 - **整体指标**：Hit@1、Hit@5、Hit@10、N@1、N@5、N@10、MRR
 - **分层指标**：按用户数据丰富程度、轨迹长度、目标时段分别统计
 
-结果保存至 `results/<dataset>/evaluation_results.json`。
+指标结果打印至 stdout，同时保存至本地 `results/<dataset>/evaluation_results.json`（不入仓库）。
 
 ```bash
 python evaluate_v2.py --dataset ca                          # 切换数据集
@@ -190,8 +190,7 @@ NextPOI/
 │   ├── predictions_v2/       # v2 预测结果
 │   └── pools_v2/             # v2 候选池缓存
 │
-└── results/<dataset>/
-    └── evaluation_results.json
+└── results/                  # 评估结果（本地生成，不入仓库）
 ```
 
 ---
