@@ -10,7 +10,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from src.config import DATASET_TAG, DATA_DIR, PREDICTIONS_CACHE_DIR
+from src.config import DATASET_TAG, DATA_DIR, EVALUATION_RESULTS, PREDICTIONS_CACHE_DIR, RESULTS_DIR
 from src.data_loader import DataLoader
 from src.evaluator import evaluate_and_save
 from src.profile_builder import load_all_profiles
@@ -29,6 +29,12 @@ def main():
         "--predictions-dir",
         default=None,
         help=f"Directory with prediction JSON files (default: {PREDICTIONS_CACHE_DIR})",
+    )
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=None,
+        help="Evaluate only the first N test trajectories (in dataset order). Default: all.",
     )
     args = parser.parse_args()
     logger.info(f"Active dataset: {DATASET_TAG} ({DATA_DIR})")
@@ -52,10 +58,23 @@ def main():
     data_loader = DataLoader()
     profiles = load_all_profiles()
 
+    # Optionally restrict to the first N test trajectories (dataset order, reproducible)
+    if args.limit is not None:
+        ordered = [t for t in data_loader.test_traj_ids if t in all_predictions][: args.limit]
+        all_predictions = {t: all_predictions[t] for t in ordered}
+        logger.info(f"Limiting evaluation to first {len(all_predictions)} trajectories (--limit {args.limit}).")
+
     all_ground_truths = data_loader.get_test_ground_truths()
     ground_truths = {tid: gt for tid, gt in all_ground_truths.items() if tid in all_predictions}
     logger.info(f"Evaluating {len(ground_truths)} trajectories (matched with predictions).")
-    results = evaluate_and_save(all_predictions, ground_truths, data_loader, profiles)
+    # Derive output path: if custom predictions dir, write to results/<dataset>/evaluation_results_<suffix>.json
+    limit_tag = f"_first{args.limit}" if args.limit is not None else ""
+    if args.predictions_dir:
+        suffix = Path(args.predictions_dir).name  # e.g. "predictions_v2_full_T40"
+        out_path = RESULTS_DIR / f"evaluation_results_{suffix}{limit_tag}.json"
+    else:
+        out_path = EVALUATION_RESULTS if not limit_tag else RESULTS_DIR / f"evaluation_results{limit_tag}.json"
+    results = evaluate_and_save(all_predictions, ground_truths, data_loader, profiles, output_path=out_path)
 
     # Print summary table
     overall = results.get("overall", {})

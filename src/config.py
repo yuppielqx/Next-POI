@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import os
 import sys
 from pathlib import Path
@@ -67,6 +69,8 @@ PROMPTS_REFINED_DIR = DATA_DIR / "prompts_refined"
 PROFILES_CACHE_DIR = CACHE_DIR / "profiles"
 SIMILARITY_CACHE = CACHE_DIR / "similarity.pkl"
 PREDICTIONS_CACHE_DIR = CACHE_DIR / "predictions"
+PREDICTIONS_V2_CACHE_DIR = CACHE_DIR / "predictions_v2"
+POOLS_V2_CACHE_DIR = CACHE_DIR / "pools_v2"
 TRANSITIONS_CACHE = CACHE_DIR / "transitions.pkl"
 EVALUATION_RESULTS = RESULTS_DIR / "evaluation_results.json"
 
@@ -116,3 +120,8 @@ MAX_CONTEXT_CHECKINS = 8
 
 # -- Evaluation ------------------------------------------------------------
 EVAL_K_VALUES = [1, 5, 10]
+
+# -- V2 Quota-based candidate selection -------------------------------------
+QUOTA_HISTORY = 27
+QUOTA_NEARBY = 3
+NEARBY_DIST_SCALE = 10.0

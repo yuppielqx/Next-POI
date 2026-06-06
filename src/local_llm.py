@@ -171,13 +171,13 @@ def chat_completion(
         normalized_messages = _normalize_messages(messages)
         if _is_openai_model(model):
             client = _get_openai_client()
-            response = client.responses.create(
+            response = client.chat.completions.create(
                 model=model,
-                input=normalized_messages,
-                max_output_tokens=max_new_tokens,
+                messages=normalized_messages,
+                max_tokens=max_new_tokens,
                 temperature=0,
             )
-            text = getattr(response, "output_text", None)
+            text = response.choices[0].message.content
             if text:
                 return text.strip()
             return None

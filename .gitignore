@@ -1,17 +1,48 @@
+# Secrets & config
 .env
 .claude/
 .codex
 
+# Python
 __pycache__/
 *.py[cod]
 
+# Generated data
 cache/
 models/
-
-results/snapshots/
-results/*.png
-results/*.jpg
-results/*.jpeg
-results/*.html
-
+results/
 datasets/
+
+# Baselines & third-party
+baseline/
+Spatio-Temporal-Hypergraph-Model/
+
+# Experiments & logs
+experiments/
+*.log
+
+# Figures & images (large binaries)
+*.pdf
+*.svg
+*.tiff
+*.png
+*.jpg
+*.jpeg
+images/
+plot-figures/
+
+# Shell scripts
+*.sh
+
+# Temp / planning
+build_case/
+image.png
+*plan*.md
+paper_positioning.md
+
+# V1 & analysis scripts (superseded)
+predict.py
+analyze_pool_recall.py
+compare_variant_efficiency.py
+plot_mrr_hr.py
+visualize_trip.py

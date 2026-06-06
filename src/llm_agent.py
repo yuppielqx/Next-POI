@@ -139,6 +139,7 @@ def _build_prompt(
     candidates: list[dict],
     target_checkin: dict | None,
     data_loader,
+    ablation: str = "full",
 ) -> str:
     n_candidates = len(candidates)
 
@@ -172,7 +173,10 @@ Use the exact names as given in the candidate list. Output ONLY the numbered lis
     candidate_section = f"""## Candidate Locations (select from these {n_candidates} options only)
 {_format_candidates(candidates)}"""
 
-    sections = [task_section, profile_section, context_section, target_section, similar_section]
+    sections = [task_section]
+    if ablation != "no_profile_rank":
+        sections.append(profile_section)
+    sections.extend([context_section, target_section, similar_section])
     if prior_section:
         sections.append(prior_section)
     sections.append(candidate_section)
@@ -242,6 +246,8 @@ def predict_next_poi(
     target_checkin: dict | None,
     data_loader,
     dry_run: bool = False,
+    ablation: str = "full",
+    **kwargs,
 ) -> dict:
     """
     Predict the next POI for a test trajectory.
@@ -252,7 +258,7 @@ def predict_next_poi(
     if not candidates:
         return {"traj_id": traj_id, "ranked_loc_ids": [], "fallback": True}
 
-    prompt = _build_prompt(user_profile, context, similar_users, candidates, target_checkin, data_loader)
+    prompt = _build_prompt(user_profile, context, similar_users, candidates, target_checkin, data_loader, ablation=ablation)
 
     if dry_run:
         return {"traj_id": traj_id, "prompt": prompt, "ranked_loc_ids": [], "fallback": False}

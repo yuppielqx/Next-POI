@@ -113,8 +113,9 @@ def evaluate_and_save(
     ground_truths: dict[str, int],
     data_loader=None,
     profiles: dict[str, dict] | None = None,
+    output_path: Path | None = None,
 ) -> dict:
-    """Run full evaluation and save to EVALUATION_RESULTS."""
+    """Run full evaluation and save results."""
     overall = compute_metrics(predictions, ground_truths)
     logger.info("=== Evaluation Results ===")
     for k, v in overall.items():
@@ -126,7 +127,8 @@ def evaluate_and_save(
         strata = compute_stratum_metrics(predictions, ground_truths, data_loader, profiles)
         result["by_stratum"] = strata
 
-    EVALUATION_RESULTS.parent.mkdir(parents=True, exist_ok=True)
-    save_json(EVALUATION_RESULTS, result)
-    logger.info(f"Results saved to {EVALUATION_RESULTS}")
+    out_path = output_path or EVALUATION_RESULTS
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    save_json(out_path, result)
+    logger.info(f"Results saved to {out_path}")
     return result

@@ -254,6 +254,8 @@ def _infer_destination_prior(
     similar_users: list[tuple[str, float]],
     target_checkin: dict | None,
     data_loader,
+    ablation: str = "full",
+    **kwargs,
 ) -> dict:
     trip_str = _format_trip_context(context, data_loader)
     patterns_str = _format_similar_patterns(similar_users, target_checkin, data_loader)
@@ -267,36 +269,34 @@ def _infer_destination_prior(
     target_time_str = _format_prediction_target(target_checkin)
     user_target_history = _format_user_time_conditioned_history(user_profile, target_checkin, data_loader)
 
-    prompt = f"""## User Profile
-{profile_text}
+    remove_profile = ablation in ("no_profile", "no_profile_intent", "no_priors")
 
-## Recent Trip (latest last)
-{trip_str}
-
-## Prediction Target Time Prior
-{target_time_str}
-
-## User's Historical Places Around This Target Time
-{user_target_history}
-
-## What Similar Users Did Around The Target Time (±30 min)
-{patterns_str}
-
-Based on this trajectory and the known target time, infer where the user is most likely to be at that moment.
-Return JSON with exactly these keys:
-- summary
-- revisit_probability
-- likely_area
-- likely_categories
-- likely_specific_places
-- movement_type
-- rationale
-
-Rules:
-- likely_categories and likely_specific_places must be arrays
-- likely_specific_places may contain exact venue names from the user's own history when appropriate
-- movement_type must be one of: return_to_last, return_to_frequent_place, nearby_new_place, long_distance_jump
-- Do not include markdown fences or extra text"""
+    prompt_parts = []
+    if not remove_profile:
+        prompt_parts.append(f"## User Profile\n{profile_text}")
+    prompt_parts.append(f"## Recent Trip (latest last)\n{trip_str}")
+    prompt_parts.append(f"## Prediction Target Time Prior\n{target_time_str}")
+    if not remove_profile:
+        prompt_parts.append(f"## User's Historical Places Around This Target Time\n{user_target_history}")
+    prompt_parts.append(f"## What Similar Users Did Around The Target Time (±30 min)\n{patterns_str}")
+    prompt_parts.append(
+        "Based on this trajectory and the known target time, infer where the user is most likely to be at that moment.\n"
+        "Return JSON with exactly these keys:\n"
+        "- summary\n"
+        "- revisit_probability\n"
+        "- likely_area\n"
+        "- likely_categories\n"
+        "- likely_specific_places\n"
+        "- movement_type\n"
+        "- rationale\n"
+        "\n"
+        "Rules:\n"
+        "- likely_categories and likely_specific_places must be arrays\n"
+        "- likely_specific_places may contain exact venue names from the user's own history when appropriate\n"
+        "- movement_type must be one of: return_to_last, return_to_frequent_place, nearby_new_place, long_distance_jump\n"
+        "- Do not include markdown fences or extra text"
+    )
+    prompt = "\n\n".join(prompt_parts)
 
     text = _llm_call(INTENT_LLM_MODEL, prompt, max_tokens=300, system=system)
     prior = _parse_destination_prior(text, user_profile)
